@@ -35,3 +35,10 @@ Akash is open-source Supercloud that lets users buy and sell computing resources
 https://twitter.com/gregosuri																						
 
 
+## 4. Bittensor	
+
+### Carro	
+
+Bittensor's vision for a decentralized AI company has captivated a large number of people in the arenas of Artificial Intelligence and computer science, who have yearned for an alternative to the top-down world being created by our current technology giants. However the promise of what Bittensor is and can be has been masked by large technical barriers to understanding, and thus has not been well digested by non-technical audiences.	
+
+https://twitter.com/0xcarro																						
