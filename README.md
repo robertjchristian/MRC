@@ -1,3 +1,7 @@
+
+![DAI-ecosystem](https://github.com/DecentralizeAI/MRC/assets/76454555/d4be1474-3046-4fc3-8803-a880038b78aa)
+
+
 # Building Decentralized AI
 
 December 9th 2023 the Decentralized AI communitty assembled from around the world in Ausitn, TX in order to begin contributing to this repository.
