@@ -74,5 +74,34 @@ https://twitter.com/communeaidotorg
 
 Dignity and purpose for 8 billion humans in an age of AI	
 
-https://twitter.com/davidorban	
-https://github.com/actioneerai																					
+https://twitter.com/davidorban																					
+https://github.com/actioneerai	
+
+## 10 OpenCog Hyperon
+
+The open-source software framework bringing together multiple AI paradigms in a cognitive architecture oriented toward AGI at the human level and be yond	
+
+https://twitter.com/OpenCog	
+https://github.com/opencog																					
+
+## 11. Hypercycle
+
+HyperCycle is building a tiny but essential component that enables AI Machines to transact with other AI machines in a sub-second finality which results in unprecedented emergence	
+
+https://twitter.com/hypercycle_ai																						
+
+## 12. The Lifted Initiative
+
+### Eric Bravick
+
+The Lifted Initiative is building a comprehensive web3 native cloud with a focus on easy to use tooling.  We've launched about 17 product and service groups to date into private Beta, including support of AI use cases.  We go publc in 2024 and we are currently seeking integrations with other AI focused networks.  We believe strongly in decentralization of networks (multi-network approaches) and will be embracing a wide array of partnerships rather than a "build it all on one chain" philosophy. 	
+
+https://twitter.com/ebravick
+
+## 13. Agora Labs	
+
+### Anish	
+
+Cloud-agnostic MLOps/LLMOps platform powered by cheap, decentralized compute.	
+
+https://twitter.com/agora_io																						
