@@ -59,10 +59,10 @@ EdgeLLama, and the associated set of products, which lead to a seamless AI consu
 
 https://twitter.com/varun_mathur		
 
-### 7. Nous Research		
+## 7. Nous Research		
 
 Nous Research is a private applied research group. We publish open-source work in the LLM domain, including local models, datasets, and core architectural improvements.																							
-### 8. Commune AI		
+## 8. Commune AI		
 
 Commune is a protocol that aims to connect all developer tools into one network, fostering a more shareable, reusable, and open economy. It follows an inclusive design philosophy that is based on being maximally unopinionated. This means that developers can leverage Commune as a versatile set of tools alongside their existing projects and have the freedom to incorporate additional tools that they find valuable.	
 
