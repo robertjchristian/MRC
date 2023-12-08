@@ -37,8 +37,24 @@ https://twitter.com/gregosuri
 
 ## 4. Bittensor	
 
-### Carro	
+### Carro	& Const
 
 Bittensor's vision for a decentralized AI company has captivated a large number of people in the arenas of Artificial Intelligence and computer science, who have yearned for an alternative to the top-down world being created by our current technology giants. However the promise of what Bittensor is and can be has been masked by large technical barriers to understanding, and thus has not been well digested by non-technical audiences.	
 
-https://twitter.com/0xcarro																						
+https://twitter.com/0xcarro				
+
+## 5. FreedomGPT	
+
+### John Arrow
+
+FreedomGPT 2.0 is your launchpad for AI. With our “App Store” for AI no technical knowledge is required to use the latest AI models in both a private and secure manner. For example, the Liberty model included in FreedomGPT will answer any question without censorship, judgment, or post output bias.	
+
+https://twitter.com/JohnDavidArrow																						
+
+## 6. EdgeLLama	
+
+### Varun Mathur	
+
+EdgeLLama, and the associated set of products, which lead to a seamless AI consumer-cloud will impose a similar abundant forcing function on AI as well. You can go ahead and cancel your $20/month Pro plans, because this next wave of AI, runs in your laptops, desktops and smartphones, and is good enough. 	
+
+https://twitter.com/varun_mathur																						
