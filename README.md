@@ -61,7 +61,10 @@ https://twitter.com/varun_mathur
 
 ## 7. Nous Research		
 
-Nous Research is a private applied research group. We publish open-source work in the LLM domain, including local models, datasets, and core architectural improvements.																							
+Nous Research is a private applied research group. We publish open-source work in the LLM domain, including local models, datasets, and core architectural improvements.	
+
+https://nousresearch.com/
+
 ## 8. Commune AI		
 
 Commune is a protocol that aims to connect all developer tools into one network, fostering a more shareable, reusable, and open economy. It follows an inclusive design philosophy that is based on being maximally unopinionated. This means that developers can leverage Commune as a versatile set of tools alongside their existing projects and have the freedom to incorporate additional tools that they find valuable.	
@@ -75,6 +78,7 @@ https://twitter.com/communeaidotorg
 Dignity and purpose for 8 billion humans in an age of AI	
 
 https://twitter.com/davidorban																					
+
 https://github.com/actioneerai	
 
 ## 10 OpenCog Hyperon
@@ -82,6 +86,7 @@ https://github.com/actioneerai
 The open-source software framework bringing together multiple AI paradigms in a cognitive architecture oriented toward AGI at the human level and be yond	
 
 https://twitter.com/OpenCog	
+
 https://github.com/opencog																					
 
 ## 11. Hypercycle
