@@ -28,7 +28,10 @@ https://twitter.com/DJohnstonEC
 
 Integrate AI models into your protocol, application or smart contract with a few lines of code.	
 
-https://twitter.com/niraj
+https://twitter.com/niraj<br>
+https://ritual.net<br>
+https://x.com/niraj<br>
+niraj@ritual.net
 
 ## 3. Akash Network	
 
