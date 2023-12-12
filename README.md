@@ -4,11 +4,13 @@
 
 # Building Decentralized AI
 
-On December 9, 2023 the Decentralized AI communitty assembled from around the world in Ausitn, TX in order to begin contributing to this repository.
+On December 9, 2023 the Decentralized AI communitty assembled from around the world at Kiretsu in Austin, Texas in order to begin contributing to this repository.
 
-The objectives are to define both the tech stack and the practical technical standards for collabortion within in the community.
+The objectives are to define
+    1. The tech stack 
+    2. Practical technical standards for collabortion within in the community
 
-Morpheus both encourages and will incentive developers who propose or impliment new standards or integrations between open source projects in DeAI.
+Morpheus encourages and will incentivize developers who propose or impliment new standards/integrations between open source projects in DeAI.
 
 Live Journal
 
@@ -27,90 +29,90 @@ https://twitter.com/DJohnstonEC
 
 Integrate AI models into your protocol, application or smart contract with a few lines of code.	
 
-https://twitter.com/niraj<br>
-https://ritual.net<br>
-https://x.com/niraj<br>
-niraj@ritual.net
+Described a global statistical computer.
+
+https://twitter.com/niraj<br>https://ritual.net<br>https://x.com/niraj<br>niraj@ritual.net
 
 ## Akash Network	
 ### Greg Osuri
 
-Akash is open-source Supercloud that lets users buy and sell computing resources securely and efficiently. Purpose-built for public utility.	
+Akash is open-source Supercloud that lets users buy and sell computing resources securely and efficiently. Purpose-built for public utility.
 
-https://twitter.com/gregosuri																						
+Greg's demo showcased the options avaiable on the network and the ability to spin up new services.
 
+https://akash.network
+https://twitter.com/gregosuri	
 
 ## Bittensor	
 ### Carro & Const
 
 Bittensor's vision for a decentralized AI company has captivated a large number of people in the arenas of Artificial Intelligence and computer science, who have yearned for an alternative to the top-down world being created by our current technology giants. However the promise of what Bittensor is and can be has been masked by large technical barriers to understanding, and thus has not been well digested by non-technical audiences.	
 
-https://twitter.com/0xcarro<br>
-https://bittensor.com/docs
+https://twitter.com/0xcarro<br>https://bittensor.com/docs
 
 ## FreedomGPT	
 ### John Arrow
 
-FreedomGPT 2.0 is your launchpad for AI. With our “App Store” for AI no technical knowledge is required to use the latest AI models in both a private and secure manner. For example, the Liberty model included in FreedomGPT will answer any question without censorship, judgment, or post output bias.	
+FreedomGPT 2.0 is a launchpad for AI with an “App Store” where no technical knowledge is required to use the latest AI models.
 
-https://twitter.com/JohnDavidArrow																						
+https://twitter.com/JohnDavidArrow
 
-## EdgeLLama	
-### Varun Mathur	
+## EdgeLLama
+### Varun Mathur
 
-EdgeLLama, and the associated set of products, which lead to a seamless AI consumer-cloud will impose a similar abundant forcing function on AI as well. You can go ahead and cancel your $20/month Pro plans, because this next wave of AI, runs in your laptops, desktops and smartphones, and is good enough. 	
+EdgeLLama, and the associated set of products, which lead to a seamless AI consumer-cloud will impose a similar abundant forcing function on AI as well. You can go ahead and cancel your $20/month Pro plans, because this next wave of AI, runs in your laptops, desktops and smartphones, and is good enough. 
 
-https://twitter.com/varun_mathur		
+https://twitter.com/varun_mathur<br>https://hyperspace.computer/<br>
 
 
-## Nous Research		
+## Nous Research
 
-Nous Research is a private applied research group. We publish open-source work in the LLM domain, including local models, datasets, and core architectural improvements.	
+Nous Research is a private applied research group. We publish open-source work in the LLM domain, including local models, datasets, and core architectural improvements.
 
-https://nousresearch.com/
+Thge demo included a walkthrough of the Nous software.  It showed the ability to build AI via drag and drop.  Am explanation of their reseatrch described YaRN, Hermes, Obsidian, and Capybara.
 
-## Commune AI		
+https://nousresearch.com/<br>https://huggingface.co/NousResearch<br>https://discord.gg/jqVphNsB4H
 
-Commune is a protocol that aims to connect all developer tools into one network, fostering a more shareable, reusable, and open economy. It follows an inclusive design philosophy that is based on being maximally unopinionated. This means that developers can leverage Commune as a versatile set of tools alongside their existing projects and have the freedom to incorporate additional tools that they find valuable.	
+## Commune AI
+
+Commune is a protocol that aims to connect all developer tools into one network, fostering a more shareable, reusable, and open economy. It follows an inclusive design philosophy that is based on being maximally unopinionated. This means that developers can leverage Commune as a versatile set of tools alongside their existing projects and have the freedom to incorporate additional tools that they find valuable.
 
 https://twitter.com/communeaidotorg
 
-## Actioneer	
+## Actioneer
 
 ### David Orban	
 
-Dignity and purpose for 8 billion humans in an age of AI	
+Dignity and purpose for 8 billion humans in an age of AI
 
-https://twitter.com/davidorban																					
-
+https://twitter.com/davidorban
 https://github.com/actioneerai	
 
 ## OpenCog Hyperon
 
-The open-source software framework bringing together multiple AI paradigms in a cognitive architecture oriented toward AGI at the human level and be yond	
+The open-source software framework bringing together multiple AI paradigms in a cognitive architecture oriented toward AGI at the human level and be yond
 
 https://twitter.com/OpenCog	
-
-https://github.com/opencog																					
+https://github.com/opencog
 
 ## Hypercycle
 
-HyperCycle is building a tiny but essential component that enables AI Machines to transact with other AI machines in a sub-second finality which results in unprecedented emergence	
+HyperCycle is building a tiny but essential component that enables AI Machines to transact with other AI machines in a sub-second finality which results in unprecedented emergence.
 
-https://twitter.com/hypercycle_ai																						
+https://twitter.com/hypercycle_ai
 
 ## The Lifted Initiative
 
 ### Eric Bravick
 
-The Lifted Initiative is building a comprehensive web3 native cloud with a focus on easy to use tooling.  We've launched about 17 product and service groups to date into private Beta, including support of AI use cases.  We go publc in 2024 and we are currently seeking integrations with other AI focused networks.  We believe strongly in decentralization of networks (multi-network approaches) and will be embracing a wide array of partnerships rather than a "build it all on one chain" philosophy. 	
+The Lifted Initiative is building a comprehensive web3 native cloud with a focus on easy to use tooling.  We've launched about 17 product and service groups to date into private Beta, including support of AI use cases.  We go publc in 2024 and we are currently seeking integrations with other AI focused networks.  We believe strongly in decentralization of networks (multi-network approaches) and will be embracing a wide array of partnerships rather than a "build it all on one chain" philosophy.
 
 https://twitter.com/ebravick
 
-## Agora Labs	
+## Agora Labs
 
-### Anish	
+### Anish
 
 Cloud-agnostic MLOps/LLMOps platform powered by cheap, decentralized compute.	
 
-https://twitter.com/agora_io																						
+https://twitter.com/agora_io
