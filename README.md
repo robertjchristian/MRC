@@ -46,7 +46,7 @@ https://twitter.com/gregosuri
 ## Bittensor	
 ### Carro & Const
 
-Bittensor's vision for a decentralized AI company has captivated a large number of people in the arenas of Artificial Intelligence and computer science, who have yearned for an alternative to the top-down world being created by our current technology giants. However the promise of what Bittensor is and can be has been masked by large technical barriers to understanding, and thus has not been well digested by non-technical audiences.	
+Bittensor's vision for a decentralized AI company has captivated a large number of people in the arenas of Artificial Intelligence and computer science, who have yearned for an alternative to the top-down world being created by our current technology giants. However the promise of what Bittensor is and can be has been masked by large technical barriers to understanding, and thus has not been well digested by non-technical audiences.
 
 https://twitter.com/0xcarro<br>https://bittensor.com/docs
 
@@ -73,6 +73,23 @@ Thge demo included a walkthrough of the Nous software.  It showed the ability to
 
 https://nousresearch.com/<br>https://huggingface.co/NousResearch<br>https://discord.gg/jqVphNsB4H
 
+## io.net
+### Angela Yi
+
+io.net is a state-of-the-art decentralized computing network that allows machine learning engineers to access distributed Cloud clusters at a small fraction of the cost of comparable centralized services.
+
+io.net deploys GPU clusters from multiple locations that are not constrained by colocated devices. The platform supports clusters of any scale, allowing engineers to deploy a 20K GPU cluster within seconds.
+
+io.net has 3 key elements: 
+    1. IO Cloud, where engineers can seamlessly deploy their GPU clusters.
+    2. IO Workers, where suppliers can connect their devices, monitor their performance, and keep track of their earnings and rewards.
+    3. IO Explorer, where we provide transparent, real-time information on pricing, as well as devices and clusters, and inferences powered through our network.
+
+https://io.net/
+https://discord.gg/65y7Kma4
+https://t.me/ionet_official
+
+
 ## Commune AI
 
 Commune is a protocol that aims to connect all developer tools into one network, fostering a more shareable, reusable, and open economy. It follows an inclusive design philosophy that is based on being maximally unopinionated. This means that developers can leverage Commune as a versatile set of tools alongside their existing projects and have the freedom to incorporate additional tools that they find valuable.
@@ -80,7 +97,6 @@ Commune is a protocol that aims to connect all developer tools into one network,
 https://twitter.com/communeaidotorg
 
 ## Actioneer
-
 ### David Orban	
 
 Dignity and purpose for 8 billion humans in an age of AI
