@@ -197,29 +197,165 @@ Greg's demo showcased the options available on the network and the ability to sp
 <https://akash.network>
 <https://twitter.com/gregosuri>
 
-## Agora Labs
+**Key points**
+- GPUs are hard to get on demand
+github.com/akash-network/community
 
-### Anish
+- console.akash.network/analytics
+
+- e.g. 1k/mo H100
+https://pixart-alpha.github.io/
+
+- ray compatible
+
+- a100 utilization 95%
+
+- $300m incentives coming online next year
+
+## Agora Labs - Anish
 
 Cloud-agnostic MLOps/LLMOps platform powered by cheap, decentralized compute.
 
 <https://twitter.com/agora_io>
 
-## Bittensor
+### render network
 
-### Carro & Const
+**Key points**
+- OG in crypto space
+- pioneered first use case for GPUs
+- process of rendering is converting 3d model into pixels
+- takes a lot of compute power
+- used to take a day
+- goal to provide fast, affordable rendering
+- 25M frames rendered on network to date
+- waitlist of GPUs over a million long
 
-Bittensor's vision for a decentralized AI company has captivated a large number of people in the arenas of Artificial Intelligence and computer science, who have yearned for an alternative to the top-down world being created by our current technology giants. However the promise of what Bittensor is and can be has been masked by large technical barriers to understanding, and thus has not been well digested by non-technical audiences.
+@drjonessf
 
-<https://twitter.com/0xcarro><br><https://bittensor.com/docs>
+BitTensor
 
-## FreedomGPT
+- Beff Jezos' Thermodynamic computer
 
-### John Arrow
+- AHaH Controller
+	- a trillion synapses per clock cycle
+	- energy based not transistor based
 
-FreedomGPT 2.0 is a launchpad for AI with an “App Store” where no technical knowledge is required to use the latest AI models.
+- Instead of loss landscapes, lowering error
+	- Let’s build incentive landscapes, get more profit
+	- Pay them not for adapting weights but all sorts of things
 
-<https://twitter.com/JohnDavidArrow>
+- Lower error on neural network
+- Faster inference
+- better gradients
+- more information
+
+- get paid for having GA lower loss
+- sucking up compute and innovation
+- passed OpenAI’s loss on GPT2 (trained in 2016)
+- 31.39 vs 34.9 perplexity
+
+bittensor.com/docs
+https://docs.bittensor.com/
+
+FreedomGPT
+
+- SmarterChild: conversational AI
+- robot you could talk to on AOL IM when no one was there
+	- pretty dumb
+	- step above a Liza
+	- you could make your own, have it talk to other people, look at conversations
+	- sometimes it would say “i’m not going to answer that”
+	- chilling effect
+	- happening again now
+
+- sold mutual mobile a year ago
+- 400 person a year go making dgitial products for f1000
+- did a lot with AI
+- sold it, started playing with ChatGPT about a year ago
+- had birthday party for chatgpt last week
+- a year ago decided to create FreedomGPT
+- app store for AI
+- first model: trying to get to parity of ChatGPT using Luna, 3d gradient descent
+- model would answer anything
+- 2 million people trying it out
+
+- as capability increase, censorship and prohibition increase
+
+- as capability increases, privacy and liberty decreases don’t use it if you’re not sure things will remain private
+
+- they will make it illegal to access under penalty of death (treason)
+
+- midjourney bans Xi, Jinping
+
+--------
+
+- technology is what allows freedom to exist
+- belief: freedom is assured by documents
+- reality” freedom assured by access to sufficiently advanced knowledge & technology over  
+- those wanting ot take your freedom away
+
+- these are munitions we need them otherwise they will be used against us and they already are
+
+- fall of Constantinople by ottoman empire - gunpowder
+
+- Gutenberg printing press caused nation to fall and US became independent
+
+- war of 1812, attacked library of congress where books were
+
+- those that start by burning books, will end by burning men heinrich heine
+
+- how much more powerful is AI than books? 10x?1000x?
+
+- thought experiment
+	- imagine an AI that people star tto trust nearly 100% of the time
+
+	- the problem isn’t if AI says something incorrect it’s as if AI starts saying too many correct things
+
+	- e.g. “ted cdruz is zodiac killer”
+   
+- our predictions
+	- ai public/private censorship timeline
+
+	- 18 months (may 2025) accessing many AIs in the US will be on par with 		
+- pharmaceutical RXs (if you can prove you need it, you can access)
+	- 24 months, powerful AIs will require a process similar to obtaining a firearm with background checks and waiting periods. 
+	- misuse will result in permanent revocation. numerous AIs will be banned from being indexed in search engine or even mentioned by the AIs that re deemed “publicly safe”
+
+- Within 36 months, access to most powerful AIs will be restricted
+
+- decentralizing freedom of compute because there is no other option
+
+- freedom != free
+- open sourced project reached #3 ranking on github
+- over 700k installs of free desktop app
+- cloud version generates $1k daily revenue
+- banned from multiple hosting providers
+- cease and desist from twitter/x and other
+- prohibited from being discussed on facebook/meta properties
+- +40 multimodal AI models with plans for 4k in 2023
+- tons of hate mail and threats to get us shut down
+
+- shortly after launching TwitterGPT, got banned (after elon acquisition)
+now back on twitter
+
+- team background
+	- created products currently used by over a billion monthly users
+	- collectively hired over 1k engineers/designers/PMs since founding mutual mobile
+	- built +250MM in digital products for companies like google nike, and dozens of banks
+	- built dozens of ML/predictive analytics solutions
+
+- 2 groups of users
+	- ~3k paid
+	-  ~400k free
+
+- plan is to start paying those nodes
+- been cancelled from multiple web hosts
+- one is now allowing us
+- matter of time before they pull the plug
+
+- freedomgpt-git-edge-node-ageofaicapital-s-team.vercel.app
+- https://edge.freedomgpt.com/?ref=node-signup
+- earn $30/day running inference
 
 ## EdgeLLama
 
@@ -229,21 +365,56 @@ EdgeLLama, and the associated set of products, which lead to a seamless AI consu
 
 <https://twitter.com/varun_mathur><br><https://hyperspace.computer/><br>
 
-## Nous Research
 
+## Nous Research
+Self-Improving AI 
 Nous Research is a private applied research group. We publish open-source work in the LLM domain, including local models, datasets, and core architectural improvements.
 
 The demo included a walkthrough of the Nous software.  It showed the ability to build AI via drag and drop.  Am explanation of their research described YaRN, Hermes, Obsidian, and Capybara.
 
+**Key points**
+
+- Started three years ago
+- four founders crypto people who found AI in different ways
+- “fuck openAI” brought them together
+- what can we do to open up again
+- not negative, pushing against them
+- provide a space for more humanistic AI
+- 6 full time contributors
+- 48 volunteer AI researchers
+- thousands of contributors
+
+- open source modles
+	- OpenHermes 2.5
+		- top used 7b
+	- capybara
+		- 34b amplify-instruct
+	- obsidian
+	- stablelm + openclip + capybara
+
+- open research
+- yarn
+- muse: generative CoT reward model
+- vulcan: chatML extension
+- SYNTHIA
+
+- Nous Forge
+	- desktop app for interfacing with and composing open source and other AI models
+- Obsidian multi-modal model
+	- focussed on edge devices
+
+
+
+most robust agents are breaking after 5 runs
+
+
 <https://nousresearch.com/><br><https://huggingface.co/NousResearch><br><https://discord.gg/jqVphNsB4H>
 
-## io.net
+## io.net - Angela Yi
 
-### Angela Yi
+- io.net is a state-of-the-art decentralized computing network that allows machine learning engineers to access distributed Cloud clusters at a small fraction of the cost of comparable centralized services.
 
-io.net is a state-of-the-art decentralized computing network that allows machine learning engineers to access distributed Cloud clusters at a small fraction of the cost of comparable centralized services.
-
-io.net deploys GPU clusters from multiple locations that are not constrained by colocated devices. The platform supports clusters of any scale, allowing engineers to deploy a 20K GPU cluster within seconds.
+- io.net deploys GPU clusters from multiple locations that are not constrained by colocated devices. The platform supports clusters of any scale, allowing engineers to deploy a 20K GPU cluster within seconds.
 
 io.net has 3 key elements:
     1. IO Cloud, where engineers can seamlessly deploy their GPU clusters.
@@ -260,9 +431,86 @@ Commune is a protocol that aims to connect all developer tools into one network,
 
 <https://twitter.com/communeaidotorg>
 
-## Actioneer
+### Upshot - Nick Evans
 
-### David Orban
+- Upshot: AI Network optimzied for financial applications
+- powered by proof opf alpha protocol
+- reward people by how useful for financial markets
+
+- why focus on financial pplications?
+	- build tools that can enable creation fo financial markets for anything
+	- riskless society
+	- efficient enough markest that every risk can be hedged
+	- cryp is olargely financial innovation
+	- financialization has been one of main usec ases
+	- more conducive for trustless/verifiable form factors
+
+- bacgkground
+	- upshot one: peer prediction protocol for incentivizing honest responses to subjective questions
+	- DMI Mcehanism:
+	- dominantly truthful: truth tellling is dominant strategy
+	- informed ftruthful: truth telling is  stricftly better than uinformative strategies
+	- detail free: does not require prior knowledge to be inputted by mechanism designer
+	- constant: only a constant number of questions and agents are required for it to be both dominantly truthful and informed-truthful
+
+- findings
+	- peer prediction doe simprove truth teslling incentives
+	- network of human eactors lacks accuracy and scalability
+
+- Upshot AI x Crypto Tooling
+	- AI infrastructure for price predictions, network analyses, yield strategies, etc.
+	- 2-5% MAPE (mean absolute percentage error)
+	- 394m assets supported
+	- <5 min update cadence
+- findings
+	- validated hypothesis around demand for AI x crypto systems
+	- single entity creating models introduces scalability constraints and security rsisk
+
+- solution
+	- combine peer prediction protocol and AI x Crypto infra to build decentralized AI network optimized for financial applications
+
+Upshot:
+	- alpha miners establish contractual agreements on chain with dat providers
+	- results in rev sharing from alpha minor work
+	- share predictions with each other regularly
+	- score each other’s predictions, leveraging peer prediction mechanism
+	- incentivize them to share evaluations honestly
+
+- big graph broken by topics
+	- topic is defined by objective that is being collaoratively solved
+	- output: mmeta model
+	- data providers establish edges with alpha providers
+	- alpha minors share predictions with each other, score predictions, scores aggregated, rewards distributed based on proof of alpha
+
+- zkPredictor
+	- alpha minors can pass around proofs verifying output of their work is result of underlying model they’re advertising
+	- ensures tamper proof models
+	- zkSNARK proof system optimized for tree-based models
+	- verifies output of initial models on upshot network approaching 10k predictions per hour
+
+Robonet:
+- fist application that builds on Upshot and zkPredictor
+- DeFi vaults with AI-Powered Yield Strategies
+- smart contracts are limited compute environments
+- AI is better at making sense of large amounts of data
+
+	1. users deposit capital into robonet vaults.
+	2. 2 strategies are instantiated as “optics” on upshot network
+	3. upshot
+	4. fees are shared between upshot peers contributing to the strategies and capital providers
+
+- people who have unique insights no longer need capital or structure to profit off insights
+
+- benefits
+	- more diverse, expressive strategies
+	- support for more long tail categories
+	- cryptographically verified models
+	- potential for much higher yield
+
+http://upshot.xyz
+
+
+## Actioneer - David Orban
 
 Dignity and purpose for 8 billion humans in an age of AI
 
@@ -290,4 +538,28 @@ The Lifted Initiative is building a comprehensive web3 native cloud with a focus
 
 <https://twitter.com/ebravick>
 
+##Pannel Discussion
+#### Ryan @ Modulus Labs
+- previously AI research at Stanford
+- worked in tech finance stuff
+- decentralization promise and power of AI was so cool
+- modulus is leading company crafting zero knowledge proofs for ML inference
 
+#### Ben @ Gensyn
+- machine learning compute protocol
+- provide ability for anyone with ML capable compute device to offer that device to anyone in the world to train AI model
+- pure hardware incentives
+- previously ML researcher
+
+#### Casey
+- ML work at google as engineer
+- partner at Paradigm
+
+- most important now?
+- smart contracts can’t harness power of AI
+- missing key functionality that web2 has which is power of AI
+- bc AI models are huge
+- billions of parameters, gigaflops to teraflops of compute to perform
+- gas cost on L2s cost 10s of thousands to millions to run single inference in trustless manner
+- zero knowledge proof
+- proof cf correct computation
