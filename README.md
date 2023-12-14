@@ -3,13 +3,13 @@
 
 # Building Decentralized AI
 
-On December 9, 2023 the Decentralized AI communitty assembled from around the world at Kiretsu in Austin, Texas in order to begin contributing to this repository.
+On December 9, 2023 the Decentralized AI community assembled from around the world at Kiretsu in Austin, Texas in order to begin contributing to this repository.
 
 The objectives are to define
     1. The tech stack
-    2. Practical technical standards for collabortion within in the community
+    2. Practical technical standards for collaboration within in the community
 
-Morpheus encourages and will incentivize developers who propose or impliment new standards/integrations between open source projects in DeAI.
+Morpheus encourages and will incentivize developers who propose or implement new standards/integrations between open source projects in DeAI.
 
 Live Journal
 
@@ -25,38 +25,38 @@ Morpheus is designed to incentivize the first peer-to-peer network of personal A
 - EO signed on October 31st
 - Limits number of parameters models can have
         - limit for permissionless models at 10B parametrs and only 20gigs
-         - kyc for data centers
+         - KYC for data centers
 - Only an 8 month timeline to build open source tech stack
 
-- permissionless building is the heart of what we’re tryign to do
+- permissionless building is the heart of what we’re trying to do
 
 - Phil Zimmerman is the patron saint of decentralized AI
         - In 1991, a bill was introduced to ban encryption for email, so Phil introduced PGP, because privacy is a human right
         - He printed his work on a t shirt and was arrested for disclosing the RSA algorithm.
-        - Won in supreme court based on free speech grounds, who regoznied that code and speech were protected
+        - Won in supreme court based on free speech grounds, who recognized that code and speech were protected
 - This is why your email can legally be have private
-- A few weeks ago in SF the Keep AI OPpen event was announced and within 48 hours >700 peopel showed up at the end of OpenAI's dev day
-- Marc Andressen is constantly posting memes for decentralized AI
-  - the righ tot bear compute
+- A few weeks ago in SF the Keep AI Open event was announced and within 48 hours >700 people showed up at the end of OpenAI's dev day
+- Marc Andreessen is constantly posting memes for decentralized AI
+  - the right tot bear compute
   - come and take it
 - Balaji Tweet:
     "free internet means free AI
-    we will fight government control over compute wiht weverything we have"
-- Morpheus is decentralized open source AI, and the tech stack for decntralized AI
-  - anonymous group dropped paper in september
+    we will fight government control over compute with everything we have"
+- Morpheus is decentralized open source AI, and the tech stack for decentralized AI
+  - anonymous group dropped paper in September
   - within 45 days community had built implementation
   - live now can run on computer locally
   - fully open source LLM running on your data
   - MOR smart contracts entering testnet today
 - We want this to continue beyond today
   - join discord
-  - channel for every project os people can follow up wiht questions
-  - engage with everyoen building models, fine tuning, agents, every part of tech stack
+  - channel for every project os people can follow up with questions
+  - engage with everyone building models, fine tuning, agents, every part of tech stack
 - The goal is 1 billion users for decentralized AI
-  - AI is the opportunity to get a billion people into crypto by removing techhnical barriers to access web3
+  - AI is the opportunity to get a billion people into crypto by removing technical barriers to access web3
   - With AI, we build off the expressed intent,
-  - On Morpheus, it knows what smart contracts are avilable
-- The AI community: needs censorship resistant compute andtools to monetize agents
+  - On Morpheus, it knows what smart contracts are available
+- The AI community: needs censorship resistant compute and tools to monetize agents
 
 ## Anna Zazlauskas - Vana
 
@@ -65,59 +65,59 @@ Vana: Own your data
 ***Key points***
 
 - data ownership
-- goal: worl where users own data nad value it creates
+- goal: world where users own data and value it creates
 - initial belief: token incentives enable large scale RLHF and data labelling
   - people who want to sell data do so out of desperation
   - not the best dataset
   - uphill fraud battle
   - people constantly finding ways to sell bad data
-  - people who want to selld ata for financial reward adre not representative
+  - people who want to sell data for financial reward are not representative
   - mostly doing out of financial desperation
   - users choose products that align with ideologies, value privacy and agency
 - Reality:
-  - users choose whatever is most convenient or capable. prviacy/security are afterthoughts.
+  - users choose whatever is most convenient or capable. privacy/security are afterthoughts.
   - slacktivism
 
-- initial bleief: data ownership legislation like gdpr and ccpa will help.
+- initial belief: data ownership legislation like GDPR and CCP will help.
   - regulation favors consumers.
-- learning: even if users have a legal right ot data, it is inconvenitn to access. users have to be very motivated.
+- learning: even if users have a legal right ot data, it is inconvenient to access. users have to be very motivated.
   - regulation favors incumbent.
 
-- you can ask for your labels on instagtram
+- you can ask for your labels on instagram
 
 - On Vana:
-  - make a personal data tangible thorugh a personalized ai model
-  - bring your jodel wiht you throughotu internet
-  - users host their own noedes or opt for a convenient hosted option
+  - make a personal data tangible through a personalized ai model
+  - bring your model with you throughout internet
+  - users host their own nodes or opt for a convenient hosted option
   - private data stays on user's node, while third party apps run inference.
-  - granular permissions so you can let peopl access yoru data or models.
+  - granular permissions so you can let people access your data or models.
 
 - Modalities:
   - image: train lora based on 10 photos of yourself
-  - text: personality + memory stream foom your social data and messages
+  - text: personality + memory stream from your social data and messages
   - audio( hosted) based on 1min of your voice
   - best audio models are closed source (?)
 
 - memory architecture
-  - query memroies based on relevance, important, and recency
-  - summarize relevant memorise to fit in context window
+  - query memories based on relevance, important, and recency
+  - summarize relevant memories to fit in context window
   - for more, read Generative Agents: Interactive Simulacra of Human Behavior
 
-- bootstrapped network by building viral consumer applicaitons in house
+- bootstrapped network by building viral consumer applications in house
   - 1.2M users
   - 700k private models trained
   - 10M personal data points
 
 - collective models
   - users contribute data to models they collectively own and govern
-  - users decid who can access the model, how much to charge, how i tcan be used
-  - each collective has its own node, similar ot a user’s node
+  - users decide who can access the model, how much to charge, how it can be used
+  - each collective has its own node, similar to a user’s node
 
 - host your own vana node
-  - cponnect yoru social data, journal entries, messages, other personal data iwth an allm that deeply undersatnd you
+  - connect your social data, journal entries, messages, other personal data with an ally that deeply understand you
   - everything stays on yoru machine
   - can open up an endpoint to use it throughout apps
-  - reach out ot <anna@vana.com> to try this out
+  - reach out to <anna@vana.com> to try this out
 
 ## Ritual - Niraj
 
@@ -132,9 +132,9 @@ __Key Points:__
     - decentralized intelligence improving
 
 *problems of AI today:*
-- infrastrucure highly centralized
+- infrastructure highly centralized
     - model storage
-    - model governance and ownerhsip (e.g. OAI fiasco)
+    - model governance and ownership (e.g. OAI fiasco)
     - model compute (training, inference, fine tuning, etc)
     - access to training data
 - ai infra is highly permissioned
@@ -143,47 +143,47 @@ __Key Points:__
     - no privacy/computational integrity censorship resistance
     - most OSS models are highly red-teamed/censored
     - many geographical limitations
-- AI infra isincreasingly reuglated
-    - ai incumbents and voernments attempting strong reuglatory capture
+- AI infra is increasingly regulated
+    - ai incumbents and governments attempting strong regulatory capture
     - “we know what’s in your best interests”
 
 - future impact
-    - as AI gets inserted into every tech product, new ofrms of censorship/manipulationw ill take place
+    - as AI gets inserted into every tech product, new forms of censorship/manipulation ill take place
     - LLMs and other foundation models create highly engaging forms of propaganda (e.g. 2024 US election media)
     - political ideology weaponized by who controls distribution and access to models
     - open and transparent governance of AI models is key
-    - “who contorls models controls the wrold”
+    - “who controls models controls the world”
 
 *AI x Crypto to the rescue*
-- AI is highly cenralziing tech
+- AI is highly centralizing tech
 - crypto is highly decentralizing tech
-- combining both solves aforementioned probelms
-- trustlesness + intelligence = ???won’t be evil -> can’t b eevil
+- combining both solves aforementioned problems
+- trustlessness + intelligence = ???won’t be evil -> can’t b evil
 - if we’ve decentralized money, music, property records, etc, why not AI?
 
 At Ritual:
-- how od we get AI into hands of crypto dvs today
-- combine best of ai and crypto to make it easy for devs to build crypto x ai prodcuts
+- how do we get AI into hands of crypto devs today
+- combine best of ai and crypto to make it easy for devs to build crypto x ai products
 - model specific computational integrity (opML and zkmlO
 - privacy (FHE for classical ML models, MPC for foundation models)
-- ritula AI VM with stateful precompiles for various model operations (inference, FT, quantization, embeddings)
+- ritual AI VM with stateful precompiles for various model operations (inference, FT, quantization, embeddings)
 - supports Ethereum base chain and rollups, alt L1 support coming in 2024
 
 - tech pillars
-    - censorship resistance and decntralization
+    - censorship resistance and decentralization
     - privacy
     - computational integrity
     - incentives
 
 - infernet: network for inference
-    - take smart contract, plug inot model
+    - take smart contract, plug into model
     - allows you to customize infra
     - set up nodes yourself, run inference for your products
 
 - frenrug
-    - on-chain smart agent that buys and sells friend.tech keys if you can gconvince it
-    - built on infernet sdk
-    - infernet llm nodes generate responses, feeds into on-chain classifier (with ezkl proof)github.com/frenrug/contracts
+    - on-chain smart agent that buys and sells friend.tech keys if you can convince it
+    - built on internet SDKs
+    - internet llm nodes generate responses, feeds into on-chain classifier (with ezkl proof)github.com/frenrug/contracts
     - frenrug.com
 
 <https://twitter.com/niraj><br><https://ritual.net><br><https://x.com/niraj><br><niraj@ritual.net>
@@ -192,7 +192,7 @@ At Ritual:
 
 Akash is open-source Supercloud that lets users buy and sell computing resources securely and efficiently. Purpose-built for public utility.
 
-Greg's demo showcased the options avaiable on the network and the ability to spin up new services.
+Greg's demo showcased the options available on the network and the ability to spin up new services.
 
 <https://akash.network>
 <https://twitter.com/gregosuri>
@@ -233,7 +233,7 @@ EdgeLLama, and the associated set of products, which lead to a seamless AI consu
 
 Nous Research is a private applied research group. We publish open-source work in the LLM domain, including local models, datasets, and core architectural improvements.
 
-Thge demo included a walkthrough of the Nous software.  It showed the ability to build AI via drag and drop.  Am explanation of their reseatrch described YaRN, Hermes, Obsidian, and Capybara.
+The demo included a walkthrough of the Nous software.  It showed the ability to build AI via drag and drop.  Am explanation of their research described YaRN, Hermes, Obsidian, and Capybara.
 
 <https://nousresearch.com/><br><https://huggingface.co/NousResearch><br><https://discord.gg/jqVphNsB4H>
 
@@ -271,7 +271,7 @@ Dignity and purpose for 8 billion humans in an age of AI
 
 ## OpenCog Hyperon
 
-The open-source software framework bringing together multiple AI paradigms in a cognitive architecture oriented toward AGI at the human level and be yond
+The open-source software framework bringing together multiple AI paradigms in a cognitive architecture oriented toward AGI at the human level and beyond
 
 <https://twitter.com/OpenCog>
 <https://github.com/opencog>
@@ -286,6 +286,8 @@ HyperCycle is building a tiny but essential component that enables AI Machines t
 
 ### Eric Bravick
 
-The Lifted Initiative is building a comprehensive web3 native cloud with a focus on easy to use tooling.  We've launched about 17 product and service groups to date into private Beta, including support of AI use cases.  We go publc in 2024 and we are currently seeking integrations with other AI focused networks.  We believe strongly in decentralization of networks (multi-network approaches) and will be embracing a wide array of partnerships rather than a "build it all on one chain" philosophy.
+The Lifted Initiative is building a comprehensive web3 native cloud with a focus on easy to use tooling.  We've launched about 17 product and service groups to date into private Beta, including support of AI use cases.  We go public in 2024 and we are currently seeking integrations with other AI focused networks.  We believe strongly in decentralization of networks (multi-network approaches) and will be embracing a wide array of partnerships rather than a "build it all on one chain" philosophy.
 
 <https://twitter.com/ebravick>
+
+
