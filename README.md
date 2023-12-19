@@ -6,8 +6,8 @@
 On December 9, 2023 the Decentralized AI community assembled from around the world at Kiretsu in Austin, Texas in order to begin contributing to this repository.
 
 The objectives are to define:
-    - 1. The tech stack for Decentralized AI
-    - 2. Practical technical standards for collaboration within in the community.
+- 1. The tech stack for Decentralized AI
+- 2. Practical technical standards for collaboration within in the community.
 
 Morpheus encourages and will incentivize developers who propose or implement new standards/integrations between open source projects in DeAI.
 
