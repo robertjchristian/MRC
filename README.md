@@ -14,10 +14,11 @@ Morpheus encourages and will incentivize developers who propose or implement new
 Live Journal
 
 ## Morpheus - David A. Johnston
+- Website: <https://mor.org/> 
+- Github: <https://github.com/MorpheusAIs/Morpheus>
+- David's X Profile: <https://twitter.com/DJohnstonEC>
 
 Morpheus is designed to incentivize the first peer-to-peer network of personal AIs, known as Smart Agents. Providing users open-source Smart Agents to connect to their wallets, Dapps, & smart contracts promises to open the world of Web3 to everyone.
-
-<https://twitter.com/DJohnstonEC>
 
 **Key points:**
 
