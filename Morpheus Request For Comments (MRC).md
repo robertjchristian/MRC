@@ -3,9 +3,11 @@ List of proposals extending Decentralized AI. Similar to the function of the ERC
 
 ## List of MRCs:
 - MRC 00001: Smart Agents White Paper.
+
 Link: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/White%20Paper.md
 
 - MRC 00002: Smart Agenets Yellow Paper.
+
 Link: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/YellowPaper.md
 
 - MRC 00003: Morpheus White Paper.
