@@ -7,7 +7,7 @@ List of proposals extending Decentralized AI. Similar to the function of the ERC
 - Status: **Adopted** by the Morpheus anon authors as the basis for Morpheus Network.
 - Link: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/White%20Paper.md
 
-## MRC 01: Smart Agenets Yellow Paper.
+## MRC 01: Smart Agents Yellow Paper.
 - Status: **Adopted** by the Morpheus anon authors as the basis for Morpheus Network.
 - Link: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/YellowPaper.md
 
