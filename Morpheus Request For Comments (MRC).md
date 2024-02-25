@@ -23,15 +23,19 @@ List of proposals extending Decentralized AI. Similar to the function of the ERC
 - Status: **In Progress**, Being implimented as the Decentralized Router for the launch of Compute rewards post bootstrapping period.
 - Link: https://github.com/MorpheusAIs/Morpheus/blob/main/!KEYDOCS%20README%20FIRST!/7.Yellowstone%20Compute%20Model.md 
 
-## MRC 06: Techno Capital Machine
+## MRC 06: Techno Capital Machine.
 - Status: **In Progress**, Being implimented as the Smart Contracts being used for the Capital Providers of Morpheus.
 - Link: https://github.com/MorpheusAIs/Morpheus/blob/main/!KEYDOCS%20README%20FIRST!/4.TechnoCapitalMachineTCM.md
 
-## MRC 07: Fair Launch Process
+## MRC 07: Fair Launch Process.
 - Status: **In Progress**, Being implimented as the Smart Contracts being used for the Capital Providers of Morpheus.
 - Link: https://github.com/MorpheusAIs/Morpheus/blob/main/!KEYDOCS%20README%20FIRST!/5.FairLaunch.md
 
 ## MRC 08: Waterloo Community Model.
 - Status: **Under Discussion**, needs additional work to flush out the concepts.
 - Link: https://docs.google.com/document/d/1uMvRT_WA1KqJAkoHbs7fxDkMtYrcdprXrbOmssEXtGg/edit?usp=sharing
+
+## MRC 09: Fair Price Discovery and AMM Initiation
+- Status: **Under Discussion**, needs more feedback from wider community.
+- Link: https://docs.google.com/document/d/1PYeWnu3KpQdExwwuKFgGbRl9eajc6oP1poEQZmf7S2w/edit?usp=sharing
 
