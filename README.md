@@ -34,3 +34,7 @@ List of proposals extending Decentralized AI. Similar to the function of the ERC
 ## MRC 08: Waterloo Community Model.
 - Status: **Under Discussion**, needs additional work to flush out the concepts.
 - Link: https://docs.google.com/document/d/1uMvRT_WA1KqJAkoHbs7fxDkMtYrcdprXrbOmssEXtGg/edit?usp=sharing
+
+## MRC 11: Morpheus Multi-Agent Framework.
+- Status: **Under Discussion**, needs further discussion to cover edge cases.
+- Link: https://docs.google.com/document/d/1i6FBD7OIMEHSYMgKUGmrjpxgnlFN20JRC4_yW9bAVWw/edit?usp=sharing

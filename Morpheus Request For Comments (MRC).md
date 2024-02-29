@@ -21,7 +21,7 @@ List of proposals extending Decentralized AI. Similar to the function of the ERC
 
 ## MRC 05: Yellowstone Compute Model.
 - Status: **In Progress**, Being implimented as the Decentralized Router for the launch of Compute rewards post bootstrapping period.
-- Link: https://github.com/MorpheusAIs/Morpheus/blob/main/!KEYDOCS%20README%20FIRST!/7.Yellowstone%20Compute%20Model.md 
+- Link: https://github.com/MorpheusAIs/Morpheus/blob/main/!KEYDOCS%20README%20FIRST!/7.Yellowstone%20Compute%20Model.md
 
 ## MRC 06: Techno Capital Machine
 - Status: **In Progress**, Being implimented as the Smart Contracts being used for the Capital Providers of Morpheus.
@@ -34,4 +34,8 @@ List of proposals extending Decentralized AI. Similar to the function of the ERC
 ## MRC 08: Waterloo Community Model.
 - Status: **Under Discussion**, needs additional work to flush out the concepts.
 - Link: https://docs.google.com/document/d/1uMvRT_WA1KqJAkoHbs7fxDkMtYrcdprXrbOmssEXtGg/edit?usp=sharing
+
+## MRC 11: Morpheus Multi-Agent Framework.
+- Status: **Under Discussion**, needs further discussion to cover edge cases.
+- Link: https://docs.google.com/document/d/1i6FBD7OIMEHSYMgKUGmrjpxgnlFN20JRC4_yW9bAVWw/edit?usp=sharing
 
