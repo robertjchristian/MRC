@@ -34,3 +34,7 @@ List of proposals extending Decentralized AI. Similar to the function of the ERC
 ## MRC 08: Waterloo Community Model.
 - Status: **Under Discussion**, needs additional work to flush out the concepts.
 - Link: https://docs.google.com/document/d/1uMvRT_WA1KqJAkoHbs7fxDkMtYrcdprXrbOmssEXtGg/edit?usp=sharing
+
+## MRC 12: Capital contracts expansion to stMATIC.
+- Status: **Under Discussion**, needs further discussion to cover all edge cases and flesh out more concepts.
+- Link: https://docs.google.com/document/d/1lZ_vJ3exkrn8DscHI6C59unp5Lui895rtN4nc-e2wso/edit?usp=sharing
