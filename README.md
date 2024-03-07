@@ -38,3 +38,7 @@ List of proposals extending Decentralized AI. Similar to the function of the ERC
 ## MRC 10: Development of Smart Agent Tools Marketplace.
 - Status: **Under Discussion**, needs further discussion and approval.
 - Link: https://docs.google.com/document/d/1JJQR4-b63VbJQ_etSt5Poyk1KcK3f7FvUZcwKB5Zpk8/edit?usp=sharing
+
+## MRC 12: Capital contracts expansion to stMATIC.
+- Status: **Under Discussion**, needs further discussion to cover all edge cases and flesh out more concepts.
+- Link: https://docs.google.com/document/d/1lZ_vJ3exkrn8DscHI6C59unp5Lui895rtN4nc-e2wso/edit?usp=sharing
