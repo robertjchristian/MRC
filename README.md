@@ -62,3 +62,22 @@ List of proposals extending Decentralized AI. Similar to the function of the ERC
 ## MRC 15: A Framework for Adding Yield-Generating Assets.
 - Status: **Under Discussion**, needs further discussion to cover edge cases and to receive community feedback.
 - Link: https://github.com/generativeone/Docs/blob/main/Expanding%20Horizon%20-%20The%20Morpheus%20Asset%20Integration%20Framework.md
+
+## MRC 16:
+
+## MRC 17:
+
+## MRC 18:
+
+## MRC 19:
+
+## MRC 20: Framework for "Automated Recurring Revenue" (ARR) - The MOR 20 Token Standard
+- Status: **Under Discussion** ## Automated Recurring Revenue (ARR) Generalizing the TCM Model - MOR20 Token Standard
+- Any project inside or even outside the context of Web3 & AI, can use Morpheus to bootstrap their project with the push of a button.
+- The use the MOR20 Smart Contracts to collect stETH in order to provide Automated Recurring Revenue (ARR) to the project is a compelling new framework.
+- Easily create a fair launch for projects, fair price discovery mechanism and access the large network effect of the Morpheus community.
+- This model can be extended to many software as a service projects as a means of building reacurring revenue / payments from users via yield.
+- The Morpheus platform charges only 0.35% (35 basis points) of the stETH yield collected by projects using the MOR20 Smart Contracts / Dashboards.
+- This yield collected is added to the Morpheus Protocol Liquidity and provides on going support for further Dashboards, Smart Contract development and audits.
+- This adds to the Network Effect of Morpheus when it comes to bootstraping new projects, growing liquidity for all MOR20 Smart Contract users.
+- Link: https://github.com/MorpheusAIs/Docs/blob/main/Contributions/Code%20-%20Proof_Of_ContributionSnapshot3.md
