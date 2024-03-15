@@ -58,3 +58,7 @@ List of proposals extending Decentralized AI. Similar to the function of the ERC
 ## MRC 14: MOR MOR Weights for Greater Granularity.
 - Status: **In Progress**, Planned implementation for April 2024 weights.
 - Link: https://docs.google.com/document/d/1_5WZSNZ8LDwrD-mWNR3HzZT4asYSHYeqHsybXvz302g/
+
+## MRC 15: A Framework for Adding Yield-Generating Assets.
+- Status: **Under Discussion**, needs further discussion to cover edge cases and to receive community feedback.
+- Link: https://github.com/generativeone/Docs/blob/main/Expanding%20Horizon%20-%20The%20Morpheus%20Asset%20Integration%20Framework.md
