@@ -71,7 +71,7 @@ List of proposals extending Decentralized AI. Similar to the function of the ERC
 
 ## MRC 19:
 
-## MRC 20: Framework for "Automated Recurring Revenue" (ARR) - The MOR 20 Token Standard
+## MRC 20: "Automated Recurring Revenue" (ARR) - The MOR 20 Token Standard
 - Status: **Under Discussion** ## Automated Recurring Revenue (ARR) Generalizing the TCM Model - MOR20 Token Standard
 - Description:  Any project inside or even outside the context of Web3 & AI, can use Morpheus to bootstrap their project with the push of a button.
 The use the MOR20 Smart Contracts to collect stETH in order to provide Automated Recurring Revenue (ARR) to the project is a compelling new framework.
