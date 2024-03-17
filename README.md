@@ -55,7 +55,7 @@ https://eips.ethereum.org/erc Provides a common language to describe interaction
 
 ## MRC 12: Capital contracts expansion to stMATIC.
 - Status: **Under Discussion**, needs further discussion to cover all edge cases and flesh out more concepts.
-- Link: https://docs.google.com/document/d/1lZ_vJ3exkrn8DscHI6C59unp5Lui895rtN4nc-e2wso/edit?usp=sharing
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC12.md
 
 ## MRC 13: Launch TCM for MOR Yield Farming on Solana with JitoSOL and/or mSOL.
 - Status: **Under Discussion**, needs further discussion to answer open questions (see end of doc) and approval.
