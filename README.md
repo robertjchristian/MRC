@@ -87,7 +87,9 @@ There is a dedicated forum on Discord for the discussion of MRCs here: https://d
 - Status: **In Progress** Actively being implemented by some of the open source Smart Contract developers.
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC16.md
 
-## MRC 17:
+## MRC 17: Adding Solana Yield & MOR Token Proposal
+- Status: **Under Discussion** similar proposal is listed in MRC 13 also under discussion.
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC17.md
 
 ## MRC 18:
 
