@@ -84,7 +84,7 @@ There is a dedicated forum on Discord for the discussion of MRCs here: https://d
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC15.md
 
 ## MRC 16: Toward MOR Interoperability
-- Status: "In Progress" Actively being implemented by some of the open source Smart Contract developers.
+- Status: **In Progress** Actively being implemented by some of the open source Smart Contract developers.
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC16.md
 
 ## MRC 17:
