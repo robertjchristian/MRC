@@ -1,7 +1,22 @@
 # Morpheus Request for Comments (MRC)
-List of proposals extending Decentralized AI. 
-Similar to the function of the ERC system serves in Ethereum. 
-https://eips.ethereum.org/erc Provides a common language to describe interactions between models, agents, compute, payments, funding and so forth.
+Proposals to improve any of the Morpheus Reference Implementations (MRIs). 
+
+See the details on all the of the MRIs here: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md
+- Smart Contracts on Ethereum / Arbitrum
+- Smart Agents Tools & Examples
+- Morpheus Local Install Desktop / Mobile
+- TCM / MOR20 Token Standard for Fair Launches
+- Protection Fund
+- Capital Proofs Extended beyond Lido stETH
+- Compute Proofs Morpheus / Lumerin
+- Code Proofs & Dashboards
+- Frontend Proofs & Examples
+- Interoperability
+
+Similar to the function of the ERC system serves in Ethereum, the MRC process provides a common language to describe interactions between models, agents, compute, payments, funding and so forth.. 
+https://eips.ethereum.org/erc 
+
+There is a dedicated forum on Discord for the discussion of MRCs here: https://discord.com/channels/1151741790408429580/1218593251079094383
 
 ## List of MRCs:
 
