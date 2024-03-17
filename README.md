@@ -62,8 +62,8 @@ https://eips.ethereum.org/erc Provides a common language to describe interaction
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC13.md
 
 ## MRC 14: MOR Weights for Greater Granularity.
-- Status: **In Progress**, Planned implementation for April 8th 2024 weights snapshot.
-- Link: https://docs.google.com/document/d/1_5WZSNZ8LDwrD-mWNR3HzZT4asYSHYeqHsybXvz302g/
+- Status: **Adopted**, Planned implementation for April 8th 2024 weights snapshot.
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC14.md
 
 ## MRC 15: A Framework for Adding Yield-Generating Assets.
 - Status: **Under Discussion**, needs further discussion to cover edge cases and to receive community feedback.
