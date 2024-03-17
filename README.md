@@ -13,8 +13,7 @@ See the details on all the of the MRIs here: https://github.com/MorpheusAIs/Docs
 - Frontend Proofs & Examples
 - Interoperability
 
-Similar to the function of the ERC system serves in Ethereum, the MRC process provides a common language to describe interactions between models, agents, compute, payments, funding and so forth.. 
-https://eips.ethereum.org/erc 
+Similar to the function of the [ERC system](https://eips.ethereum.org/erc ) serves in Ethereum, the MRC process provides a common language to describe interactions between models, agents, compute, payments, funding and so forth.
 
 There is a dedicated forum on Discord for the discussion of MRCs here: https://discord.com/channels/1151741790408429580/1218593251079094383
 
