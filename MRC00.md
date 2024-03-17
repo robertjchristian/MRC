@@ -3,21 +3,35 @@
 Each Morpheus Request for Comment should include the following:	
 
 ## Link to details of the MRC.
-	
-	- Add the MRC details in a new file in the MRC repo with a matching file named MRC####.md so everyone can comment on it directly in Github.
-	- Include the link to the full MRC file in the summary in the Readme. 
-	- Google Drive or Notion is fine for an initial draft before posting to the MRC repo, however for the MRC to be considered all the details of the MRC should be published on Github.
+- Add the MRC details in a new file in the MRC repo with a matching file named MRC####.md so everyone can comment on it directly in Github.
+- Include the link to the full MRC file in the summary in the Readme. 
+- Google Drive or Notion is fine for an initial draft before posting to the MRC repo, however for the MRC to be considered all the details of the MRC should be published on Github.
+
+## List of Morpheus Reference Implementations Effected
+All MRCs should include a list of the Morpheus Reference Implementations (MRIs) they will update / effect.
+
+See the details on all the of the MRIs here: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md
+- Smart Contracts on Ethereum / Arbitrum
+- Smart Agents Tools & Examples
+- Morpheus Local Install Desktop / Mobile
+- TCM / MOR20 Token Standard for Fair Launches
+- Protection Fund
+- Capital Proofs Extended beyond Lido stETH
+- Compute Proofs Morpheus / Lumerin
+- Code Proofs & Dashboards
+- Frontend Proofs & Examples
+- Interoperability
 
 ## Problem
 
 ## Solution
-	- Abstract
-	- Development strategy
-	- Tech Stack
+- Abstract
+- Development strategy
+- Tech Stack
 
 ## Dependencies
-	- What other MRCs or related work needs to be completed for the proposal to be implemented.
-	- For example no new sources of yield can be added until cross EVM / chain interoperability is enabled in the Morpheus Smart Contracts.
+- What other MRCs or related work needs to be completed for the proposal to be implemented.
+- For example no new sources of yield can be added until cross EVM / chain interoperability is enabled in the Morpheus Smart Contracts.
 
 ## End Results
 
