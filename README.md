@@ -51,7 +51,7 @@ https://eips.ethereum.org/erc Provides a common language to describe interaction
 
 ## MRC 11: Morpheus Multi-Agent Framework.
 - Status: **Under Discussion**, needs further discussion to cover edge cases.
-- Link: https://docs.google.com/document/d/1i6FBD7OIMEHSYMgKUGmrjpxgnlFN20JRC4_yW9bAVWw/edit?usp=sharing
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC11.md
 
 ## MRC 12: Capital contracts expansion to stMATIC.
 - Status: **Under Discussion**, needs further discussion to cover all edge cases and flesh out more concepts.
