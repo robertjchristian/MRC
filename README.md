@@ -25,49 +25,51 @@ https://eips.ethereum.org/erc Provides a common language to describe interaction
 - Status: **In Progress**, Being implimented as the basis for Capital, Code, Compute and Community Builders.
 - Link: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/YellowPaper.md
 
-## MRC 06: Yellowstone Compute Model.
+## MRC 05: Yellowstone Compute Model.
 - Status: **In Progress**, Being implimented as the Decentralized Router for the launch of Compute rewards post bootstrapping period.
 - Link: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Yellowstone%20Compute%20Model.md
 
-## MRC 07: Techno Capital Machine
+## MRC 06: Techno Capital Machine
 - Status: **In Progress**, Being implimented as the Smart Contracts being used for the Capital Providers of Morpheus.
 - Link: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/TechnoCapitalMachineTCM.md
 
-## MRC 08: Fair Launch Process
+## MRC 07: Fair Launch Process
 - Status: **In Progress**, Being implimented as the Smart Contracts being used for the Capital Providers of Morpheus.
 - Link: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Fair%20Launch.md
 
-## MRC 09: Waterloo Community Model.
+## MRC 08: Waterloo Community Model.
 - Status: **Under Discussion**, needs additional work to flush out the concepts.
 - Link: https://docs.google.com/document/d/1uMvRT_WA1KqJAkoHbs7fxDkMtYrcdprXrbOmssEXtGg/edit?usp=sharing
 
-## MRC 10: AMM Launch Process
+## MRC 09: AMM Launch Process
 - Status: **Under Discussion**, needs further discussion to cover edge cases and to receive community feedback.
 - Link: https://github.com/generativeone/Docs/blob/main/Building%20the%20Foundation%20-%20AMM%20Launch.md
 
-## MRC 11: Development of Smart Agent Tools Marketplace.
+## MRC 10: Development of Smart Agent Tools Marketplace.
 - Status: **Under Discussion**, needs further discussion and approval.
 - Link: https://docs.google.com/document/d/1JJQR4-b63VbJQ_etSt5Poyk1KcK3f7FvUZcwKB5Zpk8/edit?usp=sharing
 
-## MRC 12: Morpheus Multi-Agent Framework.
+## MRC 11: Morpheus Multi-Agent Framework.
 - Status: **Under Discussion**, needs further discussion to cover edge cases.
 - Link: https://docs.google.com/document/d/1i6FBD7OIMEHSYMgKUGmrjpxgnlFN20JRC4_yW9bAVWw/edit?usp=sharing
 
-## MRC 13: Capital contracts expansion to stMATIC.
+## MRC 12: Capital contracts expansion to stMATIC.
 - Status: **Under Discussion**, needs further discussion to cover all edge cases and flesh out more concepts.
 - Link: https://docs.google.com/document/d/1lZ_vJ3exkrn8DscHI6C59unp5Lui895rtN4nc-e2wso/edit?usp=sharing
 
-## MRC 14: Launch TCM for MOR Yield Farming on Solana with JitoSOL and/or mSOL.
+## MRC 13: Launch TCM for MOR Yield Farming on Solana with JitoSOL and/or mSOL.
 - Status: **Under Discussion**, needs further discussion to answer open questions (see end of doc) and approval.
 - Link: https://0xmacro.notion.site/MRC-13-Launch-TCM-for-MOR-Yield-Farming-on-Solana-with-JitoSOL-and-or-mSOL-a0f9e2c0fa884aa590fe993c38bc627b
 
-## MRC 15: MOR MOR Weights for Greater Granularity.
+## MRC 14: MOR MOR Weights for Greater Granularity.
 - Status: **In Progress**, Planned implementation for April 8th 2024 weights snapshot.
 - Link: https://docs.google.com/document/d/1_5WZSNZ8LDwrD-mWNR3HzZT4asYSHYeqHsybXvz302g/
 
-## MRC 16: A Framework for Adding Yield-Generating Assets.
+## MRC 15: A Framework for Adding Yield-Generating Assets.
 - Status: **Under Discussion**, needs further discussion to cover edge cases and to receive community feedback.
 - Link: https://github.com/generativeone/Docs/blob/main/Expanding%20Horizon%20-%20The%20Morpheus%20Asset%20Integration%20Framework.md
+
+## MRC 16:
 
 ## MRC 17:
 
