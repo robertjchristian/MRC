@@ -39,7 +39,7 @@ https://eips.ethereum.org/erc Provides a common language to describe interaction
 
 ## MRC 08: Waterloo Community Model.
 - Status: **Under Discussion**, needs additional work to flush out the concepts.
-- Link: https://docs.google.com/document/d/1uMvRT_WA1KqJAkoHbs7fxDkMtYrcdprXrbOmssEXtGg/edit?usp=sharing
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC08.md
 
 ## MRC 09: AMM Launch Process
 - Status: **Under Discussion**, needs further discussion to cover edge cases and to receive community feedback.
