@@ -61,7 +61,7 @@ https://eips.ethereum.org/erc Provides a common language to describe interaction
 - Status: **Under Discussion**, needs further discussion to answer open questions (see end of doc) and approval.
 - Link: https://0xmacro.notion.site/MRC-13-Launch-TCM-for-MOR-Yield-Farming-on-Solana-with-JitoSOL-and-or-mSOL-a0f9e2c0fa884aa590fe993c38bc627b
 
-## MRC 14: MOR MOR Weights for Greater Granularity.
+## MRC 14: MOR Weights for Greater Granularity.
 - Status: **In Progress**, Planned implementation for April 8th 2024 weights snapshot.
 - Link: https://docs.google.com/document/d/1_5WZSNZ8LDwrD-mWNR3HzZT4asYSHYeqHsybXvz302g/
 
