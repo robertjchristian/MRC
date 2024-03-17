@@ -69,7 +69,9 @@ https://eips.ethereum.org/erc Provides a common language to describe interaction
 - Status: **Under Discussion**, needs further discussion to cover edge cases and to receive community feedback.
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC15.md
 
-## MRC 16:
+## MRC 16: Toward MOR Interoperability
+- Status: "In Progress"
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC16.md
 
 ## MRC 17:
 
