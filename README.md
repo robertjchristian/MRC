@@ -47,7 +47,7 @@ https://eips.ethereum.org/erc Provides a common language to describe interaction
 
 ## MRC 10: Development of Smart Agent Tools Marketplace.
 - Status: **Under Discussion**, needs further discussion and approval.
-- Link: https://docs.google.com/document/d/1JJQR4-b63VbJQ_etSt5Poyk1KcK3f7FvUZcwKB5Zpk8/edit?usp=sharing
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC10.md
 
 ## MRC 11: Morpheus Multi-Agent Framework.
 - Status: **Under Discussion**, needs further discussion to cover edge cases.
