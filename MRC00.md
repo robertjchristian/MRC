@@ -2,7 +2,7 @@
 
 Each Morpheus Request for Comment should include the following:	
 
-## Link to details of the MRC.
+## Link to Details of the MRC
 - Add the MRC details in a new file in the MRC repo with a matching file named MRC####.md so everyone can comment on it directly in Github.
 - Include the link to the full MRC file in the summary in the Readme. 
 - Google Drive or Notion is fine for an initial draft before posting to the MRC repo, however for the MRC to be considered all the details of the MRC should be published on Github.
@@ -23,6 +23,7 @@ See the details on all the of the MRIs here: https://github.com/MorpheusAIs/Docs
 - Interoperability
 
 ## Problem
+- Describe the problem being addressed by the MRC.
 
 ## Solution
 - Abstract
@@ -34,13 +35,17 @@ See the details on all the of the MRIs here: https://github.com/MorpheusAIs/Docs
 - For example no new sources of yield can be added until cross EVM / chain interoperability is enabled in the Morpheus Smart Contracts.
 
 ## End Results
+- List what the effect of the final implementation be.
 
 ## Value To Users
+- What will the value to users be and which users in the Morpheus system.
 
-## New weights requested
-	
+## New Weights Requested
+- All weights are rewarded after value is provided and accepted by repository maintainers.
+- Detail the weights requested and how that fits into the weight schedule for that Morpheus Reference Implementation
+
 ## Effort required to Implement
-  - Deliverables
-	- Time to expire
-	- Dev Id assigned
-	- Tie to deliverables/testing
+- Deliverables
+- Time to expire
+- Dev Id assigned
+- Tie to deliverables/testing
