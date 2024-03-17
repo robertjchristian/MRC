@@ -1,4 +1,4 @@
-# Proposal
+# MRC17: Adding Solana Yield & MOR Token Proposal
 
 ## Introduction
 We propose capital contribution integration for Morpheus with the Solana blockchain, aimed at significantly enhancing the liquidity of Morpheus AI's capital providers pool. By leveraging Solana's high-performance capabilities and developing a bespoke smart contract, we aim to introduce SOL staking and contributing staked SOL yield in exchange for MOR tokens. Furthermore, Solana's low transaction fees and high throughput offer a compelling case for it to be a suitable platform for Morpheus, potentially providing an efficient and cost-effective environment for users and the ecosystem at large.
@@ -34,3 +34,6 @@ markets and opportunities for growth.
 showcasing a commitment to innovation and user benefits.
 - 4) Affordable Transactions with Solana: Solana stands out in the market for its
 exceptionally low transaction fees paired with rapid processing speeds. This makes it an ideal blockchain for Morpheus to integrate with. The combination of affordability and efficiency ensures high transaction volumes and consistent liquidity flow.
+
+![Flow Diagram Overview](https://github.com/MorpheusAIs/MRC/assets/1563345/f17c4122-3c0b-4bd2-a50b-05fc523e5eb2)
+
