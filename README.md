@@ -2,16 +2,6 @@
 Proposals to improve any of the Morpheus Reference Implementations (MRIs). 
 
 See the details on all the of the MRIs here: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md
-- Smart Contracts on Ethereum / Arbitrum
-- Smart Agents Tools & Examples
-- Morpheus Local Install Desktop / Mobile
-- TCM / MOR20 Token Standard for Fair Launches
-- Protection Fund
-- Capital Proofs Extended beyond Lido stETH
-- Compute Proofs Morpheus / Lumerin
-- Code Proofs & Dashboards
-- Frontend Proofs & Examples
-- Interoperability
 
 Similar to the function of the [ERC system](https://eips.ethereum.org/erc ) serves in Ethereum, the MRC process provides a common language to describe interactions between models, agents, compute, payments, funding and so forth.
 
