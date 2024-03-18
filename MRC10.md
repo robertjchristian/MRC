@@ -1,9 +1,9 @@
 # Development of Smart Agent Tools Marketplace
 
-**Project Name:** Smart Agent Tools Marketplace
+**Project Name:** Smart Agent Tools Marketplace  
 **Requesting Organization/Individual:** Mor Labs 
 
-| This proposal outlines the development of a marketplace for tools that can be integrated with Smart Agents within the Morpheus ecosystem. This marketplace aims to significantly expand the capabilities of Smart Agents, allowing them to interact with both web3 smart contracts and centralized tools and apps. The marketplace will facilitate easy access to and implementation of tools for data handling, interaction with centralized platforms like Google Sheets, Discord, and GitHub, and more, enhancing the Smart Agents' functionality and versatility.
+**Summary:** This proposal outlines the development of a marketplace for tools that can be integrated with Smart Agents within the Morpheus ecosystem. This marketplace aims to significantly expand the capabilities of Smart Agents, allowing them to interact with both web3 smart contracts and centralized tools and apps. The marketplace will facilitate easy access to and implementation of tools for data handling, interaction with centralized platforms like Google Sheets, Discord, and GitHub, and more, enhancing the Smart Agents' functionality and versatility.
 
 ## Introduction
 The project seeks to pioneer the Smart Agent Tools Marketplace, a platform designed to augment the capabilities of Smart Agents through a diverse array of integrable tools. This initiative will bridge the gap between decentralized and traditional centralized environments, enabling Smart Agents to become more adaptable, intelligent, and efficient in executing a wide range of tasks.
