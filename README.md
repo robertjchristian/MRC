@@ -81,7 +81,9 @@ There is a dedicated forum on Discord for the discussion of MRCs here: https://d
 - Status: **Under Discussion** similar proposal is listed in MRC 13 also under discussion.
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC17.md
 
-## MRC 18:
+## MRC 18: Governance Agent
+- Status: **Under Discussion**
+Link: https://docs.google.com/document/d/1xWAu7gew2wrtk_38areb56h_byO_86LHEQiBcsGByDk/edit
 
 ## MRC 19:
 
