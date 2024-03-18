@@ -1,4 +1,4 @@
-# Autonomous Governance AI Agent for ATX DAO
+# MRC18: Autonomous Governance AI Agent for ATX DAO
 tldr: ATX DAO is creating an AI agent to review, give feedback on, and vote on all DAO proposals.
 
 ## Introduction:
