@@ -96,3 +96,7 @@ There is a dedicated forum on Discord for the discussion of MRCs here: https://d
 ## MRC 21: Non Fungible Agents
 - Status: [**In Discussion**](https://discord.com/channels/1151741790408429580/1219342219115233381)
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC21.md
+
+## MRC 22: MOR Staking - A Free Market Mechanism To Direct MOR Rewards Toward End User Applications
+- Status: [**In Discussion**](https://discord.com/channels/1151741790408429580/1219389170040967218)
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC22.md
