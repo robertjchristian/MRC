@@ -86,7 +86,9 @@ There is a dedicated forum on Discord for the discussion of MRCs here: https://d
 ## MRC 19:
 
 ## MRC 20: The MOR 20 Token Standard - "Automated Recurring Revenue / Rewards" (ARR)
-- Status: **Under Discussion** 
-- Link: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/TechnoCapitalMachineTCM.md#automated-recurring-revenue--rewards-arr-generalizing-the-tcm-model---mor20-token-standard
+- Status: **Implementated** 
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC20.md
 
-## MRC 21: 
+## MRC 21: Non Fungible Agents
+- Status: **In Discussion**
+- Link: 
