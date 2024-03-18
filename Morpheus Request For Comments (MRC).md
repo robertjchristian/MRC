@@ -1,7 +1,11 @@
 # Morpheus Request for Comments (MRC)
-List of proposals extending Decentralized AI. 
-Similar to the function of the ERC system serves in Ethereum. 
-https://eips.ethereum.org/erc Provides a common language to describe interactions between models, agents, compute, payments, funding and so forth.
+Proposals to improve any of the Morpheus Reference Implementations (MRIs). 
+
+See the details on all the of the MRIs here: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md
+
+Similar to the function of the [ERC system](https://eips.ethereum.org/erc ) serves in Ethereum, the MRC process provides a common language to describe interactions between models, agents, compute, payments, funding and so forth.
+
+There is a dedicated forum on Discord for the discussion of MRCs here: https://discord.com/channels/1151741790408429580/1218593251079094383
 
 ## List of MRCs:
 
@@ -39,7 +43,7 @@ https://eips.ethereum.org/erc Provides a common language to describe interaction
 
 ## MRC 08: Waterloo Community Model.
 - Status: **Under Discussion**, needs additional work to flush out the concepts.
-- Link: https://docs.google.com/document/d/1uMvRT_WA1KqJAkoHbs7fxDkMtYrcdprXrbOmssEXtGg/edit?usp=sharing
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC08.md
 
 ## MRC 09: AMM Launch Process
 - Status: **Under Discussion**, needs further discussion to cover edge cases and to receive community feedback.
@@ -47,51 +51,48 @@ https://eips.ethereum.org/erc Provides a common language to describe interaction
 
 ## MRC 10: Development of Smart Agent Tools Marketplace.
 - Status: **Under Discussion**, needs further discussion and approval.
-- Link: https://docs.google.com/document/d/1JJQR4-b63VbJQ_etSt5Poyk1KcK3f7FvUZcwKB5Zpk8/edit?usp=sharing
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC10.md
 
 ## MRC 11: Morpheus Multi-Agent Framework.
 - Status: **Under Discussion**, needs further discussion to cover edge cases.
-- Link: https://docs.google.com/document/d/1i6FBD7OIMEHSYMgKUGmrjpxgnlFN20JRC4_yW9bAVWw/edit?usp=sharing
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC11.md
 
 ## MRC 12: Capital contracts expansion to stMATIC.
 - Status: **Under Discussion**, needs further discussion to cover all edge cases and flesh out more concepts.
-- Link: https://docs.google.com/document/d/1lZ_vJ3exkrn8DscHI6C59unp5Lui895rtN4nc-e2wso/edit?usp=sharing
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC12.md
 
 ## MRC 13: Launch TCM for MOR Yield Farming on Solana with JitoSOL and/or mSOL.
 - Status: **Under Discussion**, needs further discussion to answer open questions (see end of doc) and approval.
-- Link: https://0xmacro.notion.site/MRC-13-Launch-TCM-for-MOR-Yield-Farming-on-Solana-with-JitoSOL-and-or-mSOL-a0f9e2c0fa884aa590fe993c38bc627b
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC13.md
 
-## MRC 14: MOR MOR Weights for Greater Granularity.
-- Status: **In Progress**, Planned implementation for April 8th 2024 weights snapshot.
-- Link: https://docs.google.com/document/d/1_5WZSNZ8LDwrD-mWNR3HzZT4asYSHYeqHsybXvz302g/
+## MRC 14: MOR Weights for Greater Granularity.
+- Status: **Adopted**, Planned implementation for April 8th 2024 weights snapshot.
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC14.md
 
 ## MRC 15: A Framework for Adding Yield-Generating Assets.
 - Status: **Under Discussion**, needs further discussion to cover edge cases and to receive community feedback.
-- Link: https://github.com/generativeone/Docs/blob/main/Expanding%20Horizon%20-%20The%20Morpheus%20Asset%20Integration%20Framework.md
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC15.md
 
 ## MRC 16: Toward MOR Interoperability
-- Status: **Under Discussion**
+- Status: **In Progress** Actively being implemented by some of the open source Smart Contract developers.
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC16.md
 
 ## MRC 17: Adding Solana Yield & MOR Token Proposal
-- Status: **Under Discussion**
+- Status: **Under Discussion** similar proposal is listed in MRC 13 also under discussion.
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC17.md
 
-## MRC 18: Autonomous Governance AI Agent for ATX DAO
+## MRC 18: Governance Agent
 - Status: **Under Discussion**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC18:%20Governance%20Agent.md
 
 ## MRC 19: Cosmos & Thorchain Expansion of Morpheus
 - Status: **Under Discussion**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC19.md
 
-## MRC 20: "Automated Recurring Revenue / Rewards" (ARR) - The MOR 20 Token Standard
-- Status: **Under Discussion** 
-- Description:  Automated Recurring Revenue / Rewards (ARR) Generalizing the TCM Model - MOR20 Token Standard
-Any project inside or even outside the context of Web3 & AI, can use Morpheus to bootstrap their project with the push of a button.
-The use the MOR20 Smart Contracts to collect stETH in order to provide Automated Recurring Revenue (ARR) to the project is a compelling new framework.
-Easily create a fair launch for projects, fair price discovery mechanism and access the large network effect of the Morpheus community.
-This model can be extended to many software as a service projects as a means of building reacurring revenue / payments from users via yield.
-The Morpheus platform charges only 0.35% (35 basis points) of the stETH yield collected by projects using the MOR20 Smart Contracts / Dashboards.
-This yield collected is added to the Morpheus Protocol Liquidity and provides on going support for further Dashboards, Smart Contract development and audits.
-This adds to the Network Effect of Morpheus when it comes to bootstraping new projects, growing liquidity for all MOR20 Smart Contract users.
-- Link: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/TechnoCapitalMachineTCM.md#automated-recurring-revenue--rewards-arr-generalizing-the-tcm-model---mor20-token-standard
+## MRC 20: The MOR 20 Token Standard - "Automated Recurring Revenue / Rewards" (ARR)
+- Status: **Implemented** 
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC20.md
 
 ## MRC 21: Non Fungible Agents
-- Status: **Under Discussion**
+- Status: **In Discussion**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC21.md
