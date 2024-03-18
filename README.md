@@ -94,5 +94,5 @@ There is a dedicated forum on Discord for the discussion of MRCs here: https://d
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC20.md
 
 ## MRC 21: Non Fungible Agents
-- Status: [**In Discussion**](https://discord.com/channels/1151741790408429580/1219342219115233381)https://discord.com/channels/1151741790408429580/1219342219115233381
+- Status: [**In Discussion**](https://discord.com/channels/1151741790408429580/1219342219115233381)
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC21.md
