@@ -87,7 +87,7 @@ There is a dedicated forum on Discord for the discussion of MRCs here: https://d
 
 ## MRC 19: Cosmos & Thorchain Expansion of Morpheus
 - Status: **Under Discussion**
-- Link: 
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC19.md
 
 ## MRC 20: The MOR 20 Token Standard - "Automated Recurring Revenue / Rewards" (ARR)
 - Status: **Implementated** 
