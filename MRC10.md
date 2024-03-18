@@ -1,9 +1,9 @@
 # Development of Smart Agent Tools Marketplace
 
-## Project Name: Smart Agent Tools Marketplace
-Requesting Organization/Individual: Mor Labs 
+**Project Name:** Smart Agent Tools Marketplace
+**Requesting Organization/Individual:** Mor Labs 
 
-Summary: This proposal outlines the development of a marketplace for tools that can be integrated with Smart Agents within the Morpheus ecosystem. This marketplace aims to significantly expand the capabilities of Smart Agents, allowing them to interact with both web3 smart contracts and centralized tools and apps. The marketplace will facilitate easy access to and implementation of tools for data handling, interaction with centralized platforms like Google Sheets, Discord, and GitHub, and more, enhancing the Smart Agents' functionality and versatility.
+| This proposal outlines the development of a marketplace for tools that can be integrated with Smart Agents within the Morpheus ecosystem. This marketplace aims to significantly expand the capabilities of Smart Agents, allowing them to interact with both web3 smart contracts and centralized tools and apps. The marketplace will facilitate easy access to and implementation of tools for data handling, interaction with centralized platforms like Google Sheets, Discord, and GitHub, and more, enhancing the Smart Agents' functionality and versatility.
 
 ## Introduction
 The project seeks to pioneer the Smart Agent Tools Marketplace, a platform designed to augment the capabilities of Smart Agents through a diverse array of integrable tools. This initiative will bridge the gap between decentralized and traditional centralized environments, enabling Smart Agents to become more adaptable, intelligent, and efficient in executing a wide range of tasks.
@@ -20,10 +20,10 @@ Foster Innovation and Customization: Provide a platform for developers to contri
 The Smart Agent Tools Marketplace will serve as a dedicated platform where developers and users can access, share, and implement tools designed to enhance the functionality of Smart Agents. This marketplace will leverage Langchain as well as the CrewAI codebase to provide a robust and flexible environment for tool integration, supporting a wide range of use cases from data manipulation to interaction with centralized services.
 
 ### Technology Stack
-Frontend Development: React.js, CSS/Sass, Redux, OAuth 2.0, Jest, React Testing Library
-Smart Contract Development (Web3): Ethereum, Solidity, ethers.js/web3.js, IPFS
-Integration with Smart Agents: WebSocket, SDKs for major Smart Agent frameworks
-Tool Implementation (Python Scripts): Python 3.x, virtual environments for dependency management
+Frontend Development: React.js, CSS/Sass, Redux, OAuth 2.0, Jest, React Testing Library  
+Smart Contract Development (Web3): Ethereum, Solidity, ethers.js/web3.js, IPFS  
+Integration with Smart Agents: WebSocket, SDKs for major Smart Agent frameworks  
+Tool Implementation (Python Scripts): Python 3.x, virtual environments for dependency management  
 
 ## Implementation Plan
 
