@@ -1,4 +1,4 @@
-# MRC 00: Morpheus Request for Comment Standard & Requirements
+# MRC 00: Morpheus Request for Comment Standards & Guide
 
 ### What is an MRC?
 MRC stands for Morpheus Request for Comments.  It’s a document that describes a change to Morpheus. 
