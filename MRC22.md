@@ -1,4 +1,4 @@
-# MRC 22: MOR Staking - A Free Market Mechanism To Direct MOR Rewards Toward End User Applications
+# MRC 22: MOR Staking - A Free Market Mechanism To Direct MOR Rewards Toward Smart Agent & End User Application Builders
 As described in the Waterloo paper, builders of Smart Agents and other End User Applications will receive 8% of all MOR emissions.
 https://github.com/MorpheusAIs/MRC/blob/main/MRC08.md
 
