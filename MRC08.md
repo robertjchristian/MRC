@@ -8,12 +8,23 @@ The Web3 community has long suffered from a lack of front-end development. This 
 ## Types of Rewards
 By using the weights below, the community rewards will make each of the core functions of the Morpheus Network more broadly accessible and increase the Morpheus Code, Compute, and Capital resources.
 
-### End User Applications  
-Builders of End User Applications will receive 8% of all MOR emissions for generating demand for the Smart Agents. 
+## 1. MOR Staking - A Free Market Mechanism To Direct MOR Rewards Toward End User Applications
+Builders of Smart Agents and other End User Applications will receive 8% of all MOR emissions.
 
-For example, a developer builds a website for the average person to use Smart Agents from the Morpheus Network.  That user will also register their public key in the Morpheus protocol and get credit based on the amount of MOR fees paid by those users.
+These rewards will be directed in proportion to the MOR holders who "Stake" their MOR into the MOR20 Smart Contract for a specific Smart Agent.
 
-### Capital Front Ends
+So for example if a MOR holder has 1% of the MOR in circulation and Stakes it toward "DeFiAgent 420 (DA420)", then for as long as that MOR is Staked, the Morpheus protocol will direct 1% of the 8% of MOR emissions (0.08% of all 14,400 daily MOR emissions = 11.52 MOR per day) toward the DeFiAgent 420's AMM Uniswap pool. In return MOR Stakers earn new tokens in the projects they Stake towards.
+
+**This MOR Staking approach has some compelling benefits:**
+- Thus the MOR token will become the common trading pair for the Protocol Owned Liquid of every project launched on Morpheus (like ETH is for projects on Ethereum).
+- This effectively extends the model Morpheus has already proven with stETH to MOR as the means of bootstrapping projects on top of its platform.   
+- Holders of the MOR token get to individually express which projects they think are most worthy of support.
+- Holders of hte MOR token gain tokens in projects building on Morpheus without having to sell their MOR. 
+- The Morpheus protocol sends all rewards directly to the project & the Stakers and so no central points of failure are created in the new projects.
+- The project creates a straight forward path to rewarding Coders and thus attract builers to maintain / expand its Code base.
+- Projects get access to Compute (as MOR holders have access to Inference on Morpheus) since the project is holding MOR in the Protocol Owned Liquidity this will poweer their Smart Agent interactions.
+
+## 2. Capital Front Ends
 Builders of front ends for the Capital Providers will receive 8% of all MOR emissions.  
 
 For example, a developer that creates an easy to use app or website that funnels Capital into the Morpheus Capital Provider smart contract would get a part of the 8% emissions pro-rata to the capital their public key tagged to the capital provision transaction.  
@@ -42,7 +53,10 @@ Jito - JitoSOL | $20,000,000 | 15% | $4,164 | 27% | 21% |
 GMX - GMX | $10,000,000 | 7% | $1,208 | 8% | 7.5% | 
 Total | $135,000,000 | 100% | $15,235 | 100% | 100% |
 
-### Compute Front Ends
+### Summary of Capital Front Ends
+All of this analysis to say that the only method for fairly compensating yield contributed is based on a common denomination of ETH and measuring the yield based on the actual amount of ETH transferred to the Morpheus Protocol Owned Liquidity vs emitting rewards based on the asset creating the yield.
+
+## 3. Compute Front Ends
 Builders of front ends for the Compute Providers will receive 8% of all MOR emissions.
 
 For example, a developer builds a Software Development Kit, API or website that makes it easier to provide Compute to the Morpheus Network. In doing so, they qualify to receive a pro-rata amount based on the amount of Compute they helped to enroll.  
