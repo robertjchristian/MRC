@@ -3,19 +3,19 @@
 ## Introduction
 We propose capital contribution integration for Morpheus with the Solana blockchain, aimed at significantly enhancing the liquidity of Morpheus AI's capital providers pool. By leveraging Solana's high-performance capabilities and developing a bespoke smart contract, we aim to introduce SOL staking and contributing staked SOL yield in exchange for MOR tokens. Furthermore, Solana's low transaction fees and high throughput offer a compelling case for it to be a suitable platform for Morpheus, potentially providing an efficient and cost-effective environment for users and the ecosystem at large.
 
-## Implementation:
-Solana Integration
+## Implementation
 We propose to develop a smart contract on the Solana blockchain that allows users to directly stake SOL in exchange for MOR token rewards. This integration will enable Morpheus AI to access Solana's liquidity and user base, providing a new avenue for growth and capital.
 
-## Smart Contract Development:
+## Smart Contract Development
 1) Direct SOL Staking: Users can stake SOL directly via the developed smart contract, with a guaranteed 1:1 return upon redemption.
 2) Conversion to JitoSOL: The contract will automatically convert staked SOL into JitoSOL, enabling the protocol to earn staking rewards from the Jito Network.
 3) Reward Mechanism: Accrued SOL rewards will be sold daily and added to the Protocol-owned Liquidity (POL) on Morpheus
 4) Locking Mechanism for withdrawal: There will be a standard 7-day lock-in for the SOL contributed
-Oracle Use
+
+## Oracle Use
 For the allocation of MOR rewards, an oracle will capture daily Solana market data at a specific time (e.g., 5 PM UTC), ensuring fair and transparent distribution. This process will meticulously be recorded on the Ethereum blockchain by Morpheus contracts, reinforcing the integrity and auditability of the reward mechanism within the ecosystem. This approach underscores the commitment to fairness, leveraging blockchain's transparency to benefit all ecosystem participants.
 
-## Reward Allocation Strategy:
+## Reward Allocation Strategy
 In order to have fair and equitable reward distribution to SOL stakers, we plan to utilize the oracle price data to calculate the USD value of SOL and yield contribution. The rewards for SOL stakers will be calculated on a pro-rata basis taking the st-ETH and other capital contribution into account.
      
 ## Bridging and Distribution
