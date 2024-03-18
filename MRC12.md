@@ -1,10 +1,10 @@
 # Capital contracts expansion to stMATIC  
 
 ## Executive Summary
-Project Name: Capital contracts expansion to stMATIC
-Requesting Organization/Individual: Mor Labs 
+**Project Name:** Capital contracts expansion to stMATIC  
+**Requesting Organization/Individual:** Mor Labs 
 
-Summary: This project aims to extend the Morpheus ecosystem to include support for Polygon, specifically for stMATIC holders, leveraging the success of Morpheus Capital Contracts with stETH. Our objective is to enhance capital contribution options within the Morpheus ecosystem, integrating high-yield opportunities from stMATIC and leveraging the chain-agnostic nature of Morpheus to foster a more inclusive and versatile DeFi landscape.
+This project aims to extend the Morpheus ecosystem to include support for Polygon, specifically for stMATIC holders, leveraging the success of Morpheus Capital Contracts with stETH. Our objective is to enhance capital contribution options within the Morpheus ecosystem, integrating high-yield opportunities from stMATIC and leveraging the chain-agnostic nature of Morpheus to foster a more inclusive and versatile DeFi landscape.
 
 ## Introduction
 Mor Labs is a new guild that has formed from within the Morpheus ecosystem. Our team comprises blockchain developers, DeFi strategists, and security experts. 
@@ -34,19 +34,17 @@ Polygon has successfully deployed features of Polygon 2.0, including the zkEVM, 
 
 Given Mor Labs expertise in smart contract development and cross-chain integrations, we are uniquely positioned to undertake the expansion of the Morpheus ecosystem to support Polygon and stMATIC.
 
-Applying the above framework for stMATIC on the Morpheus ecosystem, we can outline the required details based on the broader framework for new asset integration as follows:
-Staked Asset Identification: stMATIC represents staked MATIC tokens within the Lido on Polygon system, providing users with a liquid token that can be used across DeFi applications on both Ethereum and Polygon networks. It's designed to allow users to stake MATIC tokens without locking assets or maintaining staking infrastructure, enabling participation in on-chain decentralized finance with their staked assets.
-
-
-## Underlying Asset Analysis: The underlying asset, MATIC (soon to be replaced on a 1:1 basis with POL), is the native token of the Polygon network, known for its scalability and efficiency in processing transactions on the Ethereum blockchain. The market cap and TVL of MATIC would provide insights into its stability and potential for yield. As of the latest data, the staked amount in the Lido on Polygon system is substantial, indicating a healthy participation level and confidence in the staking mechanism
-- Network Evaluation: Polygon (previously Matic Network) is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. It enhances Ethereum's scalability and interoperability, making it an attractive network for a variety of decentralized applications, including those in decentralized finance and AI.
-- Yield Mechanism Description: Staking with Lido on Polygon allows users to earn MATIC staking rewards while maintaining full control and transferability of their assets. The staked MATIC tokens are delegated across Polygon validators part of the Lido on Polygon, with stMATIC representing the staked MATIC. Liquid staking protocols like Lido on Polygon facilitate earning staking rewards without locking assets or maintaining staking infrastructure
-- Lockup Period Considerations: The waiting period for withdrawing staked assets is approximately 3-4 days, ensuring liquidity while participating in staking rewards programs
-- Contract Audits and Auditors: Details about audits for the staking mechanisms are available on the Lido and associated GitHub repositories
-- Market Cap and TVL Analysis: The total value locked (TVL) in stMATIC and the underlying asset's market cap provide insights into the asset's stability and potential for yield. As of the latest available data, the staked amount and the rewards paid indicate active participation and a significant amount of assets under management. At the time of writing (15th March 2024), 134,021,866 MATIC has been staked and 13,299,493 MATIC have been paid out as rewards (source) 
-- Liquidity Evaluation: stMATIC can be traded on centralized and decentralized exchanges, and it can be used in liquidity pools on both Ethereum and Polygon networks, indicating a healthy liquidity profile for the asset. The Uniswap V3 pool for stMATIC can be seen here. 
-- APY Calculation: The Annual Percentage Yield (APY) for staking MATIC through Lido on Polygon is approximately 4.3%, calculated based on historical on-chain data and the average return over the past 30 days.
-- Network Oracle Integration: The integration with network oracles for real-time data provision was not explicitly mentioned in the sources, but the accurate calculation of APY and the use of decentralized finance applications suggest the use of reliable data sources for asset valuation and yield calculation
+Applying the above framework for stMATIC on the Morpheus ecosystem, we can outline the required details based on the broader framework for new asset integration as follows:  
+- **Staked Asset Identification:** stMATIC represents staked MATIC tokens within the Lido on Polygon system, providing users with a liquid token that can be used across DeFi applications on both Ethereum and Polygon networks. It's designed to allow users to stake MATIC tokens without locking assets or maintaining staking infrastructure, enabling participation in on-chain decentralized finance with their staked assets.
+- **Underlying Asset Analysis:** The underlying asset, MATIC (soon to be replaced on a 1:1 basis with POL), is the native token of the Polygon network, known for its scalability and efficiency in processing transactions on the Ethereum blockchain. The market cap and TVL of MATIC would provide insights into its stability and potential for yield. As of the latest data, the staked amount in the Lido on Polygon system is substantial, indicating a healthy participation level and confidence in the staking mechanism
+- **Network Evaluation:** Polygon (previously Matic Network) is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. It enhances Ethereum's scalability and interoperability, making it an attractive network for a variety of decentralized applications, including those in decentralized finance and AI.
+- **Yield Mechanism Description:** Staking with Lido on Polygon allows users to earn MATIC staking rewards while maintaining full control and transferability of their assets. The staked MATIC tokens are delegated across Polygon validators part of the Lido on Polygon, with stMATIC representing the staked MATIC. Liquid staking protocols like Lido on Polygon facilitate earning staking rewards without locking assets or maintaining staking infrastructure
+- **Lockup Period Considerations:** The waiting period for withdrawing staked assets is approximately 3-4 days, ensuring liquidity while participating in staking rewards programs
+- **Contract Audits and Auditors:** Details about audits for the staking mechanisms are available on the Lido and associated GitHub repositories
+- **Market Cap and TVL Analysis:** The total value locked (TVL) in stMATIC and the underlying asset's market cap provide insights into the asset's stability and potential for yield. As of the latest available data, the staked amount and the rewards paid indicate active participation and a significant amount of assets under management. At the time of writing (15th March 2024), 134,021,866 MATIC has been staked and 13,299,493 MATIC have been paid out as rewards (source) 
+- **Liquidity Evaluation:** stMATIC can be traded on centralized and decentralized exchanges, and it can be used in liquidity pools on both Ethereum and Polygon networks, indicating a healthy liquidity profile for the asset. The Uniswap V3 pool for stMATIC can be seen here. 
+- **APY Calculation:** The Annual Percentage Yield (APY) for staking MATIC through Lido on Polygon is approximately 4.3%, calculated based on historical on-chain data and the average return over the past 30 days.
+- **Network Oracle Integration:** The integration with network oracles for real-time data provision was not explicitly mentioned in the sources, but the accurate calculation of APY and the use of decentralized finance applications suggest the use of reliable data sources for asset valuation and yield calculation
 
 This framework ensures a systematic and transparent approach to evaluating and integrating new staked assets into the Morpheus ecosystem, with stMATIC serving as a prime example of how assets are assessed based on various critical parameters. 
 
@@ -82,26 +80,11 @@ Despite MOR being accessible on multiple chains through bridging, all MOR tokens
 
 The calculation of MOR emissions for capital contributors, when involving more than one asset, will adopt the Pro Rata (Yield) method. This approach considers the yield generated by each asset, ensuring emissions are aligned with the financial benefit provided to the Morpheus ecosystem. For instance, if stMATIC yields 4.3% on $100M, and stETH yields 3.6% on $400M, MOR emissions will be distributed 23% to stMATIC depositors and 77% to stETH depositors. This method is deemed the fairest, aligning emissions with the actual financial contribution of each asset to the ecosystem.
 
-Deposited Asset 
-Deposited TVL
-Yield %
-Annual Yield
-% of Yield = MOR Emissions
-stETH
-$400,000,000
-3.6%
-$14,400,000
-77%
-stMATIC
-$100,000,000
-4.3%
-$4,300,000
-23%
-Total
-$500,000,000
-n/a
-$18,700,000
-100%
+| Deposited Asset Details | Deposited TVL | Yield % | Annual Yield % of Yield = MOR Emissions |
+|----------------------------------------|---------------|------------------|----------------|
+stETH | $400,000,000 | 3.6% | $14,400,000 | 77% | 
+stMATIC | $100,000,000 | 4.3% | $4,300,000 | 23% | 
+Total | $500,000,000 | n/a | $18,700,000 | 100% | 
 
 ## Impact on Community Emissions
 
