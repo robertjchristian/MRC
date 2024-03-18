@@ -83,7 +83,7 @@ There is a dedicated forum on Discord for the discussion of MRCs here: https://d
 
 ## MRC 18: Governance Agent
 - Status: **Under Discussion**
-- Link: https://docs.google.com/document/d/1xWAu7gew2wrtk_38areb56h_byO_86LHEQiBcsGByDk/edit
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC18:%20Governance%20Agent.md
 
 ## MRC 19: Cosmos & Thorchain Expansion of Morpheus
 - Status: **Under Discussion**
