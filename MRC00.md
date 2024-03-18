@@ -19,7 +19,7 @@ Start by reading other MRCs.  When you write your MRC, use this Example Table of
 
 ## Standard Information to Include
 Each Morpheus Request for Comment should include the following:	
-![MRC Table of Contents 2024 03 17](https://github.com/MorpheusAIs/MRC/assets/1563345/2ca0b765-5aec-4ce0-8dd0-31a86963a892)
+![MRC Example Table 4](https://github.com/MorpheusAIs/MRC/assets/1563345/bab289d6-87ec-4c89-ac76-7ab12607fb11)
 
 ## Link to Details of the MRC In The MRC Repo Readme File
 - Add the MRC details in a new file in the MRC repo with a matching file named MRC####.md so everyone can comment on it directly in Github.
