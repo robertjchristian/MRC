@@ -70,7 +70,7 @@ There is a dedicated forum on Discord for the discussion of MRCs here: https://d
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC14.md
 
 ## MRC 15: A Framework for Adding Yield-Generating Assets.
-- Status: [**Under Discussion**](https://discord.com/channels/1151741790408429580/1219001846077587577), needs further discussion to cover edge cases and to receive community feedback.
+- Status: [**In Progress**](https://discord.com/channels/1151741790408429580/1219001846077587577), needs further discussion to cover edge cases and to receive community feedback.
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC15.md
 
 ## MRC 16: Toward MOR Interoperability
