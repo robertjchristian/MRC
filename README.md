@@ -101,6 +101,10 @@ There is a dedicated forum on Discord for the discussion of MRCs here: https://d
 - Status: [**In Discussion**](https://discord.com/channels/1151741790408429580/1219389170040967218)
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC22.md
 
+
 ## MRC 23: Fortifying Morpheus - The Critical Role of Protection Fund Diversification
 - Status: **[Under Discussion](https://discord.com/channels/1151741790408429580/1219753230746124418)** needs further discussion and input from the community.
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC23.md
+
+## MRC 24: Smart Agent Product Strategy
+- Status: [**In Discussion**]()
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC24.md
