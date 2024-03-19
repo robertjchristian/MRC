@@ -1,5 +1,8 @@
 # Fortifying Morpheus: The Critical Role of Protection Fund Diversification
 
+Please make comments and pull requests on Github.
+For informal chat see this Discord link: https://discord.com/channels/1151741790408429580/1219753230746124418
+
 ## Introduction
 
 This paper aims to highlight the critical role of a diversified Protection Fund in the long-term strategy of the Morpheus ecosystem. Proposed is a refined approach to the existing Morpheus model that not only enhances its current framework but also opens pathways for broader diversification.
