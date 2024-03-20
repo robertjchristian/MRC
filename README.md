@@ -108,5 +108,5 @@ There is a dedicated forum on Discord for the discussion of MRCs here: https://d
 <INSERT 24 HERE>
 
 ## MRC 25: Lake Travis - Decentralized AI Inference System
-- Status **[In Discussion](PASTE LINK HERE)** 
+- Status **[In Discussion](https://discord.com/channels/1151741790408429580/1219835072950308975)** 
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC25-LakeTravis.md
