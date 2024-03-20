@@ -4,7 +4,7 @@
 
 ### Purpose
 
-Existing work has focused largely on the Morpheus node, funding mechanisms and tokenomics. Many developers joining the project are seeking guidance on building Smart Agents. This MOR sets out a roadmap for Smart Agent development, starting off by analyzing end-user needs, identifying common agent capabilities, opportunities for trust minimization and ultimately proposing a technical strategy for a Smart Agent SDK.
+Existing work has focused largely on the Morpheus node, funding mechanisms and tokenomics. Many developers joining the project are seeking guidance on building Smart Agents. This MRC sets out a roadmap for Smart Agent development, starting off by analyzing end-user needs, identifying common agent capabilities, opportunities for trust minimization and ultimately proposing a technical strategy for a Smart Agent SDK.
 
 A variety of use cases are explored in order that the community can begin to build some consensus around priorities.  We then map out common architecture and data requirements without being prescriptive of implementation details.
 
