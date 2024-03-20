@@ -1,5 +1,3 @@
-The original document is in https://github.com/generativeone/Docs/blob/main/Building%20the%20Foundation%20-%20AMM%20Launch.md?plain=1 
-
 # Building the Foundation: Phased AMM Deployment in Morpheus
 ## Introduction
 
