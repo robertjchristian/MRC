@@ -31,7 +31,7 @@ There is a dedicated forum on Discord for the discussion of MRCs here: https://d
 
 ## MRC 20: The MOR 20 Token Standard - "Automated Recurring Revenue / Rewards" (ARR)
 - Status: **Implemented** 
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC20.md
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/Accepted/MRC20.md
 
 ## MRC 19: Cosmos & Thorchain Expansion of Morpheus
 - Status: [**Under Discussion**](https://discord.com/channels/1151741790408429580/1219341892781871177)
@@ -47,15 +47,15 @@ There is a dedicated forum on Discord for the discussion of MRCs here: https://d
 
 ## MRC 16: Toward MOR Interoperability
 - Status: [**In Progress**](https://discord.com/channels/1151741790408429580/1219043269061644359) Actively being implemented by some of the open source Smart Contract developers.
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC16.md
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/In%20Progress/MRC16.md
 
 ## MRC 15: A Framework for Adding Yield-Generating Assets.
 - Status: [**In Progress**](https://discord.com/channels/1151741790408429580/1219001846077587577), needs further discussion to cover edge cases and to receive community feedback.
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC15.md
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/In%20Progress/MRC15.md
 
 ## MRC 14: MOR Weights for Greater Granularity.
 - Status: **Adopted**, Planned implementation for April 8th 2024 weights snapshot.
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC14.md
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/Accepted/MRC14.md
 
 ## MRC 13: Launch TCM for MOR Yield Farming on Solana with JitoSOL and/or mSOL.
 - Status: [**Under Discussion**](https://discord.com/channels/1151741790408429580/1218991804876198028), needs further discussion to answer open questions (see end of doc) and approval.
