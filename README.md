@@ -9,6 +9,10 @@ There is a dedicated forum on Discord for the discussion of MRCs here: https://d
 
 ## List of MRCs:
 
+## MRC 26: Decentralised Architecture Definition and API specification
+- Status **[Under Discussion](https://discord.com/channels/1151741790408429580/1219953264943038504/)** 
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC26.md
+
 ## MRC 25: Lake Travis - Decentralized AI Inference System
 - Status **[Under Discussion](https://discord.com/channels/1151741790408429580/1219835072950308975)** 
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC25-LakeTravis.md
