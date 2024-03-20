@@ -94,11 +94,11 @@ There is a dedicated forum on Discord for the discussion of MRCs here: https://d
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC20.md
 
 ## MRC 21: Non Fungible Agents
-- Status: [**In Discussion**](https://discord.com/channels/1151741790408429580/1219342219115233381)
+- Status: [**Under Discussion**](https://discord.com/channels/1151741790408429580/1219342219115233381)
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC21.md
 
 ## MRC 22: MOR Staking - A Free Market Mechanism To Direct MOR Rewards Toward Smart Agent & End User Applications Builders
-- Status: [**In Discussion**](https://discord.com/channels/1151741790408429580/1219389170040967218)
+- Status: [**Under Discussion**](https://discord.com/channels/1151741790408429580/1219389170040967218)
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC22.md
 
 ## MRC 23: Fortifying Morpheus - The Critical Role of Protection Fund Diversification
@@ -106,9 +106,9 @@ There is a dedicated forum on Discord for the discussion of MRCs here: https://d
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC23.md
 
 ## MRC 24: Smart Agent Product Strategy
-- Status: Under Discussion
-- Link: Insert here.
+- Status: [**Under Discussion**]()
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC24.md
 
 ## MRC 25: Lake Travis - Decentralized AI Inference System
-- Status **[In Discussion](https://discord.com/channels/1151741790408429580/1219835072950308975)** 
+- Status **[Under Discussion](https://discord.com/channels/1151741790408429580/1219835072950308975)** 
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC25-LakeTravis.md
