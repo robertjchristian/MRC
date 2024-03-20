@@ -46,7 +46,7 @@ There is a dedicated forum on Discord for the discussion of MRCs here: https://d
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC08.md
 
 ## MRC 09: AMM Launch Process
-- Status: [**Under Discussion**](https://discord.com/channels/1151741790408429580/1218958132814942259), needs further discussion to cover edge cases and to receive community feedback.
+- Status: [**In progress**](https://discord.com/channels/1151741790408429580/1218958132814942259), needs further discussion to cover edge cases and to receive community feedback.
 - Link: https://github.com/generativeone/Docs/blob/main/Building%20the%20Foundation%20-%20AMM%20Launch.md
 
 ## MRC 10: Development of Smart Agent Tools Marketplace.
