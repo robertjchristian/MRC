@@ -1,4 +1,4 @@
-### Lake Travis Decentralized AI Inference System Proposal
+# Lake Travis Decentralized AI Inference System Proposal
 
 ### March 9th, 2024
 
