@@ -104,3 +104,9 @@ There is a dedicated forum on Discord for the discussion of MRCs here: https://d
 ## MRC 23: Fortifying Morpheus - The Critical Role of Protection Fund Diversification
 - Status: **[Under Discussion](https://discord.com/channels/1151741790408429580/1219753230746124418)** needs further discussion and input from the community.
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC23.md
+
+<INSERT 24 HERE>
+
+## MRC 25: Lake Travis - Decentralized AI Inference System
+- Status **[In Discussion](PASTE LINK HERE)** 
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC25-LakeTravis.md
