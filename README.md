@@ -15,7 +15,7 @@ There is a dedicated forum on Discord for the discussion of MRCs here: https://d
 
 ## MRC 25: Lake Travis - Decentralized AI Inference System
 - Status **[Under Discussion](https://discord.com/channels/1151741790408429580/1219835072950308975)** 
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC25-LakeTravis.md
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC25.md
 
 ## MRC 24: Smart Agent Product Strategy
 - Status: **[Under Discussion](https://discord.com/channels/1151741790408429580/1219837700228644936)**
