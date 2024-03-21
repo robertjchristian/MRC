@@ -9,6 +9,10 @@ There is a dedicated forum on Discord for the discussion of MRCs here: https://d
 
 ## List of MRCs:
 
+## MRC 28: Enhancing Morpheus Web3 Frontend & User Flow: Increasing Wallet Integration and Accessibility
+- Status **[Under Discussion](https://discord.com/channels/1151741790408429580/1220404152165994648)**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC28.md
+
 ## MRC 27: Progressive Web App specification
 - Status **[Under Discussion](https://discord.com/channels/1151741790408429580/1220403411753766973)** 
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC27.md
