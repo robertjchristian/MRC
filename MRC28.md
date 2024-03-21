@@ -1,4 +1,4 @@
-## Morpheus MRC-26: Enhancing Morpheus Web3 Frontend & User Flow: Increasing Wallet Integration and Accessibility
+## Morpheus MRC-28: Enhancing Morpheus Web3 Frontend & User Flow: Increasing Wallet Integration and Accessibility
 
 ### 1. Problem definition
 
