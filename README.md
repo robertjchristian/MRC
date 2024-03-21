@@ -10,7 +10,7 @@ There is a dedicated forum on Discord for the discussion of MRCs here: https://d
 ## List of MRCs:
 
 ## MRC 27: Progressive Web App specification
-- Status **[Under Discussion](https://discord.com/channels/1151741790408429580/1220218324768788500)** 
+- Status **[Under Discussion](https://discord.com/channels/1151741790408429580/1220403411753766973)** 
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC27.md
 
 ## MRC 26: Decentralised Architecture Definition and API specification
