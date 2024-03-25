@@ -1,11 +1,11 @@
 # MRC 22: MOR Staking - A Free Market Mechanism To Direct MOR Rewards Toward Smart Agent & End User Application Builders
 ## Introduction
-As described in the Waterloo paper, builders of Smart Agents and other End User Applications will receive 8% of all MOR emissions.
+As described in the Waterloo paper, builders of Smart Agents and other End User Applications will receive 24% of all MOR emissions.
 https://github.com/MorpheusAIs/MRC/blob/main/MRC08.md
 
 These rewards will be directed in proportion to the MOR holders who "Stake" their MOR into the MOR20 Smart Contract for a specific Smart Agent. For purposes of this proposal, those who stake their MOR will be referred to as “Stakers.”
 
-So for example if a MOR holder has 1% of the MOR in circulation and Stakes it toward "DeFiAgent 420 (DA420)", then for as long as that MOR is Staked, the Morpheus protocol will direct 1% of the 8% of MOR emissions (0.08% of all 14,400 daily MOR emissions = 11.52 MOR per day) toward the DeFiAgent 420's AMM Uniswap pool. 
+So for example if a MOR holder has 1% of the MOR in circulation and Stakes it toward "DeFiAgent 420 (DA420)", then for as long as that MOR is Staked, the Morpheus protocol will direct 1% of the 24% of MOR emissions (0.24% of all 14,400 daily MOR emissions = 34.56 MOR per day) toward the DeFiAgent 420's AMM Uniswap pool. 
 
 In return MOR Stakers earn the new DA420 tokens in the DeFIAgent project they Staked towards. 
 
@@ -70,23 +70,23 @@ With all that said, it is beneficial to provide a framework of standards for Sma
 - **Additional Token Notes:** $ABC will be earned block by block and emitted directly to the User's wallet. Tokens are unlocked immediately and available for use.
 
 ## MOR Token Emissions
-There will be 8% of the total emissions set aside for MOR Staking. This amount is part of the larger 24% Community Rewards bucket as outlined in the Whitepaper. In order to best utilize these emissions, the goal is to find the appropriate balance between encouraging Smart Agent / End User Application development, while also retaining the value of the MOR token. As such, the 8% of emissions will be distributed in proportion of MOR staked relative to the total circulating supply. Any undistributed emissions will be reserved and held until the completion of Epoch 1 (Year 16). When Epoch 1 ends, the banked emissions will be aggregated and restart the same methodology for Epoch 2 (years 17 - 32).  
+There will be 24% of the total emissions set aside for MOR Staking signaling. This is the same 24% Community Builders Rewards bucket as outlined in the Whitepaper. In order to best utilize these emissions, the goal is to find the appropriate balance between encouraging Smart Agent / End User Application development, while also retaining the value of the MOR token. As such, the 24% of emissions will be distributed in proportion of MOR staked relative to the total circulating supply. Any undistributed emissions will be reserved and held until the completion of Epoch 1 (Year 16). When Epoch 1 ends, the banked emissions will be aggregated and restart the same methodology for Epoch 2 (years 17 - 32).  
 
 The table below provides a more robust numerical example of how this works based on the following hypothetical assumptions:
 - Circulating Supply: 16,000 MOR
 - Daily Total MOR Emissions: 1,000 MOR
-- Daily Staking Emissions Available (8%): 80 MOR
+- Daily Staking Emissions Available (24%): 240 MOR
 
 | Staked Project          | Staked MOR | % of Total Circulating Supply | MOR Allocated |
-| ----------------------- | ---------- | ----------------------------- | ------------- |
-| Smart Agent 1           |    1,000   |              6.25%            | 5.00          |
-| Smart Agent 2           |    2,000   |             12.50%            | 10.00         |
-| Front End Application A |      500   |              3.13%            | 2.50          |
-| Front End Application B |    2,500   |             15.63%            | 12.50         |
-| None                    |   10,000   |             62.50%            | 50.00         |
-| Total                   |   16,000   |            100.00%            | 80.00         |
+| ----------------------- | ---------- | ----------------------------- | -------------  |
+| Smart Agent 1           |    1,000   |              6.25%            | 15.00          |
+| Smart Agent 2           |    2,000   |             12.50%            | 30.00          |
+| Front End Application A |      500   |              3.13%            | 7.50           |
+| Front End Application B |    2,500   |             15.63%            | 37.50          |
+| None                    |   10,000   |             62.50%            | 150.00         |
+| Total                   |   16,000   |            100.00%            | 240.00         |
 
-This approach ensures that there is access for Smart Agents / End User Applications to get ample emissions and support new development. At the same time, this approach will ensure that no Smart Agents / End User Applications are provided outsized emissions. Especially in the early days, there may be a limited number of Smart Agents / End User Applications for holders to choose to stake. This approach helps to avoid a situation where, for example, if there was only one Smart Agent available, and only 2% of total MOR was staked, that Smart Agent would only get 0.16% of emissions (2% of 8%) instead of getting the entire 8% (100% of 8% since they’re the only Smart Agent with any staking).
+This approach ensures that there is access for Smart Agents / End User Applications to get ample emissions and support new development. At the same time, this approach will ensure that no Smart Agents / End User Applications are provided outsized emissions. Especially in the early days, there may be a limited number of Smart Agents / End User Applications for holders to choose to stake. This approach helps to avoid a situation where, for example, if there was only one Smart Agent available, and only 2% of total MOR was staked, that Smart Agent would only get 0.48% of emissions (2% of 24%) instead of getting the entire 24%.
 
 Note: Circulating Supply is defined as the total amount of MOR that has been emitted since inception, including MOR that is accrued but not yet distributed. For example, on Day 90, circulating supply will be 1,286,112 MOR (Capital + Code + Compute + Community + Protection Fund) even though Compute and Community MOR has not yet been distributed. This also means that any MOR in the Protection Fund or protocol-owned liquidity (PoL) is included in circulating supply. The net impact of this is that there will never be 100% of circulating supply staked (since there will always be some percent of MOR in the Protection Fund and PoL). This ensures that there will be MOR at the end of Epoch 1 and available to fund the staking for Epoch 2.
 
@@ -108,7 +108,6 @@ Since Community emissions have been accruing since launch, but not distributed, 
 On the date that Community rewards go-live, the accrued MOR emissions for Staking will be added to the pool of Staking emissions over the next 360 days on a linear basis. For example, if Community rewards go-live on Day 240, the accrued 270,815 MOR for Staking will be distributed daily via an extra 752 MOR available to Smart Agents / End User Applications. This provides an extra incentive to early Smart Agents / End User Applications. 
 
 Note: The same methodology as used for pro-rata emissions (Staked MOR divided by total circulating supply) will apply to the Accrued emissions as well. Using the same example, if on Day 240 only 25% of total MOR supply is staked, then 188 of the 752 MOR will be distributed, with the remaining 564 MOR being reserved until Epoch 2.
-
 
 ## Implementation
 The implementation would be a variation of the standard MOR20 Token Smart Contracts, but instead of stETH being the source of yield, the MOR token itself would serve this purpose.
