@@ -95,19 +95,19 @@ MOR emissions will be allocated on a block by block basis to the Smart Agent / E
 
 Since Community emissions have been accruing since launch, but not distributed, there will be an accrual of MOR as of the date that Community rewards begin distribution. While no specific date has been identified, the following provides some estimates to understand the potential size of this accrual:
 
-| Day | Accrued Community MOR | Accrued Staking MOR |
-| --- | --------------------- | ------------------- |
-| 90  | 308,667   |  102,889                 |
-| 120 | 410,489   |  136,830         |
-| 150 | 511,778   |  170,593          |
-| 180 | 612,534   |  204,178         |
-| 210 | 712,756   |  237,585         |
-| 240 | 812,445   |  270,815          |
-| 270 | 911,601   |  303,867         |
+| Day | Accrued Community MOR For Staking |
+| --- | --------------------- |
+| 90  | 308,667   | 
+| 120 | 410,489   |
+| 150 | 511,778   |  
+| 180 | 612,534   |  
+| 210 | 712,756   |
+| 240 | 812,445   |
+| 270 | 911,601   |
 
-On the date that Community rewards go-live, the accrued MOR emissions for Staking will be added to the pool of Staking emissions over the next 360 days on a linear basis. For example, if Community rewards go-live on Day 240, the accrued 270,815 MOR for Staking will be distributed daily via an extra 752 MOR available to Smart Agents / End User Applications. This provides an extra incentive to early Smart Agents / End User Applications. 
+On the date that Community rewards go-live, the accrued MOR emissions for Staking will be added to the pool of Staking emissions over the next 360 days on a linear basis. For example, if Community rewards go-live on Day 240, the accrued 812,445 MOR for Staking will be distributed daily via an extra 3,385 MOR available to Smart Agents / End User Applications. This provides an extra incentive to early Smart Agents / End User Applications. 
 
-Note: The same methodology as used for pro-rata emissions (Staked MOR divided by total circulating supply) will apply to the Accrued emissions as well. Using the same example, if on Day 240 only 25% of total MOR supply is staked, then 188 of the 752 MOR will be distributed, with the remaining 564 MOR being reserved until Epoch 2.
+Note: The same methodology as used for pro-rata emissions (Staked MOR divided by total circulating supply) will apply to the Accrued emissions as well. Using the same example, if on Day 240 only 25% of total MOR supply is staked, then 846 of the 3,385 MOR will be distributed, with the remaining 2,539 MOR being reserved until Epoch 2.
 
 ## Implementation
 The implementation would be a variation of the standard MOR20 Token Smart Contracts, but instead of stETH being the source of yield, the MOR token itself would serve this purpose.
