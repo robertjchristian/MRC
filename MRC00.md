@@ -32,7 +32,7 @@ Properly document your MRC in the repository and list it in the README for commu
 ## Select the Affected Category
 Choose the category matching the MRI your MRC impacts. Reach out to [SmartAgents] if you're uncertain about the category fit.
 
-## Morpheus Reference Implementation (MRI) Categories: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md
+## [Morpheus Reference Implementation (MRI) Categories](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md) 
 ### Smart Contracts: Changes to Morpheus smart contracts.
 - Maintainer's Discord Handle: smartagents
 - Link to Repo: https://github.com/MorpheusAIs/SmartContracts
