@@ -65,9 +65,8 @@ Choose the category matching the MRI your MRC impacts. Reach out to [SmartAgents
 - Link to Repo: https://github.com/MorpheusAIs/MRC/blob/main/In%20Progress/MRC16.md)https://github.com/MorpheusAIs/MRC/blob/main/In%20Progress/MRC16.md
 
 ## Meta MRCs about MRCs
-- For most MRCs in general this MRC00 is the first Meta MRC. https://github.com/MorpheusAIs/MRC/blob/main/MRC00.md  
-- For MRCs about adding new assets, yield sources, chains, see this MRC guide.
-https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/The%20Morpheus%20Asset%20Integration%20Framework.md
+- [For most MRCs in general this MRC00 is the first Meta MRC.](https://github.com/MorpheusAIs/MRC/blob/main/MRC00.md  ) 
+- [For MRCs about adding new assets, yield sources, chains, see this MRC guide.](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/The%20Morpheus%20Asset%20Integration%20Framework.md)
 
 ## Life Cycle of an MRC
 **- 1. The Beginning:** The MRC has to be merged into Discussion, this indicates the repo maintainer believes the MRC is at least worth discussion and has basic merit to their Reference Implementation.
