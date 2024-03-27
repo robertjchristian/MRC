@@ -91,8 +91,8 @@ The Morpheus Atomic Governance system aims to be a free marketplace even for the
 
 What this will look like in practice is:
 - Anyone can start a fork of an existing [Morpheus Reference Implementation.](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md)
-- They can set their own weights how the choose to reward those contributing to their repo.
-- Their code is a MRC21 Non Fungible Agent with a reward address.
+- They can set their own weights for how they choose to reward those contributing to their version of the repository.
+- Their code / version of the MRI is a MRC21 Non Fungible Agent with a reward address.
 - The protocol MOR emissions gauge an on chain metric to understand usage of that fork vs all other options.
 - MOR rewards are sent accordingly (as part of the 24% Coding bucket).
 - This on chain mechanism could leverage a lot of the [MOR Staking on chain signaling already being developed.](https://github.com/MorpheusAIs/MRC/blob/main/MRC22.md )
