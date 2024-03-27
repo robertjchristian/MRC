@@ -1,61 +1,80 @@
-# MRC 00: Morpheus Request for Comment (MRC) Guide
+# MRC 00: Morpheus Request for Comment (MRC)  Introduction
+MRC, meaning Morpheus Request for Comments, is integral in suggesting and executing changes within the Morpheus ecosystem. This document is designed to make the submission process more transparent, fair, and efficient.
 
-### What is an MRC?
-MRC stands for Morpheus Request for Comments.  It’s a document that describes a change to Morpheus. 
+## Purpose and Scope
+This guide is crafted for contributors and users within the MOR Ecosystem, facilitating structured proposals for standards and material changes / proposals.
 
-### Who’s it for?
-Contributors to the MOR codebase, who are looking for direction or inspiration on how to get weights. 
-Users in the MOR Ecosystem who want to suggest specific changes to Morpheus
+## Submission Timeline and Platforms
+Proposals are welcome on GitHub during the Fair Launch phase, eventually moving to MOR.Software for broader community interaction.
 
-### Why an MRC Guide?
-Well formatted MRCs are easy to review and discuss amongst the community. 
-It allows weights to be distributed only to people who have provided good reason to receive them. 
-
-### Where and when can I submit my MRC?
-Until the end of Fair Launch, the MRCs will first be on GitHub and then on MOR.Software, ultimately reflected on other dashboards. 
-
-### How do I write a well-formed MRC?
-Start by reading other MRCs.  When you write your MRC, use this Example Table of Contents as a guide. 
+Writing a Well-Formed MRC To draft a compelling MRC, study existing examples to grasp the expected format and substance. Use the provided templates for standards and changes to Morpheus structure your proposal.
 
 ## Standard Information to Include
-Each Morpheus Request for Comment should include the following:	
-![MRC Example Table 4](https://github.com/MorpheusAIs/MRC/assets/1563345/bab289d6-87ec-4c89-ac76-7ab12607fb11)
+An MRC must encompass specific details based on its type of proposal, as detailed in the subsequent templates.
 
-## Link to Details of the MRC In The MRC Repo Readme File
-- Add the MRC details in a new file in the MRC repo with a matching file named MRC####.md so everyone can comment on it directly in Github.
-- Add your MRC number and link to the full file here: https://github.com/MorpheusAIs/MRC/blob/main/README.md
-- Google Drive or Notion are good tools for drafting however for the MRC to be considered, all the details of the MRC should be published on Github.
+## MRC Request Template
+* Title: MRC#### - [Title of the Funding Request] - [Category]
+* Author(s): [Author Name(s) and Discord Handle(s)]
+* Category: [refer to Categories below]
+* Summary: Concise summary of the initiative.
+* Rationale: Importance of the project and why it merits acceptance, including a simple solution description, delivery strategy, and technology stack.
+* Value Proposition: How will the project tangibly increase Morpheus's value to users?
+* Dependencies: Other MRCs or tasks needing completion beforehand.
+* New Weights Requested: Number of weights. [See guide here.](https://github.com/MorpheusAIs/Docs/blob/main/Guides/Code%20Contributor%20Weights%20Guide.md)
+* Existing Weights: Current weights of features or code your proposal will enhance.
+* Deliverables: Detailed account of what the project will deliver.
+* Why You?: Your or your team's credentials for executing the proposal.
+* Status: Current state of the proposal (Discussion, In Progress, Implemented).
 
-## List of Morpheus Reference Implementations Effected
-All MRCs should include a list of the Morpheus Reference Implementations (MRIs) they will update / effect.
-![Morpheus Reference Implementations 2024 03 03](https://github.com/MorpheusAIs/MRC/assets/1563345/16cea869-03e9-405e-b281-aa084089c698)
+## Submission Guidelines
+Properly document your MRC in the repository and list it in the README for community review. Fork the relevant template and select the most pertinent category.
 
-See the details on all the of the MRIs here: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md
-- Smart Contracts on Ethereum / Arbitrum
-- Smart Agents Tools & Examples
-- Morpheus Local Install Desktop / Mobile
-- TCM / MOR20 Token Standard for Fair Launches
-- Protection Fund
-- Capital Proofs Extended beyond Lido stETH
-- Compute Proofs Morpheus / Lumerin
-- Code Proofs & Dashboards
-- Frontend Proofs & Examples
-- Interoperability
+## Select the Affected Category
+Choose the category matching the MRI your MRC impacts. Reach out to [SmartAgents] if you're uncertain about the category fit.
 
-## MRC FAQ
+## Morpheus Reference Implementation (MRI) Categories: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md
+**Smart Contracts: Changes to Morpheus smart contracts.**
+    - Maintainer's Discord Handle: smartagents
+    - Link to Repo: https://github.com/MorpheusAIs/SmartContracts
+**Smart Agent Tools & Examples: Development and deployment aids for smart agents.**
+    - Maintainer's Discord Handle: lachsbagel
+    - Link to Repo: https://github.com/MorpheusAIs/SmartAgents
+**Morpheus Local Desktop/Mobile: Desktop and mobile application proposals.**
+    - Maintainer's Discord Handle: scott_b_
+    - Link to Repo: https://github.com/MorpheusAIs/Morpheus
+**TCM / MOR20 (Token and Financial Models): TCM/MOR20 standard-related proposals.**
+    - Maintainer's Discord Handle: storm.father
+    - Link to Repo: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/TechnoCapitalMachineTCM.md
+**Protection Fund: Enhancements to protection funds and security.**
+    - Maintainer's Discord Handle: storm.father 
+    - Link to Repo: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Protection%20Fund%20Details.md
+**Capital Proofs Extending: Capital proofs improvements.**
+    - Maintainer's Discord Handle: smartagents
+    - Link to Repo: https://github.com/MorpheusAIs/MRC/blob/main/In%20Progress/MRC15.md
+**Compute Proofs MOR/Lumerin: Computational proofs improvements.**
+    - Maintainer's Discord Handle: rcondron
+    - Link to Repo: https://github.com/MorpheusAIs/Morpheus-Lumerin-Node
+**Code Proofs and Examples** 
+    - Maintainer's Discord Handle: scott_b_
+    - Link to Repo: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Coder%20Guide.md
+**Frontend Proofs & Examples: Frontend resource, proofs, and functionality enhancements.**
+    - Maintainer's Discord Handle: erikvoorhees
+    - Link to Repo: https://github.com/MorpheusAIs/MRC/blob/main/MRC08.md)https://github.com/MorpheusAIs/MRC/blob/main/MRC08.md 
+**Interoperability: Proposals for improving ecosystem interoperability.**
+ - Maintainer's Discord Handle: urklan
+    - Link to Repo: https://github.com/MorpheusAIs/MRC/blob/main/In%20Progress/MRC16.md)https://github.com/MorpheusAIs/MRC/blob/main/In%20Progress/MRC16.md
 
-Can an MRC be submitted by a group?
-↳ Yes, but weights can be attributed to only one DeveloperID.   
+## Meta MRCs about MRCs
+- For most MRCs in general this MRC00 is the first Meta MRC. https://github.com/MorpheusAIs/MRC/blob/main/MRC00.md  
+- For MRCs about adding new assets, yield sources, chains, see this MRC guide.
+https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/The%20Morpheus%20Asset%20Integration%20Framework.md
 
-Can I submit and manage my MRCs through my Profile page on MOR.software?
-↳ Yes, that’s probably the easiest way to do it.
+## Life Cycle of an MRC
+**- 1. The Beginning:** The MRC has to be merged into Discussion, this indicates the repo maintainer believes the MRC is at least worth discussion and has basic merit to their Reference Implementation.
 
-Can I include diagrams, images, and videos in an MRC?
-↳ Please do.  And keep any files under 25 MB.  100MB total per MRC
+**- 2. Timeline Expecations:** Maintainers should seek to review and provide feedback to MRC authors once a week. So authors can get a sense of the next steps/current state of their MRC.
 
-Can I just submit code as the MRC?
-↳ No.  The point of the MRC is to think first, code second.  
+**- 3. Advancing An MRC to "In Progress":** Much of the feedback to MRC authors is often about understanding dependencies and what technical hurtles exist for the MRC to be implemented.
+Once all technical dependencies have been addressed, only then can an MRC be accepted into the "In Progress" stage.
 
-What if I’m not a developer?
-↳ No problem.  Anyone can create an MRC.
-
+**- 4. Completing / Implementing an MRC:** For the MRC to be considered complete and "Implemented" the code proposed must be contributed and merged by the maintainer.
