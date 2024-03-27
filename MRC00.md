@@ -72,7 +72,7 @@ https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/The%20M
 ## Life Cycle of an MRC
 **- 1. The Beginning:** The MRC has to be merged into Discussion, this indicates the repo maintainer believes the MRC is at least worth discussion and has basic merit to their Reference Implementation.
 
-**- 2. Timeline Expecations:** Maintainers should seek to review and provide feedback to MRC authors once a week. So authors can get a sense of the next steps/current state of their MRC.
+**- 2. Timeline Expectations:** Maintainers should seek to review and provide feedback to MRC authors once a week. So authors can get a sense of the next steps/current state of their MRC.
 
 **- 3. Advancing An MRC to "In Progress":** Much of the feedback to MRC authors is often about understanding dependencies and what technical hurtles exist for the MRC to be implemented.
 Once all technical dependencies have been addressed, only then can an MRC be accepted into the "In Progress" stage.
