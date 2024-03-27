@@ -33,36 +33,36 @@ Properly document your MRC in the repository and list it in the README for commu
 Choose the category matching the MRI your MRC impacts. Reach out to [SmartAgents] if you're uncertain about the category fit.
 
 ## Morpheus Reference Implementation (MRI) Categories: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md
-**Smart Contracts: Changes to Morpheus smart contracts.**
-    - Maintainer's Discord Handle: smartagents
-    - Link to Repo: https://github.com/MorpheusAIs/SmartContracts
-**Smart Agent Tools & Examples: Development and deployment aids for smart agents.**
-    - Maintainer's Discord Handle: lachsbagel
-    - Link to Repo: https://github.com/MorpheusAIs/SmartAgents
-**Morpheus Local Desktop/Mobile: Desktop and mobile application proposals.**
-    - Maintainer's Discord Handle: scott_b_
-    - Link to Repo: https://github.com/MorpheusAIs/Morpheus
-**TCM / MOR20 (Token and Financial Models): TCM/MOR20 standard-related proposals.**
-    - Maintainer's Discord Handle: storm.father
-    - Link to Repo: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/TechnoCapitalMachineTCM.md
-**Protection Fund: Enhancements to protection funds and security.**
-    - Maintainer's Discord Handle: storm.father 
-    - Link to Repo: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Protection%20Fund%20Details.md
-**Capital Proofs Extending: Capital proofs improvements.**
-    - Maintainer's Discord Handle: smartagents
-    - Link to Repo: https://github.com/MorpheusAIs/MRC/blob/main/In%20Progress/MRC15.md
-**Compute Proofs MOR/Lumerin: Computational proofs improvements.**
-    - Maintainer's Discord Handle: rcondron
-    - Link to Repo: https://github.com/MorpheusAIs/Morpheus-Lumerin-Node
-**Code Proofs and Examples** 
-    - Maintainer's Discord Handle: scott_b_
-    - Link to Repo: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Coder%20Guide.md
-**Frontend Proofs & Examples: Frontend resource, proofs, and functionality enhancements.**
-    - Maintainer's Discord Handle: erikvoorhees
-    - Link to Repo: https://github.com/MorpheusAIs/MRC/blob/main/MRC08.md)https://github.com/MorpheusAIs/MRC/blob/main/MRC08.md 
-**Interoperability: Proposals for improving ecosystem interoperability.**
- - Maintainer's Discord Handle: urklan
-    - Link to Repo: https://github.com/MorpheusAIs/MRC/blob/main/In%20Progress/MRC16.md)https://github.com/MorpheusAIs/MRC/blob/main/In%20Progress/MRC16.md
+### Smart Contracts: Changes to Morpheus smart contracts.
+- Maintainer's Discord Handle: smartagents
+- Link to Repo: https://github.com/MorpheusAIs/SmartContracts
+### Smart Agent Tools & Examples: Development and deployment aids for smart agents.
+- Maintainer's Discord Handle: lachsbagel
+- Link to Repo: https://github.com/MorpheusAIs/SmartAgents
+### Morpheus Local Desktop/Mobile: Desktop and mobile application proposals.
+- Maintainer's Discord Handle: scott_b_
+- Link to Repo: https://github.com/MorpheusAIs/Morpheus
+### TCM / MOR20 (Token and Financial Models): TCM/MOR20 standard-related proposals.
+- Maintainer's Discord Handle: storm.father
+- Link to Repo: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/TechnoCapitalMachineTCM.md
+### Protection Fund: Enhancements to protection funds and security.
+- Maintainer's Discord Handle: storm.father 
+- Link to Repo: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Protection%20Fund%20Details.md
+### Capital Proofs Extending: Capital proofs improvements.
+- Maintainer's Discord Handle: smartagents
+- Link to Repo: https://github.com/MorpheusAIs/MRC/blob/main/In%20Progress/MRC15.md
+### Compute Proofs MOR/Lumerin: Computational proofs improvements.**
+- Maintainer's Discord Handle: rcondron
+- Link to Repo: https://github.com/MorpheusAIs/Morpheus-Lumerin-Node
+### Code Proofs and Examples 
+- Maintainer's Discord Handle: scott_b_
+- Link to Repo: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Coder%20Guide.md
+### Frontend Proofs & Examples: Frontend resource, proofs, and functionality enhancements.**
+- Maintainer's Discord Handle: erikvoorhees
+- Link to Repo: https://github.com/MorpheusAIs/MRC/blob/main/MRC08.md)https://github.com/MorpheusAIs/MRC/blob/main/MRC08.md 
+### Interoperability: Proposals for improving ecosystem interoperability.**
+- Maintainer's Discord Handle: urklan
+- Link to Repo: https://github.com/MorpheusAIs/MRC/blob/main/In%20Progress/MRC16.md)https://github.com/MorpheusAIs/MRC/blob/main/In%20Progress/MRC16.md
 
 ## Meta MRCs about MRCs
 - For most MRCs in general this MRC00 is the first Meta MRC. https://github.com/MorpheusAIs/MRC/blob/main/MRC00.md  
