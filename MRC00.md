@@ -51,16 +51,16 @@ Choose the category matching the MRI your MRC impacts. Reach out to [SmartAgents
 ### Capital Proofs Extending: Capital proofs improvements.
 - Maintainer's Discord Handle: smartagents
 - Link to Repo: https://github.com/MorpheusAIs/MRC/blob/main/In%20Progress/MRC15.md
-### Compute Proofs MOR/Lumerin: Computational proofs improvements.**
+### Compute Proofs MOR/Lumerin: Computational proofs improvements.
 - Maintainer's Discord Handle: rcondron
 - Link to Repo: https://github.com/MorpheusAIs/Morpheus-Lumerin-Node
 ### Code Proofs and Examples 
 - Maintainer's Discord Handle: scott_b_
 - Link to Repo: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Coder%20Guide.md
-### Frontend Proofs & Examples: Frontend resource, proofs, and functionality enhancements.**
+### Frontend Proofs & Examples: Frontend resource, proofs, and functionality enhancements.
 - Maintainer's Discord Handle: erikvoorhees
 - Link to Repo: https://github.com/MorpheusAIs/MRC/blob/main/MRC08.md)https://github.com/MorpheusAIs/MRC/blob/main/MRC08.md 
-### Interoperability: Proposals for improving ecosystem interoperability.**
+### Interoperability: Proposals for improving ecosystem interoperability.
 - Maintainer's Discord Handle: urklan
 - Link to Repo: https://github.com/MorpheusAIs/MRC/blob/main/In%20Progress/MRC16.md)https://github.com/MorpheusAIs/MRC/blob/main/In%20Progress/MRC16.md
 
