@@ -78,3 +78,9 @@ https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/The%20M
 Once all technical dependencies have been addressed, only then can an MRC be accepted into the "In Progress" stage.
 
 **- 4. Completing / Implementing an MRC:** For the MRC to be considered complete and "Implemented" the code proposed must be contributed and merged by the maintainer.
+
+## Acceptance / Rejection:
+First it's important understand that MRCs are a competitive process.
+Someone who proposes better implementation/lower weights/shorter timelines can be chosen (understand that submitting an MRC does not equal that MRC being accepted).
+
+Second, if the maintainers' feedback wasn't addressed by an author for two weeks, the MRC is considered rejected and can't be re-submitted for one month. This could be do to a technical hurtle that can't be currently addressed, or not enough weights being available from that maintainer, or the maintainer judging the work too expensive vs the value of the change / improvement proposed.
