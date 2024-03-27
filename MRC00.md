@@ -86,3 +86,18 @@ Someone who proposes better implementation/lower weights/shorter timelines can b
 - Second, if the maintainers' feedback wasn't addressed by an author for two weeks, the MRC is considered rejected and can't be re-submitted for one month. 
 
 - Third, a maintainer may close a MRC pull request if there is a technical hurtle that can't be currently addressed to implement the MRC, or not enough weights being available from that maintainer to accept the MRC, or the maintainer judges the MRC proposal too expensive vs the value of the change / improvement proposed.
+
+## Competition Among MRI Repo Maintainers To Increase Decentralization
+The Morpheus Atomic Governance system aims to be a free marketplace even for the Morpheus Reference Implementations themselves and thus the repo maintainers are not static but compete and are dynamic.
+
+What this will look like in practice is:
+- Anyone can start a fork of an existing [Morpheus Reference Implementation.](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md)
+- They can set their own weights how the choose to reward those contributing to their repo.
+- Their code is a MRC21 Non Fungible Agent with a reward address.
+- The protocol MOR emissions gauge an on chain metric to understand usage of that fork vs all other options.
+- MOR rewards are sent accordingly (as part of the 24% Coding bucket).
+- This on chain mechanism could leverage a lot of the [MOR Staking on chain signaling already being developed.](https://github.com/MorpheusAIs/MRC/blob/main/MRC22.md )
+- If MOR token holding does end up being the mechanism for Signaling then a free market will develop for MRIs.
+- This structure leaves the MRI system open for new forks, new contributors, and free competition over time.
+- Instead of ending up with 1 version the Morpheus network will have multiple competing versions.
+
