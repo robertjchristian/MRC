@@ -9,10 +9,12 @@ This guide is crafted for contributors and users within the MOR ecosystem, facil
 - If you have a general proposal for a Morpheus feature its [best to discuss it on Discord first](https://discord.gg/morpheusai). The MRC process is for technical proposals regarding HOW to implement improvements to Morpheus rather than general discussion of ideas.
 
 ## Submission Timeline and Platforms
-Proposals are welcome on GitHub during the Fair Launch phase, eventually moving to MOR.Software for broader community interaction.
+Proposals are welcome on GitHub during the Fair Launch phase, eventually moving to [MOR.Software](https://mor.software/) for broader community interaction.
 
 ## Writing a Well-Formed MRC
-To draft a compelling MRC, study existing examples to grasp the expected format and substance. Use the provided templates for standards and changes to Morpheus structure your proposal.
+- To draft a compelling MRC, study existing examples to grasp the expected format and substance. 
+- Use the provided template for standards and changes to Morpheus structure your proposal.
+- **Keep the scope of your proposal as narrow as possible.** The broader the proposal, the more technical dependencies and complexity will block its path forward.
 
 ## Standard Information to Include
 An MRC must encompass specific details based on its type of proposal, as detailed in the subsequent templates.
