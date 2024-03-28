@@ -2,7 +2,7 @@
 Proposals to improve any of the Morpheus Reference Implementations (MRIs). See the details on all the of the MRIs here: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md 
 
 ## Meta MRCs about MRCs
-- [For most MRCs in general this MRC00 is the first Meta MRC about how to submit an MRC.](https://github.com/MorpheusAIs/MRC/blob/main/MRC00.md  ) 
+- [For most MRCs in general this MRC00 is the first Meta MRC about how to submit an MRC.](https://github.com/MorpheusAIs/MRC/blob/main/MRC00.md) 
 - [For MRCs about adding new assets, yield sources, chains, see this MRC guide.](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/The%20Morpheus%20Asset%20Integration%20Framework.md)
 - Similar to the function of the [ERC system](https://eips.ethereum.org/erc ) serves in Ethereum, the MRC process provides a common language to describe interactions between models, agents, compute, payments, funding and so forth.
 - There is a dedicated forum on Discord for the discussion of MRCs here: https://discord.com/channels/1151741790408429580/1218593251079094383
