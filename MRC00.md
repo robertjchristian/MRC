@@ -73,11 +73,11 @@ Choose the matching MRI that your MRC impacts. Reach out to the repo Maintainer 
 - [For MRCs about adding new assets, yield sources, chains, see this MRC guide.](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/The%20Morpheus%20Asset%20Integration%20Framework.md)
 
 ## Life Cycle of an MRC
-**- 1. The Beginning:** The MRC has to be merged into Discussion, this indicates the repo maintainer believes the MRC is at least worth discussion and has basic merit to their Reference Implementation.
-**- 2. Timeline Expectations:** Maintainers should seek to review and provide feedback to MRC authors once a week. So authors can get a sense of the next steps/current state of their MRC.
-**- 3. Advancing An MRC to "In Progress":** Much of the feedback to MRC authors is often about understanding dependencies and what technical hurtles exist for the MRC to be implemented.
+- **1. The Beginning:** The MRC has to be merged into Discussion, this indicates the repo maintainer believes the MRC is at least worth discussion and has basic merit to their Reference Implementation.
+- **2. Timeline Expectations:** Maintainers should seek to review and provide feedback to MRC authors once a week. So authors can get a sense of the next steps/current state of their MRC.
+- **3. Advancing An MRC to "In Progress":** Much of the feedback to MRC authors is often about understanding dependencies and what technical hurtles exist for the MRC to be implemented.
 Once all technical dependencies have been addressed, only then can an MRC be accepted into the "In Progress" stage.
-**- 4. Completing / Implementing an MRC:** For the MRC to be considered complete and "Implemented" the code proposed must be contributed and merged by the maintainer.
+- **4. Completing / Implementing an MRC:** For the MRC to be considered complete and "Implemented" the code proposed must be contributed and merged by the maintainer.
 
 ## Acceptance / Rejection:
 - First, it's important understand that MRCs are a competitive process.
@@ -88,7 +88,7 @@ Someone who proposes better implementation/lower weights/shorter timelines can b
 ## Competition Among MRI Repo Maintainers To Increase Decentralization
 The Morpheus Atomic Governance system aims to be a free marketplace even for the Morpheus Reference Implementations themselves and thus the repo maintainers are not static but compete and are dynamic.
 
-What this will look like in practice is:
+**What this will look like in practice is:**
 - Anyone can start a fork of an existing [Morpheus Reference Implementation.](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md)
 - They can set their own weights for how they choose to reward those contributing to their version of the repository.
 - Their code / version of the MRI is a MRC21 Non Fungible Agent with a reward address.
