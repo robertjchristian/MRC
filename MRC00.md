@@ -2,10 +2,11 @@
 MRC, meaning Morpheus Request for Comments, is integral in suggesting and executing changes within the Morpheus ecosystem. This document is designed to make the submission process more transparent, fair, and efficient.
 
 ## Purpose and Scope
-This guide is crafted for contributors and users within the MOR ecosystem, facilitating structured proposals for standards and material changes to one of the ten [Morpheus Reference Implementations (MRIs).](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md) There is an active forum on [Discord for all MRCs currently under discussion](https://discord.com/channels/1151741790408429580/1215401416659832842).
+This guide is crafted for contributors and users within the MOR ecosystem, facilitating structured proposals for standards and **material changes to one of the ten** [Morpheus Reference Implementations (MRIs).](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md) There is an active forum on [Discord for all MRCs currently under discussion](https://discord.com/channels/1151741790408429580/1215401416659832842).
 ![MRIslist](https://github.com/MorpheusAIs/MRC/assets/1563345/c5333b52-709d-4c7b-9a68-2f2e06e7bb63) 
 
 **Notes:**
+- If your contributions is a small incremental improvement to an existing Code base, just Contribute the code, no MRC required. 
 - If you are seeking to build a Smart Agent and deploy it on Morpheus, no MRC is required, just register it on [MOR.Software](https://mor.software/) and enjoy.
 - If you have a general proposal for a Morpheus feature its [best to discuss it on Discord first](https://discord.gg/morpheusai). The MRC process is for technical proposals regarding HOW to implement improvements to Morpheus rather than general discussion of ideas.
 
