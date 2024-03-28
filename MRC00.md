@@ -33,8 +33,8 @@ Proposals are welcome on GitHub during the Fair Launch phase, eventually moving 
 ## Submission Guidelines
 Properly document your MRC in the repository and list it in the README for community review. Fork the relevant template and select the most pertinent category.
 
-## Select the Affected Category
-Choose the matching MRI your MRC impacts. Reach out to [SmartAgents] if you're uncertain about the category fit.
+## Select the Affected Morpheus Reference Implementation
+Choose the matching MRI that your MRC impacts. Reach out to the repo Maintainer you think the MRC is most related to if you are uncertain. List below.
 
 ## [Morpheus Reference Implementation (MRI) Categories](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md) 
 #### Smart Contracts: Changes to Morpheus smart contracts.
