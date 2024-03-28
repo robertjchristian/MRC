@@ -7,7 +7,8 @@ This guide is crafted for contributors and users within the MOR ecosystem, facil
 ## Submission Timeline and Platforms
 Proposals are welcome on GitHub during the Fair Launch phase, eventually moving to MOR.Software for broader community interaction.
 
-Writing a Well-Formed MRC To draft a compelling MRC, study existing examples to grasp the expected format and substance. Use the provided templates for standards and changes to Morpheus structure your proposal.
+## Writing a Well-Formed MRC
+To draft a compelling MRC, study existing examples to grasp the expected format and substance. Use the provided templates for standards and changes to Morpheus structure your proposal.
 
 ## Standard Information to Include
 An MRC must encompass specific details based on its type of proposal, as detailed in the subsequent templates.
