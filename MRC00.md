@@ -6,7 +6,7 @@ This guide is crafted for contributors and users within the MOR ecosystem, facil
 
 **Notes:**
 - If you are seeking to build a Smart Agent and deploy it on Morpheus, no MRC is required, just register it on [MOR.Software](https://mor.software/) and enjoy.
-- If you have a general proposal for a Morpheus feature its best to discuss it on Discord first. The MRC process is for technical proposals regarding HOW to implement improvements to Morpheus rather than general discussion of ideas.
+- If you have a general proposal for a Morpheus feature its [best to discuss it on Discord first](https://discord.gg/morpheusai). The MRC process is for technical proposals regarding HOW to implement improvements to Morpheus rather than general discussion of ideas.
 
 ## Submission Timeline and Platforms
 Proposals are welcome on GitHub during the Fair Launch phase, eventually moving to MOR.Software for broader community interaction.
