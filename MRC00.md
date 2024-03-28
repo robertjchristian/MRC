@@ -16,9 +16,6 @@ Proposals are welcome on GitHub during the Fair Launch phase, eventually moving 
 - Use the provided template for standards and changes to Morpheus structure your proposal.
 - **Keep the scope of your proposal as narrow as possible.** The broader the proposal, the more technical dependencies and complexity will block its path forward.
 
-## Standard Information to Include
-An MRC must encompass specific details based on its type of proposal, as detailed in the subsequent templates.
-
 ## MRC Request Template
 * Title: MRC#### - [Title of the Proposal]]
 * Author(s): [Author Name (can be anon)  and Discord Handle(s)]
