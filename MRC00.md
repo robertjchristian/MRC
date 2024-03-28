@@ -40,6 +40,12 @@ Proposals are welcome on GitHub during the Fair Launch phase, eventually moving 
 * Background / Experience of Author / Implementer: Your or your team's credentials for executing the proposal.
 * Status: Current state of the proposal (Discussion, In Progress, Implemented).
 
+## Acceptance / Rejection:
+- First, it's important understand that MRCs are a competitive process.
+Someone who proposes better implementation/lower weights/shorter timelines can be chosen (understand that submitting an MRC does not equal that MRC being accepted).
+- Second, if the maintainers' feedback wasn't addressed by an author for two weeks, the MRC is considered rejected and can't be re-submitted for one month. 
+- Third, a maintainer may close a MRC pull request if there is a technical hurtle that can't be currently addressed to implement the MRC, or not enough weights being available from that maintainer to accept the MRC, or the maintainer judges the MRC proposal too expensive vs the value of the change / improvement proposed.
+
 ## Submission Guidelines
 Properly document your MRC in the repository and list it in the README for community review. Fork the relevant template and select the most pertinent category.
 
@@ -81,12 +87,6 @@ Choose the matching MRI that your MRC impacts. Reach out to the repo Maintainer 
 ## Meta MRCs about MRCs
 - [For most MRCs in general this MRC00 is the first Meta MRC.](https://github.com/MorpheusAIs/MRC/blob/main/MRC00.md  ) 
 - [For MRCs about adding new assets, yield sources, chains, see this MRC guide.](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/The%20Morpheus%20Asset%20Integration%20Framework.md)
-
-## Acceptance / Rejection:
-- First, it's important understand that MRCs are a competitive process.
-Someone who proposes better implementation/lower weights/shorter timelines can be chosen (understand that submitting an MRC does not equal that MRC being accepted).
-- Second, if the maintainers' feedback wasn't addressed by an author for two weeks, the MRC is considered rejected and can't be re-submitted for one month. 
-- Third, a maintainer may close a MRC pull request if there is a technical hurtle that can't be currently addressed to implement the MRC, or not enough weights being available from that maintainer to accept the MRC, or the maintainer judges the MRC proposal too expensive vs the value of the change / improvement proposed.
 
 ## Competition Among MRI Repo Maintainers To Increase Decentralization
 [The Morpheus Atomic Governance system](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/TechnoCapitalMachineTCM.md#atomic-governance) aims to be a free marketplace even for the Morpheus Reference Implementations themselves and thus the repo maintainers are not static but compete and are dynamic.
