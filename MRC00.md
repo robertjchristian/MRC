@@ -86,7 +86,7 @@ Someone who proposes better implementation/lower weights/shorter timelines can b
 - Third, a maintainer may close a MRC pull request if there is a technical hurtle that can't be currently addressed to implement the MRC, or not enough weights being available from that maintainer to accept the MRC, or the maintainer judges the MRC proposal too expensive vs the value of the change / improvement proposed.
 
 ## Competition Among MRI Repo Maintainers To Increase Decentralization
-The Morpheus Atomic Governance system aims to be a free marketplace even for the Morpheus Reference Implementations themselves and thus the repo maintainers are not static but compete and are dynamic.
+[The Morpheus Atomic Governance system](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/TechnoCapitalMachineTCM.md#atomic-governance) aims to be a free marketplace even for the Morpheus Reference Implementations themselves and thus the repo maintainers are not static but compete and are dynamic.
 
 **What this will look like in practice is:**
 - Anyone can start a fork of an existing [Morpheus Reference Implementation.](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md)
