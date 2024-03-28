@@ -49,6 +49,10 @@ Someone who proposes better implementation/lower weights/shorter timelines can b
 ## Submission Guidelines
 Properly document your MRC in the repository and list it in the README for community review. Fork the relevant template and select the most pertinent category.
 
+## Meta MRCs about MRCs
+- [For most MRCs in general this MRC00 is the first Meta MRC about how to submit an MRC.](https://github.com/MorpheusAIs/MRC/blob/main/MRC00.md  ) 
+- [For MRCs about adding new assets, yield sources, chains, see this MRC guide.](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/The%20Morpheus%20Asset%20Integration%20Framework.md)
+
 ## Select the Affected Morpheus Reference Implementation
 Choose the matching MRI that your MRC impacts. Reach out to the repo Maintainer you think the MRC is most related to if you are uncertain. List below.
 
@@ -83,10 +87,6 @@ Choose the matching MRI that your MRC impacts. Reach out to the repo Maintainer 
 #### Interoperability: Proposals for improving ecosystem interoperability.
 - Maintainer's Discord Handle: urklan
 - Link to Repo: https://github.com/MorpheusAIs/MRC/blob/main/In%20Progress/MRC16.md)https://github.com/MorpheusAIs/MRC/blob/main/In%20Progress/MRC16.md
-
-## Meta MRCs about MRCs
-- [For most MRCs in general this MRC00 is the first Meta MRC.](https://github.com/MorpheusAIs/MRC/blob/main/MRC00.md  ) 
-- [For MRCs about adding new assets, yield sources, chains, see this MRC guide.](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/The%20Morpheus%20Asset%20Integration%20Framework.md)
 
 ## Competition Among MRI Repo Maintainers To Increase Decentralization
 [The Morpheus Atomic Governance system](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/TechnoCapitalMachineTCM.md#atomic-governance) aims to be a free marketplace even for the Morpheus Reference Implementations themselves and thus the repo maintainers are not static but compete and are dynamic.
