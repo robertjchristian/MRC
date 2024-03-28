@@ -44,7 +44,7 @@ Proposals are welcome on GitHub during the Fair Launch phase, eventually moving 
 - First, it's important understand that MRCs are a competitive process.
 Someone who proposes better implementation/lower weights/shorter timelines can be chosen (understand that submitting an MRC does not equal that MRC being accepted).
 - Second, if the maintainers' feedback wasn't addressed by an author for two weeks, the MRC is considered rejected and can't be re-submitted for one month. 
-- Third, a maintainer may close a MRC pull request if there is a technical hurtle that can't be currently addressed to implement the MRC, or not enough weights being available from that maintainer to accept the MRC, or the maintainer judges the MRC proposal too expensive vs the value of the change / improvement proposed.
+- Third, a maintainer may close a MRC pull request if there is a technical hurtle that can't be currently addressed in the near term to implement the MRC, or not enough weights being available from that maintainer to accept the MRC, or the maintainer judges the MRC proposal too expensive vs the value of the change / improvement proposed.
 
 ## Submission Guidelines
 Properly document your MRC in the repository and list it in the README for community review. Fork the relevant template and select the most pertinent category.
