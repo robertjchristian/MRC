@@ -13,6 +13,14 @@ This guide is crafted for contributors and users within the MOR ecosystem, facil
 ## Submission Timeline and Platforms
 Proposals are welcome on GitHub during the Fair Launch phase, eventually moving to [MOR.Software](https://mor.software/) for broader community interaction.
 
+## Life Cycle of an MRC
+- **1. Pull Request Creates MRC:** The author creates a pull request with the details of their new MRC.
+- **2. Merged into "Discussion":** The MRC is merged into Discussion by a Maintainer, this indicates the repo maintainer believes the MRC is at least worth discussion and has basic merit to their Reference Implementation.
+- **3. Review:** Maintainers should seek to review and provide feedback to MRC authors once a week. So authors can get a sense of the next steps/current state of their MRC.
+- **4. "Pending":** Much of the feedback to MRC authors is often about understanding dependencies and what technical hurtles exist for the MRC to be implemented. If a maintainer identifies a technical dependency they can move the MRC into "Pending" status. This indicates they accept the MRC in principle but there is a blocker that needs to be resolved first. The author can then wait on that dependcy and re-open their MRC once it is resolved or help work on resolving the dependency.
+- **5. "In Progress":** Once all technical dependencies have been addressed and weights agreed, only then can an MRC be accepted into the "In Progress" stage.
+- **6. "Implemented":** For the MRC to be considered "Implemented" the code proposed must be contributed and merged by the maintainer into the correct MRI repository.
+
 ## Writing a Well-Formed MRC
 - To draft a compelling MRC, study existing examples to grasp the expected format and substance. 
 - Use the provided template for standards and changes to Morpheus structure your proposal.
@@ -73,13 +81,6 @@ Choose the matching MRI that your MRC impacts. Reach out to the repo Maintainer 
 ## Meta MRCs about MRCs
 - [For most MRCs in general this MRC00 is the first Meta MRC.](https://github.com/MorpheusAIs/MRC/blob/main/MRC00.md  ) 
 - [For MRCs about adding new assets, yield sources, chains, see this MRC guide.](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/The%20Morpheus%20Asset%20Integration%20Framework.md)
-
-## Life Cycle of an MRC
-- **1. The Beginning:** The MRC has to be merged into Discussion, this indicates the repo maintainer believes the MRC is at least worth discussion and has basic merit to their Reference Implementation.
-- **2. Timeline Expectations:** Maintainers should seek to review and provide feedback to MRC authors once a week. So authors can get a sense of the next steps/current state of their MRC.
-- **3. Advancing An MRC to "In Progress":** Much of the feedback to MRC authors is often about understanding dependencies and what technical hurtles exist for the MRC to be implemented.
-Once all technical dependencies have been addressed, only then can an MRC be accepted into the "In Progress" stage.
-- **4. Completing / Implementing an MRC:** For the MRC to be considered complete and "Implemented" the code proposed must be contributed and merged by the maintainer.
 
 ## Acceptance / Rejection:
 - First, it's important understand that MRCs are a competitive process.
