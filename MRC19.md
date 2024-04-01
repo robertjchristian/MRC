@@ -1,5 +1,7 @@
 # MRC 19: Cosmos & Thorchain Expansion of Morpheus
 
+## Status: Pending - Technical dependencies on Thorchain upgrade
+
 ## History
 The original Morpheus whitepaper proposed using Thorchain yield as the means for Capital Providers to contribute to Morpheus.
 
