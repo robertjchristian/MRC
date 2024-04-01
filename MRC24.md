@@ -2,6 +2,14 @@
 ## Morpheus MRC-24: Smart Agent Product Strategy
 
 
+---
+This MRC24 has a lot of great points for developers to reference when they build their agents.
+
+IN PROGRESS
+
+---
+
+
 ### Purpose
 
 Existing work has focused largely on the Morpheus node, funding mechanisms and tokenomics. Many developers joining the project are seeking guidance on building Smart Agents. This MRC sets out a roadmap for Smart Agent development, starting off by analyzing end-user needs, identifying common agent capabilities, opportunities for trust minimization and ultimately proposing a technical strategy for a Smart Agent SDK.
