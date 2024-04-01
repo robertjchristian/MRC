@@ -1,5 +1,7 @@
 ## Morpheus MRC-28: Enhancing Morpheus Web3 Frontend & User Flow: Increasing Wallet Integration and Accessibility
 
+## April 1, 2024:  Status moved into Pending
+
 ### 1. Problem definition
 
 In the context of the Morpheus Lite client, an issue is identified in the fragmented nature of wallet integration. 
@@ -83,4 +85,4 @@ With over four years of experience in web development, I've actively engaged wit
 
 ### 12. Status
 
-Discussion
+Pending
