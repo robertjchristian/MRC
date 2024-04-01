@@ -1,6 +1,6 @@
 # MRC Proposal for Capital Contracts Expansion to stMATIC
 
-## April 1st 2024: **Moving this MRC12 into PENDING status.**
+## Status: April 1st 2024: **MRC12 is PENDING.**
 Thanks for the good discussion. 
 Love the idea of adding more yield types but a series of technical dependencies need to be completed first.
 
