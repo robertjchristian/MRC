@@ -1,5 +1,7 @@
 # MRC18: Autonomous Governance AI Agent for ATX DAO
-tldr: ATX DAO is creating an AI agent to review, give feedback on, and vote on all DAO proposals.
+
+## Status: CLOSED 
+This proposal as this is an Agent and can be deployed permissionlessly and doesn't relate to a Reference Implementation.
 
 ## Introduction:
 We propose the establishment of an Autonomous Governance AI Agent within ATX DAO. This AI agent will serve as a knowledgeable, impartial entity with one ATX DAO NFT, with one voting right in all proposals. Additionally, it will provide comprehensive information regarding proposed initiatives, outlining their benefits and potential challenges. This AI agent aims to enhance the efficiency, transparency, and decision-making capabilities of our DAO.
