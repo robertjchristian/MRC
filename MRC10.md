@@ -1,6 +1,6 @@
 # Smart Agents Tools/Marketplace with staking capabilities. 
 
-## April 1st 2024, THIS MRC WAS CLOSED.
+## Status: April 1st 2024, THIS MRC WAS CLOSED.
 
 
 ## 1. Problem
