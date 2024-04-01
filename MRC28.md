@@ -1,6 +1,6 @@
 ## Morpheus MRC-28: Enhancing Morpheus Web3 Frontend & User Flow: Increasing Wallet Integration and Accessibility
 
-## April 1, 2024:  Status moved into Pending
+## Status: "Pending" April 1, 2024.
 
 ### 1. Problem definition
 
