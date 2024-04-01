@@ -1,4 +1,8 @@
 # MRC 00: Morpheus Request for Comment (MRC)  Introduction
+
+## Status - Implemented
+
+## Summary
 MRC, meaning Morpheus Request for Comments, is integral in suggesting and executing changes within the Morpheus ecosystem. This document is designed to make the submission process more transparent, fair, and efficient.
 
 ## Purpose and Scope
