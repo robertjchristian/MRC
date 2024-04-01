@@ -1,7 +1,8 @@
 # Morpheus Multi-Agent Framework (MMAF)
 ## Executive Summary
 
-# This MRC has been CLOSED
+## Status: This MRC has been CLOSED
+
 ## Comments: Thank you for the MRC11 submission.
 Moving this MRC11 to CLOSED status.
 
