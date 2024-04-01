@@ -1,5 +1,12 @@
 # MRC Proposal for Capital Contracts Expansion to stMATIC
 
+April 1st 2024: **Moving this MRC12 into PENDING status.**
+Thanks for the good discussion. 
+Love the idea of adding more yield types but a series of technical dependencies need to be completed first.
+1. The Smart Contracts have to be deployed on Polygon (now that the Layer Zero integration is now) this has to come after May 8th as the claim function for MOR has to be validated in production first. 
+2. The Smart Contracts have to be extended to calculate MOR rewards for multiple yield types.
+3. Finally the yield provided has to be converted into wETH to be contributed to the Uniswap pool.
+
 ## 1. Define the Problem
 The Morpheus ecosystem currently lacks a standardized framework for the evaluation and integration of new assets, hindering the expansion and diversification of its DeFi offerings. This makes integrating assets like stMATIC challenging.
 
