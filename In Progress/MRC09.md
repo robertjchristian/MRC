@@ -1,4 +1,7 @@
 # Building the Foundation: Phased AMM Deployment in Morpheus
+
+## Status: Implemented
+
 ## Introduction
 
 In accordance with the framework outlined in the Techno Capital Machine (TCM) document, the initial 90-day Liquidity Bootstrapping Phase is critical for establishing foundational liquidity. Throughout this phase, Capital Providers are tasked with allocating their stETH yield towards Morpheus, contributing to the ecosystem's growth and stability. In return, Capital Providers are rewarded with 24% of the daily MOR emissions. 4% of the daily MOR emissions are also earmarked for the Protection Fund as Protocol Owned Liquidity (PoL), which plays a pivotal role in initializing the Uniswap Automated Market Maker (AMM) pool.
