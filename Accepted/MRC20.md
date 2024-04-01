@@ -1,6 +1,6 @@
 # MRC 20: Automated Recurring Revenue / Rewards = ARR via the MOR20 Token Standard
 
-## In Progress - Being coded as of April 2024
+## Status: In Progress - Being coded as of April 2024
 
 ## Summary:
 This is a simplified MRC to introduce the term "ARR" for Automated Recurring Revenue or Rewards 
