@@ -2,7 +2,7 @@
 
 by Macro, February 26, 2024
 
-## April 1st 2024: Moving this MRC13 into PENDING status. 
+## Status: MRC13 is PENDING. April 1st 2024.
 
 Thanks for the good discussion. Love the idea of adding more yield types and Solana to the mix but a series of technical dependencies need to be completed first.
 
