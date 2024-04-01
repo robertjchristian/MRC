@@ -1,5 +1,7 @@
 # Expanding Horizon: The Morpheus Asset Integration Framework
 
+## Status: Implemented
+
 ## Introduction
 To enhance the Morpheus ecosystem this proposal introduces a comprehensive framework for integrating new yield-generating assets from Ethereum, Layer 2 solutions, and other blockchains into Morpheus. This strategic initiative is designed to not only diversify the capital avenues but also to broaden its user base by tapping into new communities and ecosystems. The expansion hopes to extend Morpheus’ reach across multiple venues, bringing in fresh perspectives and opportunities for growth.
 
