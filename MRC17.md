@@ -1,6 +1,6 @@
 # MRC17: Adding Solana Yield & MOR Token Proposal
 
-## April 1st 2024, Moved to Pending
+## Status: PENDING - April 1st 2024
 Thanks for the good discussion. Love the idea of adding more yield types and Solana to the mix, however a series of technical dependencies need to be completed first.
 
 1. The Smart Contracts have to be deployed on Solana (now that the Layer Zero integration is now).
