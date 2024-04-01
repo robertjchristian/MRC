@@ -1,5 +1,8 @@
 # Smart Agents Tools/Marketplace with staking capabilities. 
 
+## April 1st 2024, THIS MRC WAS CLOSED.
+
+
 ## 1. Problem
 
 The Morpheus ecosystem currently lacks a robust Non-Fungible Agent (NFA) framework, advanced tools for integrating NFA-linked Smart Agents, a marketplace for trading them, and a platform for strategic staking/investment in those smart agents by the Morpheus community. These gaps limit Smart Agents' operational capabilities and market liquidity, hindering the development of a thriving Tools/Agent marketplace.
