@@ -2,6 +2,19 @@
 
 by Macro, February 26, 2024
 
+## April 1st 2024: Moving this MRC13 into PENDING status. 
+
+Thanks for the good discussion. Love the idea of adding more yield types and Solana to the mix but a series of technical dependencies need to be completed first.
+
+1. The Smart Contracts have to be deployed on Solana (now that the Layer Zero integration is now).
+This has to come after late May when the rumored Solana integration with Layer Zero takes place.
+
+2. The Smart Contracts have to be extended to calculate MOR rewards for multiple yield types.
+
+3. Finally the yield provided has to be converted into wETH to be contributed to the Uniswap pool.
+
+Lastly this proposal lacks a weights bid and needs to be more narrow and specific about the work to be done.
+
 **Objective**
 
 Grow Morpheus community and reach by enabling capital farming of MOR on Solana using native Solana LSTs (Liquid Staking Tokens). 
