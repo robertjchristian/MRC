@@ -40,10 +40,10 @@ Proposals are welcome on GitHub during the Fair Launch phase, eventually moving 
 * Background / Experience of Author / Implementer: Your or your team's credentials for executing the proposal.
 * Status: Current state of the proposal (Discussion, In Progress, Implemented).
 
-## Acceptance / Rejection:
+## Merged or Closed:
 - First, it's important understand that MRCs are a competitive process.
 Someone who proposes better implementation/lower weights/shorter timelines can be chosen (understand that submitting an MRC does not equal that MRC being accepted).
-- Second, if the maintainers' feedback wasn't addressed by an author for two weeks, the MRC is considered rejected and can't be re-submitted for one month. 
+- Second, if the maintainers' feedback wasn't addressed by an author for two weeks, the MRC is considered closed and can't be re-submitted for one month. 
 - Third, a maintainer may close a MRC pull request if there is a technical hurtle that can't be currently addressed in the near term to implement the MRC, or not enough weights being available from that maintainer to accept the MRC, or the maintainer judges the MRC proposal too expensive vs the value of the change / improvement proposed.
 
 ## Submission Guidelines
