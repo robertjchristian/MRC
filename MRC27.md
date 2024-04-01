@@ -1,5 +1,7 @@
 ## Morpheus MRC 27: Progressive Web App specification
 
+## April 1, 2024:  Moved to In Progress for 40 weights based on the MOR.org integration. See https://github.com/MorpheusAIs/pwa
+
 ### 1. Problem definition
 
 Currently there is no well defined architecture of how a PWA will function - PWA will also enable folks to access morpheus application with just a link.
@@ -54,5 +56,5 @@ I have a team of battel hardened developers who have been working in web3 ecosys
 
 ### 11. Status
 
-Discussion
+In progress 
 
