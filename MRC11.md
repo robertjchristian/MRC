@@ -1,6 +1,16 @@
 # Morpheus Multi-Agent Framework (MMAF)
 ## Executive Summary
 
+# This MRC has been CLOSED
+## Comments: Thank you for the MRC11 submission.
+Moving this MRC11 to CLOSED status.
+
+Morpheus' core is to develop incentivization for agent and model builders while allowing permissionless access. 
+There isn't a desire to promote any particular framework. Pragmatically speaking, a dev would choose whichever frameworks and tech stack they see fit to build the level of desired functionality. They would then use the Morpheus system to host model assets/definitions and provide inference for users. There isn't a path here to promote particular frameworks.
+
+---
+
+
 **Project Name:** Morpheus Multi-Agent Framework (MMAF)  
 **Requesting Organization/Individual:** Mor Labs
 
