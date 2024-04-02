@@ -3,12 +3,10 @@
 
 
 ---
+## Status: IN PROGRESS
 This MRC24 has a lot of great points for developers to reference when they build their agents.
 
-IN PROGRESS
-
 ---
-
 
 ### Purpose
 
