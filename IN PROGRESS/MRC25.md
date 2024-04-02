@@ -1,13 +1,17 @@
 # Lake Travis Decentralized AI Inference System Proposal
 
 ### March 9th, 2024
-
----
-Update (April 1, 2024) : this MRC is IN PROGRESS
----
-
 ### LachsBagel
 lachsbagel@proton.me
+
+---
+
+## Status
+April 1, 2024: IN PROGRESS
+
+---
+
+
 
 
 ### Abstract
