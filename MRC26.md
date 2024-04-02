@@ -3,7 +3,7 @@
 ---
 
 ## Status
-April 1, 2024: UNDER DISCUSSION
+**April 1, 2024: UNDER DISCUSSION**
 
 ---
 
