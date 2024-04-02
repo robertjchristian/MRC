@@ -1,4 +1,4 @@
-# Morpheus MRC-24. Fortifying Morpheus: The Critical Role of Protection Fund Diversification
+# Morpheus MRC-23. Fortifying Morpheus: The Critical Role of Protection Fund Diversification
 
 ---
 
