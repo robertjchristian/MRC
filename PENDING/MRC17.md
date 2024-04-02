@@ -1,6 +1,11 @@
 # MRC17: Adding Solana Yield & MOR Token Proposal
 
-## Status: PENDING - April 1st 2024
+---
+
+## Status
+**April 1, 2024: PENDING**
+
+**Comments:**  
 Thanks for the good discussion. Love the idea of adding more yield types and Solana to the mix, however a series of technical dependencies need to be completed first.
 
 1. The Smart Contracts have to be deployed on Solana (now that the Layer Zero integration is now).
@@ -9,6 +14,8 @@ This has to come after late May when the rumored Solana integration with Layer Z
 3. Finally the yield provided has to be converted into wETH to be contributed to the Uniswap pool.
 
 Lastly please add a weights proposal before this MRC can advance to "In Progress".
+
+---
 
 ## Introduction
 We propose capital contribution integration for Morpheus with the Solana blockchain, aimed at significantly enhancing the liquidity of Morpheus AI's capital providers pool. By leveraging Solana's high-performance capabilities and developing a bespoke smart contract, we aim to introduce SOL staking and contributing staked SOL yield in exchange for MOR tokens. Furthermore, Solana's low transaction fees and high throughput offer a compelling case for it to be a suitable platform for Morpheus, potentially providing an efficient and cost-effective environment for users and the ecosystem at large.
