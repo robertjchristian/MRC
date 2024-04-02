@@ -1,7 +1,12 @@
 # MOR Weights MRC Proposal
 March 14, 2024
 
-## Status: Implemented
+---
+
+## Status
+April 1, 2024: IMPLEMENTED
+
+---
 
 ## Objective
 This aims to increase the versatility of MOR weights.
