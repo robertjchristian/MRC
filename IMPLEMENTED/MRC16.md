@@ -1,6 +1,11 @@
 # MRC16: Toward MOR Interoperability 
 
-## Status: Implemented
+---
+
+## Status
+**April 1, 2024: IMPLEMENTED**
+
+---
 
 ## Introduction
 To set the stage, MOR is currently instantiated as an ERC20 on Arbitrum. The coin exists, however is unmoveable/untradable until May 8th 2024. 

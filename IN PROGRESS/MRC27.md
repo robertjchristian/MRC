@@ -1,7 +1,14 @@
 ## Morpheus MRC 27: Progressive Web App specification
 
-## Status: Moved to "In Progress" for 40 weights based on the MOR.org integration. See https://github.com/MorpheusAIs/pwa
-April 1, 2024.
+---
+
+## Status
+**April 1, 2024: IN PROGRESS**
+
+**Comments:**  
+40 weights based on the MOR.org integration. See https://github.com/MorpheusAIs/pwa
+
+---
 
 ### 1. Problem definition
 

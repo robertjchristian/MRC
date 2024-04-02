@@ -1,6 +1,11 @@
 # Waterloo Community Apps Builder Model
 
-## Status: In Progress via MRC22  
+---
+
+## Status 
+**April 1, 2024: In Progress via MRC22**
+
+---
 
 ## Introduction
 The Morpheus whitepaper describes the intent of having the Community Builder rewards go towards those front ends, websites, apps and tools that make the Morpheus network more accessible. The rewards for the Morpheus Community Builders are outlined as 24% of MOR emissions. In this proposal, additional details describe how the emissions will be distributed based on the different proofs.

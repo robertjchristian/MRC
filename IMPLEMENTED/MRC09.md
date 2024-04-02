@@ -1,6 +1,11 @@
 # Building the Foundation: Phased AMM Deployment in Morpheus
 
-## Status: Implemented
+---
+
+## Status
+April 1, 2024: IMPLEMENTED
+
+---
 
 ## Introduction
 

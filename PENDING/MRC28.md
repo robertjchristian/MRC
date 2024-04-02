@@ -1,6 +1,14 @@
 ## Morpheus MRC-28: Enhancing Morpheus Web3 Frontend & User Flow: Increasing Wallet Integration and Accessibility
 
-## Status: "Pending" April 1, 2024.
+---
+
+## Status
+**April 1, 2024: PENDING**
+
+**Comments:**  
+Assuming there is proof on how keys will be protected within Wallet Connect on the local install, this is worth pursuing as soon as there is a specific and realistic weight proposal included.  This is moving into Pending  and can move into In Progress as soon as there is a definitive bid for cost.  Thank you for a great proposal!
+
+---
 
 ### 1. Problem definition
 

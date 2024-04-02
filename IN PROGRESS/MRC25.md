@@ -1,13 +1,16 @@
-# Lake Travis Decentralized AI Inference System Proposal
-
-### March 9th, 2024
+# Morpheus MRC-25: Lake Travis Decentralized AI Inference System Proposal
+**March 9th, 2024  
+LachsBagel  
+lachsbagel@proton.me**
 
 ---
-Update (April 1, 2024) : this MRC is IN PROGRESS
+
+## Status
+**April 1, 2024: IN PROGRESS**
+
 ---
 
-### LachsBagel
-lachsbagel@proton.me
+
 
 
 ### Abstract

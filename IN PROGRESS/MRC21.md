@@ -1,6 +1,11 @@
 ## MRC21: Non Fungible Agents
 
-## Status: In Progress
+---
+
+## Status
+**April 1st, 2024: IN PROGRESS**
+
+--- 
 
 ### Simple Summary
 The non-fungible agent is the decentralized operating entity that combines autonomous artificial intelligence and blockchain technologies into something easily understood by non-technical people.
