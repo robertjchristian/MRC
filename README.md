@@ -10,117 +10,117 @@ Proposals to improve any of the Morpheus Reference Implementations (MRIs). See t
 ## List of MRCs:
 
 ## MRC 28: Enhancing Morpheus Web3 Frontend & User Flow: Increasing Wallet Integration and Accessibility
-- Status **[Under Discussion](https://discord.com/channels/1151741790408429580/1220404152165994648)**
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC28.md
+- Status: **PENDING**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/PENDING/MRC28.md
 
 ## MRC 27: Progressive Web App specification
-- Status **[Under Discussion](https://discord.com/channels/1151741790408429580/1220403411753766973)** 
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC27.md
+- Status: **IN PROGRESS**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC27.md
 
 ## MRC 26: Decentralised Architecture Definition and API specification
-- Status **[Under Discussion](https://discord.com/channels/1151741790408429580/1220074053038243882)** 
+- Status: **UNDER DISCUSSION**
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC26.md
 
 ## MRC 25: Lake Travis - Decentralized AI Inference System
-- Status **[In progress](https://discord.com/channels/1151741790408429580/1219835072950308975)** 
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC25.md
+- Status: **IN PROGRESS**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC25.md
 
 ## MRC 24: Smart Agent Product Strategy
-- Status: **[In progress](https://discord.com/channels/1151741790408429580/1219837700228644936)**
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC24.md
+- Status: **IN PROGRESS**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC24.md
 
 ## MRC 23: Fortifying Morpheus - The Critical Role of Protection Fund Diversification
-- Status: **[Under Discussion](https://discord.com/channels/1151741790408429580/1219753230746124418)** needs further discussion and input from the community.
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC23.md
+- Status: **PENDING**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/PENDING/MRC23.md
 
 ## MRC 22: MOR Staking - A Free Market Mechanism To Direct MOR Rewards Toward Smart Agent & End User Applications Builders
-- Status: [**Under Discussion**](https://discord.com/channels/1151741790408429580/1219389170040967218)
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC22.md
+- Status: **IN PROGRESS with MRC08**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC22.md
 
 ## MRC 21: Non Fungible Agents
-- Status: [**Under Discussion**](https://discord.com/channels/1151741790408429580/1219342219115233381)
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC21.md
+- Status: **IN PROGRESS**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC21.md
 
 ## MRC 20: The MOR 20 Token Standard - "Automated Recurring Revenue / Rewards" (ARR)
-- Status: **Implemented** 
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/Accepted/MRC20.md
+- Status: **IMPLEMENTED** 
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/IMPLEMENTED/MRC20.md
 
 ## MRC 19: Cosmos & Thorchain Expansion of Morpheus
-- Status: [**Under Discussion**](https://discord.com/channels/1151741790408429580/1219341892781871177)
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC19.md
+- Status: **PENDING**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/PENDING/MRC19.md
 
 ## MRC 18: Governance Agent
-- Status: [**Under Discussion**](https://discord.com/channels/1151741790408429580/1219341590334541894)
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC18.md
+- Status: **CLOSED**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/CLOSED/MRC18.md
 
 ## MRC 17: Adding Solana Yield & MOR Token Proposal
-- Status: [**Under Discussion**](https://discord.com/channels/1151741790408429580/1219340187671199854) similar proposal is listed in MRC 13 also under discussion.
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC17.md
+- Status: **PENDING**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/PENDING/MRC17.md
 
 ## MRC 16: Toward MOR Interoperability
-- Status: [**Implemented**](https://discord.com/channels/1151741790408429580/1219043269061644359)
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/In%20Progress/MRC16.md
+- Status: **IMPLEMENTED**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/IMPLEMENTED/MRC16.md
 
-## MRC 15: A Framework for Adding Yield-Generating Assets.
-- Status: [**Implemented**](https://discord.com/channels/1151741790408429580/1219001846077587577)
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/In%20Progress/MRC15.md
+## MRC 15: A Framework for Adding Yield-Generating Assets
+- Status: **IMPLEMENTED**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/IMPLEMENTED/MRC15.md
 
-## MRC 14: MOR Weights for Greater Granularity.
-- Status: **Implemented**, Planned implementation for April 8th 2024 weights snapshot.
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/Accepted/MRC14.md
+## MRC 14: MOR Weights for Greater Granularity
+- Status: **IMPLEMENTED**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/IMPLEMENTED/MRC14.md
 
-## MRC 13: Launch TCM for MOR Yield Farming on Solana with JitoSOL and/or mSOL.
-- Status: [**Under Discussion**](https://discord.com/channels/1151741790408429580/1218991804876198028), needs further discussion to answer open questions (see end of doc) and approval.
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC13.md
+## MRC 13: Launch TCM for MOR Yield Farming on Solana with JitoSOL and/or mSOL
+- Status: **PENDING**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/PENDING/MRC13.md
 
-## MRC 12: Capital contracts expansion to stMATIC.
-- Status: [**Under Discussion**](https://discord.com/channels/1151741790408429580/1218910318676410388), needs further discussion to cover all edge cases and flesh out more concepts.
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC12.md
+## MRC 12: Capital contracts expansion to stMATIC
+- Status: **PENDING**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/PENDING/MRC12.md
 
-## MRC 11: Morpheus Multi-Agent Framework.
-- Status: [**Under Discussion**](https://discord.com/channels/1151741790408429580/1218907422438068315), needs further discussion to cover edge cases.
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC11.md
+## MRC 11: Morpheus Multi-Agent Framework
+- Status: **CLOSED**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/CLOSED/MRC11.md
 
-## MRC 10: Development of Smart Agent Tools Marketplace.
-- Status: [**Closed**](https://discord.com/channels/1151741790408429580/1218906013072363551)
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC10.md
+## MRC 10: Development of Smart Agent Tools Marketplace
+- Status: **CLOSED**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/CLOSED/MRC10.md
 
 ## MRC 09: AMM Launch Process
-- Status: [**Implemented**](https://discord.com/channels/1151741790408429580/1218958132814942259)
-- Link: https://github.com/generativeone/Docs/blob/main/Building%20the%20Foundation%20-%20AMM%20Launch.md
+- Status: **IMPLEMENTED**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/IMPLEMENTED/MRC09.md
 
-## MRC 08: Waterloo Community Model.
-- Status: [**In Progress via MRC22**](https://discord.com/channels/1151741790408429580/1219004083072008323)
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC08.md
+## MRC 08: Waterloo Community Model
+- Status: **IN PROGRESS via MRC22**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC08.md
 
 ## MRC 07: Fair Launch Process
 - Status: **In Progress**, Being implemented as the Smart Contracts being used for the Capital Providers of Morpheus.
 - Link: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Fair%20Launch.md
 
 ## MRC 06: Techno Capital Machine
-- Status: **In Progress**, Being implemented as the Smart Contracts being used for the Capital Providers of Morpheus.
+- Status: **IN PROGRESS**, Being implemented as the Smart Contracts being used for the Capital Providers of Morpheus.
 - Link: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/TechnoCapitalMachineTCM.md
 
-## MRC 05: Yellowstone Compute Model.
-- Status: **In Progress**, Being implemented as the Decentralized Router for the launch of Compute rewards post bootstrapping period.
+## MRC 05: Yellowstone Compute Model
+- Status: **IN PROGRESS**, Being implemented as the Decentralized Router for the launch of Compute rewards post bootstrapping period.
 - Link: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Yellowstone%20Compute%20Model.md
 
-## MRC 04: Morpheus Yellow Paper.
-- Status: **In Progress**, Being implemented as the basis for Capital, Code, Compute and Community Builders.
+## MRC 04: Morpheus Yellow Paper
+- Status: **IN PROGRESS**, Being implemented as the basis for Capital, Code, Compute and Community Builders.
 - Link: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/YellowPaper.md
 
-## MRC 03: Morpheus White Paper.
-- Status: **Adopted** by the Morpheus community as basis for Morpheus Network.
+## MRC 03: Morpheus White Paper
+- Status: **IMPLEMENTED** by the Morpheus community as basis for Morpheus Network.
 - Link: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/WhitePaper.md
 
-## MRC 02: Smart Agents Yellow Paper.
-- Status: **Adopted** by the Morpheus anon authors as the basis for Morpheus Network.
+## MRC 02: Smart Agents Yellow Paper
+- Status: **IMPLEMENTED** by the Morpheus anon authors as the basis for Morpheus Network.
 - Link: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/YellowPaper.md
 
 ## MRC 01: Smart Agents White Paper.
-- Status: **Adopted** by the Morpheus anon authors as the basis for Morpheus Network.
+- Status: **IMPLEMENTED** by the Morpheus anon authors as the basis for Morpheus Network.
 - Link: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/White%20Paper.md
 
 ## MRC 00: Morpheus Request for Comment Standard
-- Status: **Adopted**
+- Status: **IMPLEMENTED**
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC00.md
