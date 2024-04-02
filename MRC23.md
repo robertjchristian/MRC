@@ -1,6 +1,6 @@
 # Fortifying Morpheus: The Critical Role of Protection Fund Diversification
 
-# Status: In Progress
+# Status: PENDING awaiting technical dependencies.
 
 Please make comments and pull requests on Github.
 For informal chat see this Discord link: https://discord.com/channels/1151741790408429580/1219753230746124418
