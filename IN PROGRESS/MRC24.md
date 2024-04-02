@@ -2,8 +2,9 @@
 ## Morpheus MRC-24: Smart Agent Product Strategy
 
 
----
-## Status: IN PROGRESS
+## Status: 
+April 1, 2024: IN PROGRESS
+
 This MRC24 has a lot of great points for developers to reference when they build their agents.
 
 ---
