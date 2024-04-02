@@ -67,7 +67,3 @@ The project is expected to take at least 6 months, with each of the four compone
 ### 11. Why you?
 
 Mor Labs is composed of individuals with extensive experience in DeFI, smart contract development, marketplace business model design, making us the ideal candidate to deliver this proposal.
-
-### 12. Status
-
-This proposal is currently open for 'Discussion'
