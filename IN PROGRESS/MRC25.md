@@ -6,7 +6,7 @@ lachsbagel@proton.me**
 ---
 
 ## Status
-April 1, 2024: IN PROGRESS
+**April 1, 2024: IN PROGRESS**
 
 ---
 
