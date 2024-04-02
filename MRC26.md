@@ -1,5 +1,12 @@
 ## Morpheus MRC-26: Decentralised Architecture Definition and API specification
 
+---
+
+## Status
+April 1, 2024: UNDER DISCUSSION
+
+---
+
 ### 1. Problem definition
 
 Currently there is no well defined architecture of how node is supposed to connect and work with any user interface or external agents, marketplace or any other definition, which makes it difficult to create new node software or adapt current one as there is no API specs defined (or at least minimum API specification). This creates a challenge for new code contributors as they are not sure what features their node implementation needs to support. 
