@@ -3,7 +3,8 @@
 ---
 
 ## Status
-**April 1, 2024: UNDER DISCUSSION**
+**April 3, 2024: IN PROGRESS**
+
 
 ---
 
@@ -79,7 +80,10 @@ I have 10+ experience with development in different companies (Banking and Crypt
 
 ### 12. Status
 
-Discussion
+IN PROGRESS
+
+https://docs.google.com/document/d/1fSSaotcF_jyFID6u4BEO-cm2r31lw3pdqf3gwUJfkMY/edit?usp=sharing
+
 
 
 
