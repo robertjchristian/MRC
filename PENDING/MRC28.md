@@ -68,7 +68,22 @@ Implementation of this improvement necessitates a transition to a new frontend t
 
 ### 7. New weights requested
 
-The exact quantification of the additional weights introduced by this improvement to the Morpheus ecosystem cannot be determined with absolute certainty. However, a rough estimate suggests that it may account for approximately 3-5% of the overall weights within the ecosystem.
+**1. Finalizing UI / UX proposal**  <br>
+Weights: 8
+
+**2. Implementing wallet aggregation and adapting the new UI / UX**  <br>
+Weights: 16
+
+**3. User test**  <br>
+Weights: 4
+
+**4. Unit tests**  <br>
+Weights: 6
+
+**5. User feedback**  <br>
+Weights: 4
+
+**TOTAL: 38**
 
 ### 8. Existing weights
 
@@ -76,7 +91,22 @@ At present, there are no discernible connections between this proposition and an
 
 ### 9. Time to complete
 
-The time required to complete this proposition is subject to various factors, including the composition and capabilities of the contributing team, as well as other pertinent considerations. As part of the implementation process, it would be necessary to create a detailed timeline outlining all the requisite features and tasks. The timeline would take into account factors such as resource availability, technical complexity, and potential dependencies on external factors or third-party integrations. By carefully assessing these variables, the timeline can be tailored to suit the specific requirements and objectives of the project, ensuring efficient and timely delivery of the proposed enhancements.
+**1. Finalizing UI / UX proposal**  <br>
+Duration: 1 week
+
+**2. Implementing wallet aggregation and adapting the new design**  <br>
+Duration: 2 weeks
+
+**3. User test**  <br>
+Duration: 1 week
+
+**4. Unit tests**  <br>
+Duration: 1 week
+
+**5. User feedback**  <br>
+Duration: 1 week
+
+**TOTAL: 6 WEEKS**
 
 ### 10. Deliverables
 
