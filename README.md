@@ -9,6 +9,10 @@ Proposals to improve any of the Morpheus Reference Implementations (MRIs). See t
 
 ## List of MRCs:
 
+## MRC 29: Launch TCM for MOR Yield Farming on Solana with JitoSOL (Updates MRC 13 and MRC 17)
+- Status: **PENDING**
+- Link: https://0xmacro.notion.site/MRC-29-Launch-TCM-for-MOR-Yield-Farming-on-Solana-with-JitoSOL-e8bcf28decf3443a977b525965bcb563?pvs=4
+
 ## MRC 28: Enhancing Morpheus Web3 Frontend & User Flow: Increasing Wallet Integration and Accessibility
 - Status: **PENDING**
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/PENDING/MRC28.md
