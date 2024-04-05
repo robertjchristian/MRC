@@ -56,7 +56,7 @@ We start with the functionality outlined in ERC 721 (https://eips.ethereum.org/E
  - Chain location / Addressing
  - Cost to purchase 
  - Ownership
- - rovenance 
+ - Provenance 
  - Royalties 
  - Key ERC-721 Components:
    - tokenId: A unique identifier for each NFT.
