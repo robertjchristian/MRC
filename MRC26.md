@@ -3,7 +3,7 @@
 ---
 
 ## Status
-**April 3, 2024: IN PROGRESS**
+**April 3, 2024: UNDER DISCUSSION**
 
 
 ---
@@ -79,9 +79,7 @@ If accepted this MRC can be completed in 1 month time from start.
 I have 10+ experience with development in different companies (Banking and Crypto sector) with experience leading teams and preparing specifications for projects. As I do believe Morpheus has a really good chance of becoming one of the most successful decentralised AI projects I would like to contribute and be a part of this.
 
 ### 12. Status
-
-IN PROGRESS
-
+UNDER DISCUSSION
 https://docs.google.com/document/d/1fSSaotcF_jyFID6u4BEO-cm2r31lw3pdqf3gwUJfkMY/edit?usp=sharing
 
 
