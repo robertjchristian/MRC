@@ -27,19 +27,17 @@ This MRC extends the existing MRC 13 and MRC 17 write ups to include a more deta
 
 ## Remaining Open Questions Specific to MRC 29
 1. How will the common denomination for multiple yield types work?  
-We are suggesting ETH as the common denominator due to it being the deepest DeFi liquidity asset.
+We are suggesting ETH as the common denominator due to it being the deepest DeFi liquidity asset.  
+1.1. What oracle will be used for common denomination pricing in ETH for sake of calculating MOR yield reward amounts? For example, the amount of JitoSOL deposited must be represented in ETH format so that it’s the same denomination as the stETH deposited on Ethereum.  
+1.2. Sub-question: Should this be denominated in stETH (in case of depeg from ETH)?  
 
-2. What oracle will be used for common denomination pricing in ETH for sake of calculating MOR yield reward amounts? For example, the amount of JitoSOL deposited must be represented in ETH format so that it’s the same denomination as the stETH deposited on Ethereum
-2.1. Sub-question: Should this be denominated in stETH (in case of depeg from ETH)?
+2. How will block time be treated by Layer Zero in their implementation? Will need a common blocktime in addition to a common denominator mentioned above so that rewards can be calculated at a consistent interval. Initial discussion is to use the slower of the chain’s blocktimes (ETH). However, one additional sub question has emerged:  
+2.1. Sub-question: On Solana blocktimes can be unreliable. Slot times are more reliable. How will that be taken into account to arrive at a consistent time for yield reward snapshots?  
 
-3. How will block time be treated by Layer Zero in their implementation? Will need a common blocktime in addition to a common denominator mentioned above so that rewards can be calculated at a consistent interval. Initial discussion is to use the slower of the chain’s blocktimes (ETH). However, one additional sub question has emerged:
-3.1. Sub-question: On Solana blocktimes can be unreliable. Slot times are more reliable. How will that be taken into account to arrive at a consistent time for yield reward snapshots?
+3. What AMM should have the SOL : MOR pair? Jupiter?  
+3.1. How exactly do we create the pool on Jupiter if that is the chosen AMM? What is the best way to convert JitoSOL to SOL?  
 
-4. What AMM should have the SOL : MOR pair? Jupiter?
-
-5. How exactly do we create the pool on Jupiter if that is the chosen AMM? What is the best way to convert JitoSOL to SOL?
-
-6. Are there differences in the implementation in terms of how you give up JitoSOL yield compared to how you give up stETH yield?
+4. Are there differences in the implementation in terms of how you give up JitoSOL yield compared to how you give up stETH yield?
 
 ## Potential Dependencies
 1. What is the status update of the Open Zeppelin audit of the Layer Zero OFT standard for the MOR token contract?
