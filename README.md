@@ -9,7 +9,7 @@ Proposals to improve any of the Morpheus Reference Implementations (MRIs). See t
 
 ## List of MRCs:
 
-## MRC 30 PMAs: Portfolio Management Agents for Active and Passive Fund Management
+## MRC 30: PMAs: Portfolio Management Agents for Active and Passive Fund Management
 - Status: **Discussion**
 - Link: https://discord.com/channels/1151741790408429580/1227120287825526844
 
