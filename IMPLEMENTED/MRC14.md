@@ -1,6 +1,7 @@
 # MOR Weights MRC Proposal
 March 14, 2024
 
+NOTE:  Consider the updated [Weights Guide](https://github.com/MorpheusAIs/Docs/blob/6a094f60e3081ac9ec2ec8d1ee4ecebfbbee1375/Guides/Code%20Contributor%20Weights%20Guide.md#march-8th-to-april-8th-2024-implied-value-of-a-weight-calculation-snapshot-3--126-usd-per-weight) for a complete understanding of weight value during the bootstrapping period. 
 ---
 
 ## Status

@@ -9,6 +9,10 @@ Proposals to improve any of the Morpheus Reference Implementations (MRIs). See t
 
 ## List of MRCs:
 
+## MRC 30: PMAs: Portfolio Management Agents for Active and Passive Fund Management
+- Status: **Discussion**
+- Link: https://discord.com/channels/1151741790408429580/1227120287825526844
+
 ## MRC 29: Launch TCM for MOR Yield Farming on Solana with JitoSOL (Updates MRC 13 and MRC 17)
 - Status: **PENDING**
 - Link: https://0xmacro.notion.site/MRC-29-Launch-TCM-for-MOR-Yield-Farming-on-Solana-with-JitoSOL-e8bcf28decf3443a977b525965bcb563?pvs=4
