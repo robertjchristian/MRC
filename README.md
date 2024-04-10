@@ -10,15 +10,15 @@ Proposals to improve any of the Morpheus Reference Implementations (MRIs). See t
 ## List of MRCs:
 
 ## MRC 30: PMAs: Portfolio Management Agents for Active and Passive Fund Management
-- Status: **Discussion**
-- Link: https://discord.com/channels/1151741790408429580/1227120287825526844
+- Status: [**UNDER DISCUSSION**](https://discord.com/channels/1151741790408429580/1227120287825526844)
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC30.md
 
 ## MRC 29: Launch TCM for MOR Yield Farming on Solana with JitoSOL (Updates MRC 13 and MRC 17)
-- Status: **PENDING**
-- Link: https://0xmacro.notion.site/MRC-29-Launch-TCM-for-MOR-Yield-Farming-on-Solana-with-JitoSOL-e8bcf28decf3443a977b525965bcb563?pvs=4
+- Status: [**PENDING**](https://discord.com/channels/1151741790408429580/1225158382609105036)
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/PENDING/MRC29.md
 
 ## MRC 28: Enhancing Morpheus Web3 Frontend & User Flow: Increasing Wallet Integration and Accessibility
-- Status: **PENDING**
+- Status: [**PENDING**](https://discord.com/channels/1151741790408429580/1220404152165994648)
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/PENDING/MRC28.md
 
 ## MRC 27: Progressive Web App specification

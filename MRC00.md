@@ -1,6 +1,6 @@
 # MRC 00: Morpheus Request for Comment (MRC)  Introduction
 
-## Status - Implemented
+## Status: Implemented
 
 ## Summary
 MRC, meaning Morpheus Request for Comments, is integral in suggesting and executing changes within the Morpheus ecosystem. This document is designed to make the submission process more transparent, fair, and efficient. The MRC process generally follows the monthly timing of the weight snapshot Smart Contract updates. So that weights included in MRCs advanced to the "In Progress" stage can be included in the next Smart Contract update which takes place around the 8th of each month.
@@ -31,18 +31,18 @@ Proposals are welcome on GitHub during the Fair Launch phase, eventually moving 
 - **Keep the scope of your proposal as narrow as possible.** The broader the proposal, the more technical dependencies and complexity will block its path forward.
 
 ## MRC Request Template
-* Title: MRC#### - [Title of the Proposal]]
-* Author(s): [Author Name (can be anon)  and Discord Handle(s)]
-* Category: [refer to Morpheus Reference Implementations (MRIs) list below]
-* Summary: Concise summary of the proposal.
-* Rationale: Importance of the project and why it merits acceptance, including a simple solution description, delivery strategy, and technology stack.
-* Value Proposition: How will the proposal tangibly increase Morpheus's value to Contributors or Users?
-* Dependencies: Other MRCs or tasks needing completion beforehand.
-* New Weights Requested: Number of weights. [See guide here.](https://github.com/MorpheusAIs/Docs/blob/main/Guides/Code%20Contributor%20Weights%20Guide.md)
-* Existing Weights: Current weights of features or code your proposal will enhance.
+* **Title:** MRC#### - [Title of the Proposal]]
+* **Author(s):** [Author Name (can be anon)  and Discord Handle(s)]
+* **Category:** [refer to Morpheus Reference Implementations (MRIs) list below]
+* **Summary:** Concise summary of the proposal.
+* **Rationale:** Importance of the project and why it merits acceptance, including a simple solution description, delivery strategy, and technology stack.
+* **Value Proposition:** How will the proposal tangibly increase Morpheus's value to Contributors or Users?
+* **Dependencies:** Other MRCs or tasks needing completion beforehand.
+* **New Weights Requested:** Number of weights. [See guide here.](https://github.com/MorpheusAIs/Docs/blob/main/Guides/Code%20Contributor%20Weights%20Guide.md)
+* **Existing Weights:** Current weights of features or code your proposal will enhance.
 * Deliverables: Detailed account of what the proposal once implementated will deliver.
-* Background / Experience of Author / Implementer: Your or your team's credentials for executing the proposal.
-* Status: Current state of the proposal (Discussion, In Progress, Implemented).
+* **Background / Experience of Author / Implementer:** Your or your team's credentials for executing the proposal.
+* **Status:** Current state of the proposal (Discussion, In Progress, Implemented).
 
 ## Merged or Closed:
 - First, it's important understand that MRCs are a competitive process.
@@ -78,7 +78,7 @@ Choose the matching MRI that your MRC impacts. Reach out to the repo Maintainer 
 - Link to Repo: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Protection%20Fund%20Details.md
 #### Capital Proofs Extending: Capital proofs improvements.
 - Maintainer's Discord Handle: smartagents
-- Link to Repo: https://github.com/MorpheusAIs/MRC/blob/main/In%20Progress/MRC15.md
+- Link to Repo: https://github.com/MorpheusAIs/MRC/blob/main/IMPLEMENTED/MRC15.md
 #### Compute Proofs MOR/Lumerin: Computational proofs improvements.
 - Maintainer's Discord Handle: rcondron
 - Link to Repo: https://github.com/MorpheusAIs/Morpheus-Lumerin-Node
@@ -87,10 +87,10 @@ Choose the matching MRI that your MRC impacts. Reach out to the repo Maintainer 
 - Link to Repo: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Coder%20Guide.md
 #### Frontend Proofs & Examples: Frontend resource, proofs, and functionality enhancements.
 - Maintainer's Discord Handle: erikvoorhees
-- Link to Repo: https://github.com/MorpheusAIs/MRC/blob/main/MRC08.md)https://github.com/MorpheusAIs/MRC/blob/main/MRC08.md 
+- Link to Repo: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC08.md
 #### Interoperability: Proposals for improving ecosystem interoperability.
 - Maintainer's Discord Handle: urklan
-- Link to Repo: https://github.com/MorpheusAIs/MRC/blob/main/In%20Progress/MRC16.md)https://github.com/MorpheusAIs/MRC/blob/main/In%20Progress/MRC16.md
+- Link to Repo: hhttps://github.com/MorpheusAIs/MRC/blob/main/IMPLEMENTED/MRC16.md
 
 ## Competition Among MRI Repo Maintainers To Increase Decentralization
 [The Morpheus Atomic Governance system](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/TechnoCapitalMachineTCM.md#atomic-governance) aims to be a free marketplace even for the Morpheus Reference Implementations themselves and thus the repo maintainers are not static but compete and are dynamic.
