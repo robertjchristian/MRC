@@ -26,7 +26,8 @@ Passive Portfolio Management Agents (Passive PMAs): Passive PMAs operate on a di
 Active Portfolio Management Agents (Active PMAs): Active PMAs autonomously execute investment strategies without requiring direct instructions from the user for every transaction. These agents are embedded with advanced algorithms and use real-time market data, analysis, and predictions to actively manage and adjust the investment portfolio. Active PMAs aim to outperform the market or achieve specific investment objectives by automatically adjusting asset allocations, entering or exiting positions, and employing hedging strategies based on evolving market conditions. They cater to users who wish to leverage the agent’s capabilities for active portfolio management, relying on the agent's AI-driven insights and strategies for investment decisions.
 
 ## New Weights Requested
-To be determined.
+Passive PMAs: 60000
+Active PMAs: Pending
 
 ## Existing Weights
 Not applicable.
@@ -34,15 +35,14 @@ Not applicable.
 ## Deliverables:
 We will be focusing on implementing Passive PMAs at this moment while exploring solutions of Strategy Definition, Risks Control, and Auto Tx Execution for Active PMAs.
 
-- Framework for Passive PMAs: Development of a comprehensive framework that allows users to create and customize passive PMAs according to their individual investment strategies and preferences.
-  - Integration with Existing Smart Contracts (Uniswap, Lido, etc)
+- Passive PMAs (CLI version):
+  - Smart Contract Sub-agent: capable of interacting with (reading and writing to) any open sourced contract onchain
+  - Integration with Existing Smart Contracts (Uniswap, Lido, Stargate, etc)
   - Market Data Oracles
-  - Security and Risk Management Infrastructure
-- User Interface for Passive PMAs: Implementation of an intuitive user interface for investors to easily set up their passive PMAs, including specifying investment criteria, rebalancing thresholds, and other relevant parameters.
-- Documentation and User Guides: Comprehensive documentation and step-by-step guides on how to utilize passive PMAs, including examples of common investment strategies and how to implement them using the platform.
-- Security Audits for Passive PMAs: Extensive security audits of the passive PMA framework to ensure the integrity and safety of the platform and user investments.
-- Active PMA Framework Development: Following the successful deployment of passive PMAs, initiate the development of active PMA framework that incorporates LLMs for dynamic market analysis and autonomous portfolio management.
-- Integration of LLMs with Active PMAs: Seamless integration of Large Language Models with the active PMA framework to enable real-time market prediction, analysis, and autonomous decision-making.
+  - Security and Risk Management
+- Documentation and User Guides: Comprehensive documentation and step-by-step guides on how to use passive PMAs, including examples of common investment strategies.
+- Security Audits and Testing for Passive PMAs
+- Active PMA Framework Development
 
 ## Risks
 - Market Risk: The potential for PMAs, especially active ones, to make erroneous predictions or fail to adapt to sudden market changes, leading to portfolio underperformance.
