@@ -18,7 +18,7 @@ Market Analysis: Research top OFT protocols such as Axelar (https://axelar.netwo
 
 Contract Refactoring: Modify MOR OFT contracts to support multiple interfaces.
 
-Enhanced Flexibility: Introduce functions for dynamic interface management: addMultichainInterface(uint ID) and removeMultichainInterface(uint ID).
+Enhanced Flexibility: Introduce functions for dynamic interface management, such as: `addMultichainInterface(uint ID)` and `removeMultichainInterface(uint ID)`.
 
 Performance Evaluation: Conduct comprehensive stress testing to assess system performance under varying conditions.
 
