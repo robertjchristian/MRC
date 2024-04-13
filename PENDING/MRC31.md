@@ -1,6 +1,7 @@
 # MRC 31 - The Evolution of Code Weights
 
 **Author(s)**: Nebuchadnezzar Crew
+Link to Discord Discussion: https://discord.com/channels/1151741790408429580/1228539984844165140
 
 **Categories:**
 1) Code Proofs & Dashboards - This MRC proposes the foundational manner in which code contributions are rewarded. 
