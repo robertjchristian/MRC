@@ -9,6 +9,10 @@ Proposals to improve any of the Morpheus Reference Implementations (MRIs). See t
 
 ## List of MRCs:
 
+## MRC 31: The Evolution of Code Weights
+- Status: [**Under Discussion**](https://discord.com/channels/1151741790408429580/1228539984844165140) 
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/PENDING/MRC31.md
+
 ## MRC 30: PMAs: Portfolio Management Agents for Active and Passive Fund Management
 - Status: [**UNDER DISCUSSION**](https://discord.com/channels/1151741790408429580/1227120287825526844)
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC30.md
