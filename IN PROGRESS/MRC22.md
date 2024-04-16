@@ -9,7 +9,7 @@
 
 ## Introduction
 As described in the Waterloo paper, builders of Smart Agents and other End User Applications will receive 24% of all MOR emissions.
-https://github.com/MorpheusAIs/MRC/blob/main/MRC08.md
+https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC08.md
 
 These rewards will be directed in proportion to the MOR holders who "Stake" their MOR into the MOR20 Smart Contract for a specific Smart Agent. For purposes of this proposal, those who stake their MOR will be referred to as “Stakers.”
 
