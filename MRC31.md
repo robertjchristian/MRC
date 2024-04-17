@@ -23,8 +23,7 @@ The paper outlines the basics around the suggested updates for the following top
 1) Combine available weights remaining for Year 1 and Year 2
 2) Establish the schedule for monthly distribution of weights
 3) Allocate monthly weights by MRI
-4) Implement a Tier System for Contributions
-5) Define process for removal of historical weights
+4) Define process for removal of historical weights
 
 # Rationale & Value Proposition 
 
@@ -39,7 +38,7 @@ The result is that Contributors for the next 5 months would be under-rewarded re
 
 **Proposed Update:**
 By combining the weights available over the next 17 months, this smooths out the disparity between the remaining 5 months of Year 1 and the 12 months of Year 2.
-The proposed approach is split up the remainder of the weights available within the Year 2 cap of 75,000,000 across the next 17 months. Continuing with the objective of rewarding early contributors fairly, this will be reprented by 2,500,000 in the period ending May 8th, 2024, and will decrease by 250,000 per month for the remainder of Year 1. For Year 2, there will be 13,539,768 weights available which will be distributed evenly at 1,128,314 weights per month.
+The proposed approach is split up the remainder of the weights available within the Year 2 cap of 75,000,000 across the next 17 months. Continuing with the objective of rewarding early contributors fairly, this will be represented by 2,500,000 in the period ending May 8th, 2024, and will decrease by 250,000 per month for the remainder of Year 1. For Year 2, there will be 13,539,768 weights available which will be distributed evenly at 1,128,314 weights per month.
 
 **Additional Notes:** The tables below provide an example of how the current state and the proposed update might look, highlighting the disparity that would arise in the current structure. 
 
@@ -140,20 +139,6 @@ Sample Outline of Monthly Weights by MRI (numbers are hypothetical)
 | Interoperability               |   300,000   |      250,000    |
 | Total                |   2,500,000   |      2,250,000    |
 
-## Implement a Tier System for Contribution
-**Curent Status:**
-Contributors analyze what they thought the USD value was of their impact and submit the corresponding weights. 
-
-**Proposed Updates:**
-Moving forward, the weights will be given out on a pro-rata basis compared against the impact of all other contributions for the month. To help standardize this process, this MRC proposes a three tier system. When submitting their requests to the snapshot, the contributor will provide:
-1) Wallet Address
-2) Link to Work
-3) (New) MRI Bucket
-4) (New) Tier of Contribution
-5) Description of Contribution
-
-Tiers will be defined in detail throughout the development of the deliverables.
-
 ## Define Process for Removal of Historical Weights
 **Current Status:**
 At each snapshot, the GitHub maintainers review the prior contributions and determine if any weights are no longer relevant, have been superseded, or are improperly maintained. 
@@ -181,10 +166,7 @@ As this MRC touches on a variety of topics, it focuses on several different buck
 1) Updated Code Contributors Weights Guide - The updated guide will maintain the historical process used so that there is a trail for posterity sake, and that if anyone (perhaps years from now) wants to understand the first 7 months of weight allocations, it will be documented. The updated guide will then expand to define the new processes, complete with calculations, tables, definitions, and appropriate appendices. 
 2) $MOR Code Contributors Emission Schedules - The calculations and tables for the emissions schedule to code contributors
 3) Allocation by MRI Template - The template for MRI owners to use when determining the allocation of monthly weights between the various MRIs.
-4) Contribution Impact Framework - As the proposal goes away from developers requesting a specific number of weights, and moves towards the pro-rata impact, it is important to have a standardized methodology so contributions are compared on a level playing field.
-5) Weight Maintenance Guide - This will outline the steps undertaken whenever a particular batch of weights are called into question for lack of management. We’ll outline the steps that will be taken and create a standardized template to walk through the process.
-6) Updated Snapshot Template - Since users will not be submitting requests for a defined number of weights, the authors will provide an updated version of the Snapshot document to
-7) Pro-Rata Calculator - This can be used by MRI owners to do the actual calculation, but also will be open source so that Contributors can plug in their own estimates to get ideas as to how many weights their contributions will translate to 
+4) Weight Maintenance Guide - This will outline the steps undertaken whenever a particular batch of weights are called into question for lack of management. We’ll outline the steps that will be taken and create a standardized template to walk through the process.
 
 ## Background / Experience of Author / Implementer 
 The Nebuchadnezzar Crew has been heavily involved in Morpheus. They have authored or collaborated on close to 10 MRCs and have been instrumental in much of the design and framework of critical aspects of Morpheus. The team has decades of background in strategy, analytics, and system design having advised some of the largest companies in the world before focusing more exclusively on Web3 entities. The team has been active in the Web3 environment for many years and has extensive experience working alongside all different types of companies.
