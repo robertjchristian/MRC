@@ -33,17 +33,18 @@ The primary topics of this MRC will each walk through the current status, the pr
 ## Combine Available Weights Remaining for Year 1 & Year 2
 
 **Current Status:**
-To stay under the 50,000,000 cap for Year 1, there are only 1,609,580 weights left, equivalent to 321,916 weights per month.
+Year 1 has a 50,000,000 cap. Given the proposed update to the April 8th weight valuation (see Code Contributors Weights Guide for more details), this cap will be exceeded. This would leave no weights availabe to reward contributors for the remainder of year 1. 
 After Year 1, the cap increases to 75,000,000 for Year 2, and thus there are 25,000,000 weights for Year 2, equivalent to 2,083,333 weights per month.
-The result is that Contributors for the next 5 months might be under-rewarded relative to the 12 months following.
+The result is that Contributors for the next 5 months would be under-rewarded relative to the 12 months following.
 
 **Proposed Update:**
 By combining the weights available over the next 17 months, this smooths out the disparity between the remaining 5 months of Year 1 and the 12 months of Year 2.
-This would combine the 26,609,580 weights to be distributed across the next 17 months, equivalent to an equal spread of 1,565,269 weights per month.
+The proposed approach is split up the remainder of the weights available within the Year 2 cap of 75,000,000 across the next 17 months. Continuing with the objective of rewarding early contributors fairly, this will be reprented by 2,500,000 in the period ending May 8th, 2024, and will decrease by 250,000 per month for the remainder of Year 1. For Year 2, there will be 13,539,768 weights available which will be distributed evenly at 1,128,314 weights per month.
 
 **Additional Notes:** The tables below provide an example of how the current state and the proposed update might look, highlighting the disparity that would arise in the current structure. 
 
-**Current Emission Schedule**
+**Current Emission Schedule:**
+This schedule reflects the original emissions prior to the latest updates in the Code Contributor Weights Guide.
 |# |Month	| Year | Weights Distributed |	Cumulative Weights |
 | --------- | --------- | --------- | --------- | --------- |
 | 1-6	| March	| 2024	| 46,924,000	| 46,924,000|
@@ -66,28 +67,29 @@ This would combine the 26,609,580 weights to be distributed across the next 17 m
 | 23	| August	| 2025	| 2,083,333	| 72,916,667|
 | 24	| September	| 2025	| 2,083,333	| 75,000,000| 
 
-**Sample Proposed Schedule**
+**Sample Proposed Schedule:**
+This schedule reflects the emissions inclusive of the latest updates in the Code Contributor Weights Guide.
 |# |Month	| Year | Weights Distributed |	Cumulative Weights |
 | --------- | --------- | --------- | --------- | --------- |
 | 1-6	| March	| 2024	| 46,924,000	| 46,924,000|
-| 7	| April	| 2024	| 1,466,420	| 48,390,420|
-| 8	| May	| 2024	| 1,565,269	| 49,955,689|
-| 9	| June	| 2024	| 1,565,269	| 51,520,959|
-| 10	| July	| 2024	| 1,565,269	| 53,086,228|
-| 11	| August	| 2024	| 1,565,269	| 54,651,498|
-| 12	| September	| 2024	| 1,565,269	| 56,216,767|
-| 13	| October	| 2024	| 1,565,269	| 57,782,036|
-| 14	| November	| 2024	| 1,565,269	| 59,347,306|
-| 15	| December	| 2024	| 1,565,269	| 60,912,575|
-| 16	| January	| 2025	| 1,565,269	| 62,477,845|
-| 17	| February	| 2025	| 1,565,269	| 	64,043,114|
-| 18	| March	| 2025	| 1,565,269	| 65,608,384|
-| 19	| April	| 2025	| 1,565,269	| 67,173,653| 
-| 20	| May	| 2025	| 1,565,269	| 68,738,922|
-| 21	| June	| 2025	| 1,565,269	| 70,304,192|
-| 22	| July	| 2025	| 1,565,269	| 71,869,461|
-| 23	| August	| 2025	| 1,565,269	| 73,434,731|
-| 24	| September	| 2025	| 1,565,269	| 75,000,000| 
+| 7	| April	| 2024	| 4,536,232	| 51,460,232|
+| 8	| May	| 2024	| 2,500,000	| 53,960,232|
+| 9	| June	| 2024	| 2,250,000	| 56,210,232|
+| 10	| July	| 2024	| 2,000,000	| 58,210,232|
+| 11	| August	| 2024	| 1,750,000	| 59,960,232|
+| 12	| September	| 2024	| 1,500,000	| 61,460,232|
+| 13	| October	| 2024	| 1,128,314	| 62,588,546|
+| 14	| November	| 2024	| 1,128,314	| 63,716,860|
+| 15	| December	| 2024	| 1,128,314	| 64,845,174|
+| 16	| January	| 2025	| 1,128,314	| 65,973,488|
+| 17	| February	| 2025	| 1,128,314	|67,101,802|
+| 18	| March	| 2025	| 1,128,314	| 68,230,116|
+| 19	| April	| 2025	| 1,128,314	| 69,358,430| 
+| 20	| May	| 2025	| 1,128,314	| 70,486,744|
+| 21	| June	| 2025	| 1,128,314	| 71,615,058|
+| 22	| July	| 2025	| 1,128,314	| 72,743,372|
+| 23	| August	| 2025	| 1,128,314	| 73,871,686|
+| 24	| September	| 2025	| 1,128,314	| 75,000,000| 
 
 ## Establish the Schedule for Monthly Distribution of Weights
 
@@ -126,17 +128,17 @@ The particular allocation to each MRI could be in any manner that the MRI owners
 Sample Outline of Monthly Weights by MRI (numbers are hypothetical)
 | MRI          | May 2024 | June 2024 |
 | ----------------------- | ---------- | ----------------------------- | 
-| Smart Contracts     |    1,000   |    2,000          |
-| Smart Agent Tools & Examples |    1,000   |  1,000    |
-| Morpheus Local Desktop / Mobile |      500   |  2000     |
-| TCM / MOR20 |    3,500   |   1,000  |
-| Protection Fund            |   1,000   |  1,000 |
-| Capital Proofs Extending |   4,000   | 1,000  |
-| Compute Proofs MOR / Lumerin     |   1,000   |  2,000  |
-| Code Proofs & Dashboards      |   1,000   |      2,000    |
-| Frontend Proofs & Examples      |   1,000   |      2,000    |
-| Interoperability               |   1,000   |      1,000    |
-| Total                |   15,000   |      15,000    |
+| Smart Contracts     |    200,000   |    250,000          |
+| Smart Agent Tools & Examples |    300,000   |  250,000    |
+| Morpheus Local Desktop / Mobile |     300,000   |  200,000     |
+| TCM / MOR20 |    200,000   |   200,000  |
+| Protection Fund            |   300,000   |  250,000 |
+| Capital Proofs Extending |   200,000   | 200,000  |
+| Compute Proofs MOR / Lumerin     |   200,000   |  250,000  |
+| Code Proofs & Dashboards      |   300,000   |      200,000    |
+| Frontend Proofs & Examples      |   200,000   |      200,000    |
+| Interoperability               |   300,000   |      250,000    |
+| Total                |   2,500,000   |      2,250,000    |
 
 ## Implement a Tier System for Contribution
 **Curent Status:**
