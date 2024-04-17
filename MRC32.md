@@ -3,6 +3,8 @@
 ## By
 Kelvin Thai - Rivalz.ai
 
+## Status In Discussion
+
 ## Introduction
 The MOR token stands as the primary currency within the Morpheus ecosystem. The team transforms it into a multichain token by integrating the Open Framework for Tokenization (OFT) from LayerZero. 
 LayerZero boasts being one of the pioneering messaging protocols globally, renowned for its seamless integration capabilities, offering "plug-and-play" code snippets for facilitating message transmission across various chains.
