@@ -149,7 +149,7 @@ On both Arbitrum and the new chains, a new MOR token contract would be deployed 
 The `NttManager` contract would be deployed on all chains, such as Ethereum Mainnet and Solana, in `burning` mode.
 
 
-* When transferring MOR tokens between chains, the `NttManager` contract on the source chain will burn the tokens, and the `NttManager` contract on the destination spoke will mint the corresponding amount of tokens to the recipient
+* When transferring MOR tokens between chains, the `NttManager` contract on the source chain will burn the tokens, and the `NttManager` contract on the destination chain will mint the corresponding amount of tokens to the recipient
 
 **Setting up Transceiver contracts**
 
