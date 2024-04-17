@@ -3,6 +3,8 @@
 **Category:** Interoperability: Proposals for improving ecosystem interoperability \
 **MRI Reference:** [Morpheus Reference Implementation 16 — Interoperability ↗︎](https://github.com/MorpheusAIs/MRC/blob/main/IMPLEMENTED/MRC16.md)
 
+**Discord Link: https://discord.com/channels/1151741790408429580/1230260441540722708**
+
 ---
 ### **Status**
 **April 17th, 2024: UNDER DISCUSSION**
