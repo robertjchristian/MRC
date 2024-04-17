@@ -9,6 +9,10 @@ Proposals to improve any of the Morpheus Reference Implementations (MRIs). See t
 
 ## List of MRCs:
 
+## MRC 32: Improved Strategy for MOR Multichain Token
+Status: [**Under Discussion** ](https://discord.com/channels/1151741790408429580/1230197408345096222)
+Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC32.md
+
 ## MRC 31: The Evolution of Code Weights
 - Status: [**Under Discussion**](https://discord.com/channels/1151741790408429580/1228539984844165140) 
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC31.md
