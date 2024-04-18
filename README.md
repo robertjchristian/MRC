@@ -9,7 +9,7 @@ Proposals to improve any of the Morpheus Reference Implementations (MRIs). See t
 
 ## List of MRCs:
 
-## MRC 33: 
+## MRC 33: Future-proofing Morpheus — Wormhole NTT for MOR Interoperability
 - Status: [Under Discussion](https://discord.com/channels/1151741790408429580/1230260441540722708)
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC33.md
 
