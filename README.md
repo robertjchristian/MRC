@@ -1,24 +1,25 @@
 # Morpheus Request for Comments (MRC)
-Proposals to improve any of the Morpheus Reference Implementations (MRIs). See the details on all the of the MRIs here: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md 
+Proposals to improve any of the Morpheus Reference Implementations (MRIs).  
+See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md). 
 
 ## Meta MRCs about MRCs
-- [For most MRCs in general this MRC00 is the first Meta MRC about how to submit an MRC.](https://github.com/MorpheusAIs/MRC/blob/main/MRC00.md) 
-- [For MRCs about adding new assets, yield sources, chains, see this MRC guide.](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/The%20Morpheus%20Asset%20Integration%20Framework.md)
+- For most MRCs in general this [MRC00](https://github.com/MorpheusAIs/MRC/blob/main/MRC00.md) is the first Meta MRC about how to submit an MRC. 
+- For MRCs about adding new assets, yield sources, chains, see this [MRC guide.](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/The%20Morpheus%20Asset%20Integration%20Framework.md)
 - Similar to the function of the [ERC system](https://eips.ethereum.org/erc ) serves in Ethereum, the MRC process provides a common language to describe interactions between models, agents, compute, payments, funding and so forth.
-- There is a dedicated forum on Discord for the discussion of MRCs here: https://discord.com/channels/1151741790408429580/1218593251079094383
+- There is a dedicated forum on Discord for the discussion of MRCs [here](https://discord.com/channels/1151741790408429580/1218593251079094383).
 
 ## List of MRCs:
 
 ## MRC 33: Future-proofing Morpheus — Wormhole NTT for MOR Interoperability
-- Status: [Under Discussion](https://discord.com/channels/1151741790408429580/1230260441540722708)
+- Status: [**UNDER DISCUSSION**](https://discord.com/channels/1151741790408429580/1230260441540722708)
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC33.md
 
 ## MRC 32: Improved Strategy for MOR Multichain Token
-- Status: [**Under Discussion** ](https://discord.com/channels/1151741790408429580/1230197408345096222)
+- Status: [**UNDER DISCUSSION** ](https://discord.com/channels/1151741790408429580/1230197408345096222)
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC32.md
 
 ## MRC 31: The Evolution of Code Weights
-- Status: [**In Progress**](https://discord.com/channels/1151741790408429580/1228539984844165140) 
+- Status: [**IN PROGRESS**](https://discord.com/channels/1151741790408429580/1228539984844165140) 
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC31.md
 
 ## MRC 30: PMAs: Portfolio Management Agents for Active and Passive Fund Management
