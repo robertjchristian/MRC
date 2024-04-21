@@ -1,5 +1,11 @@
 # Passive PMAs: Portfolio Management Agents for Passive Fund Management
 
+---
+
+### Status: UNDER DISCUSSION
+
+---
+
 ## Author
 64bits.eth
 Discord Discussion Link: https://discord.com/channels/1151741790408429580/1227120287825526844
