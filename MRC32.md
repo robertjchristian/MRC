@@ -1,10 +1,13 @@
 # Improved Strategy for MOR Multichain Token
 
-## By
-Kelvin Thai - Rivalz.ai
+---
 
-## Status In Discussion
-Link to Discord: https://discord.com/channels/1151741790408429580/1230197408345096222
+### Status: [UNDER DISCUSSION](https://discord.com/channels/1151741790408429580/1230197408345096222)
+
+---
+
+## Author
+Kelvin Thai - Rivalz.ai
 
 ## Introduction
 The MOR token stands as the primary currency within the Morpheus ecosystem. The team transforms it into a multichain token by integrating the Open Framework for Tokenization (OFT) from LayerZero. 
