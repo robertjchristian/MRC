@@ -3,7 +3,8 @@
 ## Status: Implemented
 
 ## Summary
-MRC, meaning Morpheus Request for Comments, is integral in suggesting and executing changes within the Morpheus ecosystem. This document is designed to make the submission process more transparent, fair, and efficient. The MRC process generally follows the monthly timing of the weight snapshot Smart Contract updates. So that weights included in MRCs advanced to the "In Progress" stage can be included in the next Smart Contract update which takes place around the 8th of each month.
+MRC, meaning Morpheus Request for Comments, is integral in suggesting and executing changes within the Morpheus ecosystem.  
+This document is designed to make the submission process more transparent, fair, and efficient. The MRC process generally follows the monthly timing of the weight snapshot Smart Contract updates. So that weights included in MRCs advanced to the "In Progress" stage can be included in the next Smart Contract update which takes place around the 8th of each month.
 
 ## Purpose and Scope
 This guide is crafted for contributors and users within the MOR ecosystem, facilitating structured proposals for standards and **material changes to one of the ten** [Morpheus Reference Implementations (MRIs).](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md)  
