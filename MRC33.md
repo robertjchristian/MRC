@@ -1,18 +1,15 @@
 # **MRC33: Future-proofing Morpheus — Wormhole NTT for MOR Interoperability**
 
-**Category:** Interoperability: Proposals for improving ecosystem interoperability \
-**MRI Reference:** [Morpheus Reference Implementation 16 — Interoperability ↗︎](https://github.com/MorpheusAIs/MRC/blob/main/IMPLEMENTED/MRC16.md)
+---
 
-**Discord Link: https://discord.com/channels/1151741790408429580/1230260441540722708**
+### Status: [UNDER DISCUSSION](https://discord.com/channels/1151741790408429580/1230260441540722708)
 
 ---
-### **Status**
-**April 17th, 2024: UNDER DISCUSSION**
 
----
+### Category: MRI #10: [Interoperability](https://github.com/MorpheusAIs/MRC/blob/main/IMPLEMENTED/MRC16.md)
+
 
 ## **Summary**
-
 The Morpheus community has demonstrated its commitment to expanding the project’s multichain capabilities, looking to make the MOR token composable across multiple blockchains as it prepares for a fully functional launch on May 8th. This presents a critical window of opportunity to make a well-informed decision on its multichain architecture, weighing potential advantages and tradeoffs between available solutions while aligning with the long term goals and core values of the Morpheus community. The decision made today will shape the future of the Morpheus protocol, influencing its security, flexibility and autonomy.
 
 As the MOR token has not yet been launched publicly, transitioning to a different multichain framework would not require a complex migration or disrupt the timeline. While the exploration of utilizing OFT highlights benefits such as a streamlined integration and contract immutability, it is crucial that the community approach the decision with care and diligence. The framework Morpheus adopts will influence how the project can evolve and adapt to new challenges and opportunities — understanding the characteristics of the multichain infrastructures available today will ensure that the foundations built are capable of positioning Morpheus for enduring growth and success for years to come.

@@ -1,8 +1,13 @@
 # Passive PMAs: Portfolio Management Agents for Passive Fund Management
 
+---
+
+### Status: [UNDER DISCUSSION](https://discord.com/channels/1151741790408429580/1227120287825526844)
+
+---
+
 ## Author
 64bits.eth
-Discord Discussion Link: https://discord.com/channels/1151741790408429580/1227120287825526844
 
 ## Summary
 This proposal introduces Portfolio Management Agents (PMAs) utilizing Large Language Models (LLMs) for fund management within the Morpheus ecosystem. Active PMAs will autonomously manage investment portfolios, executing trades and reallocating funds based on predefined user preferences or real-time market analysis. However, This MRC will focus on Passive PMAs, who perform actions only when being requested. 
