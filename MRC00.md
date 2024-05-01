@@ -99,7 +99,7 @@ Choose the matching MRI that your MRC impacts. Reach out to the repo Maintainer 
 - Link to Repo: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC08.md
 #### Interoperability: Proposals for improving ecosystem interoperability.
 - Maintainer's Discord Handle: urklan
-- Link to Repo: hhttps://github.com/MorpheusAIs/MRC/blob/main/IMPLEMENTED/MRC16.md
+- Link to Repo: https://github.com/MorpheusAIs/MRC/blob/main/IMPLEMENTED/MRC16.md
 
 ## Competition Among MRI Repo Maintainers To Increase Decentralization
 [The Morpheus Atomic Governance system](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/TechnoCapitalMachineTCM.md#atomic-governance) aims to be a free marketplace even for the Morpheus Reference Implementations themselves and thus the repo maintainers are not static but compete and are dynamic.
