@@ -11,7 +11,7 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 ## List of MRCs:
 
 ## MRC 34: Smart Agent Domains
-- Status: [**UNDER DISCUSSION**](https://discord.com/)
+- Status: [**UNDER DISCUSSION**](https://discord.com/channels/1151741790408429580/1233199915945955398)
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC34.md
 
 ## MRC 33: Future-proofing Morpheus — Wormhole NTT for MOR Interoperability
