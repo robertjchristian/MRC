@@ -10,6 +10,10 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of MRCs:
 
+## MRC 35: Smart Function Callers as the Basis of Early Smart Agents
+- Status: **IN PROGRESS**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC35.md
+
 ## MRC 34: Smart Agent Domains
 - Status: [**UNDER DISCUSSION**](https://discord.com/)
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC34.md
