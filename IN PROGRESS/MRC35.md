@@ -2,7 +2,7 @@
 
 **Author(s)**: Teknium, karan4d
 
-Link to Discord Discussion: TBD
+Link to Discord Discussion: https://discord.com/channels/1151741790408429580/1215401416659832842/1238871504683401417
 
 
 ## Summary
