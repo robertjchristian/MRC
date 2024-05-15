@@ -56,7 +56,7 @@ The fact that it is a multiple is also interesting to deal with the case where a
 - It is difficult to agree where the new MOR emissions come from: Fees from the Uniswap pool? Part of the protection fund? Donation from each group to create a fifth group?
 
 
-###Solution to the use of MOR utilities
+### Solution to the use of MOR utilities
 
 One solution could be inspired by the one used by the Curve system with veCRV. Users can still vote and earn returns but cannot transfer them because there is no veCRV token itself (although there is a unit of veCRV accounts within the Curve system).
 
