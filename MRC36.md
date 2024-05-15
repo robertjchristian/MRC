@@ -1,6 +1,7 @@
 # MRC 36 - Contributor's Reward Boost System
 
 Author(s): Mechaverse
+
 Category: [MRI1](https://github.com/MorpheusAIs/SmartContracts)
 
 ## Summary
