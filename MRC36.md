@@ -23,11 +23,11 @@ A formula could start by setting a minimum and a maximum locking time. For examp
 
 Let's assume that a minimum of 4 weeks and a maximum of 4 years is a reasonable duration. A multiplier can be calculated using the following simple formula:
 
-- Multiplier =  Number of weeks locked / 104 weeks.
+- **Multiplier =  Number of weeks locked / 104 weeks.**
 
 And the new contribution indicator for calculating the new quota would be as follows:
 
-- New contribution indicator = base contribution indicator + base contribution indicator * Multiplier
+- **New contribution indicator = base contribution indicator + base contribution indicator * Multiplier**
 
 So someone locking tokens for 1 year would receive a 50% bonus. 2 years, 100%.  4 years 200%.
 
