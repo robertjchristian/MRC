@@ -1,4 +1,4 @@
-# MRC 36 - Rewarding committed contributors
+# MRC 36 - Rewarding long-term committed contributors
 
 Author(s): Mechaverse
 
