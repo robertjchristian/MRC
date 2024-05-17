@@ -10,6 +10,10 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of MRCs:
 
+## MRC 36: Rewarding long-term committed contributors
+- Status: **UNDER DISCUSSION**
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC36.md
+
 ## MRC 35: Smart Function Callers as the Basis of Early Smart Agents
 - Status: **IN PROGRESS**
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC35.md
