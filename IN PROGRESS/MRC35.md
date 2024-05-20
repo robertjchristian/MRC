@@ -21,6 +21,8 @@ We’re interested in Morph-Caller serving as the foundation for Smart Agents—
 
 [Morph Caller](https://huggingface.co/Morpheus-Function-Calling/Morph-Caller) - The model itself
 
+[Morph Caller](https://huggingface.co/Morpheus-Function-Calling/Morph-Caller-GGUF) - The GGUF models (16 bit, 4 bit, 5 bit, 8 bit) for quantized universal inference
+
 ## New Weights Requested 
 None at the moment—this may change with new model sizes, significant architectural changes, or otherwise. 
 
