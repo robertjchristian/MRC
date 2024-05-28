@@ -23,9 +23,11 @@ A formula could start by setting a minimum and a maximum locking time. For examp
 
 Let's assume that a minimum of 4 weeks and a maximum of 4 years is a reasonable duration. A multiplier can be calculated using the following simple formula:
 
-- **Multiplier =  Number of weeks locked / 104 weeks.**
+- **Multiplier =  Number of months locked / 24 month.**
 
-And the new contribution indicator for calculating the new quota would be as follows:
+The locking period will be an integer number of months. This is done to facilitate implementation.
+
+The new contribution indicator for calculating the new quota would be as follows:
 
 - **New contribution indicator = base contribution indicator + base contribution indicator * Multiplier**
 
@@ -36,7 +38,7 @@ So someone locking tokens for 1 year would receive a 50% bonus. 2 years, 100%.  
 - 100 weights have been given to all contributors.
 - Joe has 1 weight, so he receives 1% of the Code group's emissions.
 - Joe decides to lock his claim for 2 years.
-- Applying the formula, his new contribution indicator is 2 (1 + 1*(104/104)).
+- Applying the formula, his new contribution indicator is 2 (1 + 1*(24/24)).
 - Joe now receives 2% of the Code Group's emissions but will not be able to claim his MORs for another 2 years.
 - All other contributors have been slightly diluted.
 
@@ -97,7 +99,6 @@ Option 1 is better defined and apparently presents a less intrusive implementati
 
 Option 2 is interesting to offer a lock-in option to all MOR holders. It could also be an option to develop another type of utility for MOR token. It would be necessary to define the origin of the additional MOR obtained.
 
-
 ## Value Proposition
 
 The proposed system will significantly enhance the value Morpheus provides to its contributors and users. By incentivizing long-term commitment, the system ensures that the most dedicated and confident contributors are rewarded for their loyalty and belief in the project. This leads to a more stable and motivated contributor base, which in turn drives higher quality contributions and continuous improvements to the ecosystem. Additionally, by publicly demonstrating their long-term commitment, contributors can build greater trust within the community, attracting more users and contributors who are aligned with the project's long-term vision. Ultimately, this system strengthens the overall stability and growth potential of the Morpheus ecosystem.
@@ -131,6 +132,16 @@ None.
 ## Implementer
 
 Open to anyone able to implement it. The author will act as facilitator.
+
+## Updates ##
+
+### May 28, 2024 ###
+
+As a result of the comments received, we will proceed to focus this proposal for now for the Code Contributors group. This will be done to facilitate implementation.
+
+We chose to focus on option 1 due to its simplicity of understanding, precedents in other projects and ease of implementation.
+
+The locking period will be an integer number of months instead of weeks. This is done to facilitate implementation.
 
 ## Status
 
