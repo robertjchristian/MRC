@@ -46,7 +46,7 @@ For the MRC to be considered "Implemented" the code proposed must be contributed
 - **Keep the scope of your proposal as narrow as possible.** The broader the proposal, the more technical dependencies and complexity will block its path forward.
 
 > [!IMPORTANT]  
-> **In MRCs where external sources of information are used, it's crucial to include proper references to authors and documents. Submissions without references will not be accepted. Providing sources not only strengthens your MRC but also ensures accuracy and credibility.**
+> **In MRCs, where external sources of information or information from any of the Morpheus repositories are used, it is crucial to include proper references to authors, collaborators, contributors, and documents. Submissions without references will not be accepted. Providing sources not only strengthens your MRC but also ensures accuracy and credibility.**
 
 ## MRC Request Template
 * **Title:** MRC#### - [Title of the Proposal]
