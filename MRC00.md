@@ -22,25 +22,34 @@ There is an active forum on [Discord](https://discord.com/channels/1151741790408
 Proposals are welcome on GitHub during the Fair Launch phase, eventually moving to [MOR.Software](https://mor.software/) for broader community interaction.
 
 ## Life Cycle of an MRC
-**1. Pull Request Creates MRC:** The author creates a pull request with the details of their new MRC.
+**1. Pull Request Creates MRC:**  
+The author creates a pull request with the details of their new MRC.
   
-**2. Merged into "Discussion":** The MRC is merged into Discussion by a Maintainer, this indicates the repo maintainer believes the MRC is at least worth discussion and has basic merit to their Reference Implementation.
+**2. Merged into "Discussion":**  
+The MRC is merged into Discussion by a Maintainer, this indicates the repo maintainer believes the MRC is at least worth discussion and has basic merit to their Reference Implementation.
   
-**3. Review:** Maintainers should seek to review and provide feedback to MRC authors once a week. So authors can get a sense of the next steps/current state of their MRC.
+**3. Review:**  
+Maintainers should seek to review and provide feedback to MRC authors once a week. So authors can get a sense of the next steps/current state of their MRC.
   
-**4. "Pending":** Much of the feedback to MRC authors is often about understanding dependencies and what technical hurtles exist for the MRC to be implemented. If a maintainer identifies a technical dependency they can move the MRC into "Pending" status. This indicates they accept the MRC in principle but there is a blocker that needs to be resolved first. The author can then wait on that dependcy and re-open their MRC once it is resolved or help work on resolving the dependency.
+**4. "Pending":**  
+Much of the feedback to MRC authors is often about understanding dependencies and what technical hurtles exist for the MRC to be implemented. If a maintainer identifies a technical dependency they can move the MRC into "Pending" status. This indicates they accept the MRC in principle but there is a blocker that needs to be resolved first. The author can then wait on that dependcy and re-open their MRC once it is resolved or help work on resolving the dependency.
   
-**5. "In Progress":** Once all technical dependencies have been addressed and weights agreed, only then can an MRC be accepted into the "In Progress" stage.
+**5. "In Progress":**  
+Once all technical dependencies have been addressed and weights agreed, only then can an MRC be accepted into the "In Progress" stage.
   
-**6. "Implemented":** For the MRC to be considered "Implemented" the code proposed must be contributed and merged by the maintainer into the correct MRI repository.
+**6. "Implemented":**  
+For the MRC to be considered "Implemented" the code proposed must be contributed and merged by the maintainer into the correct MRI repository.
 
 ## Writing a Well-Formed MRC
 - To draft a compelling MRC, study existing examples to grasp the expected format and substance. 
 - Use the provided template for standards and changes to Morpheus structure your proposal.
 - **Keep the scope of your proposal as narrow as possible.** The broader the proposal, the more technical dependencies and complexity will block its path forward.
 
+> [!IMPORTANT]  
+> **In MRCs where external sources of information are used, it's crucial to include proper references to authors and documents. Submissions without references will not be accepted. Providing sources not only strengthens your MRC but also ensures accuracy and credibility.**
+
 ## MRC Request Template
-* **Title:** MRC#### - [Title of the Proposal]]
+* **Title:** MRC#### - [Title of the Proposal]
 * **Author(s):** [Author Name (can be anon)  and Discord Handle(s)]
 * **Category:** [refer to Morpheus Reference Implementations (MRIs) list below]
 * **Summary:** Concise summary of the proposal.
