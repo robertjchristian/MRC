@@ -7,7 +7,7 @@ MRC, meaning Morpheus Request for Comments, is integral in suggesting and execut
 This document is designed to make the submission process more transparent, fair, and efficient. The MRC process generally follows the monthly timing of the weight snapshot Smart Contract updates. So that weights included in MRCs advanced to the "In Progress" stage can be included in the next Smart Contract update which takes place around the 8th of each month.
 
 ## Purpose and Scope
-This guide is crafted for contributors and users within the MOR ecosystem, facilitating structured proposals for standards and **material changes to one of the ten** [Morpheus Reference Implementations (MRIs).](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md)  
+This guide is crafted for contributors and users within the MOR ecosystem, facilitating structured proposals for standards and **material changes to one of the ten** [Morpheus Reference Implementations (MRIs).](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Code%20Providers/Morpheus%20Reference%20Implementations%20(MRC).md)  
 
 There is an active forum on [Discord](https://discord.com/channels/1151741790408429580/1215401416659832842) for all MRCs currently under discussion.
 
@@ -15,7 +15,7 @@ There is an active forum on [Discord](https://discord.com/channels/1151741790408
 
 > [!IMPORTANT]  
 > 1. If your contributions is a small incremental improvement to an existing Code base, just Contribute the code, no MRC required. 
-> 2. If you are seeking to build a Smart Agent and deploy it on Morpheus, no MRC is required, just register it on [MOR.Software](https://mor.software/) and follow the [guidance](https://github.com/LachsBagel/moragents/blob/main/AGENTABILITIES.md).
+> 2. If you are seeking to build a Smart Agent and deploy it on Morpheus, no MRC is required, just register it on [MOR.Software](https://mor.software/) and follow the [guidance](https://github.com/MorpheusAIs/moragents/blob/main/AGENTABILITIES.md).
 > 3. If you have a general proposal for a Morpheus feature its best to discuss it on [Discord](https://discord.gg/morpheusai) first. The MRC process is for technical proposals regarding HOW to implement improvements to Morpheus rather than general discussion of ideas.
 
 ## Submission Timeline and Platforms
@@ -47,7 +47,7 @@ Proposals are welcome on GitHub during the Fair Launch phase, eventually moving 
 * **Rationale:** Importance of the project and why it merits acceptance, including a simple solution description, delivery strategy, and technology stack.
 * **Value Proposition:** How will the proposal tangibly increase Morpheus's value to Contributors or Users?
 * **Dependencies:** Other MRCs or tasks needing completion beforehand.
-* **New Weights Requested:** Number of weights. [See guide here.](https://github.com/MorpheusAIs/Docs/blob/main/Guides/Code%20Contributor%20Weights%20Guide.md)
+* **New Weights Requested:** Number of weights. [See guide here.](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Code%20Providers/Code%20Contributor%20Weights%20Guide.md)
 * **Existing Weights:** Current weights of features or code your proposal will enhance.
 * **Deliverables:** Detailed account of what the proposal once implementated will deliver.
 * **Background / Experience of Author / Implementer:** Your or your team's credentials for executing the proposal.
@@ -64,24 +64,24 @@ Properly document your MRC in the repository and list it in the README for commu
 
 ## Meta MRCs about MRCs
 - For most MRCs in general this MRC00 is the first Meta MRC about how to submit an MRC.
-- For MRCs about adding new assets, yield sources, chains, see this [MRC guide.](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/The%20Morpheus%20Asset%20Integration%20Framework.md)
+- For MRCs about adding new assets, yield sources, chains, see this [MRC guide.](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Capital%20Providers%2C%20MOR20%2C%20TCM/The%20Morpheus%20Asset%20Integration%20Framework.md)
 
 ## Select the Affected Morpheus Reference Implementation
 Choose the matching MRI that your MRC impacts. Reach out to the repo Maintainer you think the MRC is most related to if you are uncertain. List below.
 
-## [Morpheus Reference Implementation (MRI) List](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md) 
+## [Morpheus Reference Implementation (MRI) List](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Code%20Providers/Morpheus%20Reference%20Implementations%20(MRC).md) 
 #### Smart Contracts: Changes to Morpheus smart contracts.
 - Maintainer's Discord Handle: smartagents
 - Link to Repo: https://github.com/MorpheusAIs/SmartContracts
 #### Smart Agent Tools & Examples: Development and deployment aids for smart agents.
 - Maintainer's Discord Handle: lachsbagel
-- Link to Repo: https://github.com/MorpheusAIs/SmartAgents
+- Link to Repo: https://github.com/MorpheusAIs/moragents
 #### Morpheus Local Desktop/Mobile: Desktop and mobile application proposals.
 - Maintainer's Discord Handle: scott_b_
 - Link to Repo: https://github.com/MorpheusAIs/Morpheus
 #### TCM / MOR20 (Token and Financial Models): TCM/MOR20 standard-related proposals.
 - Maintainer's Discord Handle: storm.father
-- Link to Repo: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/TechnoCapitalMachineTCM.md
+- Link to Repo: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Capital%20Providers%2C%20MOR20%2C%20TCM/Techno%20Capital%20Machine%20(TCM).md#atomic-governance
 #### Protection Fund: Enhancements to protection funds and security.
 - Maintainer's Discord Handle: storm.father 
 - Link to Repo: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Protection%20Fund%20Details.md
@@ -93,7 +93,7 @@ Choose the matching MRI that your MRC impacts. Reach out to the repo Maintainer 
 - Link to Repo: https://github.com/MorpheusAIs/Morpheus-Lumerin-Node
 #### Code Proofs and Examples 
 - Maintainer's Discord Handle: scott_b_
-- Link to Repo: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Coder%20Guide.md
+- Link to Repo: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Code%20Providers/Coder%20Guide.md
 #### Frontend Proofs & Examples: Frontend resource, proofs, and functionality enhancements.
 - Maintainer's Discord Handle: erikvoorhees
 - Link to Repo: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC08.md
@@ -102,15 +102,15 @@ Choose the matching MRI that your MRC impacts. Reach out to the repo Maintainer 
 - Link to Repo: hhttps://github.com/MorpheusAIs/MRC/blob/main/IMPLEMENTED/MRC16.md
 
 ## Competition Among MRI Repo Maintainers To Increase Decentralization
-[The Morpheus Atomic Governance system](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/TechnoCapitalMachineTCM.md#atomic-governance) aims to be a free marketplace even for the Morpheus Reference Implementations themselves and thus the repo maintainers are not static but compete and are dynamic.
+[The Morpheus Atomic Governance system](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Capital%20Providers%2C%20MOR20%2C%20TCM/Techno%20Capital%20Machine%20(TCM).md#atomic-governance) aims to be a free marketplace even for the Morpheus Reference Implementations themselves and thus the repo maintainers are not static but compete and are dynamic.
 
 **What this will look like in practice is:**
-- Anyone can start a fork of an existing [Morpheus Reference Implementation.](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md)
+- Anyone can start a fork of an existing [Morpheus Reference Implementation.](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Code%20Providers/Morpheus%20Reference%20Implementations%20(MRC).md)
 - They can set their own weights for how they choose to reward those contributing to their version of the repository.
 - Their code / version of the MRI is a MRC21 Non Fungible Agent with a reward address.
 - The protocol MOR emissions gauge an on chain metric to understand usage of that fork vs all other options.
 - MOR rewards are sent accordingly (as part of the 24% Coding bucket).
-- This on chain mechanism could leverage a lot of the [MOR Staking on chain signaling already being developed.](https://github.com/antonbosss/MRC/blob/main/IN%20PROGRESS/MRC22.md)
+- This on chain mechanism could leverage a lot of the [MOR Staking on chain signaling already being developed.](https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC22.md)
 - If MOR token holding does end up being the mechanism for Signaling then a free market will develop for MRIs.
 - This structure leaves the MRI system open for new forks, new contributors, and free competition over time.
 - Instead of ending up with 1 version the Morpheus network will have multiple competing versions.
