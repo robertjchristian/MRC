@@ -123,20 +123,20 @@ See the details on all of the MRIs [here](hhttps://github.com/MorpheusAIs/Docs/b
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/IMPLEMENTED/MRC09.md
 
 ## MRC 08: Waterloo Community Model
-- Status: **IN PROGRESS via MRC22**
+- Status: **IN PROGRESS via [MRC22](#mrc-22-mor-staking---a-free-market-mechanism-to-direct-mor-rewards-toward-smart-agent--end-user-applications-builders)**
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC08.md
 
 ## MRC 07: Fair Launch Process
 - Status: **In Progress**, Being implemented as the Smart Contracts being used for the Capital Providers of Morpheus.
-- Link: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Fair%20Launch.md
+- Link: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Morpheus%20Launch%20Phases.md
 
 ## MRC 06: Techno Capital Machine
 - Status: **IN PROGRESS**, Being implemented as the Smart Contracts being used for the Capital Providers of Morpheus.
-- Link: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/TechnoCapitalMachineTCM.md
+- Link: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Capital%20Providers%2C%20MOR20%2C%20TCM/Techno%20Capital%20Machine%20(TCM).md
 
 ## MRC 05: Yellowstone Compute Model
 - Status: **IN PROGRESS**, Being implemented as the Decentralized Router for the launch of Compute rewards post bootstrapping period.
-- Link: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Yellowstone%20Compute%20Model.md
+- Link: https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Compute%20Providers/Yellowstone%20Compute%20Model.md
 
 ## MRC 04: Morpheus Yellow Paper
 - Status: **IN PROGRESS**, Being implemented as the basis for Capital, Code, Compute and Community Builders.
