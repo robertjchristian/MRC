@@ -12,7 +12,7 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## MRC 37: Fixed Weight Time Minimum
 - Status: **UNDER DISCUSSION** https://github.com/MorpheusAIs/MRC/blob/main/MRC37.md
-- Link:
+- Link: https://discord.com/channels/1151741790408429580/1249811266936111104
 
 ## MRC 36: Rewarding long-term committed contributors
 - Status: **UNDER DISCUSSION** https://discord.com/channels/1151741790408429580/1241081832808910878
