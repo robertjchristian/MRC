@@ -29,7 +29,10 @@ To streamline the process of offering and accepting code contributions, the sche
 - By the 15th - Maintainers will accept or reject new bidsSub
 - By the 31st - Contributors submit a Proof of Contribution (see forms) describing a delivered contribution add the normal information on Github to the snapshot file for that month.
 
-This schedule was also added to Code Best Practices on Github.https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Code%20Providers/Code%20Contributor%20Best%20Practices.md
+Snapshot files can be found in [Contributions](https://github.com/MorpheusAIs/Docs/tree/main/Contributions)
+
+This schedule was also added to [Code Best Practices](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Code%20Providers/Code%20Contributor%20Best%20Practices.md)
+
 ###### Forms
 1. Bid for Weights:  https://forms.gle/51Bsd4QWoURAXEc7A
 2. Proof of contribution  https://forms.gle/51Bsd4QWoURAXEc7A
@@ -46,7 +49,7 @@ Marked as starting when tokens could be swapped on Uniswap, and risk of reward w
 ##### Phase Four - Recycled Rewards
 After all weights have been initially rewarded and begin to be recycled for new contributions. This assumes that the Community Bucket contract (based on the white paper)  is able to reward continued efforts aligned with Phase 2.
 ##### Boundaries
-Weights allocated in Phase One that required blind faith in the project cannot be recycled. Weights allocated in Phase Two can be scrutinized after twelve months. Weights allocated in Phases Three and Four will have Fixed Weight Time Minimums negotiated for between MRI Maintainers and Contributors.
+Weights allocated in Phase One that required blind faith in the project cannot be recycled. Weights allocated in Phase Two may be scrutinized after twelve months. Weights allocated in Phases Three and Four will have Fixed Weight Time Minimums negotiated between MRI Maintainers and Contributors within the workflow of the schedule above.
 #### Existing weights
 None required
 #### New Weights
