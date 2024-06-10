@@ -1,10 +1,10 @@
 # Morpheus Request for Comments (MRC)
 Proposals to improve any of the Morpheus Reference Implementations (MRIs).  
-See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md). 
+See the details on all of the MRIs [here](hhttps://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Code%20Providers/Morpheus%20Reference%20Implementations%20(MRC).md)
 
 ## Meta MRCs about MRCs
 - For most MRCs in general [MRC00](https://github.com/MorpheusAIs/MRC/blob/main/MRC00.md) is the first Meta MRC about how to submit an MRC. 
-- For MRCs about adding new assets, yield sources, chains, see this [MRC guide.](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/The%20Morpheus%20Asset%20Integration%20Framework.md)
+- For MRCs about adding new assets, yield sources, chains, see this [MRC guide.](https://github.com/MorpheusAIs/MRC/blob/main/IMPLEMENTED/MRC15.md)
 - Similar to the function of the [ERC system](https://eips.ethereum.org/erc ) serves in Ethereum, the MRC process provides a common language to describe interactions between models, agents, compute, payments, funding and so forth.
 - There is a dedicated forum on Discord for the discussion of MRCs [here](https://discord.com/channels/1151741790408429580/1218593251079094383).
 
@@ -19,7 +19,7 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC35.md
 
 ## MRC 34: Smart Agent Domains
-- Status: [**UNDER DISCUSSION**](https://discord.com/)
+- Status: [**UNDER DISCUSSION**](https://discord.com/channels/1151741790408429580/1233199915945955398)
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC34.md
 
 ## MRC 33: Future-proofing Morpheus — Wormhole NTT for MOR Interoperability
@@ -51,7 +51,7 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC27.md
 
 ## MRC 26: Decentralised Architecture Definition and API specification
-- Status: **UNDER DISCUSSION**
+- Status: [**UNDER DISCUSSION**](https://discord.com/channels/1151741790408429580/1220074053038243882)
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC26.md
 
 ## MRC 25: Lake Travis - Decentralized AI Inference System
@@ -67,7 +67,7 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/PENDING/MRC23.md
 
 ## MRC 22: MOR Staking - A Free Market Mechanism To Direct MOR Rewards Toward Smart Agent & End User Applications Builders
-- Status: **IN PROGRESS with MRC08**
+- Status: **IN PROGRESS with [MRC08](#mrc-08-waterloo-community-model)**
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC22.md
 
 ## MRC 21: Non Fungible Agents
