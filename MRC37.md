@@ -42,7 +42,7 @@ This schedule was also added to [Code Best Practices](https://github.com/Morpheu
 This solution presently recognizes four phases of weight assessment.  Weights are protected differently based on these classifications.
 ##### Phase One - Zero reward mechanism.  
 This is loosely defined by the areas that were important enough at the time to become MRIs. This was the  period of greatest risk to the contributor.
-##### Phase Tw0 - Post signaling, pre-liquidity.  
+##### Phase Two - Post signaling, pre-liquidity.  
 This roughly overlaps with the Bootstrapping period between Feb 8, and May 8, 2024. Covers weights that rewarded contributions needed to build community momentum
 ##### Phase Three - Fixed Market Reward
 Marked as starting when tokens could be swapped on Uniswap, and risk of reward was eliminated.
