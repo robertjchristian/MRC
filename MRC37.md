@@ -1,5 +1,5 @@
 # MRC 37: Weight Time 
-#### Status: In Discussion
+#### Status: In Progress
 ### Summary and Rationale
 ##### Situation
 When all weight budgets are depleted, new code will need to be rewarded with weights taken from legacy and orphaned code.
