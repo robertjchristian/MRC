@@ -1,4 +1,4 @@
-# MRC 37: Fixed Weight Time Minimum 
+# MRC 37: Weight Time 
 #### Status: In Discussion
 ### Summary and Rationale
 ##### Situation
@@ -8,7 +8,7 @@ Weights awarded for an undetermined amount of time may prove to be a disincentiv
 Healthy open source requires greater reward for contributions who align early without promise of reward.
 MRI maintainers need the ability to value weights as a function of time as well as emission. 
 ##### Solution 
-Contributing developers need a Fixed Minimum Time during which weights will be calculated into the block-daily emissions.
+Contributing developers need a knowable amount of snapshots during which weights will be calculated into the block-daily emissions.
 
 > NOTE:  A contributor is always responsible for the excellent maintenance of their contribution in order to maintain weights.  Minimum time implies excellent maintenance on behalf of the contributor.  New weights are not awarded for maintenance.    
 #### Implementing this solution 
