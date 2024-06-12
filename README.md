@@ -11,7 +11,7 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 ## List of MRCs:
 
 ## MRC 37: Weight Time
-- Status: **In Progress** https://github.com/MorpheusAIs/MRC/blob/main/MRC37.md
+- Status: **IN PROGRESS** https://github.com/MorpheusAIs/MRC/blob/main/MRC37.md
 - Link: https://discord.com/channels/1151741790408429580/1249811266936111104
 
 ## MRC 36: Rewarding long-term committed contributors
