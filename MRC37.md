@@ -17,6 +17,23 @@ Moving forward, a contributor will be allowed to include a fixed time for the we
 
 > “Developer A” proposes donating a feature to Morpheus in exchange for 10,000 weights, fixed for six snapshot periods.
 > MRI Maintainer and Developer A negotiate an acceptable amount of weights for a fixed amount of time to determine the true and present value of the proposed feature. 
+
+##### Snapshot evolution
+
+A new column appended the current snapshot table called _number of snapshots Requested_ could be used to express the number of snapshots for which the weights will be considered in emissions.  
+
+<p align="center">New Snapshot table abstract</p>
+<b>Snapshot | MRI | Wallet Address | GitHub Handle | Description of Contribution | Proof  | Weights Requested | # of Snapshots Requested</b>
+<br><br>
+<p align="center">New Snapshot table example</p>
+<b>5 | 3 | 0xf93de9fb07f5762a1e3db9a5c687595111928d77 | my GH name | "code does: this" | "http:// Link to proof" | 1250 | 6</b>
+<br><br>
+
+> As always, snapshot files can be found in [Contributions](https://github.com/MorpheusAIs/Docs/tree/main/Contributions)
+
+This schedule was also added to [Code Best Practices](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Code%20Providers/Code%20Contributor%20Best%20Practices.md)
+
+
 ##### Bidding schedule each month:
 
 ![Monthly Dev Bid - Monthly](https://github.com/MorpheusAIs/MRC/assets/76454555/b4c42782-ca45-4a87-9583-12357cab2e85)
@@ -29,27 +46,13 @@ To streamline the process of offering and accepting code contributions, the sche
 - By the 15th - Maintainers will accept or reject new bidsSub
 - By the 31st - Contributors submit a Proof of Contribution (see forms) describing a delivered contribution add the normal information on Github to the snapshot file for that month.
 
-Snapshot files can be found in [Contributions](https://github.com/MorpheusAIs/Docs/tree/main/Contributions)
-
-This schedule was also added to [Code Best Practices](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Code%20Providers/Code%20Contributor%20Best%20Practices.md)
 
 ###### Forms
 1. Bid for Weights:  https://forms.gle/51Bsd4QWoURAXEc7A
 2. Proof of contribution  https://forms.gle/51Bsd4QWoURAXEc7A
    
 (These forms are R&D versions, pre MOR.Software)
-#### Natural alignment with the phases of Bootstrapping. 
-This solution presently recognizes four phases of weight assessment.  Weights are protected differently based on these classifications.
-##### Phase One - Zero reward mechanism.  
-This is loosely defined by the areas that were important enough at the time to become MRIs. This was the  period of greatest risk to the contributor.
-##### Phase Two - Post signaling, pre-liquidity.  
-This roughly overlaps with the Bootstrapping period between Feb 8, and May 8, 2024. Covers weights that rewarded contributions needed to build community momentum
-##### Phase Three - Fixed Market Reward
-Marked as starting when tokens could be swapped on Uniswap, and risk of reward was eliminated.
-##### Phase Four - Recycled Rewards
-After all weights have been initially rewarded and begin to be recycled for new contributions. This assumes that the Community Bucket contract (based on the white paper)  is able to reward continued efforts aligned with Phase 2.
-##### Boundaries
-Weights allocated in Phase One that required blind faith in the project cannot be recycled. Weights allocated in Phase Two may be scrutinized after twelve months. Weights allocated in Phases Three and Four will have Fixed Weight Time Minimums negotiated between MRI Maintainers and Contributors within the workflow of the schedule above.
+
 #### Existing weights
 None required
 #### New Weights
