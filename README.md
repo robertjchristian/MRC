@@ -11,11 +11,11 @@ See the details on all of the MRIs [here](hhttps://github.com/MorpheusAIs/Docs/b
 ## List of MRCs:
 
 ## MRC 37: Weight Time
-- Status: **IN PROGRESS** hhttps://github.com/antonbosss/MRC/blob/main/IN%20PROGRESS/MRC37.md
-- Link: https://discord.com/channels/1151741790408429580/1249811266936111104
+- Status: [**IN PROGRESS**](https://discord.com/channels/1151741790408429580/1249811266936111104) 
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC37.md
 
 ## MRC 36: Rewarding long-term committed contributors
-- Status: **UNDER DISCUSSION** https://discord.com/channels/1151741790408429580/1241081832808910878
+- Status: [**UNDER DISCUSSION**](https://discord.com/channels/1151741790408429580/1241081832808910878) 
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC36.md
 
 ## MRC 35: Smart Function Callers as the Basis of Early Smart Agents
