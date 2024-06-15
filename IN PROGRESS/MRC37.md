@@ -7,20 +7,22 @@
 When all weight budgets are depleted, new code will need to be rewarded with weights taken from legacy and orphaned code.
 
 ### Challenges 
-Weights awarded for an undetermined amount of time may prove to be a disincentive to developers who want clarity on how long their contribution will be valued.
-Healthy open source requires greater reward for contributions who align early without promise of reward.
-MRI maintainers need the ability to value weights as a function of time as well as emission. 
+Weights awarded for an undetermined amount of time may prove to be a disincentive to developers who want clarity on how long their contribution will be valued.  
+Healthy open source requires greater reward for contributions who align early without promise of reward.  
+MRI maintainers need the ability to value weights as a function of time as well as emission.   
 
 ### Solution 
 Contributing developers need a knowable amount of snapshots during which weights will be calculated into the block-daily emissions.
 
 > [!NOTE] 
-> A contributor is always responsible for the excellent maintenance of their contribution in order to maintain weights.  Minimum time implies excellent maintenance on behalf of the contributor.  New weights are not awarded for maintenance.    
+> A contributor is always responsible for the excellent maintenance of their contribution in order to maintain weights.  
+> Weight time implies excellent maintenance on behalf of the contributor.   
+> New weights are not awarded for maintenance.    
 
 ### Implementing this solution 
 Moving forward, a contributor will be allowed to include a fixed time for the weights they are requesting. 
-For example:  
 
+For example:  
 > “Developer A” proposes donating a feature to Morpheus in exchange for 10,000 weights, fixed for six snapshot periods.  
 > MRI Maintainer and Developer A negotiate an acceptable amount of weights for a fixed amount of time to determine the true and present value of the proposed feature. 
 
