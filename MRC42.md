@@ -10,8 +10,9 @@ It seperates the Builders from the tourists. The HODLers from the day traders.
 In the Morpheus context, Time seperates the real Contriubtors from short term opportunists.
 
 **To quote Paul Graham:** 
-"If your opponents are opportunists, one way to beat them is to outlast them. Opportunists almost by definition lack staying power."
-https://x.com/paulg/status/1802094669628625272?s=46&t=iOyqtKddsZp1sSUXOguocA
+- "If your opponents are opportunists, one way to beat them is to outlast them. 
+- Opportunists almost by definition lack staying power."
+- https://x.com/paulg/status/1802094669628625272?s=46&t=iOyqtKddsZp1sSUXOguocA
 
 ## The Time Power Multiple (Shortened "Power")
 Rather than pick a "magic" number for the "Time Power Multiple" function, this number can best be set by looking at the actually Dilution Rate the person exeperiences from locking their MOR tokens for a specific period of time.
