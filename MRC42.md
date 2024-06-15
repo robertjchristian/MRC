@@ -1,8 +1,9 @@
 # MRC 42
 
 ## The Time Curve General Description MRC.
-The unified Time Curve principle. The answer to "Life, the Universe and Everything" is Time.
-How to making contributions accretive to Morpheus vs extractive. 
+- The unified Time Curve principle. 
+- The answer to "Life, the Universe and Everything" is Time.
+- How to making contributions accretive to Morpheus vs extractive. 
 
 ## Time seperates all things. 
 It seperates the Builders from the tourists. The HODLers from the day traders. 
