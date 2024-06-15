@@ -26,7 +26,7 @@ Rather than pick a "magic" number for the "Time Power Multiple" function, this n
 - In other words the Base reward as calculated by the number of stETH staked in the case of capital or the weights held in the case of a Code Contributor is mulipled by the Time Power Multiple. 
 - The result of this multiplication is then divided by the total stETH * Power or Weights * Power of ALL Contributors in that group to determine the individual Contributors proportionality of the MOR rewards that block.
 
-**For Example**
+**For Example:**
 - 1 stETH with a 319.07% Power multiple would have a result of 3.19
 - This 3.19 sum would be divided by the total stETH staked (or yield provided in a future yield agnostic version) post Power multiple.
 - If 100 stETH were already staked the porportion of rewards for the 1 stETH staker after his deposit would be equal to 3.19 out of 103.19 
