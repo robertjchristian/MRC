@@ -18,6 +18,11 @@ But given there is now plenty of MOR tokens claimed & generally available for tr
 - The 50% of the MOR held in the PoL can be locked for 16 years. In order to function as the basis for [the #2 epochs Tail Emissions](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/WhitePaper.md#tail-emissions-of-mor).
 - The other 50% of the MOR held in the PoL can be sent to a permanent burn address and destroyed forever.
 
+## Transitions In Phases Toward Ever More Scarcity Once Liquidity Is Established
+- Bootstrap phase swapped 50% to add liquidity depth when it started.
+- Moving to 75% MOR buy now that depth is solid, to add more emphasis on demand driver and scarcity.
+- Eventually move to 100%  if it’s deemed that liquidity is sufficient (when adding more liquidity wouldn’t really do much) it’s time to move entirely to demand driver and scarcity. 
+
 ## Conclusion
 This would seem to be most aligned with the spirit of the original design and white paper, as it would provide liquidity for MOR sellers. 
 Both short term with the immediate buy of MOR, and long term with the full range wETH liquidity position. 
