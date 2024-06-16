@@ -1,6 +1,6 @@
 # MRC 42
 
-## In Discussion on Discord: https://discord.com/channels/1151741790408429580/1251996042929639434
+### In Discussion on Discord: https://discord.com/channels/1151741790408429580/1251996042929639434
 
 ## The Time Curve General Description MRC
 - The unified Time Curve principle. 
