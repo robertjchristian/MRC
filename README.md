@@ -10,6 +10,30 @@ See the details on all of the MRIs [here](hhttps://github.com/MorpheusAIs/Docs/b
 
 ## List of MRCs:
 
+## MRC 43:
+- Status **In Discussion**: https://discord.com/channels/1151741790408429580/1251996463127593141
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC43.md
+
+## MRC 42:
+- Status **In Discussion**: https://discord.com/channels/1151741790408429580/1251996042929639434
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC42.md
+
+## MRC 41:
+- Status **In Discussion**: https://discord.com/channels/1151741790408429580/1251995756332843189
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC41.md
+
+## MRC 40:
+- Status **In Discussion**: https://discord.com/channels/1151741790408429580/1251995364693774336
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC40.md
+
+## MRC 39:
+- Status **In Discussion**: https://discord.com/channels/1151741790408429580/1251995170178596966
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC39.md
+
+## MRC 38: Time Curve For Code
+- In **Discussion**:https://discord.com/channels/1151741790408429580/1251994932688719922
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC38.md
+
 ## MRC 37: Weight Time
 - Status: [**IN PROGRESS**](https://discord.com/channels/1151741790408429580/1249811266936111104) 
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC37.md
