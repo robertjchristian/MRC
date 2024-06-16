@@ -9,11 +9,12 @@ But given there is now plenty of MOR tokens claimed & generally available for tr
 
 ## Upgraded Protocol Owned Liquidity Pattern
 - 1. stETH is collected and swapped to wETH.
-- 2. Half of the resulting wETH is used to swap for MOR from the Uniswap pool.
-- 3. The other half of wETH is added to the Uniswap pool as a full range liquidity position.
-- 4. The MOR that were purchased are held in the POL and NOT deposited back into liquidity.
+- 2. 75% of the resulting wETH is used to swap for MOR from the Uniswap pool.
+- 3. The remaining 25% of wETH would be paired with the 25% MOR as a full range liquidity position on Uniswap.
+- 4. The 50% remaining MOR that were purchased are held in the POL and NOT deposited back into liquidity or burned. 
 
 ## Conclusion
 This would seem to be most aligned with the spirit of the original design and white paper, as it would provide liquidity for MOR sellers. 
 Both short term with the immediate buy of MOR, and long term with the full range wETH liquidity position. 
 By withdrawing MOR purchased by POL and perodically removing MOR resulting from the wETH LP position it makes MOR ever more scarce.
+This way the PoL to would continue to deepen, and would add even more demand pressure as 75% would be swapped, and make it more scarce.
