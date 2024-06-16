@@ -13,6 +13,11 @@ But given there is now plenty of MOR tokens claimed & generally available for tr
 - 3. The remaining 25% of wETH would be paired with the 25% MOR as a full range liquidity position on Uniswap.
 - 4. The 50% remaining MOR that were purchased are held in the POL and NOT deposited back into liquidity or burned. 
 
+## Burning & Tail Emissions
+- This approach can be the basis for implementing the Burn Function described in the white paper.
+- The 50% of the MOR held in the PoL can be locked for 16 years. In order to function as the basis for [the #2 epoches Tail Emissions](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/WhitePaper.md#tail-emissions-of-mor).
+- The other 50% of the MOR held in the PoL can be sent to a permenent burn address and destroyed forever.
+
 ## Conclusion
 This would seem to be most aligned with the spirit of the original design and white paper, as it would provide liquidity for MOR sellers. 
 Both short term with the immediate buy of MOR, and long term with the full range wETH liquidity position. 
