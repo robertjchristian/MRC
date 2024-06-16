@@ -1,0 +1,19 @@
+# Protocol Owned Liquidity Upgrade to 2.0 Post Bootstrapping
+
+## Update to "Building the Foundation: Phased AMM Deployment in Morpheus"
+This MRC builds on a great work from MRC 9 to describe the phases of deploying the Protocol Owned Liquidity into the Uniswap AMM just after the bootstrapping period. 
+https://github.com/MorpheusAIs/MRC/blob/main/IMPLEMENTED/MRC09.md
+
+For the bootstrapping period the POL providing liquidity positions of both ETH and MOR made sense. 
+But given there is now plenty of MOR tokens claimed & generally available for trading, it would seem logical to move toward the following POL pattern.
+
+## Upgraded Protocol Owned Liquidity Pattern
+- 1. stETH is collected and swapped to wETH.
+- 2. Half of the resulting wETH is used to swap for MOR from the Uniswap pool.
+- 3. The other half of wETH is added to the Uniswap pool as a full range liquidity position.
+- 4. The MOR that were purchased are held in the POL and NOT deposited back into liquidity.
+
+## Conclusion
+This would seem to be most aligned with the spirit of the original design and white paper, as it would provide liquidity for MOR sellers. 
+Both short term with the immediate buy of MOR, and long term with the full range wETH liquidity position. 
+By withdrawing MOR purchased by POL and perodically removing MOR resulting from the wETH LP position it makes MOR ever more scarce.
