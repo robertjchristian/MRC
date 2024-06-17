@@ -11,7 +11,7 @@ See the details on all of the MRIs [here](hhttps://github.com/MorpheusAIs/Docs/b
 ## List of MRCs:
 
 ## MRC 43:
-- Status **In Discussion**: https://discord.com/channels/1151741790408429580/1251996463127593141
+- Status **In Progress**: https://discord.com/channels/1151741790408429580/1251996463127593141
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC43.md
 
 ## MRC 42:
