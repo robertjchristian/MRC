@@ -39,7 +39,7 @@ Rather than pick a "magic" number for the "Time Power Multiple" function, this n
 These MRCs stand for how to implement Time as a function for each of the four core proofs of Morpheus. 
 Code, Capital, Compute and Builders. However the principle is the same across all four and should hold generally.
 
-**- Code MRC 38:** https://github.com/MorpheusAIs/MRC/blob/main/MRC38.md
-**- Capital MRC 39:** https://github.com/MorpheusAIs/MRC/blob/main/MRC39.md
-**- Compute MRC 40:** https://github.com/MorpheusAIs/MRC/blob/main/MRC40.md
-**- Builders MRC 41:** https://github.com/MorpheusAIs/MRC/blob/main/MRC41.md
+- **Code MRC 38:** https://github.com/MorpheusAIs/MRC/blob/main/MRC38.md
+- **Capital MRC 39:** https://github.com/MorpheusAIs/MRC/blob/main/MRC39.md
+- **Compute MRC 40:** https://github.com/MorpheusAIs/MRC/blob/main/MRC40.md
+- **Builders MRC 41:** https://github.com/MorpheusAIs/MRC/blob/main/MRC41.md
