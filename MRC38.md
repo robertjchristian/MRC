@@ -2,6 +2,9 @@
 
 # The Time Curve for Code
 
+## Link for Discussion on Discord:
+https://discord.com/channels/1151741790408429580/1251994932688719922
+
 ## General Description
 It is necessary to implement a functionality where users can specify for what period they want to lock the MOR token claiming, in return the user will receive an increased MOR reward.
 
@@ -38,8 +41,5 @@ To implement such functionality, we need to carry a number of constraints and un
 ## Changes to smart contracts**
 The Distribution contract and related interfaces will change. Updates to the smart contract on the network will need to be made.
 
-Timelines
-2-3 weeks.
-
-## Link for Discord:
-https://discord.com/channels/1151741790408429580/1251994932688719922
+## Timelines
+2-3 weeks from June 21st 2024
