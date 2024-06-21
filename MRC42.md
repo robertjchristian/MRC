@@ -35,6 +35,8 @@ Rather than pick a "magic" number for the "Time Power Multiple" function, this n
 - If 100 stETH were already staked the porportion of rewards for the 1 stETH staker after his deposit would be equal to 3.19 out of 103.19 
 - Which equals 3.09% of the of the MOR emissions during that block.
 
+![ExampleMORPowerMultiples](https://github.com/MorpheusAIs/MRC/assets/1563345/520d777f-da1b-440d-bd24-e1ff68b75b51)
+
 ## MRCs 38, 39, 40, & 41 
 These MRCs stand for how to implement Time as a function for each of the four core proofs of Morpheus. 
 Code, Capital, Compute and Builders. However the principle is the same across all four and should hold generally.
