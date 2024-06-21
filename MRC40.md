@@ -1,5 +1,15 @@
 # MRC40 The Time Curve For Compute
 
+## Link for Discussion on Discord: 
+https://discord.com/channels/1151741790408429580/1251995364693774336
+
+## Analysis & Models:
+- **Emissions Curve Calculator 7.21.2024**
+https://docs.google.com/spreadsheets/d/1xTY7keBdPo2Nzm35Wdmu7ngP3NVIDebR/edit?usp=share_link&ouid=108805586783812761772&rtpof=true&sd=true
+
+- **MOR Power Table**
+https://docs.google.com/spreadsheets/d/1uEjozAcnEt-IWaSsu_BbYPRMUCkbwjwv/edit?usp=share_link&ouid=108805586783812761772&rtpof=true&sd=true
+
 ## General Description
 It is necessary to implement a functionality where users can specify for what period they want to lock the MOR token claiming, in return the user will receive an increased MOR reward.
 
@@ -25,16 +35,17 @@ When a multiplier is applied, the user's share of the stETH pool increases, depe
 
 ## Restrictions
 To implement such functionality, we need to carry a number of constraints and understand the important points:
-the claim lock period can be set by the user or administrator (for non-automatic groups) at any time;
-the claim lock period cannot be decreased; 
-the claim lock period can be increased. At the time of the transaction, the new multiplier will be applied.
-until the end of the lock period, the user will not be able to withdraw their rewards, but will be able to withdraw stETH.
-after the end of the blocking period, the user will continue to receive rewards with the multiplier, until the moment of any transaction on the smart contract (deposit, withdraw, claim), after that the multiplier will not be applied by the user.
+- the claim lock period can be set by the user or administrator (for non-automatic groups) at any time;
+- the claim lock period cannot be decreased; 
+- the claim lock period can be increased. At the time of the transaction, the new multiplier will be applied.
+
+## Relation to Compute
+1. Staked MOR can inform the likelihood of the Compute provider being selected. Weight in Compute Provider Repution.
+2. Stake MOR can inform the maximum reward a Compute Provider can earn. So for example if 100 MOR are Staked for 1 Year, then the most the Compute Provider can earn is 100 MOR during 1 year of providing Compute.
+
 
 ## Changes to Smart Contracts
 The Distribution contract and related interfaces will change. Updates to the smart contract on the network will need to be made.
 
 ## Timelines
-2-3 weeks from June 21st 2024.
-
-## Link for Discord: https://discord.com/channels/1151741790408429580/1251995364693774336
+4 to 6 weeks from June 21st 2024.
