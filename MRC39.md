@@ -2,6 +2,9 @@
 
 # The Time Curve for Capital
 
+## Link for Discord: 
+https://discord.com/channels/1151741790408429580/1251995170178596966
+
 ## General Description
 It is necessary to implement a functionality where users can specify for what period they want to lock the MOR token claiming, in return the user will receive an increased MOR reward.
 For non-automated groups, the contract administrator may specify such a period.
@@ -28,16 +31,15 @@ When a multiplier is applied, the user's share of the stETH pool increases, depe
 
 ## Restrictions
 To implement such functionality, we need to carry a number of constraints and understand the important points:
-the claim lock period can be set by the user or administrator (for non-automatic groups) at any time;
-the claim lock period cannot be decreased; 
-the claim lock period can be increased. At the time of the transaction, the new multiplier will be applied.
-until the end of the lock period, the user will not be able to withdraw their rewards, but will be able to withdraw stETH.
+- the claim lock period can be set by the user or administrator (for non-automatic groups) at any time;
+- the claim lock period cannot be decreased; 
+- the claim lock period can be increased. At the time of the transaction, the new multiplier will be applied.
+- until the end of the lock period, the user will not be able to withdraw their rewards, but will be able to withdraw stETH.
+
 after the end of the blocking period, the user will continue to receive rewards with the multiplier, until the moment of any transaction on the smart contract (deposit, withdraw, claim), after that the multiplier will not be applied by the user.
 
 ## Changes to Smart Contracts
 The Distribution contract and related interfaces will change. Updates to the smart contract on the network will need to be made.
 
-Timelines
-2-3 weeks.
-
-## Link for Discord: https://discord.com/channels/1151741790408429580/1251995170178596966
+## Timelines
+2-3 weeks from June 21st 2024
