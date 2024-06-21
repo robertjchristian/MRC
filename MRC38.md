@@ -6,9 +6,10 @@
 https://discord.com/channels/1151741790408429580/1251994932688719922
 
 ## Analysis & Models:
-**Emissions Curve Calculator 7.21.2024**
+- **Emissions Curve Calculator 7.21.2024**
 https://docs.google.com/spreadsheets/d/1xTY7keBdPo2Nzm35Wdmu7ngP3NVIDebR/edit?usp=share_link&ouid=108805586783812761772&rtpof=true&sd=true
-**MOR Power Table**
+
+- **MOR Power Table**
 https://docs.google.com/spreadsheets/d/1uEjozAcnEt-IWaSsu_BbYPRMUCkbwjwv/edit?usp=share_link&ouid=108805586783812761772&rtpof=true&sd=true
 
 ## General Description
