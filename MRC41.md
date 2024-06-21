@@ -1,5 +1,15 @@
 # MRC 41 The Time Curve For Builders
 
+## Link for Discussion on Discord: 
+https://discord.com/channels/1151741790408429580/1251995756332843189
+
+## Analysis & Models:
+- **Emissions Curve Calculator 7.21.2024**
+https://docs.google.com/spreadsheets/d/1xTY7keBdPo2Nzm35Wdmu7ngP3NVIDebR/edit?usp=share_link&ouid=108805586783812761772&rtpof=true&sd=true
+
+- **MOR Power Table**
+https://docs.google.com/spreadsheets/d/1uEjozAcnEt-IWaSsu_BbYPRMUCkbwjwv/edit?usp=share_link&ouid=108805586783812761772&rtpof=true&sd=true
+
 ## General Description
 It is necessary to implement a functionality where users can specify for what period they want to lock the MOR token claiming, in return the user will receive an increased MOR reward.
 
@@ -30,11 +40,14 @@ To implement such functionality, we need to carry a number of constraints and un
 - the claim lock period can be increased. At the time of the transaction, the new multiplier will be applied.
 - after the end of the blocking period, the user will continue to receive rewards with the multiplier, until the moment of any transaction on the smart contract (deposit, withdraw, claim), after that the multiplier will not be applied by the user.
 
+## Relation to Builder Rewards
+1. Staking of MOR toward a MOR20 Project will inform the reward rate of MOR distributed to that project.
+2. Staking MOR will be locked until both: 
+A. After the Token Generation Event.
+B. After the MOR fees paid to the Morpheus Protocol Owned Liquidity exceed that of the MOR rewards paid out by the Protocol.
+
 ## Changes to Smart Contracts
 The Distribution contract and related interfaces will change. Updates to the smart contract on the network will need to be made.
 
 ## Timelines
-2-3 weeks from June 21st 2024.
-
-## Link for Discord: 
-https://discord.com/channels/1151741790408429580/1251995756332843189
+6-8 weeks from June 21st 2024.
