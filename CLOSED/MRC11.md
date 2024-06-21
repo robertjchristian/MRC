@@ -6,7 +6,7 @@
 **April 1, 2024: CLOSED**
 
 **Comments:** Thank you for the MRC11 submission.  
-Morpheus' core is to develop incentivization for agent and model builders while allowing permissionless access. 
+Morpheus' core is to develop incentivization for agent and model builders while allowing permissionless access.  
 There isn't a desire to promote any particular framework. Pragmatically speaking, a dev would choose whichever frameworks and tech stack they see fit to build the level of desired functionality. They would then use the Morpheus system to host model assets/definitions and provide inference for users. There isn't a path here to promote particular frameworks.
 
 ---
