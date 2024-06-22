@@ -5,7 +5,32 @@
 ## Link for Discussion on Discord:
 https://discord.com/channels/1151741790408429580/1251994932688719922
 
+## Fair Stake for MOR Wealth
+
+
+All contributors should have equal access to build MOR wealth by staking their weights. Currently this long-term return is only a natural function of capital rewards.
+
+Fair Stake allows all contributors to be rewarded if they agree not to claim tokens for a set period of time. When instituted, contributors will have the ability to indicate the length of Fair Stake as part of a bid for weights.
+
+Contributors who stake for long periods of time will see a better return on their weights.  See below for a description of economic mechanisms.
+
+### Mini-FAQ:
+- Am I required to stake my weights? No.
+- Are my existing weights automatically staked? No.
+- Can existing weights be staked? Yes.
+- Can any amount of weights be staked? Yes.
+
+
+Example:
+>Developer A is bidding on a specific MRC deliverable. They don’t want to undervalue their contribution or be forced to compete with the lowest bidder.  They would rather stand behind good work that they are fairly compensated for.  So, Developer A requests a fair-but-competitive reward in weights, but adds a 48 month Fair Stake of the weights to their bid. Now the MRI maintainer can clearly see a new dimension of value when considering Developer A’s proposal.
+>>>
+
+### Value signaling.
+
+Fair Stake allows all contributors to clearly and equally indicate their commitment to growing with Morpheus.  
+
 ## Analysis & Models:
+
 - **Emissions Curve Calculator 7.21.2024**
 https://docs.google.com/spreadsheets/d/1xTY7keBdPo2Nzm35Wdmu7ngP3NVIDebR/edit?usp=share_link&ouid=108805586783812761772&rtpof=true&sd=true
 
@@ -15,7 +40,7 @@ https://docs.google.com/spreadsheets/d/1uEjozAcnEt-IWaSsu_BbYPRMUCkbwjwv/edit?us
 ## General Description
 It is necessary to implement a functionality where users can specify for what period they want to lock the MOR token claiming, in return the user will receive an increased MOR reward.
 
-For non-automated groups like this Code one, the contract administrator may manually enter such a period to match the one expressed on Github.
+Fair Stake intervals will be posted on GitHub 
 
 ## Example MOR Power Multiples
 ![ExampleMORPowerMultiples](https://github.com/MorpheusAIs/MRC/assets/1563345/0ce2bda9-20bf-4cbb-8ba6-1538952b578b)
@@ -54,3 +79,4 @@ The Distribution contract and related interfaces will change. Updates to the sma
 
 ## Timelines
 3 to 4 weeks from June 21st 2024
+
