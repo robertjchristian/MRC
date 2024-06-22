@@ -43,7 +43,7 @@ It is necessary to implement a functionality where users can specify for what pe
 Fair Stake intervals will be posted on GitHub 
 
 ## Example MOR Power Multiples
-![ExampleMORPowerMultiples](https://github.com/MorpheusAIs/MRC/assets/1563345/0ce2bda9-20bf-4cbb-8ba6-1538952b578b)
+![Example MOR Power Multiples](https://github.com/MorpheusAIs/MRC/assets/1563345/a6de0316-9122-4b52-9c1c-30e60607d612)
 **Chart shows examples if the Contributor set time curves starting July 25th 2024**
 
 ## Realization
