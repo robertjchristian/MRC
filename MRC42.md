@@ -35,7 +35,7 @@ Rather than pick a "magic" number for the "Time Power Multiple" function, this n
 - If 100 stETH were already staked the porportion of rewards for the 1 stETH staker after his deposit would be equal to 3.07 out of 103.07 
 - Which equals 2.97% of the of the MOR emissions during that block.
 
-![ExampleMORPowerMultiples](https://github.com/MorpheusAIs/MRC/assets/1563345/27cdbd67-d2d2-4953-9745-f5283f5a0b25)
+![Example MOR Power Multiples](https://github.com/MorpheusAIs/MRC/assets/1563345/94e26b82-d4c7-4b09-b4ce-589caae23481)
 **Charts shows example power multiples if the Contributor locked their MOR rewards the 25th of July 2024.**
 
 ## MRCs 38, 39, 40, & 41 
