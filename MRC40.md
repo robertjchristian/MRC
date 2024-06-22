@@ -33,6 +33,10 @@ Where the now: MOR that is potentially in circulation at the time of transaction
 A multiplier can be applied at deposit, if the user specifies locking period. Or with a separate function on the smart contract - lockClaim(). The lock period is specified in seconds, it can be any interval.
 When a multiplier is applied, the user's share of the stETH pool increases, depending on the multiplier.
 
+## Example Multiples in Chart
+![Example MOR Power Multiples](https://github.com/MorpheusAIs/MRC/assets/1563345/0e7f91be-d223-49e0-972f-a55500d6464d)
+**Presumes a July 25th 2024 Start Date**
+
 ## Restrictions
 To implement such functionality, we need to carry a number of constraints and understand the important points:
 - the claim lock period can be set by the user or administrator (for non-automatic groups) at any time;
