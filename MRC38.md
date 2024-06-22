@@ -17,6 +17,10 @@ It is necessary to implement a functionality where users can specify for what pe
 
 For non-automated groups like this Code one, the contract administrator may manually enter such a period to match the one expressed on Github.
 
+## Example MOR Power Multiples
+![ExampleMORPowerMultiples](https://github.com/MorpheusAIs/MRC/assets/1563345/0ce2bda9-20bf-4cbb-8ba6-1538952b578b)
+**Chart shows examples if the Contributor set time curves starting July 25th 2024**
+
 ## Realization
 Final MOR reward calculation
 When  claim of  the MOR tokens are locked, there will be a multiplier for the user final rewards. Thus the final reward will be calculated by the formula:
