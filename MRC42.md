@@ -21,21 +21,21 @@ In the Morpheus context, Time seperates the real Contriubtors from short term op
 Rather than pick a "magic" number for the "Time Power Multiple" function, this number can best be set by looking at the actually Dilution Rate the person exeperiences from locking their MOR tokens for a specific period of time.
 
 **For example:**
-- On July 15th 2024 2,258,586 MOR will have been emitted.
-- On July 15th 2025 7,207,283 MOR will have been emitted.
-- In the case the user choses to lock their MOR claims for this 12 month period, they experience 319% dilution.  
+- On July 25th 2024 2,384,564 MOR will have been emitted.
+- On July 25th 2025 7,338,234 MOR will have been emitted.
+- In the case the user choses to lock their MOR claims for this 12 month period, they experience 307% dilution.  
 - So the Time Power Multiple should be the same. 
 
 - In other words the Base reward as calculated by the number of stETH staked in the case of capital or the weights held in the case of a Code Contributor is mulipled by the Time Power Multiple. 
 - The result of this multiplication is then divided by the total stETH * Power or Weights * Power of ALL Contributors in that group to determine the individual Contributors proportionality of the MOR rewards that block.
 
 **For Example:**
-- 1 stETH with a 319.07% Power multiple would have a result of 3.19
-- This 3.19 sum would be divided by the total stETH staked (or yield provided in a future yield agnostic version) post Power multiple.
-- If 100 stETH were already staked the porportion of rewards for the 1 stETH staker after his deposit would be equal to 3.19 out of 103.19 
-- Which equals 3.09% of the of the MOR emissions during that block.
+- 1 stETH with a 307% Power multiple would have a result of 3.07
+- This 3.07 sum would be divided by the total stETH staked (or yield provided in a future yield agnostic version) post Power multiple.
+- If 100 stETH were already staked the porportion of rewards for the 1 stETH staker after his deposit would be equal to 3.07 out of 103.07 
+- Which equals 2.97% of the of the MOR emissions during that block.
 
-![ExampleMORPowerMultiples](https://github.com/MorpheusAIs/MRC/assets/1563345/4e1d7a60-3cc2-437d-b9a9-9af45cc282ce)
+![ExampleMORPowerMultiples](https://github.com/MorpheusAIs/MRC/assets/1563345/27cdbd67-d2d2-4953-9745-f5283f5a0b25)
 **Charts shows example power multiples if the Contributor locked their MOR rewards the 25th of July 2024.**
 
 ## MRCs 38, 39, 40, & 41 
