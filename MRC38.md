@@ -53,4 +53,4 @@ To implement such functionality, we need to carry a number of constraints and un
 The Distribution contract and related interfaces will change. Updates to the smart contract on the network will need to be made.
 
 ## Timelines
-2-3 weeks from June 21st 2024
+3 to 4 weeks from June 21st 2024
