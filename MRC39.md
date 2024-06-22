@@ -32,6 +32,20 @@ multiplier = (end - now)/now + 1;
 Where the end: MOR that potentially will be in circulation at the end of lock period for the current group.
 Where the now: MOR that is potentially in circulation at the time of transaction execution for the current group.
 
+## Using Tanh Hyperbolic Tangent for this Function in Solidity
+- power = (16.61327546) * tanh((x/2625000) / (15.507186 / 2))
+- where x is the number of blocks
+- 16.61327546 is the max power
+- 15.507186 is the number of years left
+- 2625000 is number of blocks in a year for Ethereum
+- Plug in x for the number of blocks someone is willing to lock up, and this equation will return the power factor
+- e.g. let's say someone waits one year = 2625000 blocks 
+- 2.1 = 16.61327546 tanh((2625000/2625000) / (15.507186 / 2))
+- Power is 2.1 for someone who waits a year
+- e.g., 2 years is 4.19
+- If there are issues getting tanh to work in solidity, you can create it with this.
+- tanh(x) = (e^x - e^(-x)) / (e^x + e^(-x))
+
 ## Using of multiplier
 A multiplier can be applied at deposit, if the user specifies locking period. Or with a separate function on the smart contract - lockClaim(). The lock period is specified in seconds, it can be any interval.
 When a multiplier is applied, the user's share of the stETH pool increases, depending on the multiplier.
