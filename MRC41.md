@@ -1,7 +1,36 @@
-# MRC 41 The Time Curve For Builders
+# Title: MRC 41 "The Time Curve For Builders"
 
-## Link for Discussion on Discord: 
+### Link for Discussion on Discord: 
 https://discord.com/channels/1151741790408429580/1251995756332843189
+
+### Status: In Discussion
+
+## Authors / Discord Name: Anon 866, David Johnston (Smart Agents), Anton (antonb), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_)   
+
+## Category: MRI #1 Smart Contracts Reference Implementation
+
+## Rationale: Time Equals Aliegnment
+To implement economic alignment of Builders, it is necessary to implement a functionality where users can specify for what period they want to lock the MOR token claiming. It is necessary to implement a functionality where users can specify for what period they want to lock the MOR token claiming, in return the user will receive an increased MOR reward.
+
+## Dependencies: 
+None.
+
+## New Weights Requested: 
+30,000 Weights
+
+## Existing Weights: 
+None.
+
+## Deliverables: Smart Contract Updates 
+The Distribution Smart Contract specifically with have a the two functions added.
+1. MOR Time Delay function (restrict MOR claims during certain block heights).
+2. Power Multiple calculation (update MOR reward calculation).
+
+## Qualification:
+Same open source developers that developed the Morpheus Smart Contracts thus far.
+
+## Timelines
+4 to 6 weeks from June 21st 2024
 
 ## Analysis & Models:
 - **Emissions Curve Calculator 7.21.2024**
@@ -9,9 +38,6 @@ https://docs.google.com/spreadsheets/d/1xTY7keBdPo2Nzm35Wdmu7ngP3NVIDebR/edit?us
 
 - **MOR Power Table**
 https://docs.google.com/spreadsheets/d/1uEjozAcnEt-IWaSsu_BbYPRMUCkbwjwv/edit?usp=share_link&ouid=108805586783812761772&rtpof=true&sd=true
-
-## General Description
-It is necessary to implement a functionality where users can specify for what period they want to lock the MOR token claiming, in return the user will receive an increased MOR reward.
 
 ## Realization
 Final MOR reward calculation
