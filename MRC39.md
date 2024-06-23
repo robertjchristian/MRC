@@ -1,9 +1,42 @@
-# MRC 39
+# Title: # MRC 39 "The Time Curve for Capital"
 
-# The Time Curve for Capital
-
-## Link for Discord: 
+### Link for Discord: 
 https://discord.com/channels/1151741790408429580/1251995170178596966
+### Status: In Discussion
+
+## Authors / Discord Name: Anon 866, David Johnston (Smart Agents), Anton (antonb), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_)   
+
+## Category: MRI #1 Smart Contracts Reference Implementation
+
+## Rationale: Time Equals Aliegnment
+A negative feedback loop is possible in the current mechanism that has been revealed via the real world data. That is to say if the price goes down, the amount of stETH goes down. Because the stETH declines the competition to earn MOR declines. Thus reducing the cost to acquire MOR. So the remaining stETH still gets MOR for 74% less than the ETH it took to earn it. And because there is no time delay function an attacker can play out this game theory and benefit from the declining price and still be making ETH returns regardless of if MOR is $100, $50, $10, $1. Selling all their MOR every week when the Protocol Owned Liquidity buys. Its not about the price being up or down, its a negative feedback loop in being able to withdraw more ETH than contributed instantly. 
+
+Its clear in the data The Time element closes this negative feedback loop. As the price movements up and down over Time make the game of selling all the MOR for ETH too risky for short term holders.
+
+During the bootstrapping period from February 8th 2024 to May 8th 2024, when there was a 90 day delay in the MOR claiming and the tokens were not trading yet, it prevented this negative feedback loop.
+
+**Decision Tree:**
+- Is there a real architecture issue to address? Yes or No. **Clearly Yes.**
+- If yes, then what is the best mechanism to address the issue. **Time is the only objective function proposed.**
+- What should the incentive be to delay MOR claims over time? **The Dilution Rate based Power Multiple is the only objective function proposed.**
+- How long should the Delay function be set for? **TBD Why Not The Entire Supply Curve?**
+
+## Dependencies: None.
+
+## New Weights Requested: 30,000 Weights
+
+## Existing Weights: None.
+
+## Deliverables: Smart Contract Updates 
+The Distribution Smart Contract specifically with have a the two functions added.
+1. MOR Time Delay function (restrict MOR claims during certain block heights).
+2. Power Multiple calculation (update MOR reward calculation).
+
+## Qualification:
+Same open source developers that developed the Morpheus Smart Contracts thus far.
+
+## Timelines
+3 to 4 weeks from June 21st 2024
 
 ## Analysis & Models:
 - **Emissions Curve Calculator 7.21.2024**
