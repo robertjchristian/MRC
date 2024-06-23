@@ -1,7 +1,36 @@
-# MRC40 The Time Curve For Compute
+# Title: MRC 40 "The Time Curve For Compute"
 
-## Link for Discussion on Discord: 
+### Link for Discussion on Discord: 
 https://discord.com/channels/1151741790408429580/1251995364693774336
+
+### Status: In Discussion
+
+## Authors / Discord Name: Anon 866, David Johnston (Smart Agents), Anton (antonb), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_)   
+
+## Category: MRI #1 Smart Contracts Reference Implementation
+
+## Rationale: Time Equals Aliegnment
+To implement economic alignment of Compute Providers, it is necessary to implement a functionality where users can specify for what period they want to lock the MOR token claiming, in return the user will receive an increased MOR reward and more reputation.
+
+- 1. Staked MOR can inform the likelihood of the Compute provider being selected. Weight in Compute Provider Repution.
+- 2. Stake MOR can inform the maximum reward a Compute Provider can earn. So for example if 100 MOR are Staked for 1 Year, then the most the Compute Provider can earn is 100 MOR during 1 year of providing Compute.
+
+## Dependencies: None.
+
+## New Weights Requested: 30,000 Weights
+
+## Existing Weights: None.
+
+## Deliverables: Smart Contract Updates 
+The Distribution Smart Contract specifically with have a the two functions added.
+1. MOR Time Delay function (restrict MOR claims during certain block heights).
+2. Power Multiple calculation (update MOR reward calculation).
+
+## Qualification:
+Same open source developers that developed the Morpheus Smart Contracts thus far.
+
+## Timelines
+3 to 4 weeks from June 21st 2024
 
 ## Analysis & Models:
 - **Emissions Curve Calculator 7.21.2024**
@@ -9,9 +38,6 @@ https://docs.google.com/spreadsheets/d/1xTY7keBdPo2Nzm35Wdmu7ngP3NVIDebR/edit?us
 
 - **MOR Power Table**
 https://docs.google.com/spreadsheets/d/1uEjozAcnEt-IWaSsu_BbYPRMUCkbwjwv/edit?usp=share_link&ouid=108805586783812761772&rtpof=true&sd=true
-
-## General Description
-It is necessary to implement a functionality where users can specify for what period they want to lock the MOR token claiming, in return the user will receive an increased MOR reward.
 
 ## Realization
 Final MOR reward calculation
@@ -56,12 +82,6 @@ To implement such functionality, we need to carry a number of constraints and un
 - the claim lock period can be set by the user or administrator (for non-automatic groups) at any time;
 - the claim lock period cannot be decreased; 
 - the claim lock period can be increased. At the time of the transaction, the new multiplier will be applied.
-
-## Relation to Compute
-1. Staked MOR can inform the likelihood of the Compute provider being selected. Weight in Compute Provider Repution.
-2. Stake MOR can inform the maximum reward a Compute Provider can earn. So for example if 100 MOR are Staked for 1 Year, then the most the Compute Provider can earn is 100 MOR during 1 year of providing Compute.
-
-
 ## Changes to Smart Contracts
 The Distribution contract and related interfaces will change. Updates to the smart contract on the network will need to be made.
 
