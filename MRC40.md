@@ -15,11 +15,14 @@ To implement economic alignment of Compute Providers, it is necessary to impleme
 - 1. Staked MOR can inform the likelihood of the Compute provider being selected. Weight in Compute Provider Repution.
 - 2. Stake MOR can inform the maximum reward a Compute Provider can earn. So for example if 100 MOR are Staked for 1 Year, then the most the Compute Provider can earn is 100 MOR during 1 year of providing Compute.
 
-## Dependencies: None.
+## Dependencies: 
+None.
 
-## New Weights Requested: 30,000 Weights
+## New Weights Requested: 
+30,000 Weights
 
-## Existing Weights: None.
+## Existing Weights: 
+None.
 
 ## Deliverables: Smart Contract Updates 
 The Distribution Smart Contract specifically with have a the two functions added.
