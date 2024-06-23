@@ -4,7 +4,7 @@
 https://discord.com/channels/1151741790408429580/1251994932688719922
 ### Status: In Discussion
 
-### Authors / Discord Name: Anon 866, David Johnston (Smart Agents), Anton (antonb), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_)   
+### Authors / Discord Name: Anon 866, David Johnston (Smart Agents), Anton (antonb), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_) Authors of Proposals On Similar Subjects: mechaverse & kehndry
 
 ### Category: MRI #1 Smart Contracts Reference Implementation
 
