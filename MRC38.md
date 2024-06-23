@@ -20,9 +20,11 @@ Those Contributors of Code should have a way to express their committment to the
 
 ## Dependencies: None.
 
-## New Weights Requested: 30,000 Weights
+## New Weights Requested: 
+30,000 Weights
 
-## Existing Weights: None.
+## Existing Weights: 
+None.
 
 ## Deliverables: Smart Contract Updates 
 The Distribution Smart Contract specifically with have a the two functions added.
