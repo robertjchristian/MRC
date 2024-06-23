@@ -1,18 +1,39 @@
-# MRC 38
+# Title MRC 38 "The Time Curve for Code"
 
-# The Time Curve for Code
-
-## Link for Discussion on Discord:
+### Link for Discussion on Discord:
 https://discord.com/channels/1151741790408429580/1251994932688719922
+### Status: In Discussion
 
-## Fair Stake for MOR Wealth
+## Authors / Discord Name: Anon 866, David Johnston (Smart Agents), Anton (antonb), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_)   
 
+## Category: MRI #1 Smart Contracts Reference Implementation
 
-All contributors should have equal access to build MOR wealth by staking their weights. Currently this long-term return is only a natural function of capital rewards.
+## Summary: Fair Stake for MOR
+All contributors should have equal access to build MOR by staking their weights. Currently this long-term return is only a natural function of capital rewards.
 
 Fair Stake allows all contributors to be rewarded if they agree not to claim tokens for a set period of time. When instituted, contributors will have the ability to indicate the length of Fair Stake as part of a bid for weights.
 
 Contributors who stake for long periods of time will see a better return on their weights.  See below for a description of economic mechanisms.
+
+## Rationale: Time Equals Aliegnment
+Those Contributors of Code should have a way to express their committment to the project. Time is the logical way to express this alignment with the project.
+
+## Dependencies: None.
+
+## New Weights Requested: 30,000 Weights
+
+## Existing Weights: None.
+
+## Deliverables: Smart Contract Updates 
+The Distribution Smart Contract specifically with have a the two functions added.
+1. MOR Time Delay function (restrict MOR claims during certain block heights).
+2. Power Multiple calculation (update MOR reward calculation).
+
+## Qualification:
+Same open source developers that developed the Morpheus Smart Contracts thus far.
+
+## Timelines
+3 to 4 weeks from June 21st 2024
 
 ### Mini-FAQ:
 - Am I required to stake my weights? No.
@@ -20,17 +41,14 @@ Contributors who stake for long periods of time will see a better return on thei
 - Can existing weights be staked? Yes.
 - Can any amount of weights be staked? Yes.
 
-
-Example:
+**Example:**
 >Developer A is bidding on a specific MRC deliverable. They don’t want to undervalue their contribution or be forced to compete with the lowest bidder.  They would rather stand behind good work that they are fairly compensated for.  So, Developer A requests a fair-but-competitive reward in weights, but adds a 48 month Fair Stake of the weights to their bid. Now the MRI maintainer can clearly see a new dimension of value when considering Developer A’s proposal.
 >>>
 
 ### Value signaling.
-
 Fair Stake allows all contributors to clearly and equally indicate their commitment to growing with Morpheus.  
 
 ## Analysis & Models:
-
 - **Emissions Curve Calculator 7.21.2024**
 https://docs.google.com/spreadsheets/d/1xTY7keBdPo2Nzm35Wdmu7ngP3NVIDebR/edit?usp=share_link&ouid=108805586783812761772&rtpof=true&sd=true
 
@@ -90,7 +108,3 @@ To implement such functionality, we need to carry a number of constraints and un
 
 ## Changes to smart contracts**
 The Distribution contract and related interfaces will change. Updates to the smart contract on the network will need to be made.
-
-## Timelines
-3 to 4 weeks from June 21st 2024
-
