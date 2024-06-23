@@ -17,10 +17,8 @@ Nothing in this proposal changes the ability of a Contributor to withdraw their 
 - The answer to "Life, the Universe and Everything" is Time.
 - How to make contributions to Morpheus **accretive** vs **extractive**.
 - The concept is that all Contributions take Time for them to benefit the network, the longer the Time the greater the benefit. 
-
-## Time Seperates All Things
-It seperates the Builders from the tourists. The HODLers from the day traders. 
-In the Morpheus context, Time seperates the real Contriubtors from short term opportunists.
+- Time seperates the Builders from the tourists. The HODLers from the day traders. 
+- In the Morpheus context, Time seperates the real Contriubtors from short term opportunists.
 
 ## The Time Power Multiple (Shortened "Power")
 Rather than pick a "magic" number for the "Time Power Multiple" function, this number can best be set by looking at the actually Dilution Rate the person exeperiences from locking their MOR tokens for a specific period of time.
