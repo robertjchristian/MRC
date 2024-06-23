@@ -62,7 +62,7 @@ Code, Capital, Compute and Builders. However the principle is the same across al
 - **Compute MRC 40:** https://github.com/MorpheusAIs/MRC/blob/main/MRC40.md
 - **Builders MRC 41:** https://github.com/MorpheusAIs/MRC/blob/main/MRC41.md
 
-**Conclusion: To quote Paul Graham:** 
+## Conclusion: To quote Paul Graham:
 - "If your opponents are opportunists, one way to beat them is to outlast them. 
 - Opportunists almost by definition lack staying power."
 - https://x.com/paulg/status/1802094669628625272?s=46&t=iOyqtKddsZp1sSUXOguocA
