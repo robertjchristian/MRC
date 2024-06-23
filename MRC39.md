@@ -4,7 +4,7 @@
 https://discord.com/channels/1151741790408429580/1251995170178596966
 ### Status: In Discussion
 
-## Authors / Discord Name: Anon 866, David Johnston (Smart Agents), Anton (antonb), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_)   
+## Authors / Discord Name: Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_)   
 
 ## Category: MRI #1 Smart Contracts Reference Implementation
 
