@@ -6,8 +6,8 @@
 This proposal sets forth a method by which Contributors can Delay the Claims of their MOR rewards to a time in the future.
 In exchange for Delaying their claims of MOR for a period of time, the Contributor gets a "Power Multiple" appliced to the calculation of their MOR rewards each block. This Power Multiple mirrors the the Delution rate the Contributor experiences while delaying the Claim. 
 
-**For Capital Providers please note:** 
-Nothing in this proposal changes the ability of a Contributor to withdraw their stETH (beyond the normal 7 days), only the claiming of MOR rewards is delayed. However when a Contributor withdraws their stETH their reward Multiple no longer applies after the block time of their withdraw.
+**For Capital Providers Please Note:** 
+- Nothing in this proposal changes the ability of a Contributor to withdraw their stETH (beyond the normal 7 days), only the claiming of MOR rewards is delayed. However when a Contributor withdraws their stETH their reward Multiple no longer applies after the block time of their withdraw.
 
 ![Example MOR Power Multiples](https://github.com/MorpheusAIs/MRC/assets/1563345/27fb3943-3bb0-4c2b-a8e1-0b8141bfd8dd)
 **Charts shows example power multiples if the Contributor locked their MOR rewards the 25th of July 2024.**
