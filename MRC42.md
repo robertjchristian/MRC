@@ -16,7 +16,7 @@ In exchange for Delaying their claims of MOR for a period of time, the Contribut
 - The unified Time Curve principle. 
 - The answer to "Life, the Universe and Everything" is Time.
 - How to make contributions to Morpheus **accretive** vs **extractive**.
-- The concept is that all Contributions take Time for them to benefit the network, the longer the Time the greater the benefit. 
+- The concept is that All Contributions (Code, Capital, Compute or Builders) take Time for them to benefit the network, the longer the Time the greater the benefit. 
 - Time seperates the Builders from the tourists. The HODLers from the day traders. 
 - In the Morpheus context, Time seperates the real Contriubtors from short term opportunists.
 
