@@ -7,7 +7,7 @@ https://discord.com/channels/1151741790408429580/1251995756332843189
 
 ### Authors / Discord Name: Anon 866, David Johnston (Smart Agents), Anton (antonb), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_)   
 
-## Category: MRI #1 Smart Contracts Reference Implementation
+### Category: MRI #1 Smart Contracts Reference Implementation
 
 ## Rationale: Time Equals Aliegnment
 To implement economic alignment of Builders, it is necessary to implement a functionality where users can specify for what period they want to lock the MOR token claiming. It is necessary to implement a functionality where users can specify for what period they want to lock the MOR token claiming, in return the user will receive an increased MOR reward.
