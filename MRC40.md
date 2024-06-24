@@ -50,7 +50,15 @@ final_reward = standard_reward * multiplier
 
 Where the standard_reward: calculated according to the existing rules.
 
-## Calculation of the multiplier
+## Realization For Calculating the Multiples
+Final MOR reward calculation
+When  claim of  the MOR tokens are locked, there will be a multiplier for the user final rewards. Thus the final reward will be calculated by the formula:
+
+final_reward = standard_reward * multiplier
+
+Where the standard_reward: calculated according to the existing rules.
+
+Calculation of the multiplier
 The multiplier is calculated using the following formula:
 
 multiplier = (end - now)/now + 1;
@@ -58,19 +66,21 @@ multiplier = (end - now)/now + 1;
 Where the end: MOR that potentially will be in circulation at the end of lock period for the current group.
 Where the now: MOR that is potentially in circulation at the time of transaction execution for the current group.
 
-## Using Tanh Hyperbolic Tangent for this Function in Solidity
-- power = (16.61327546) * tanh((x/2625000) / (15.507186 / 2))
-- where x is the number of blocks
-- 16.61327546 is the max power
-- 15.507186 is the number of years left
-- 2625000 is number of blocks in a year for Ethereum
-- Plug in x for the number of blocks someone is willing to lock up, and this equation will return the power factor
-- e.g. let's say someone waits one year = 2625000 blocks 
-- 2.1 = 16.61327546 tanh((2625000/2625000) / (15.507186 / 2))
-- Power is 2.1 for someone who waits a year
-- e.g., 2 years is 4.19
-- If there are issues getting tanh to work in solidity, you can create it with this.
-- tanh(x) = (e^x - e^(-x)) / (e^x + e^(-x))
+## Using Tanh Hyperbolic Tangent for this Function in Solidity (Included in the Smart Contract)
+- Below is the function for calculating the Power with a multiple cap of ~7.46.
+- It works over 16 years: July 25, 2024 12pm UTC to January 26, 2040 12pm UTC
+- Power Multiple cap reflects a 4 year delay on Claim locks.
+- A Contributor can lock for the full 16 years, however they gain no additional Multiple beyond the first 4 years (7.46 max). 
+
+**Function:**
+def power_relative(x_init, x_final, power_max=16.61327546, b_start=20387806, b_end=61140686):
+    return min(7.464310556, power_max * (np.tanh(2 * ((x_final - b_start) / (b_end - b_start))) - np.tanh(2 * ((x_init - b_start) / (b_end - b_start)))))
+
+**Terms:**
+x_init: the ethereum block height when the user chooses to begin staking
+x_final: the ethereum block height when the user's lockup period ends
+b_start: estimated block height on July 25, 2024 12pm UTC
+b_end: estimated block height on January 26, 2040 12pm UTC
 
 ## Using of multiplier
 A multiplier can be applied at deposit, if the user specifies locking period. Or with a separate function on the smart contract - lockClaim(). The lock period is specified in seconds, it can be any interval.
