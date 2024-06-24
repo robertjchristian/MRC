@@ -104,7 +104,7 @@ The Distribution contract and related interfaces will change. Updates to the sma
 ## Timelines
 4 to 6 weeks from June 21st 2024.
 
-## Reference Materials: Analysis Reviewed For MRC
+## APPENDIX: Reference Materials Including Analysis Reviewed For MRC
 In order to design the optimal system, it is important to identify the key objectives to be accomplished. A properly designed system should focus its efforts on these objectives that it is meant to control and not expand outside its scope.
 
 ## MOR Compute Tokenomics - or the design by which Compute Providers are determined eligible - notes the following objectives:
