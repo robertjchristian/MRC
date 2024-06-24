@@ -1,4 +1,4 @@
-# Title: MRC 39 "The Time Curve Staking MOR for Capital"
+# Title: MRC 39 "The Time Curve Staking MOR for Capital Providers"
 
 ### Link for Discord: 
 https://discord.com/channels/1151741790408429580/1251995170178596966
