@@ -1,13 +1,18 @@
-# Title: MRC 38 "The Time Curve for Code"
+# Title: MRC 38 "The Time Curve Staking MOR for Code Contributors"
 
 ### Link for Discussion on Discord:
 https://discord.com/channels/1151741790408429580/1251994932688719922
+
 ### Status: In Discussion
 
-### Authors / Discord Name: Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_) 
-### Authors of Proposals On Similar Subjects: mechaverse & kehndry
+### Authors / Discord Name: 
+Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_) 
 
-### Category: MRI #1 Smart Contracts Reference Implementation
+### Authors of Proposals On Similar Subjects: 
+mechaverse & kehndry
+
+### Category: 
+MRI #1 Smart Contracts Reference Implementation
 
 ## Summary: Fair Stake for MOR
 All contributors should have equal access to build MOR by staking their weights. Currently this long-term return is only a natural function of capital rewards.
@@ -64,7 +69,7 @@ It is necessary to implement a functionality where users can specify for what pe
 Fair Stake intervals will be posted on GitHub 
 
 ## Example MOR Power Multiples
-![Example MOR Power Multiples](https://github.com/MorpheusAIs/MRC/assets/1563345/a6de0316-9122-4b52-9c1c-30e60607d612)
+![ExampleMORPowerMultiples4Years](https://github.com/MorpheusAIs/MRC/assets/1563345/ab1535cd-d2ab-45e0-b8c4-1166af465595)
 **Chart shows examples if the Contributor set time curves starting July 25th 2024**
 
 ## Realization For Calculating the Multiples
@@ -91,7 +96,7 @@ Where the now: MOR that is potentially in circulation at the time of transaction
 
 **Function:**
 def power_relative(x_init, x_final, power_max=16.61327546, b_start=20387806, b_end=61140686):
-    return min(7.464310556, power_max * (np.tanh(2 * ((x_final - b_start) / (b_end - b_start))) - np.tanh(2 * ((x_init - b_start) / (b_end - b_start)))))
+     return max(1.0, min(7.464310556, power_max * (np.tanh(2 * ((x_final - b_start) / (b_end - b_start))) - np.tanh(2 * ((x_init - b_start) / (b_end - b_start))))))
 
 **Terms:**
 - x_init: the ethereum block height when the user chooses to begin staking
