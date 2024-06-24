@@ -67,7 +67,7 @@ Fair Stake intervals will be posted on GitHub
 ![Example MOR Power Multiples](https://github.com/MorpheusAIs/MRC/assets/1563345/a6de0316-9122-4b52-9c1c-30e60607d612)
 **Chart shows examples if the Contributor set time curves starting July 25th 2024**
 
-## Realization
+## Realization For Calculating the Multiples
 Final MOR reward calculation
 When  claim of  the MOR tokens are locked, there will be a multiplier for the user final rewards. Thus the final reward will be calculated by the formula:
 
@@ -83,7 +83,7 @@ multiplier = (end - now)/now + 1;
 Where the end: MOR that potentially will be in circulation at the end of lock period for the current group.
 Where the now: MOR that is potentially in circulation at the time of transaction execution for the current group.
 
-## Using Tanh Hyperbolic Tangent for this Function in Solidity
+## Using Tanh Hyperbolic Tangent for this Function in Solidity (Included in the Smart Contract)
 - Below is the function for calculating the Power with a multiple cap of ~7.46.
 - It works over 16 years: July 25, 2024 12pm UTC to January 26, 2040 12pm UTC
 - Power Multiple cap reflects a 4 year delay on Claim locks.
