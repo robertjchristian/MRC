@@ -50,14 +50,16 @@ Rather than pick a "magic" number for the "Time Power Multiple" function, this n
 - A Contributor can lock for the full 16 years, however they gain no additional Multiple beyond the first 4 years (7.46 max). 
 
 **Function:**
-def power_relative(x_init, x_final, power_max=16.61327546, b_start=20387806, b_end=61140686):
-     return max(1.0, min(7.464310556, power_max * (np.tanh(2 * ((x_final - b_start) / (b_end - b_start))) - np.tanh(2 * ((x_init - b_start) / (b_end - b_start))))))
+def power_relative(staking_begin_unixtime, staking_end_unixtime, ):
+    power_max=16.61327546
+    period_start_unix=1721908800  # July 25, 2024 12:00 UTC
+    period_end_unix=2211192000    # January 26, 2040 12:00 UTC
 
-**Terms:**
-- x_init: the ethereum block height when the user chooses to begin staking
-- x_final: the ethereum block height when the user's lockup period ends
-- b_start: estimated block height on July 25, 2024 12pm UTC
-- b_end: estimated block height on January 26, 2040 12pm UTC
+    val = power_max * (np.tanh(2 * ((staking_end_unixtime - period_start_unix) / (period_end_unix - period_start_unix))) - np.tanh(2 * ((staking_begin_unixtime - period_start_unix) / (period_end_unix - period_start_unix))))
+    val = min(7.46431055, val) # keeps value below or equal to 7.46431055
+    val = max(1.0, val) # keeps value above or equal to 1
+
+    return val
 
 ## MRCs 38, 39, 40, & 41 
 These MRCs stand for how to implement Time as a function for each of the four core proofs of Morpheus. 
