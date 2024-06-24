@@ -1,8 +1,10 @@
 # Title: MRC 42 "Time Curve Based MOR Staking Available To All Contributor Types"
 
-### Authors / Discord Name: Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_) 
+### Authors / Discord Name: 
+Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_) 
 
-### In Discussion on Discord: https://discord.com/channels/1151741790408429580/1251996042929639434
+### In Discussion on Discord: 
+https://discord.com/channels/1151741790408429580/1251996042929639434
 
 ## Introduction
 This proposal sets forth a method by which Contributors can Delay the Claims of their MOR rewards to a time in the future.
