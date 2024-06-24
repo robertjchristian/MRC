@@ -1,13 +1,16 @@
-# Title: MRC 40 "The Time Curve For Compute"
+# Title: MRC 40 "The Time Curve Staking For Compute"
 
 ### Link for Discussion on Discord: 
 https://discord.com/channels/1151741790408429580/1251995364693774336
 
-### Status: In Discussion
+### Status: 
+In Discussion
 
-## Authors / Discord Name: Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel) Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_)   
+## Authors / Discord Name: 
+Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel) Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_)   
 
-## Category: MRI #1 Smart Contracts Reference Implementation
+## Category: 
+MRI #1 Smart Contracts Reference Implementation
 
 ## Rationale: Time Equals Aliegnment
 To implement economic alignment of Compute Providers, it is necessary to implement a functionality where users can specify for what period they want to lock the MOR token claiming, in return the user will receive an increased MOR reward and more reputation.
@@ -74,7 +77,7 @@ Where the now: MOR that is potentially in circulation at the time of transaction
 
 **Function:**
 def power_relative(x_init, x_final, power_max=16.61327546, b_start=20387806, b_end=61140686):
-    return min(7.464310556, power_max * (np.tanh(2 * ((x_final - b_start) / (b_end - b_start))) - np.tanh(2 * ((x_init - b_start) / (b_end - b_start)))))
+     return max(1.0, min(7.464310556, power_max * (np.tanh(2 * ((x_final - b_start) / (b_end - b_start))) - np.tanh(2 * ((x_init - b_start) / (b_end - b_start))))))
 
 **Terms:**
 x_init: the ethereum block height when the user chooses to begin staking
@@ -87,7 +90,7 @@ A multiplier can be applied at deposit, if the user specifies locking period. Or
 When a multiplier is applied, the user's share of the stETH pool increases, depending on the multiplier.
 
 ## Example Multiples in Chart
-![Example MOR Power Multiples](https://github.com/MorpheusAIs/MRC/assets/1563345/0e7f91be-d223-49e0-972f-a55500d6464d)
+![ExampleMORPowerMultiples4Years](https://github.com/MorpheusAIs/MRC/assets/1563345/06e99ad6-67c8-4f68-9340-25f69c4fa452)
 **Presumes a July 25th 2024 Start Date**
 
 ## Restrictions
