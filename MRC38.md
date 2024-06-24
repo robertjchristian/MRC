@@ -111,5 +111,5 @@ To implement such functionality, we need to carry a number of constraints and un
 - the claim lock period can be increased. At the time of the transaction, the new multiplier will be applied.
 - until the end of the lock period, the user will not be able to withdraw their MOR rewards.
 
-## Changes to smart contracts**
+## Changes to Smart Contracts
 The Distribution contract and related interfaces will change. Updates to the smart contract on the network will need to be made.
