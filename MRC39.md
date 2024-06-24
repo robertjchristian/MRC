@@ -1,12 +1,16 @@
-# Title: MRC 39 "The Time Curve for Capital"
+# Title: MRC 39 "The Time Curve Staking MOR for Capital"
 
 ### Link for Discord: 
 https://discord.com/channels/1151741790408429580/1251995170178596966
-### Status: In Discussion
 
-## Authors / Discord Name: Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_)   
+### Status: 
+In Discussion
 
-## Category: MRI #1 Smart Contracts Reference Implementation
+### Authors / Discord Name: 
+Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_)   
+
+### Category: 
+MRI #1 Smart Contracts Reference Implementation
 
 ## Rationale: Time Equals Aliegnment
 A negative feedback loop is possible in the current mechanism that has been revealed via the real world data. That is to say if the price goes down, the amount of stETH goes down. Because the stETH declines the competition to earn MOR declines. Thus reducing the cost to acquire MOR. So the remaining stETH still gets MOR for 74% less than the ETH it took to earn it. And because there is no time delay function an attacker can play out this game theory and benefit from the declining price and still be making ETH returns regardless of if MOR is $100, $50, $10, $1. Selling all their MOR every week when the Protocol Owned Liquidity buys. Its not about the price being up or down, its a negative feedback loop in being able to withdraw more ETH than contributed instantly. 
@@ -73,7 +77,7 @@ Where the now: MOR that is potentially in circulation at the time of transaction
 
 **Function:**
 def power_relative(x_init, x_final, power_max=16.61327546, b_start=20387806, b_end=61140686):
-    return min(7.464310556, power_max * (np.tanh(2 * ((x_final - b_start) / (b_end - b_start))) - np.tanh(2 * ((x_init - b_start) / (b_end - b_start)))))
+     return max(1.0, min(7.464310556, power_max * (np.tanh(2 * ((x_final - b_start) / (b_end - b_start))) - np.tanh(2 * ((x_init - b_start) / (b_end - b_start))))))
 
 **Terms:**
 - x_init: the ethereum block height when the user chooses to begin staking
@@ -86,7 +90,7 @@ A multiplier can be applied at deposit, if the user specifies locking period. Or
 When a multiplier is applied, the user's share of the stETH pool increases, depending on the multiplier.
 
 ## Example MOR Power Multiple
-![Example MOR Power Multiples](https://github.com/MorpheusAIs/MRC/assets/1563345/24b860e5-4072-4432-8065-b48c1d4a3df2)
+![ExampleMORPowerMultiples4Years](https://github.com/MorpheusAIs/MRC/assets/1563345/96373dcd-187c-49e4-b2af-e3954616adc0)
 **Chart examples based on July 25th as the date the Contributor executes the MOR claim lock function.**
 
 ## Restrictions
