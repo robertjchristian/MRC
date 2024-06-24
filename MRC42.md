@@ -13,7 +13,7 @@ In exchange for Delaying their claims of MOR for a period of time, the Contribut
 **For Capital Providers Please Note:** 
 - Nothing in this proposal changes the ability of a Contributor to withdraw their stETH (beyond the normal 7 days), only the claiming of MOR rewards is delayed. However when a Contributor withdraws their stETH their reward Multiple no longer applies after the block time of their withdraw.
 
-![ExampleMORPowerMultiples4Years](https://github.com/MorpheusAIs/MRC/assets/1563345/168f8a31-2273-404b-89c0-624607f6a673)
+![ExampleMORPowerMultiples4Years](https://github.com/MorpheusAIs/MRC/assets/1563345/353978c2-5a81-4ac3-8271-f4f60d602f21)
 **Charts shows example power multiples if the Contributor locked their MOR rewards the 25th of July 2024.**
 
 ## The Time Curve General Description MRC
