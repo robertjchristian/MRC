@@ -51,7 +51,7 @@ Rather than pick a "magic" number for the "Time Power Multiple" function, this n
 
 **Function:**
 def power_relative(x_init, x_final, power_max=16.61327546, b_start=20387806, b_end=61140686):
-    return min(7.464310556, power_max * (np.tanh(2 * ((x_final - b_start) / (b_end - b_start))) - np.tanh(2 * ((x_init - b_start) / (b_end - b_start)))))
+     return max(1.0, min(7.464310556, power_max * (np.tanh(2 * ((x_final - b_start) / (b_end - b_start))) - np.tanh(2 * ((x_init - b_start) / (b_end - b_start))))))
 
 **Terms:**
 - x_init: the ethereum block height when the user chooses to begin staking
