@@ -1,4 +1,4 @@
-# Title: MRC 41 "The Time Curve For Builders"
+# Title: MRC 41 "The Time Curve Staking For Builders"
 
 ### Link for Discussion on Discord: 
 https://discord.com/channels/1151741790408429580/1251995756332843189
@@ -71,7 +71,7 @@ Where the now: MOR that is potentially in circulation at the time of transaction
 
 **Function:**
 def power_relative(x_init, x_final, power_max=16.61327546, b_start=20387806, b_end=61140686):
-    return min(7.464310556, power_max * (np.tanh(2 * ((x_final - b_start) / (b_end - b_start))) - np.tanh(2 * ((x_init - b_start) / (b_end - b_start)))))
+     return max(1.0, min(7.464310556, power_max * (np.tanh(2 * ((x_final - b_start) / (b_end - b_start))) - np.tanh(2 * ((x_init - b_start) / (b_end - b_start))))))
 
 **Terms:**
 - x_init: the ethereum block height when the user chooses to begin staking
@@ -80,7 +80,7 @@ def power_relative(x_init, x_final, power_max=16.61327546, b_start=20387806, b_e
 - b_end: estimated block height on January 26, 2040 12pm UTC
 
 ## Example Chart
-![Example MOR Power Multiples](https://github.com/MorpheusAIs/MRC/assets/1563345/9edcc69a-cdf6-4413-ab30-18d80982c910)
+![ExampleMORPowerMultiples4Years](https://github.com/MorpheusAIs/MRC/assets/1563345/bce95050-d6fb-4ee9-a6ec-39fdc1e455ec)
 Presumes a July 25th 2024 start date
 
 ## Using of Multiplier
