@@ -76,10 +76,10 @@ def power_relative(x_init, x_final, power_max=16.61327546, b_start=20387806, b_e
     return min(7.464310556, power_max * (np.tanh(2 * ((x_final - b_start) / (b_end - b_start))) - np.tanh(2 * ((x_init - b_start) / (b_end - b_start)))))
 
 **Terms:**
-x_init: the ethereum block height when the user chooses to begin staking
-x_final: the ethereum block height when the user's lockup period ends
-b_start: estimated block height on July 25, 2024 12pm UTC
-b_end: estimated block height on January 26, 2040 12pm UTC
+- x_init: the ethereum block height when the user chooses to begin staking
+- x_final: the ethereum block height when the user's lockup period ends
+- b_start: estimated block height on July 25, 2024 12pm UTC
+- b_end: estimated block height on January 26, 2040 12pm UTC
 
 ## Using of multiplier
 A multiplier can be applied at deposit, if the user specifies locking period. Or with a separate function on the smart contract - lockClaim(). The lock period is specified in seconds, it can be any interval.
