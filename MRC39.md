@@ -57,7 +57,8 @@ https://docs.google.com/spreadsheets/d/1xTY7keBdPo2Nzm35Wdmu7ngP3NVIDebR/edit?us
 https://docs.google.com/spreadsheets/d/1uEjozAcnEt-IWaSsu_BbYPRMUCkbwjwv/edit?usp=share_link&ouid=108805586783812761772&rtpof=true&sd=true
 
 ## General Description
-It is necessary to implement a functionality where users can specify for what period they want to lock the MOR token claiming, in return the user will receive an increased MOR reward.
+It is necessary to implement a functionality where users can specify for what period they want to Stake their MOR tokens, in return the user will receive an increased MOR reward.
+
 For non-automated groups, the contract administrator may specify such a period.
 
 ## Realization For Calculating the Power Factors
@@ -95,13 +96,13 @@ def power_relative(staking_begin_unixtime, staking_end_unixtime):
     return val
 
 ## Applying the Power Factor
-A power factor can be applied at deposit, if the user specifies locking period. Or with a separate function on the smart contract - lockClaim(). 
-The lock period is specified in seconds, it can be any interval.
+A power factor can be applied at deposit, if the user specifies MOR Staking period. Or with a separate function on the smart contract - StakeClaim(). 
+The MOR Staking period is specified in seconds, it can be any interval.
 When a power factor is applied, the user's "protion" of the stETH pool increases, depending on the power factor.
 
 ## Example MOR Power Factor
 ![ExampleMORPowerFactor](https://github.com/MorpheusAIs/MRC/assets/1563345/b44153b0-021b-4095-b52a-2c121f4bb5ac)
-**Chart examples based on July 25th as the date the Contributor executes the MOR claim lock function.**
+**Chart examples based on July 25th as the date the Contributor executes the MOR Staking function.**
 
 ## Restrictions
 To implement such functionality, we need to carry a number of constraints and understand the important points:
