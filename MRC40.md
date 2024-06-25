@@ -17,7 +17,7 @@ Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel) Chris
 MRI #1 Smart Contracts Reference Implementation
 
 ## Rationale: Time Equals Aliegnment
-To implement economic alignment of Compute Providers, it is necessary to implement a functionality where users can specify for what period they want to lock the MOR token claiming, in return the user will receive an increased MOR reward and more reputation.
+To implement economic alignment of Compute Providers, it is necessary to implement a functionality where users can specify for what period they want to Stake the MOR token, in return the user will receive an increased MOR reward and more reputation.
 
 - 1. Staked MOR can inform the likelihood of the Compute provider being selected. Weight in Compute Provider Repution.
 - 2. Stake MOR can inform the maximum reward a Compute Provider can earn. So for example if 100 MOR are Staked for 1 Year, then the most the Compute Provider can earn is 100 MOR during 1 year of providing Compute.
@@ -33,14 +33,14 @@ None.
 
 ## Deliverables: Smart Contract Updates 
 The Distribution Smart Contract specifically with have a the two functions added.
-1. MOR Time Delay function (restrict MOR claims during certain block heights).
-2. Power Multiple calculation (update MOR reward calculation).
+1. MOR Staking function (delay MOR claims during certain UTCsecond heights).
+2. Power Factor Added To MOR Reward Calculation.
 
 ## Qualification:
 Same open source developers that developed the Morpheus Smart Contracts thus far.
 
 ## Timelines
-3 to 4 weeks from June 21st 2024
+4 weeks from June 21st 2024
 
 ## Analysis & Models:
 - **Emissions Curve Calculator 7.21.2024**
@@ -49,35 +49,27 @@ https://docs.google.com/spreadsheets/d/1xTY7keBdPo2Nzm35Wdmu7ngP3NVIDebR/edit?us
 - **MOR Power Table**
 https://docs.google.com/spreadsheets/d/1uEjozAcnEt-IWaSsu_BbYPRMUCkbwjwv/edit?usp=share_link&ouid=108805586783812761772&rtpof=true&sd=true
 
-## Realization
+## Realization For Calculating the Power Factors
 Final MOR reward calculation
-When  claim of  the MOR tokens are locked, there will be a multiplier for the user final rewards. Thus the final reward will be calculated by the formula:
+When  claim of the MOR tokens are Staked, there will be a power factor for the user final rewards. Thus the final reward will be calculated by the formula:
 
-final_reward = standard_reward * multiplier
+final_reward = standard_reward * power factor
 
 Where the standard_reward: calculated according to the existing rules.
 
-## Realization For Calculating the Multiples
-Final MOR reward calculation
-When  claim of  the MOR tokens are locked, there will be a multiplier for the user final rewards. Thus the final reward will be calculated by the formula:
+### Calculation of the Power Factor
+The Power Factor is calculated using the following formula:
 
-final_reward = standard_reward * multiplier
+Power = (end - now)/now + 1;
 
-Where the standard_reward: calculated according to the existing rules.
-
-Calculation of the multiplier
-The multiplier is calculated using the following formula:
-
-multiplier = (end - now)/now + 1;
-
-Where the end: MOR that potentially will be in circulation at the end of lock period for the current group.
+Where the end: MOR that potentially will be in circulation at the end MOR Staking period for the current group.
 Where the now: MOR that is potentially in circulation at the time of transaction execution for the current group.
 
 ## Using Tanh Hyperbolic Tangent for this Function in Solidity (Included in the Smart Contract)
-- Below is the function for calculating the Power with a multiple cap of ~10.7.
+- Below is the function for calculating the Power with a factor cap of ~10.7.
 - It works over 16 years: July 25, 2024 12pm UTC to January 26, 2040 12pm UTC
-- Power Multiple cap reflects a 6 year delay on Claim locks.
-- A Contributor can lock for the full 16 years, however they gain no additional Multiple beyond the first 4 years (7.46 max). 
+- Power Factor cap reflects a 6 year MOR Staking period.
+- A Contributor can Stake for the full 16 years, however they gain no additional Power Factor beyond the first 6 years (10.7 max).
 
 **Function:**
 def power_relative(staking_begin_unixtime, staking_end_unixtime):
@@ -91,19 +83,23 @@ def power_relative(staking_begin_unixtime, staking_end_unixtime):
 
     return val
 
-## Using of multiplier
-A multiplier can be applied at deposit, if the user specifies locking period. Or with a separate function on the smart contract - lockClaim(). The lock period is specified in seconds, it can be any interval.
-When a multiplier is applied, the user's share of the stETH pool increases, depending on the multiplier.
+## Applying the Power Factor
+A power factor can be applied at deposit, if the user specifies a MOR Staking period. Or with a separate function on the smart contract - StakeClaim(). 
+The MOR Stake period is specified in seconds, it can be any interval.
+When a power factor is applied, the user's "protion" of the stETH pool increases, depending on the power factor.
 
-## Example Multiples in Chart
-![ExampleMORPowerMultiples6Year](https://github.com/MorpheusAIs/MRC/assets/1563345/ef16bf76-2de4-4c13-911e-514fb2a0c3b0)
+## Example Power Factor in Chart
+![ExampleMORPowerFactor](https://github.com/MorpheusAIs/MRC/assets/1563345/4dd834fa-d901-48a3-b3a5-e4451c8c1665)
 **Presumes a July 25th 2024 Start Date**
 
 ## Restrictions
 To implement such functionality, we need to carry a number of constraints and understand the important points:
-- the claim lock period can be set by the user or administrator (for non-automatic groups) at any time;
-- the claim lock period cannot be decreased; 
-- the claim lock period can be increased. At the time of the transaction, the new multiplier will be applied.
+
+- MOR Staking period can be set by the user or administrator (for non-automatic groups) at any time;
+- MOR Staking period cannot be decreased; 
+- MOR Staking period can be increased. At the time of the transaction, the new multiplier will be applied.
+- until the end of MOR Staking period, the user will not be able to withdraw their MOR rewards.
+
 ## Changes to Smart Contracts
 The Distribution contract and related interfaces will change. Updates to the smart contract on the network will need to be made.
 
@@ -133,9 +129,9 @@ To ensure that proper analysis is conducted in determining the optimal system, t
 - Minimum requirement stake (% of supply)
 - Top X stakers 
 - Top X stakers, inclusive of multiplier
-- Proportional to IPS (? or some other measurable) metric
+- Proportional to IPS
 - Equal to X month earnings - variable
-**- Fixed lockup equal to eligible earnings - Judged Most Fair, Scalable and Simplest To Implement**
+- **Fixed Staking Amount Equal to Eligible Earnings - Judged Most Fair, Scalable and Simplest To Implement**
 - Entrance Fee - flat rate, scaled option, or bidding
 - Add-On: No rewards for first X number of days
 - Add-On: Stake + Burn
@@ -207,12 +203,12 @@ Proportional to size, allowing large and small providers to participate
 Cons: 
 Based on estimate - Providers could wind up earning less, or more, than the staked amount based on a variety of factors
 
-### Fixed Lock Equal to Earnings
+### Fixed MOR Staking Equal to Earnings
 Brief Description: Compute Providers are required to stake MOR equal to the amount they want to be eligible to earn in an X month period. For example, a Compute Provider who stakes 10,000 MOR can earn up to 10,000 MOR from the Compute bucket.
 Additional Notes: Providers could continue to add to their stake if they realize they are nearing their capped amount.
 Pros
 Whereas the proportional methods are based on future estimates that may not be realized (or may be over realized), this fixed approach ensures that a Compute Provider does not earn more than they have staked.
-Net reduction in circulating supply during the lockup period as an amount equal to expected earnings would be immediately locked up.
+Net reduction in circulating supply during the MOR Staking period as an amount equal to expected earnings would be immediately Staked.
 Cons: 
 If a Compute Provider earns all the allowable MOR quickly, then they may not want to stake additional, and less capacity is available making the remaining capacity more expensive… however, a profitable environment would likely encourage Compute Providers to obtain and stake additional MOR.
 
