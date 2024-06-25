@@ -1,7 +1,7 @@
 # Title: MRC 42 "Time Curve Based MOR Staking Available To All Contributor Types"
 
 ### Authors / Discord Name: 
-Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_) 
+Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Jeff (Jabo38)  
 
 ### In Discussion on Discord: 
 https://discord.com/channels/1151741790408429580/1251996042929639434
