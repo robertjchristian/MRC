@@ -67,9 +67,9 @@ Where the end: MOR that potentially will be in circulation at the end of lock pe
 Where the now: MOR that is potentially in circulation at the time of transaction execution for the current group.
 
 ## Using Tanh Hyperbolic Tangent for this Function in Solidity (Included in the Smart Contract)
-- Below is the function for calculating the Power with a multiple cap of ~7.46.
+- Below is the function for calculating the Power with a multiple cap of ~10.7.
 - It works over 16 years: July 25, 2024 12pm UTC to January 26, 2040 12pm UTC
-- Power Multiple cap reflects a 4 year delay on Claim locks.
+- Power Multiple cap reflects a 6 year delay on Claim locks.
 - A Contributor can lock for the full 16 years, however they gain no additional Multiple beyond the first 4 years (7.46 max). 
 
 **Function:**
@@ -85,7 +85,7 @@ def power_relative(staking_begin_unixtime, staking_end_unixtime):
     return val
 
 ## Example Chart
-![ExampleMORPowerMultiples4Years](https://github.com/MorpheusAIs/MRC/assets/1563345/bce95050-d6fb-4ee9-a6ec-39fdc1e455ec)
+![ExampleMORPowerMultiples6Year](https://github.com/MorpheusAIs/MRC/assets/1563345/74576c25-6404-4372-a719-4f6a3d60a262)
 Presumes a July 25th 2024 start date
 
 ## Using of Multiplier
