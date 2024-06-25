@@ -9,8 +9,8 @@ https://discord.com/channels/1151741790408429580/1251994932688719922
 Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Jeff (Jabo38) 
 
 ### Authors of Proposals On Similar Time Related Subjects: 
-mechaverse Specifically from MRC 36 https://github.com/MorpheusAIs/MRC/blob/main/MRC36.md
-With extensive feedback and alternative proposals from: kehndry
+- mechaverse specifically from MRC 36 https://github.com/MorpheusAIs/MRC/blob/main/MRC36.md
+- With extensive feedback and alternative proposals from: kehndry
 
 ### Category: 
 MRI #1 Smart Contracts Reference Implementation
