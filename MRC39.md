@@ -76,13 +76,13 @@ Where the now: MOR that is potentially in circulation at the time of transaction
 - A Contributor can lock for the full 16 years, however they gain no additional Multiple beyond the first 4 years (7.46 max). 
 
 **Function:**
-def power_relative(staking_begin_unixtime, staking_end_unixtime, ):
+def power_relative(staking_begin_unixtime, staking_end_unixtime):
     power_max=16.61327546
     period_start_unix=1721908800  # July 25, 2024 12:00 UTC
     period_end_unix=2211192000    # January 26, 2040 12:00 UTC
 
     val = power_max * (np.tanh(2 * ((staking_end_unixtime - period_start_unix) / (period_end_unix - period_start_unix))) - np.tanh(2 * ((staking_begin_unixtime - period_start_unix) / (period_end_unix - period_start_unix))))
-    val = min(7.46431055, val) # keeps value below or equal to 7.46431055
+    val = min(10.7, val) # keeps value below or equal to 10.7
     val = max(1.0, val) # keeps value above or equal to 1
 
     return val
@@ -109,3 +109,8 @@ The Distribution contract and related interfaces will change. Updates to the sma
 
 ## Timelines
 4 weeks from June 21st 2024
+
+## Appendix Of Analysis:
+A few things to think about as I think about this some since our convo:
+
+(1) To the "Will There Be Enough MOR Available" Qquestion: This only really matters as long as the requisite “costs” that need to be paid in MOR can always be adjusted, it doesn’t really matter if a service/inference/etc need to be paid with 1 or 0.1 MOR if its mainly a factor of price and such prices are adjustable. MOR is highly divisible at 18 decimals so the amount that is in circulation is arbitrary at any given point and price should fix any imbalance there easily enough.
