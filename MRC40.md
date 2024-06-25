@@ -76,13 +76,13 @@ Where the now: MOR that is potentially in circulation at the time of transaction
 - A Contributor can lock for the full 16 years, however they gain no additional Multiple beyond the first 4 years (7.46 max). 
 
 **Function:**
-def power_relative(staking_begin_unixtime, staking_end_unixtime, ):
+def power_relative(staking_begin_unixtime, staking_end_unixtime):
     power_max=16.61327546
     period_start_unix=1721908800  # July 25, 2024 12:00 UTC
     period_end_unix=2211192000    # January 26, 2040 12:00 UTC
 
     val = power_max * (np.tanh(2 * ((staking_end_unixtime - period_start_unix) / (period_end_unix - period_start_unix))) - np.tanh(2 * ((staking_begin_unixtime - period_start_unix) / (period_end_unix - period_start_unix))))
-    val = min(7.46431055, val) # keeps value below or equal to 7.46431055
+    val = min(10.7, val) # keeps value below or equal to 10.7
     val = max(1.0, val) # keeps value above or equal to 1
 
     return val
@@ -137,44 +137,6 @@ To ensure that proper analysis is conducted in determining the optimal system, t
 - Add-On: Stake + Burn
 
 As each of the above items has its own pros and cons, the ultimate design may likely be a combination of several of these approaches. As much development is still underway, it allows Morpheus to take a slow and calculated approach to roll-out. This ensures that ample testing is conducted, and sufficient feedback is digested, that by the ultimate design will evolve over time as the ecosystem grows and matures. Not to mention, the design decisions made here will impact a wide variety of other aspects of Morpheus, and also be impacted by those other aspects as well. All of this requires thoughtful consideration of not only the direct impacts, but the second, third, and fourth order effects. Morpheus could consider a phased roll-out, something similar to the outline noted in the table below.
-
-### Phase
-Details
-1
-Whitelisted or top 10 stakers
-Testnet
-Earnings TBD - Protection Fund for testing, set amount from Compute, 
-Whitelisted providers will roll directly into live mainnet when launched
-Still require X MOR stake per provider? (flat rate?)
-
-### Phase Completion Criteria: (1) Determination of tokenomics and (2) Determination of right to inference methodology.
-2
-Whitelisted providers from Phase 1
-Mainnet
-Compute emissions go live
-
-### Phase Completion Criteria: 
-Successful roll-out of tokenomics and right to inference methodology defined in Phase 1. Could also include a greater of clause that balances a time lapse (defined epoch or MOR emitted) based on previous communications to Whitelisted providers
-3
-Mainnet
-Whitelist removed, open to all
-Small number of providers based on criteria
-Compute emissions go live
-
-### Phase Completion Criteria: Time lapse (defined epoch or MOR emitted) based on communications coming out of Phase 2
-4
-Mainnet
-Expanded number of providers based on criteria
-Compute emissions go live
-
-### Phase Completion Criteria: Time lapse (defined epoch or MOR emitted) based on communications coming out of Phase 3
-5
-Mainnet
-Unlimited number of providers for dependent upon meeting criteria
-Compute emissions go live
-
-### Phase Completion Criteria Time lapse (defined epoch or MOR emitted) based on communications coming out of Phase 4
-
 
 ### Exploration of Viable Methods
 In the following section, each method will be briefly described, additional notes will be added, and finally pros and cons will be documented. These outlines are meant to provide the general background of each method in consideration. Subsequent efforts will dive much deeper into each, and ultimately reach an overall recommendation as to which method, or methods, provide Morpheus with the best outcome.
