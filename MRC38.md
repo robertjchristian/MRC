@@ -8,8 +8,10 @@ https://discord.com/channels/1151741790408429580/1251994932688719922
 ### Authors / Discord Name: 
 Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Jeff (Jabo38) 
 
-### Authors of Proposals On Similar Subjects: 
+### Authors of Proposals On Similar Time Related Subjects: 
 mechaverse & kehndry
+Specifically from MRC 36
+https://github.com/MorpheusAIs/MRC/blob/main/MRC36.md
 
 ### Category: 
 MRI #1 Smart Contracts Reference Implementation
