@@ -95,13 +95,13 @@ Where the now: MOR that is potentially in circulation at the time of transaction
 - A Contributor can lock for the full 16 years, however they gain no additional Multiple beyond the first 4 years (7.46 max). 
 
 **Function:**
-def power_relative(staking_begin_unixtime, staking_end_unixtime, ):
+def power_relative(staking_begin_unixtime, staking_end_unixtime):
     power_max=16.61327546
     period_start_unix=1721908800  # July 25, 2024 12:00 UTC
     period_end_unix=2211192000    # January 26, 2040 12:00 UTC
 
     val = power_max * (np.tanh(2 * ((staking_end_unixtime - period_start_unix) / (period_end_unix - period_start_unix))) - np.tanh(2 * ((staking_begin_unixtime - period_start_unix) / (period_end_unix - period_start_unix))))
-    val = min(7.46431055, val) # keeps value below or equal to 7.46431055
+    val = min(10.7, val) # keeps value below or equal to 10.7
     val = max(1.0, val) # keeps value above or equal to 1
 
     return val
