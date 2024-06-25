@@ -7,7 +7,7 @@ https://discord.com/channels/1151741790408429580/1251995364693774336
 In Discussion
 
 ## Authors / Discord Name: 
-Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel) Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Luke Stokes, Nebuchadnezzar Crew 
+Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel) Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Jeff (Jabo38), Luke Stokes, Nebuchadnezzar Crew 
 
 ## Category: 
 MRI #1 Smart Contracts Reference Implementation
