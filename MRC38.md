@@ -65,8 +65,8 @@ https://docs.google.com/spreadsheets/d/1xTY7keBdPo2Nzm35Wdmu7ngP3NVIDebR/edit?us
 - **MOR Power Table**
 https://docs.google.com/spreadsheets/d/1uEjozAcnEt-IWaSsu_BbYPRMUCkbwjwv/edit?usp=share_link&ouid=108805586783812761772&rtpof=true&sd=true
 
-## General Description
-It is necessary to implement a functionality where users can specify for what period they want to Stake the MOR tokens, in return the user will receive an increased proportionality in the MOR rewards. It is worth emphasizing that, none of these MOR Staking proposals increase the amount of tokens that are created. Rather, it just changes your proportional rights to the amount of tokens that are being created in that SnapShot in a similar way that increasing your hash rate increases the amount of the portion of Bitcoin one mines.
+## General Description - Weight X Power = Proportion of MOR Rewards
+It is necessary to implement a functionality where users can specify for what period they want to Stake the MOR tokens, in return the user will receive an increased proportionality in the MOR rewards. It is worth emphasizing that, none of these MOR Staking proposals increase the amount of tokens that are created. Rather, it changes your proportional rights to the amount of tokens that are being created in that SnapShot in a similar way that increasing your hash rate increases the amount of the portion of Bitcoin one mines.
 
 Fair Stake intervals will be posted on GitHub. 
 
