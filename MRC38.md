@@ -69,7 +69,7 @@ It is necessary to implement a functionality where users can specify for what pe
 Fair Stake intervals will be posted on GitHub 
 
 ## Example MOR Power Multiples
-![ExampleMORPowerMultiples4Years](https://github.com/MorpheusAIs/MRC/assets/1563345/ab1535cd-d2ab-45e0-b8c4-1166af465595)
+![ExampleMORPowerMultiples6Year](https://github.com/MorpheusAIs/MRC/assets/1563345/3fd4e62d-2f21-461c-b4a0-c0accf5ec958)
 **Chart shows examples if the Contributor set time curves starting July 25th 2024**
 
 ## Realization For Calculating the Multiples
@@ -89,9 +89,9 @@ Where the end: MOR that potentially will be in circulation at the end of lock pe
 Where the now: MOR that is potentially in circulation at the time of transaction execution for the current group.
 
 ## Using Tanh Hyperbolic Tangent for this Function in Solidity (Included in the Smart Contract)
-- Below is the function for calculating the Power with a multiple cap of ~7.46.
+- Below is the function for calculating the Power with a multiple cap of ~10.7.
 - It works over 16 years: July 25, 2024 12pm UTC to January 26, 2040 12pm UTC
-- Power Multiple cap reflects a 4 year delay on Claim locks.
+- Power Multiple cap reflects a 6 year delay on Claim locks.
 - A Contributor can lock for the full 16 years, however they gain no additional Multiple beyond the first 4 years (7.46 max). 
 
 **Function:**
