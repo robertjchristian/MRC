@@ -13,7 +13,7 @@ In exchange for Delaying their claims of MOR for a period of time, the Contribut
 **For Capital Providers Please Note:** 
 - Nothing in this proposal changes the ability of a Contributor to withdraw their stETH (beyond the normal 7 days), only the claiming of MOR rewards is delayed. However when a Contributor withdraws their stETH their reward Multiple no longer applies after the block time of their withdraw.
 
-![ExampleMORPowerMultiples4Years](https://github.com/MorpheusAIs/MRC/assets/1563345/353978c2-5a81-4ac3-8271-f4f60d602f21)
+![ExampleMORPowerMultiples6Year](https://github.com/MorpheusAIs/MRC/assets/1563345/f6fef19c-c0aa-423a-ae99-141e812fdcc8)
 **Charts shows example power multiples if the Contributor locked their MOR rewards the 25th of July 2024.**
 
 ## The Time Curve General Description MRC
@@ -44,9 +44,9 @@ Rather than pick a "magic" number for the "Time Power Multiple" function, this n
 - Which equals 2.02% of the of the MOR emissions during that block.
 
 ## Using Tanh Hyperbolic Tangent for this Function in Solidity (Included in the Smart Contract)
-- Below is the function for calculating the Power with a multiple cap of ~7.46.
+- Below is the function for calculating the Power with a multiple cap of ~10.7.
 - It works over 16 years: July 25, 2024 12pm UTC to January 26, 2040 12pm UTC
-- Power Multiple cap reflects a 4 year delay on Claim locks.
+- Power Multiple cap reflects a 6 year delay on Claim locks.
 - A Contributor can lock for the full 16 years, however they gain no additional Multiple beyond the first 4 years (7.46 max). 
 
 **Function:**
