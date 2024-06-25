@@ -92,7 +92,7 @@ A multiplier can be applied at deposit, if the user specifies locking period. Or
 When a multiplier is applied, the user's share of the stETH pool increases, depending on the multiplier.
 
 ## Example MOR Power Multiple
-![ExampleMORPowerMultiples4Years](https://github.com/MorpheusAIs/MRC/assets/1563345/96373dcd-187c-49e4-b2af-e3954616adc0)
+![ExampleMORPowerMultiples6Year](https://github.com/MorpheusAIs/MRC/assets/1563345/bc52b3b0-f1b5-4bc9-9fad-38199d6c6050)
 **Chart examples based on July 25th as the date the Contributor executes the MOR claim lock function.**
 
 ## Restrictions
