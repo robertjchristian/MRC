@@ -46,10 +46,10 @@ Same open source developers that developed the Morpheus Smart Contracts thus far
 3 to 4 weeks from June 21st 2024
 
 ### Mini-FAQ:
-- Am I required to stake my weights? No.
-- Are my existing weights automatically staked? No.
-- Can existing weights be staked? Yes.
-- Can any amount of weights be staked? Yes.
+- Am I required to stake my weights? **No.**
+- Are my existing weights automatically staked? **No.**
+- Can existing weights be staked? **Yes.**
+- Can any amount of weights be staked? **Yes.**
 
 **Example:**
 >Developer A is bidding on a specific MRC deliverable. They don’t want to undervalue their contribution or be forced to compete with the lowest bidder.  They would rather stand behind good work that they are fairly compensated for.  So, Developer A requests a fair-but-competitive reward in weights, but adds a 48 month Fair Stake of the weights to their bid. Now the MRI maintainer can clearly see a new dimension of value when considering Developer A’s proposal.
@@ -66,9 +66,9 @@ https://docs.google.com/spreadsheets/d/1xTY7keBdPo2Nzm35Wdmu7ngP3NVIDebR/edit?us
 https://docs.google.com/spreadsheets/d/1uEjozAcnEt-IWaSsu_BbYPRMUCkbwjwv/edit?usp=share_link&ouid=108805586783812761772&rtpof=true&sd=true
 
 ## General Description
-It is necessary to implement a functionality where users can specify for what period they want to lock the MOR token claiming, in return the user will receive an increased MOR reward.
+It is necessary to implement a functionality where users can specify for what period they want to Stake the MOR tokens, in return the user will receive an increased proportionality in the MOR rewards. It is worth emphasizing that, none of these MOR Staking proposals increase the amount of tokens that are created. Rather, it just changes your proportional rights to the amount of tokens that are being created in that SnapShot in a similar way that increasing your hash rate increases the amount of the portion of Bitcoin one mines.
 
-Fair Stake intervals will be posted on GitHub 
+Fair Stake intervals will be posted on GitHub. 
 
 ## Example MOR Power Factors
 ![ExampleMORPowerFactor](https://github.com/MorpheusAIs/MRC/assets/1563345/120f89c4-a497-469c-a15d-e8c5955feabd)
@@ -109,8 +109,8 @@ def power_relative(staking_begin_unixtime, staking_end_unixtime):
     return val
 
 ## Applying the Power Factor
-A power factor can be applied at deposit, if the user specifies locking period. Or with a separate function on the smart contract - lockClaim(). 
-The lock period is specified in seconds, it can be any interval.
+A power factor can be applied at deposit, if the user specifies MOR Staking period. Or with a separate function on the smart contract - StakeClaim(). 
+The MOR Stake period is specified in seconds, it can be any interval.
 When a power factor is applied, the user's "protion" of the stETH pool increases, depending on the power factor.
 
 ## Restrictions
