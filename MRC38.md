@@ -25,7 +25,8 @@ Contributors who stake for long periods of time will see a better return on thei
 ## Rationale: Time Equals Aliegnment
 Those Contributors of Code should have a way to express their committment to the project. Time is the logical way to express this alignment with the project.
 
-## Dependencies: None.
+## Dependencies: 
+None.
 
 ## New Weights Requested: 
 30,000 Weights
@@ -35,8 +36,8 @@ None.
 
 ## Deliverables: Smart Contract Updates 
 The Distribution Smart Contract specifically with have a the two functions added.
-1. MOR Time Delay function (restrict MOR claims during certain block heights).
-2. Power Multiple calculation (update MOR reward calculation).
+1. MOR Staking function (delay MOR claims during certain UTCsecond heights).
+2. Power Factor Added To MOR Reward Calculation.
 
 ## Qualification:
 Same open source developers that developed the Morpheus Smart Contracts thus far.
@@ -69,31 +70,31 @@ It is necessary to implement a functionality where users can specify for what pe
 
 Fair Stake intervals will be posted on GitHub 
 
-## Example MOR Power Multiples
-![ExampleMORPowerMultiples6Year](https://github.com/MorpheusAIs/MRC/assets/1563345/3fd4e62d-2f21-461c-b4a0-c0accf5ec958)
+## Example MOR Power Factors
+![ExampleMORPowerFactor](https://github.com/MorpheusAIs/MRC/assets/1563345/120f89c4-a497-469c-a15d-e8c5955feabd)
 **Chart shows examples if the Contributor set time curves starting July 25th 2024**
 
-## Realization For Calculating the Multiples
+## Realization For Calculating the Power Factors
 Final MOR reward calculation
-When  claim of  the MOR tokens are locked, there will be a multiplier for the user final rewards. Thus the final reward will be calculated by the formula:
+When  claim of the MOR tokens are Staked, there will be a power factor for the user final rewards. Thus the final reward will be calculated by the formula:
 
-final_reward = standard_reward * multiplier
+final_reward = standard_reward * power factor
 
 Where the standard_reward: calculated according to the existing rules.
 
-Calculation of the multiplier
-The multiplier is calculated using the following formula:
+### Calculation of the Power Factor
+The Power Factor is calculated using the following formula:
 
-multiplier = (end - now)/now + 1;
+Power = (end - now)/now + 1;
 
-Where the end: MOR that potentially will be in circulation at the end of lock period for the current group.
+Where the end: MOR that potentially will be in circulation at the end MOR Staking period for the current group.
 Where the now: MOR that is potentially in circulation at the time of transaction execution for the current group.
 
 ## Using Tanh Hyperbolic Tangent for this Function in Solidity (Included in the Smart Contract)
-- Below is the function for calculating the Power with a multiple cap of ~10.7.
+- Below is the function for calculating the Power with a factor cap of ~10.7.
 - It works over 16 years: July 25, 2024 12pm UTC to January 26, 2040 12pm UTC
-- Power Multiple cap reflects a 6 year delay on Claim locks.
-- A Contributor can lock for the full 16 years, however they gain no additional Multiple beyond the first 4 years (7.46 max). 
+- Power Factor cap reflects a 6 year MOR Staking period.
+- A Contributor can Stake for the full 16 years, however they gain no additional Power Factor beyond the first 6 years (10.7 max).
 
 **Function:**
 def power_relative(staking_begin_unixtime, staking_end_unixtime):
@@ -107,17 +108,18 @@ def power_relative(staking_begin_unixtime, staking_end_unixtime):
 
     return val
 
-## Using the Multiplier
-A multiplier can be applied at deposit, if the user specifies locking period. Or with a separate function on the smart contract - lockClaim(). The lock period is specified in seconds, it can be any interval.
-When a multiplier is applied, the user's share of the stETH pool increases, depending on the multiplier.
+## Applying the Power Factor
+A power factor can be applied at deposit, if the user specifies locking period. Or with a separate function on the smart contract - lockClaim(). 
+The lock period is specified in seconds, it can be any interval.
+When a power factor is applied, the user's "protion" of the stETH pool increases, depending on the power factor.
 
 ## Restrictions
 To implement such functionality, we need to carry a number of constraints and understand the important points:
 
-- the claim lock period can be set by the user or administrator (for non-automatic groups) at any time;
-- the claim lock period cannot be decreased; 
-- the claim lock period can be increased. At the time of the transaction, the new multiplier will be applied.
-- until the end of the lock period, the user will not be able to withdraw their MOR rewards.
+- MOR Staking period can be set by the user or administrator (for non-automatic groups) at any time;
+- MOR Staking period cannot be decreased; 
+- MOR Staking period can be increased. At the time of the transaction, the new multiplier will be applied.
+- until the end of MOR Staking period, the user will not be able to withdraw their MOR rewards.
 
 ## Changes to Smart Contracts
 The Distribution contract and related interfaces will change. Updates to the smart contract on the network will need to be made.
