@@ -119,6 +119,26 @@ The Distribution contract and related interfaces will change. Updates to the sma
 4 weeks from June 21st 2024
 
 ## Appendix Of Analysis:
-A few things to think about as I think about this some since our convo:
 
-(1) To the "Will There Be Enough MOR Available" Qquestion: This only really matters as long as the requisite “costs” that need to be paid in MOR can always be adjusted, it doesn’t really matter if a service/inference/etc need to be paid with 1 or 0.1 MOR if its mainly a factor of price and such prices are adjustable. MOR is highly divisible at 18 decimals so the amount that is in circulation is arbitrary at any given point and price should fix any imbalance there easily enough.
+## Secondary Effects Such The Rise of Liquidity Staking Tokens for MOR
+
+### Liquid Locker at the protocol level:
+- (1) Most important fundamental piece of allowing for this at the protocol level would mean having some sort of receipt token(s) that whoever owns it at the time of the claim can use to claim the underlying MOR rewards. This would preferably be a form of fungible token (e.g. if you lock rewards for 100 stETH for 1 year you get 100 veMOR1yr or something along those lines), but it could also be an NFT of the claim position. IF you sell 50 of your 100 veMOR1yr before the unlock time whoever has the other 50% gets to claim 50% of the rewards etc at unlock.
+
+- (2) This does get a little complex because if you get your receipt token and then withdraw your stETH 7 days later, the unlock will only be worth 7 days of rewards + multiplier instead of 1 year worth so its difficult in this context to make them fungible vs NFTs.
+
+- (3). Maybe a way to solve this would be to have “lock periods” e.g. every month there is a 30 day period in which locks can be made and then the time locks are bundled together for the receipt tokens and the amount of receipt tokens you get is proportional to your lock time (similar to how something like veCRV is generated). This would allow fungibility among locks at least in terms of monthly “vintage” of that lock.
+
+- (4). If done correctly the receipt tokens should trade for approximately about what they will be worth at unlock date in MOR (unknown, but more knowable as you get closer to the date) but pro-rated to the point of time +/- some amount of speculative/market discount for the illiquidity of the claim at the time.
+
+- (5). The existence of something like this also lets people speculate and buy the “early vintage” receipt tokens if they want to get a Power factor that is no longer available and someone is willing to sell.
+
+- (6). One big issue to solve with fungible (preferred) vs NFT receipt token is how to handle if the stETH has been pulled or not (not much incentive to keep stETH in the system once receipt tokens are sold).
+
+- (7) A way to handle this that may solve some of the above discussed issues would be to setup a new smart contract that will serve as the protocol liquid locker for MOR (and this would not affect the initial power factor lock code/smart contract as it could be built up a level from that afterwards). This could work by setting up standard unlock dates (like Dec 2024/Dec2025/Dec 2026 etc) requiring stETH that gets locked in the liquid locker locking up their stETH until that unlock date that is chosen and then issuing those who lock up their stETH in this way receipt tokens like MORstETHdec2024 (or something akin to that). You would get a proportional amount of MORstETHdec2024 based on how much stETH you locked until the unlock date based on the power multiplier and then it would = your locked principal (in stETH) + all MOR rewards accumulated during that time at time of unlock.
+
+- (8) This (7) is a pretty cool solution because it allows for users to optionally lock up their stETH for the period of time and get the liquid receipt asset without being forced to lock up their stETH if they don’t want to (since they can still do the normal lock which allows for withdraw after 7 days but does not come with the liquid receipt token) which solves one of the aspects Anon866 was talking about, guaranteeing an amount of yield to the protocol for some period of time.
+
+- (9) Additionally, it allows the splitting up of the underlying principal (the stETH which can be withdrawn at maturity) and the “yield” (the MOR rewards accumulated during the time period) in a Pendle like manner. So people could actually trade these assets separately such that when you redeem PTMORstETHdec2024 you get the underlying stETH (and you may have been able to buy these at a steep discount creating fixed ETH “yield” during the time frame which may be above standard market rates) and the YTMORstETHde2024 separately (which would let you claim all the proportional MOR rewards at maturity).
+
+- This allows for some really cool dynamics where someone can also split off their YT and sell it in advance at a discount (all without ever selling any MOR that hits the market) if you want to “yield farm” in some way without it being a net negative to the protocol necessarily.
