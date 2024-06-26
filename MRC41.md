@@ -1,4 +1,4 @@
-# Title: MRC 41 "The Time Curve MOR Staking For Builders"
+# Title: MRC 41 "The Time & Dilution MOR Staking For Builders"
 
 ### Link for Discussion on Discord: 
 https://discord.com/channels/1151741790408429580/1251995756332843189
