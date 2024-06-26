@@ -64,7 +64,7 @@ It is worth emphasizing that, none of these MOR Staking proposals increase the a
 
 ![ProportionalityEquationMORStaking](https://github.com/MorpheusAIs/MRC/assets/1563345/a6b32722-ccb8-400e-85ca-d97a4a7e4c3e)
 
-![EmissionsEarnedRelativePower](https://github.com/MorpheusAIs/MRC/assets/1563345/4fd1088a-57ef-4808-945e-1fa121de4e56)
+![Emission Earned Chart 2](https://github.com/MorpheusAIs/MRC/assets/1563345/d4e1d376-b16e-4691-9060-95add8dd043d)
 
 ## Applying the Power Factor
 A power factor can be applied at deposit, if the user specifies MOR Staking period. Or with a separate function on the smart contract - StakeClaim(). 
