@@ -2,7 +2,7 @@
 
 **Author(s)**: Teknium, karan4d
 
-Link to Discord Discussion: https://discord.com/channels/1151741790408429580/1215401416659832842/1238871504683401417
+Link to Discord Discussion: [https://discord.com/channels/1151741790408429580/1215401416659832842/1238871504683401417](https://discord.com/channels/1151741790408429580/1238876323838165063)
 
 
 ## Summary
@@ -20,6 +20,8 @@ We’re interested in Morph-Caller serving as the foundation for Smart Agents—
 [Hermes-Function-Calling Github Repo](https://github.com/NousResearch/Hermes-Function-Calling) - This repository covers the code, examples, and details behind the model’s predefined JSON schema for function calls. As a result, this is a dependency in the sense that it serves as a guide and tutorial for using the model.
 
 [Morph Caller](https://huggingface.co/Morpheus-Function-Calling/Morph-Caller) - The model itself
+
+[Morph Caller](https://huggingface.co/Morpheus-Function-Calling/Morph-Caller-GGUF) - The GGUF models (16 bit, 4 bit, 5 bit, 8 bit) for quantized universal inference
 
 ## New Weights Requested 
 None at the moment—this may change with new model sizes, significant architectural changes, or otherwise. 
