@@ -1,8 +1,8 @@
-# Title: MRC 42 "Time & Dilution Based MOR Staking Available To All Contributor Types"
+# Title: MRC 42 "MOR Staking Available To All Contributor Types"
+## Sub Title: "The Time & Dilution Based Power Factor Method For Calculating Proportionality of Emissions"
 
 ### Authors / Discord Name: 
 Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Jeff (Jabo38), Luke (lukestokes)   
-
 ### Authors of Proposals On Similar Time Related Subjects: 
 - mechaverse specifically from MRC 36 https://github.com/MorpheusAIs/MRC/blob/main/MRC36.md
 - With extensive feedback and alternative proposals from: kehndry
@@ -50,23 +50,9 @@ Rather than pick a "magic" number for the "Power Factor" function, this number c
 - If 100 stETH were already staked the porportion of rewards for the 1 stETH staker after his deposit would be equal to 2.07 out of 102.07 
 - Which equals 2.02% of the of the MOR emissions during that UTC second.
 
-## Using Tanh Hyperbolic Tangent for this Function in Solidity (Included in the Smart Contract)
-- Below is the function for calculating the Power with a factor cap of ~10.7.
-- It works over 16 years: July 25, 2024 12pm UTC to January 26, 2040 12pm UTC
-- Power Factor cap reflects a 6 year MOR Staking period.
-- A Contributor can Stake for the full 16 years, however they gain no additional Power Factor beyond the first 6 years (10.7 max).
+![ProportionalityEquationMORStaking](https://github.com/MorpheusAIs/MRC/assets/1563345/6e6c1cc5-826a-42be-bbb7-b7c4a9d65cf9)
 
-**Function:**
-def power_relative(staking_begin_unixtime, staking_end_unixtime):
-    power_max=16.61327546
-    period_start_unix=1721908800  # July 25, 2024 12:00 UTC
-    period_end_unix=2211192000    # January 26, 2040 12:00 UTC
-
-    val = power_max * (np.tanh(2 * ((staking_end_unixtime - period_start_unix) / (period_end_unix - period_start_unix))) - np.tanh(2 * ((staking_begin_unixtime - period_start_unix) / (period_end_unix - period_start_unix))))
-    val = min(10.7, val) # keeps value below or equal to 10.7
-    val = max(1.0, val) # keeps value above or equal to 1
-
-    return val
+![EmissionsEarnedRelativePower](https://github.com/MorpheusAIs/MRC/assets/1563345/26af1d1b-f947-4a97-beb5-0193d59b007b)
 
 ## MRCs 38, 39, 40, & 41 
 These MRCs stand for how to implement Time as a function for each of the four core proofs of Morpheus. 
