@@ -52,6 +52,18 @@ Proposals are welcome on GitHub during the Fair Launch phase, eventually moving 
 * **Deliverables:** Detailed account of what the proposal once implementated will deliver.
 * **Background / Experience of Author / Implementer:** Your or your team's credentials for executing the proposal.
 * **Status:** Current state of the proposal (Discussion, In Progress, Implemented).
+* **Metadata (YAML frontmatter):** 
+    ---
+    id: MRC####
+    title: [Title of the Proposal]
+    authors: ["Author Name (can be anonymous) and Discord Handle(s)"]
+    category: [Refer to Morpheus Reference Implementations (MRIs) list below]
+    summary: [A brief description (5 sentences max) of what the proposal entails]
+    status: [Current status of the proposal (e.g., Under Discussion, Pending, Implemented, In Progress, Closed)]
+    discussion_url: [Link to the discussion thread for the proposal]
+    contact: [Contact information for further inquiries or discussion]
+    keywords: ["relevant", "keywords", "describing", "the", "proposal"]
+    ---
 
 ## Merged or Closed:
 - First, it's important understand that MRCs are a competitive process.  
