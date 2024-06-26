@@ -4,7 +4,8 @@
 ### Link for Discussion on Discord:
 https://discord.com/channels/1151741790408429580/1251994932688719922
 
-### Status: In Discussion
+### Status: 
+In Discussion
 
 ### Authors / Discord Name: 
 Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Jeff (Jabo38), Luke (lukestokes)     
