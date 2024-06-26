@@ -78,7 +78,7 @@ Fair Stake intervals will be posted on GitHub.
 
 ![ProportionalityEquationMORStaking](https://github.com/MorpheusAIs/MRC/assets/1563345/4bcb4ef4-0f52-41e8-8449-b5832e94f639)
 
-![EmissionsEarnedRelativePower](https://github.com/MorpheusAIs/MRC/assets/1563345/05ab4e83-1405-4379-9408-09bcbe7578dd)
+![Emission Earned Chart 2](https://github.com/MorpheusAIs/MRC/assets/1563345/7b8adc04-5da2-4ad9-9dd1-bd9060f90fed)
 
 ## Applying the Power Factor
 A power factor can be applied at deposit, if the user specifies MOR Staking period. Or with a separate function on the smart contract - StakeClaim(). 
