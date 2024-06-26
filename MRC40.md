@@ -54,7 +54,7 @@ https://docs.google.com/spreadsheets/d/1uEjozAcnEt-IWaSsu_BbYPRMUCkbwjwv/edit?us
 ![ProportionalityEquationMORStaking](https://github.com/MorpheusAIs/MRC/assets/1563345/85cbddaf-1388-45b9-868a-5e3a64d6ab68)
 
 ## Emissions Earned Realative Power
-![EmissionsEarnedRelativePower](https://github.com/MorpheusAIs/MRC/assets/1563345/95ded6ca-2f2a-4264-84d0-0986a7380331)
+![Emission Earned Chart 2](https://github.com/MorpheusAIs/MRC/assets/1563345/1c4e4a47-b869-45ab-88d1-1a0163dcfa77)
 
 ## Applying the Power Factor to Compute
 A power factor can be applied at deposit, if the user specifies a MOR Staking period. Or with a separate function on the smart contract - StakeClaim(). 
