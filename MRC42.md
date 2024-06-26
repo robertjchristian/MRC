@@ -67,3 +67,14 @@ Code, Capital, Compute and Builders. However the principle is the same across al
 - "If your opponents are opportunists, one way to beat them is to outlast them. 
 - Opportunists almost by definition lack staying power."
 - https://x.com/paulg/status/1802094669628625272?s=46&t=iOyqtKddsZp1sSUXOguocA
+
+## Appendix Section
+
+## Supply Curve Comparison Based On Different Staking Time Averages
+![Supply Curve Comparison](https://github.com/MorpheusAIs/MRC/assets/1563345/3af26946-6b61-4e14-9b54-038dc49175d2)
+
+## Supply Curve Presuming 4 Year Average Staking Time
+![Staking Curve 4 Year to 2040](https://github.com/MorpheusAIs/MRC/assets/1563345/b8eeda6b-aacc-4286-957f-64d69fc0e07d)
+
+## Zoom in of Supply Curve First 6 Years, With 3 Year Average Staking Time
+![6 year chart with 3 year average](https://github.com/MorpheusAIs/MRC/assets/1563345/3b044dcc-2dec-4591-8057-311ae35959e9)
