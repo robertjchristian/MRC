@@ -57,7 +57,9 @@ https://docs.google.com/spreadsheets/d/1xTY7keBdPo2Nzm35Wdmu7ngP3NVIDebR/edit?us
 https://docs.google.com/spreadsheets/d/1uEjozAcnEt-IWaSsu_BbYPRMUCkbwjwv/edit?usp=share_link&ouid=108805586783812761772&rtpof=true&sd=true
 
 ## General Description
-It is necessary to implement a functionality where users can specify for what period they want to Stake their MOR tokens, in return the user will receive an increased MOR reward.
+It is necessary to implement a functionality where users can specify for what period they want to Stake their MOR tokens, in return the user will receive an increased portion of the MOR emissions while they have their stETH deposited in the Morpheus smart contract.
+
+It is worth emphasizing that, none of these MOR Staking proposals increase the amount of MOR token emissions that are created. Rather, it changes a Contributors proportional rights to the amount of tokens that are being emitted during a period they contribute their value. In a similar way that increasing a miner's hash rate increases the amount of the portion of Bitcoin they mine.
 
 ![ProportionalityEquationMORStaking](https://github.com/MorpheusAIs/MRC/assets/1563345/a6b32722-ccb8-400e-85ca-d97a4a7e4c3e)
 
