@@ -1,4 +1,4 @@
-# Title: MRC 40 "The Time Curve Staking MOR For Compute Providers"
+# Title: MRC 40 "The Time & Dilution Based Staking MOR For Compute Providers"
 
 ### Link for Discussion on Discord: 
 https://discord.com/channels/1151741790408429580/1251995364693774336
