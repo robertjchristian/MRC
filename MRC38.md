@@ -1,4 +1,5 @@
-# Title: MRC 38 "The Time & Dilution Based Staking MOR for Code Contributors"
+# Title: MRC 38 "Staking MOR for Code Contributors"
+## Sub Title: The Time & Dilution Based Power Factor Method 
 
 ### Link for Discussion on Discord:
 https://discord.com/channels/1151741790408429580/1251994932688719922
@@ -74,44 +75,13 @@ Fair Stake intervals will be posted on GitHub.
 ![ExampleMORPowerFactor](https://github.com/MorpheusAIs/MRC/assets/1563345/120f89c4-a497-469c-a15d-e8c5955feabd)
 **Chart shows examples if the Contributor set time curves starting July 25th 2024**
 
-## Realization For Calculating the Power Factors
-Final MOR reward calculation
-When  claim of the MOR tokens are Staked, there will be a power factor for the user final rewards. Thus the final reward will be calculated by the formula:
+![ProportionalityEquationMORStaking](https://github.com/MorpheusAIs/MRC/assets/1563345/4bcb4ef4-0f52-41e8-8449-b5832e94f639)
 
-final_reward = standard_reward * power factor
-
-Where the standard_reward: calculated according to the existing rules.
-
-### Calculation of the Power Factor
-The Power Factor is calculated using the following formula:
-
-Power = (end - now)/now + 1;
-
-Where the end: MOR that potentially will be in circulation at the end MOR Staking period for the current group.
-Where the now: MOR that is potentially in circulation at the time of transaction execution for the current group.
-
-## Using Tanh Hyperbolic Tangent for this Function in Solidity (Included in the Smart Contract)
-- Below is the function for calculating the Power with a factor cap of ~10.7.
-- It works over 16 years: July 25, 2024 12pm UTC to January 26, 2040 12pm UTC
-- Power Factor cap reflects a 6 year MOR Staking period.
-- A Contributor can Stake for the full 16 years, however they gain no additional Power Factor beyond the first 6 years (10.7 max).
-
-**Function:**
-def power_relative(staking_begin_unixtime, staking_end_unixtime):
-    power_max=16.61327546
-    period_start_unix=1721908800  # July 25, 2024 12:00 UTC
-    period_end_unix=2211192000    # January 26, 2040 12:00 UTC
-
-    val = power_max * (np.tanh(2 * ((staking_end_unixtime - period_start_unix) / (period_end_unix - period_start_unix))) - np.tanh(2 * ((staking_begin_unixtime - period_start_unix) / (period_end_unix - period_start_unix))))
-    val = min(10.7, val) # keeps value below or equal to 10.7
-    val = max(1.0, val) # keeps value above or equal to 1
-
-    return val
+![EmissionsEarnedRelativePower](https://github.com/MorpheusAIs/MRC/assets/1563345/05ab4e83-1405-4379-9408-09bcbe7578dd)
 
 ## Applying the Power Factor
 A power factor can be applied at deposit, if the user specifies MOR Staking period. Or with a separate function on the smart contract - StakeClaim(). 
-The MOR Stake period is specified in seconds, it can be any interval.
-When a power factor is applied, the user's "protion" of the stETH pool increases, depending on the power factor.
+The MOR Stake period is specified in seconds, it can be any interval. When the Power Factor is applied in the context of Coding contributors it serves as part of the calculation for weights translating into MOR emissions. The longer a Contributor Stakes their MOR emissions into the future the greater the proportion of the emissions they will earn.
 
 ## Restrictions
 To implement such functionality, we need to carry a number of constraints and understand the important points:
