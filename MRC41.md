@@ -46,6 +46,9 @@ https://docs.google.com/spreadsheets/d/1uEjozAcnEt-IWaSsu_BbYPRMUCkbwjwv/edit?us
 ## Proportionality Equestion For MOR Staking
 ![ProportionalityEquationMORStaking](https://github.com/MorpheusAIs/MRC/assets/1563345/da21a701-60e7-4aba-87c1-dfe9278000bd)
 
+## Emissions Earned By Realative Power
+![EmissionsEarnedRelativePower](https://github.com/MorpheusAIs/MRC/assets/1563345/147041a9-128d-48a1-af42-90009e8cff60)
+
 ## Example Chart
 ![ExampleMORPowerFactor](https://github.com/MorpheusAIs/MRC/assets/1563345/8ff10a90-cdd3-4d65-9915-59f20fc55dbf)
 Presumes a July 25th 2024 start date
