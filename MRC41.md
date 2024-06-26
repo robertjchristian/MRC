@@ -48,7 +48,7 @@ https://docs.google.com/spreadsheets/d/1uEjozAcnEt-IWaSsu_BbYPRMUCkbwjwv/edit?us
 ![ProportionalityEquationMORStaking](https://github.com/MorpheusAIs/MRC/assets/1563345/da21a701-60e7-4aba-87c1-dfe9278000bd)
 
 ## Emissions Earned By Realative Power
-![EmissionsEarnedRelativePower](https://github.com/MorpheusAIs/MRC/assets/1563345/147041a9-128d-48a1-af42-90009e8cff60)
+![Emission Earned Chart 2](https://github.com/MorpheusAIs/MRC/assets/1563345/88608be1-3199-48d0-8e08-2d7de633e241)
 
 ## Example Chart
 ![ExampleMORPowerFactor](https://github.com/MorpheusAIs/MRC/assets/1563345/8ff10a90-cdd3-4d65-9915-59f20fc55dbf)
