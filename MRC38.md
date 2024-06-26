@@ -1,4 +1,4 @@
-# Title: MRC 38 "The Time Curve Staking MOR for Code Contributors"
+# Title: MRC 38 "The Time & Dilution Based Staking MOR for Code Contributors"
 
 ### Link for Discussion on Discord:
 https://discord.com/channels/1151741790408429580/1251994932688719922
