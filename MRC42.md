@@ -52,7 +52,7 @@ Rather than pick a "magic" number for the "Power Factor" function, this number c
 
 ![ProportionalityEquationMORStaking](https://github.com/MorpheusAIs/MRC/assets/1563345/6e6c1cc5-826a-42be-bbb7-b7c4a9d65cf9)
 
-![EmissionsEarnedRelativePower](https://github.com/MorpheusAIs/MRC/assets/1563345/26af1d1b-f947-4a97-beb5-0193d59b007b)
+![Emission Earned Chart 2](https://github.com/MorpheusAIs/MRC/assets/1563345/1d8e7e73-22ed-44ed-82e8-934370fe58cd)
 
 ## MRCs 38, 39, 40, & 41 
 These MRCs stand for how to implement Time as a function for each of the four core proofs of Morpheus. 
