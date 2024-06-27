@@ -17,16 +17,16 @@ Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Chri
 ### Category: 
 MRI #1 Smart Contracts Reference Implementation
 
-## Rationale: Time Equals Aliegnment
-In the case of Capital, a negative feedback loop is possible in the current mechanism that has been revealed via the real world data. That is to say if the price goes down, the amount of stETH goes down. Because the stETH declines the competition to earn MOR declines. Thus reducing the cost to acquire MOR. So the remaining stETH still gets MOR for 74% less than the ETH it took to earn it. And because there is no time delay function an attacker can play out this game theory and benefit from the declining price and still be making ETH returns regardless of if MOR is $100, $50, $10, $1. Selling all their MOR every week when the Protocol Owned Liquidity buys. Its not about the price being up or down, its a negative feedback loop in being able to withdraw more ETH than contributed instantly. 
+## Rationale: Time Equals Alignment
+In the case of Capital, a negative feedback loop is possible in the current mechanism that has been revealed via the real world data. That is to say, if the price goes down, the amount of stETH goes down. Because the stETH declines the competition to earn MOR declines. Thus reducing the cost to acquire MOR. So the remaining stETH still gets MOR for 74% less than the ETH it took to earn it. And because there is no time delay function, an attacker can play out this game theory and benefit from the declining price and still be making ETH returns regardless of if MOR is $100, $50, $10, $1. Selling all their MOR every week when the Protocol Owned Liquidity buys. It's not about the price being up or down, it's a negative feedback loop in being able to withdraw more ETH than contributed instantly. 
 
-Its clear in the data The Time element closes this negative feedback loop. As the price movements up and down over Time make the game of selling all the MOR for ETH too risky for short term holders.
+It's clear in the data The Time element closes this negative feedback loop as the price moves up and down over Time make the game of selling all the MOR for ETH too risky for short-term holders.
 
 During the bootstrapping period from February 8th 2024 to May 8th 2024, when there was a 90 day delay in the MOR claiming and the tokens were not trading yet, it prevented this negative feedback loop.
 
 **Decision Tree:**
 - Is there a real architecture issue to address? Yes or No. **Clearly Yes.**
-- If yes, then what is the best mechanism to address the issue. **Time is the only objective function proposed.**
+- If yes, then what is the best mechanism to address the issue? **Time is the only objective function proposed.**
 - What should the incentive be to delay MOR claims over time? **The Dilution Rate based Power Factor is the only objective function proposed.**
 - How long should the Delay function be set for? **6 Years being long enough to signal time committment**
 
@@ -40,12 +40,12 @@ None.
 None.
 
 ## Deliverables: Smart Contract Updates 
-The Distribution Smart Contract specifically with have a the two functions added.
+The Distribution Smart Contract specifically with the two functions added.
 1. MOR Staking function (delay MOR claims during certain UTCsecond heights).
 2. Power Factor Added To MOR Reward Calculation.
 
 ## Qualification:
-Same open source developers that developed the Morpheus Smart Contracts thus far.
+Same open-source developers that developed the Morpheus Smart Contracts thus far.
 
 ## Timelines
 4 weeks from June 21st 2024
@@ -94,7 +94,7 @@ The Distribution contract and related interfaces will change. Updates to the sma
 ## Secondary Effects Such The Rise of Liquidity Staking Tokens for MOR
 
 ### Liquid Locker at the protocol level:
-- (1) Most important fundamental piece of allowing for this at the protocol level would mean having some sort of receipt token(s) that whoever owns it at the time of the claim can use to claim the underlying MOR rewards. This would preferably be a form of fungible token (e.g. if you lock rewards for 100 stETH for 1 year you get 100 veMOR1yr or something along those lines), but it could also be an NFT of the claim position. IF you sell 50 of your 100 veMOR1yr before the unlock time whoever has the other 50% gets to claim 50% of the rewards etc at unlock.
+- (1) Most important fundamental piece of allowing for this at the protocol level would mean having some sort of receipt token(s) that whoever owns it at the time of the claim can use to claim the underlying MOR rewards. This would preferably be a form of fungible token (e.g. if you lock rewards for 100 stETH for 1 year you get 100 veMOR1yr or something along those lines), but it could also be an NFT of the claim position. If you sell 50 of your 100 veMOR1yr before the unlock time whoever has the other 50% gets to claim 50% of the rewards etc, at unlock.
 
 - (2) This does get a little complex because if you get your receipt token and then withdraw your stETH 7 days later, the unlock will only be worth 7 days of rewards + multiplier instead of 1 year worth so its difficult in this context to make them fungible vs NFTs.
 
