@@ -11,10 +11,10 @@ Confirmation from open source devs they can:
 - 2. Solidity / EVM supports the math functions required to calculate the Power factor.
 
 ## Authors / Discord Name: 
-Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel) Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Jeff (Jabo38), Luke (lukestokes) , Nebuchadnezzar Crew 
+Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel) Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Jeff (Jabo38), Luke (lukestokes), Nebuchadnezzar Crew 
 
 ### Authors of Proposals On Similar Time Related Subjects: 
-- mechaverse specifically from MRC 36 https://github.com/MorpheusAIs/MRC/blob/main/CLOSED/MRC36.md
+- mechaverse specifically from [MRC 36](/CLOSED/MRC36.md)
 - With extensive feedback and alternative proposals from: kehndry
 
 ## Category: 
