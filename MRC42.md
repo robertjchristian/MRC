@@ -45,6 +45,7 @@ It is worth emphasizing that, none of these MOR Staking proposals increase the a
 - A. “Inference Staking”. Stake MOR for access to Compute.
 - B. Nominating Smart Agents / Dapps. Stake 100 MOR  for 1 Year. Earn up to 100 MOR. 
 
+## Example Chart of Power Factors Over Time
 ![ExampleMORPowerFactor](https://github.com/MorpheusAIs/MRC/assets/1563345/be4492a8-e050-4deb-8270-2029e39386d9)
 **Charts shows example power factor if the Contributor Staked their MOR token claims the 25th of July 2024.**
 
