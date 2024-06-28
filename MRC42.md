@@ -9,7 +9,10 @@ Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Chri
 - Kehndry - Extensive feedback and alternative proposals on Time Curves.
 - David Johnston - With [MRC22](https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC22.md)
 
-### In Discussion on Discord: 
+### Status:
+In Progress
+
+### Link to Discord: 
 https://discord.com/channels/1151741790408429580/1251996042929639434
 
 ## Introduction - Rational / General Description
