@@ -24,6 +24,7 @@ It is worth emphasizing that, none of these MOR Staking proposals increase the a
 ## List of Staking Types & Descriptions
 - MRC38 + MRC39: Proportional MOR Reward Types (Code & Capital) with Static Block Reward Based On Weight * Power
 - MRC40 & MRC41: MOR Reward Types (Compute & Builders) with Dynamic Rewards Based on Usage
+- MRC
 
 ### MRC 38: Code Providers
 - A. Add Code Contributions to earn MOR.
@@ -41,7 +42,7 @@ It is worth emphasizing that, none of these MOR Staking proposals increase the a
 - A. “MOR deposits” to qualify to earn MOR. Stake 100 MOR  for 1 Year. Earn up to 100 MOR.
 - B. Staking of MOR rewards into the future to increase reputation ranking.
 
-## Morpheus Users
+### Whtiepaper: Morpheus Users
 - A. “Inference Staking”. Stake MOR for access to Compute.
 - B. Nominating Smart Agents / Dapps. Stake 100 MOR  for 1 Year. Earn up to 100 MOR. 
 
