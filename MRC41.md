@@ -5,7 +5,7 @@
 https://discord.com/channels/1151741790408429580/1251995756332843189
 
 ### Status: 
-In Discussion
+Pending
 
 ### Authors / Discord Name: 
 Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Jeff (Jabo38), Luke (lukestokes)   
