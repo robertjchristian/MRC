@@ -5,9 +5,9 @@
 Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Jeff (Jabo38), Luke (lukestokes), Erik Voorhees (erikvoorhees)
    
 ### Authors of Proposals On Related Subjects / MRCs: 
-- Mechaverse with [MRC 36](https://github.com/MorpheusAIs/MRC/blob/main/MRC36.md) 
+- Mechaverse with [MRC 36](/CLOSED/MRC36.md) 
 - Kehndry - Extensive feedback and alternative proposals on Time Curves.
-- David Johnston - With [MRC22](https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC22.md)
+- David Johnston - With [MRC22](/IN%20PROGRESS/MRC22.md)
 
 ### Status:
 In Progress
@@ -16,37 +16,37 @@ In Progress
 https://discord.com/channels/1151741790408429580/1251996042929639434
 
 ## Introduction - Rational / General Description
-This proposal sets forth a method by which Contributors can Stake MOR reward claims to a time in the future.
-In exchange for Staking MOR for a period of time, the Contributor gets a "Power Factor" appliced to the calculation of their MOR rewards each UTC second. 
+This proposal sets forth a method by which Contributors can Stake MOR reward claims to a time in the future.  
+In exchange for Staking MOR for a period of time, the Contributor gets a "Power Factor" appliced to the calculation of their MOR rewards each UTC second.  
 This Power Factor mirrors the the Delution rate the Contributor experiences while Staking the MOR. 
 
 It is worth emphasizing that, none of these MOR Staking proposals increase the amount of MOR token emissions that are created. Rather, it changes a Contributors proportional rights to the amount of tokens that are being emitted during a period they contribute their value. In a similar way that increasing a miner's hash rate increases the amount of the portion of Bitcoin they mine.
 
-**For Capital Providers Please Note:** 
-- Nothing in this proposal changes the ability of a Contributor to withdraw their stETH (beyond the normal 7 days), only the claiming of MOR rewards is delayed. However when a Contributor withdraws their stETH their reward factor no longer applies after the UTC second time of their withdraw.
+> [!Note]
+> **Nothing in this proposal changes the ability of a Contributor to withdraw their stETH (beyond the normal 7 days), only the claiming of MOR rewards is delayed. However when a Contributor withdraws their stETH their reward factor no longer applies after the UTC second time of their withdraw.**
 
 ## List of Staking Types & Descriptions
 - MRC38 + MRC39: Proportional MOR Reward Types (Code & Capital) with Static Block Reward Based On Weight * Power
 - MRC40 & MRC41: MOR Reward Types (Compute & Builders) with Dynamic Rewards Based on Usage
-- MRC
+- Whitepaper: Morpheus Users. Stake MOR for access to Compute.
 
-### [MRC 38: Code Providers](https://github.com/MorpheusAIs/MRC/blob/main/MRC38.md)
+### [MRC 38: Code Providers](/IN%20PROGRESS/MRC38.md)
 - A. Add Code Contributions to earn MOR.
 - B. Staking of MOR rewards into the future to increase proportionality.
 
-### [MRC 39: Contributing Capital](https://github.com/MorpheusAIs/MRC/blob/main/MRC39.md)
+### [MRC 39: Contributing Capital](/IN%20PROGRESS/MRC39.md)
 - A. Deposits of stETH and the resulting yield contributed to Morpheus earn MOR.
 - B. Staking of MOR rewards into the future to increase proportionality.
 
-### [MRC 40: Compute Providers](https://github.com/MorpheusAIs/MRC/blob/main/MRC40.md)
+### [MRC 40: Compute Providers](/IN%20PROGRESS/MRC40.md)
 - A. “MOR deposits” to qualify to earn MOR. Stake 100 MOR  for 1 Year. Earn up to 100 MOR.
 - B. Staking of MOR rewards into the future to increase reputation ranking.
 
-### [MRC 41: App / Smart Agent Builders](https://github.com/MorpheusAIs/MRC/blob/main/MRC41.md)
+### [MRC 41: App / Smart Agent Builders](/IN%20PROGRESS/MRC41.md)
 - A. “MOR deposits” to qualify to earn MOR. Stake 100 MOR  for 1 Year. Earn up to 100 MOR.
 - B. Staking of MOR rewards into the future to increase reputation ranking.
 
-### [Whtiepaper: Morpheus Users](https://github.com/MorpheusAIs/MRC/blob/main/MRC41.md)
+### [Whitepaper: Morpheus Users](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/WhitePaper.md)
 - A. “Inference Staking”. Stake MOR for access to Compute.
 - B. Nominating Smart Agents / Dapps. Stake 100 MOR  for 1 Year. Earn up to 100 MOR. 
 
@@ -72,13 +72,13 @@ Rather than pick a "magic" number for the "Power Factor" function, this number c
 - In the case the user choses to Stake their MOR claims for this 12 month period, they experience 207% dilution.  
 - So the Time Power Factor should be around the same 2X. 
 
-- In other words the Base reward as calculated by the number of stETH staked in the case of capital or the weights held in the case of a Code Contributor is mulipled by the Power Factor. 
+- In other words the Base reward as calculated by the number of stETH staked in the case of capital or the weights held in the case of a Code Contributor is mulipled by the Power Factor.  
 - The result of this multiplication is then divided by the total stETH * Power or Weights * Power of ALL Contributors in that group to determine the individual Contributors proportionality of the MOR rewards that UTC second.
 
 **For Example:**
-- 1 stETH with a 207% Power Factor would have a result of 2.07
-- This 2.07 sum would be divided by the total stETH staked (or yield provided in a future yield agnostic version) post Power Factor.
-- If 100 stETH were already staked the porportion of rewards for the 1 stETH staker after his deposit would be equal to 2.07 out of 102.07 
+- 1 stETH with a 207% Power Factor would have a result of 2.07  
+- This 2.07 sum would be divided by the total stETH staked (or yield provided in a future yield agnostic version) post Power Factor.  
+- If 100 stETH were already staked the porportion of rewards for the 1 stETH staker after his deposit would be equal to 2.07 out of 102.07   
 - Which equals 2.02% of the of the MOR emissions during that UTC second.
 
 ![ProportionalityEquationMORStaking](https://github.com/MorpheusAIs/MRC/assets/1563345/6e6c1cc5-826a-42be-bbb7-b7c4a9d65cf9)
@@ -86,17 +86,17 @@ Rather than pick a "magic" number for the "Power Factor" function, this number c
 ![Emission Earned Chart 2](https://github.com/MorpheusAIs/MRC/assets/1563345/1d8e7e73-22ed-44ed-82e8-934370fe58cd)
 
 ## MRCs 38, 39, 40, & 41 
-These MRCs stand for how to implement Time as a function for each of the four core proofs of Morpheus. 
+These MRCs stand for how to implement Time as a function for each of the four core proofs of Morpheus.  
 Code, Capital, Compute and Builders. However the principle is the same across all four and should hold generally.
 
-- **Code MRC 38:** https://github.com/MorpheusAIs/MRC/blob/main/MRC38.md
-- **Capital MRC 39:** https://github.com/MorpheusAIs/MRC/blob/main/MRC39.md
-- **Compute MRC 40:** https://github.com/MorpheusAIs/MRC/blob/main/MRC40.md
-- **Builders MRC 41:** https://github.com/MorpheusAIs/MRC/blob/main/MRC41.md
+- **Code MRC 38:** https://github.com/antonbosss/MRC/blob/main/IN%20PROGRESS/MRC38.md
+- **Capital MRC 39:** https://github.com/antonbosss/MRC/blob/main/IN%20PROGRESS/MRC39.md
+- **Compute MRC 40:** https://github.com/antonbosss/MRC/blob/main/IN%20PROGRESS/MRC40.md
+- **Builders MRC 41:** https://github.com/antonbosss/MRC/blob/main/IN%20PROGRESS/MRC41.md
 
 ## Conclusion: To quote Paul Graham:
-- "If your opponents are opportunists, one way to beat them is to outlast them. 
-- Opportunists almost by definition lack staying power."
+- "If your opponents are opportunists, one way to beat them is to outlast them.   
+- Opportunists almost by definition lack staying power."  
 - https://x.com/paulg/status/1802094669628625272?s=46&t=iOyqtKddsZp1sSUXOguocA
 
 ## Appendix Section
