@@ -2,7 +2,8 @@
 ## Sub Title: "The Time & Dilution Based Power Factor Method For Calculating Proportionality of Emissions"
 
 ### Authors / Discord Name: 
-Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Jeff (Jabo38), Luke (lukestokes)   
+Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Jeff (Jabo38), Luke (lukestokes), Erik Voorhees
+   
 ### Authors of Proposals On Similar Time Related Subjects: 
 - mechaverse specifically from MRC 36 https://github.com/MorpheusAIs/MRC/blob/main/MRC36.md
 - With extensive feedback and alternative proposals from: kehndry
@@ -19,6 +20,30 @@ It is worth emphasizing that, none of these MOR Staking proposals increase the a
 
 **For Capital Providers Please Note:** 
 - Nothing in this proposal changes the ability of a Contributor to withdraw their stETH (beyond the normal 7 days), only the claiming of MOR rewards is delayed. However when a Contributor withdraws their stETH their reward factor no longer applies after the UTC second time of their withdraw.
+
+## List of Staking Types & Descriptions
+- MRC38 + MRC39: Proportional MOR Reward Types (Code & Capital) with Static Block Reward Based On Weight * Power
+- MRC40 & MRC41: MOR Reward Types (Compute & Builders) with Dynamic Rewards Based on Usage
+
+## MRC 38: Code Providers
+A. Add Code Contributions to earn MOR.
+B. Staking of MOR rewards into the future to increase proportionality.
+
+## MRC 39: Contributing Capital
+A. “stETH deposits” to earn MOR.
+B. Staking of MOR rewards into the future to increase proportionality.
+
+## MRC 40: Compute Providers
+A. “MOR deposits” to qualify to earn MOR. Stake 100 MOR  for 1 Year. Earn up to 100 MOR.
+B. Staking of MOR rewards into the future to increase reputation ranking.
+
+## MRC 41: App / Smart Agent Builders
+A. “MOR deposits” to qualify to earn MOR. Stake 100 MOR  for 1 Year. Earn up to 100 MOR.
+B. Staking of MOR rewards into the future to increase reputation ranking.
+
+## Morpheus Users
+A. “Inference Staking”. Stake MOR for access to Compute.
+B. Nominating Smart Agents / Dapps. Stake 100 MOR  for 1 Year. Earn up to 100 MOR. 
 
 ![ExampleMORPowerFactor](https://github.com/MorpheusAIs/MRC/assets/1563345/be4492a8-e050-4deb-8270-2029e39386d9)
 **Charts shows example power factor if the Contributor Staked their MOR token claims the 25th of July 2024.**
