@@ -68,10 +68,10 @@ To implement such functionality, we need to carry a number of constraints and un
 - Until the end of MOR Staking period, the user will not be able to withdraw their MOR rewards.
 
 ## MOR Staking in Relation to Builder Rewards
-- A. Projects are listed on the decentralized registry to be eligible for Builder MOR rewards.
-- B. “MOR deposits” toward a specific Project MOR20 or MRC21 types, to qualify to earn MOR. Stake 100 MOR for 1 Year. Earn up to 100 MOR.
+- A. Projects are listed on the decentralized registry with their MOR20 or MRC21 addresses.
+- B. “MOR deposits” toward a project's address qualify it to earn MOR. Stake 100 MOR for 1 Year. Earn up to 100 MOR.
 - C. Staking of MOR rewards into the future to increase reputation ranking, the longer the higher the power factor.
-- D. Projects added to front ends / user interfaces after passing an audit.
+- D. Projects added to front ends / user interfaces after passing an public audit.
 
 ### Advanced Version of MOR Staking for Builders:
 - A. Staking MOR releases only after the MOR fees paid to the Morpheus Protocol Owned Liquidity exceed that of the MOR rewards paid out by the Protocol.
