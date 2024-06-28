@@ -1,6 +1,6 @@
 # Morpheus Request for Comments (MRC)
 Proposals to improve any of the Morpheus Reference Implementations (MRIs).  
-See the details on all of the MRIs [here](hhttps://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Code%20Providers/Morpheus%20Reference%20Implementations%20(MRC).md)
+See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Code%20Providers/Morpheus%20Reference%20Implementations%20(MRI).md)
 
 ## Meta MRCs about MRCs
 - For most MRCs in general [MRC00](https://github.com/MorpheusAIs/MRC/blob/main/MRC00.md) is the first Meta MRC about how to submit an MRC. 
