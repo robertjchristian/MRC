@@ -4,10 +4,10 @@
 ### Authors / Discord Name: 
 Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Jeff (Jabo38), Luke (lukestokes), Erik Voorhees (erikvoorhees)
    
-### Authors of Proposals On Similar Time Related Subjects: 
-- mechaverse specifically [from MRC 36](https://github.com/MorpheusAIs/MRC/blob/main/MRC36.md) 
-- With extensive feedback and alternative proposals from: kehndry
-- David Johnston - [MRC22](https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC22.md)
+### Authors of Proposals On Related Subjects / MRCs: 
+- Mechaverse with [MRC 36](https://github.com/MorpheusAIs/MRC/blob/main/MRC36.md) 
+- Kehndry - Extensive feedback and alternative proposals on Time Curves.
+- David Johnston - With [MRC22](https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC22.md)
 
 ### In Discussion on Discord: 
 https://discord.com/channels/1151741790408429580/1251996042929639434
