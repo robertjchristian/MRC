@@ -26,8 +26,8 @@ It is worth emphasizing that, none of these MOR Staking proposals increase the a
 - Nothing in this proposal changes the ability of a Contributor to withdraw their stETH (beyond the normal 7 days), only the claiming of MOR rewards is delayed. However when a Contributor withdraws their stETH their reward factor no longer applies after the UTC second time of their withdraw.
 
 ## List of Staking Types & Descriptions
-- MRC38 + MRC39: Proportional MOR Reward Types (Code & Capital) with Static Block Reward Based On Weight * Power
-- MRC40 & MRC41: MOR Reward Types (Compute & Builders) with Dynamic Rewards Based on Usage
+- MRC38 + MRC39: MOR Reward Staking (emissions in the future) Types (Code & Capital)
+- MRC40 & MRC41: MOR Staking of Existing MOR (Compute & Builders)
 - MRC
 
 ### [MRC 38: Code Providers](https://github.com/MorpheusAIs/MRC/blob/main/MRC38.md)
@@ -39,12 +39,12 @@ It is worth emphasizing that, none of these MOR Staking proposals increase the a
 - B. Staking of MOR rewards into the future to increase proportionality.
 
 ### [MRC 40: Compute Providers](https://github.com/MorpheusAIs/MRC/blob/main/MRC40.md)
-- A. “MOR deposits” to qualify to earn MOR. Stake 100 MOR  for 1 Year. Earn up to 100 MOR.
+- A. Existing MOR Staked to qualify to earn MOR. Stake 100 MOR  for 1 Year. Earn up to 100 MOR.
 - B. Staking of MOR rewards into the future to increase reputation ranking.
 
 ### [MRC 41: App / Smart Agent Builders](https://github.com/MorpheusAIs/MRC/blob/main/MRC41.md)
-- A. “MOR deposits” to qualify to earn MOR. Stake 100 MOR  for 1 Year. Earn up to 100 MOR.
-- B. Staking of MOR rewards into the future to increase reputation ranking.
+- A. Existing MOR Staked to qualify to earn MOR rewards.
+- B. Staking of MOR rewards into the future to increase proportionality.
 
 ### [Whtiepaper: Morpheus Users](https://github.com/MorpheusAIs/MRC/blob/main/MRC41.md)
 - A. “Inference Staking”. Stake MOR for access to Compute.
