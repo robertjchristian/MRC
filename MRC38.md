@@ -24,7 +24,7 @@ Fair Stake allows all contributors to be rewarded if they agree not to claim tok
 
 Contributors who stake for long periods of time will see a better return on their weights.  See below for a description of economic mechanisms.
 
-## Rationale: Time Equals Aliegnment
+## Rationale: Time Equals Alignment
 Those Contributors of Code should have a way to express their committment to the project. Time is the logical way to express this alignment with the project.
 
 ## Dependencies: 
@@ -37,12 +37,12 @@ None.
 None.
 
 ## Deliverables: Smart Contract Updates 
-The Distribution Smart Contract specifically with have a the two functions added.
+The Distribution Smart Contract specifically with the two functions added.
 1. MOR Staking function (delay MOR claims during certain UTCsecond heights).
 2. Power Factor Added To MOR Reward Calculation.
 
 ## Qualification:
-Same open source developers that developed the Morpheus Smart Contracts thus far.
+Same open-source developers that developed the Morpheus Smart Contracts thus far.
 
 ## Timelines
 3 to 4 weeks from June 21st 2024
@@ -82,7 +82,7 @@ Fair Stake intervals will be posted on GitHub.
 
 ## Applying the Power Factor
 A power factor can be applied at deposit, if the user specifies MOR Staking period. Or with a separate function on the smart contract - StakeClaim(). 
-The MOR Stake period is specified in seconds, it can be any interval. When the Power Factor is applied in the context of Coding contributors it serves as part of the calculation for weights translating into MOR emissions. The longer a Contributor Stakes their MOR emissions into the future the greater the proportion of the emissions they will earn.
+The MOR Stake period is specified in seconds, it can be any interval. When the Power Factor is applied in the context of Coding contributors it serves as part of the calculation for weights translating into MOR emissions. The longer a Contributor Stakes their MOR emissions into the future, the greater the proportion of the emissions they will earn.
 
 ## Restrictions
 To implement such functionality, we need to carry a number of constraints and understand the important points:
