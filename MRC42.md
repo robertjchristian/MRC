@@ -26,23 +26,23 @@ It is worth emphasizing that, none of these MOR Staking proposals increase the a
 - MRC40 & MRC41: MOR Reward Types (Compute & Builders) with Dynamic Rewards Based on Usage
 - MRC
 
-[### MRC 38: Code Providers](https://github.com/MorpheusAIs/MRC/blob/main/MRC38.md)
+### [MRC 38: Code Providers](https://github.com/MorpheusAIs/MRC/blob/main/MRC38.md)
 - A. Add Code Contributions to earn MOR.
 - B. Staking of MOR rewards into the future to increase proportionality.
 
-[### MRC 39: Contributing Capital](https://github.com/MorpheusAIs/MRC/blob/main/MRC39.md)
+### [MRC 39: Contributing Capital](https://github.com/MorpheusAIs/MRC/blob/main/MRC39.md)
 - A. “stETH deposits” to earn MOR.
 - B. Staking of MOR rewards into the future to increase proportionality.
 
-[### MRC 40: Compute Providers](https://github.com/MorpheusAIs/MRC/blob/main/MRC40.md)
+### [MRC 40: Compute Providers](https://github.com/MorpheusAIs/MRC/blob/main/MRC40.md)
 - A. “MOR deposits” to qualify to earn MOR. Stake 100 MOR  for 1 Year. Earn up to 100 MOR.
 - B. Staking of MOR rewards into the future to increase reputation ranking.
 
-[### MRC 41: App / Smart Agent Builders](https://github.com/MorpheusAIs/MRC/blob/main/MRC41.md)
+### [MRC 41: App / Smart Agent Builders](https://github.com/MorpheusAIs/MRC/blob/main/MRC41.md)
 - A. “MOR deposits” to qualify to earn MOR. Stake 100 MOR  for 1 Year. Earn up to 100 MOR.
 - B. Staking of MOR rewards into the future to increase reputation ranking.
 
-[### Whtiepaper: Morpheus Users](https://github.com/MorpheusAIs/MRC/blob/main/MRC41.md)
+### [Whtiepaper: Morpheus Users](https://github.com/MorpheusAIs/MRC/blob/main/MRC41.md)
 - A. “Inference Staking”. Stake MOR for access to Compute.
 - B. Nominating Smart Agents / Dapps. Stake 100 MOR  for 1 Year. Earn up to 100 MOR. 
 
