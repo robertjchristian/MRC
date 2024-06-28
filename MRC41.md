@@ -65,16 +65,20 @@ To implement such functionality, we need to carry a number of constraints and un
 - MOR Staking period can be set by the user or administrator (for non-automatic groups) at any time;
 - MOR Staking period cannot be decreased; 
 - MOR Staking period can be increased. At the time of the transaction, the new multiplier will be applied.
-- until the end of MOR Staking period, the user will not be able to withdraw their MOR rewards.
+- Until the end of MOR Staking period, the user will not be able to withdraw their MOR rewards.
 
-## Relation to Builder Rewards
-1. Staking of MOR toward a MOR20 Project will inform the reward rate of MOR distributed to that project.
-2. Staking MOR will be Staked until both: 
-A. After the Token Generation Event of a MOR20 Project or Launch o the MRC21 Project.
-B. After the MOR fees paid to the Morpheus Protocol Owned Liquidity exceed that of the MOR rewards paid out by the Protocol.
+## MOR Staking in Relation to Builder Rewards
+- A. Projects are listed on the decentralized registry to be eligible for Builder MOR rewards.
+- B. “MOR deposits” toward a specific Project MOR20 or MRC21 types, to qualify to earn MOR. Stake 100 MOR for 1 Year. Earn up to 100 MOR.
+- C. Staking of MOR rewards into the future to increase reputation ranking, the longer the higher the power factor.
+- D. Projects added to front ends / user interfaces after passing an audit.
+
+### Advanced Version of MOR Staking for Builders:
+- A. Staking MOR releases only after the MOR fees paid to the Morpheus Protocol Owned Liquidity exceed that of the MOR rewards paid out by the Protocol.
+- B. Projects activated into front end by enough Weight holders signalling as proven by on chain record of Code Contributions.
 
 ## Changes to Smart Contracts
 The Distribution contract and related interfaces will change. Updates to the smart contract on the network will need to be made.
 
 ## Timelines
-8 weeks from June 21st 2024.
+10 weeks from June 21st 2024.
