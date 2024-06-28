@@ -8,11 +8,11 @@ https://discord.com/channels/1151741790408429580/1251995756332843189
 In Discussion
 
 ### Authors / Discord Name: 
-Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Jeff (Jabo38), Luke (lukestokes)    
-
+Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Jeff (Jabo38), Luke (lukestokes)   
 ### Authors of Proposals On Similar Time Related Subjects: 
 - mechaverse specifically from MRC 36 https://github.com/MorpheusAIs/MRC/blob/main/MRC36.md
 - With extensive feedback and alternative proposals from: kehndry
+- Builds on MRC22: [A Free Market Mechanism To Direct MOR Rewards Toward Smart Agent & End User Application Builders](https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC22.md)
 
 ### Category: 
 MRI #1 Smart Contracts Reference Implementation
