@@ -30,7 +30,7 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 - Status **IN PROGRESS**: https://discord.com/channels/1151741790408429580/1251995170178596966
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC39.md
 
-## MRC 38: Time Curve For Code
+## MRC 38: Staking MOR for Code Contributors
 - In **IN PROGRESS**:https://discord.com/channels/1151741790408429580/1251994932688719922
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC38.md
 
