@@ -1,6 +1,8 @@
 # Protocol Owned Liquidity Upgrade to 2.0 Post Bootstrapping
 
-### IN PROGRESS on Discord: https://discord.com/channels/1151741790408429580/1251996463127593141
+### Status: IN PROGRESS 
+
+### Discussion on Discord: https://discord.com/channels/1151741790408429580/1251996463127593141
 
 ## Update to "Building the Foundation: Phased AMM Deployment in Morpheus"
 This MRC builds on a great work from MRC 9 to describe the phases of deploying the Protocol Owned Liquidity into the Uniswap AMM just after the bootstrapping period. 
