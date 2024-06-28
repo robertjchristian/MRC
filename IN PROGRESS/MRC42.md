@@ -42,7 +42,7 @@ It is worth emphasizing that, none of these MOR Staking proposals increase the a
 - A. “MOR deposits” to qualify to earn MOR. Stake 100 MOR  for 1 Year. Earn up to 100 MOR.
 - B. Staking of MOR rewards into the future to increase reputation ranking.
 
-### [MRC 41: App / Smart Agent Builders](/IN%20PROGRESS/MRC41.md)
+### [MRC 41: App / Smart Agent Builders](/PENDING/MRC41.md)
 - A. “MOR deposits” to qualify to earn MOR. Stake 100 MOR  for 1 Year. Earn up to 100 MOR.
 - B. Staking of MOR rewards into the future to increase reputation ranking.
 
@@ -89,10 +89,10 @@ Rather than pick a "magic" number for the "Power Factor" function, this number c
 These MRCs stand for how to implement Time as a function for each of the four core proofs of Morpheus.  
 Code, Capital, Compute and Builders. However the principle is the same across all four and should hold generally.
 
-- **Code MRC 38:** https://github.com/antonbosss/MRC/blob/main/IN%20PROGRESS/MRC38.md
-- **Capital MRC 39:** https://github.com/antonbosss/MRC/blob/main/IN%20PROGRESS/MRC39.md
-- **Compute MRC 40:** https://github.com/antonbosss/MRC/blob/main/IN%20PROGRESS/MRC40.md
-- **Builders MRC 41:** https://github.com/antonbosss/MRC/blob/main/IN%20PROGRESS/MRC41.md
+- **Code MRC 38:** https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC38.md
+- **Capital MRC 39:** https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC39.md
+- **Compute MRC 40:** https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC40.md
+- **Builders MRC 41:** https://github.com/MorpheusAIs/MRC/blob/main/PENDING/MRC41.md
 
 ## Conclusion: To quote Paul Graham:
 - "If your opponents are opportunists, one way to beat them is to outlast them.   
