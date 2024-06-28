@@ -31,7 +31,7 @@ It is worth emphasizing that, none of these MOR Staking proposals increase the a
 - B. Staking of MOR rewards into the future to increase proportionality.
 
 ### [MRC 39: Contributing Capital](https://github.com/MorpheusAIs/MRC/blob/main/MRC39.md)
-- A. “stETH deposits” to earn MOR.
+- A. Deposits of stETH and the resulting yield contributed to Morpheus earn MOR.
 - B. Staking of MOR rewards into the future to increase proportionality.
 
 ### [MRC 40: Compute Providers](https://github.com/MorpheusAIs/MRC/blob/main/MRC40.md)
