@@ -1,6 +1,6 @@
 # Morpheus Request for Comments (MRC)
 Proposals to improve any of the Morpheus Reference Implementations (MRIs).  
-See the details on all of the MRIs [here](hhttps://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Code%20Providers/Morpheus%20Reference%20Implementations%20(MRC).md)
+See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Code%20Providers/Morpheus%20Reference%20Implementations%20(MRI).md)
 
 ## Meta MRCs about MRCs
 - For most MRCs in general [MRC00](https://github.com/MorpheusAIs/MRC/blob/main/MRC00.md) is the first Meta MRC about how to submit an MRC. 
@@ -10,37 +10,37 @@ See the details on all of the MRIs [here](hhttps://github.com/MorpheusAIs/Docs/b
 
 ## List of MRCs:
 
-## MRC 43:
-- Status **In Progress**: https://discord.com/channels/1151741790408429580/1251996463127593141
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC43.md
+## MRC 43: Protocol Owned Liquidity Upgrade to 2.0 Post Bootstrapping
+- Status **IN PROGRESS**: https://discord.com/channels/1151741790408429580/1251996463127593141
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC43.md
 
-## MRC 42:
-- Status **In Discussion**: https://discord.com/channels/1151741790408429580/1251996042929639434
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC42.md
+## MRC 42: MOR Staking Available To All Contributor Types
+- Status **IN PROGRESS**: https://discord.com/channels/1151741790408429580/1251996042929639434
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC42.md
 
-## MRC 41:
-- Status **In Discussion**: https://discord.com/channels/1151741790408429580/1251995756332843189
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC41.md
+## MRC 41: MOR Staking For Builders
+- Status **PENDING**: https://discord.com/channels/1151741790408429580/1251995756332843189
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/PENDING/MRC41.md
 
-## MRC 40:
-- Status **In Discussion**: https://discord.com/channels/1151741790408429580/1251995364693774336
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC40.md
+## MRC 40: Staking MOR For Compute Providers
+- Status **IN PROGRESS**: https://discord.com/channels/1151741790408429580/1251995364693774336
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC40.md
 
-## MRC 39:
-- Status **In Discussion**: https://discord.com/channels/1151741790408429580/1251995170178596966
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC39.md
+## MRC 39: Staking MOR for Capital Providers
+- Status **IN PROGRESS**: https://discord.com/channels/1151741790408429580/1251995170178596966
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC39.md
 
-## MRC 38: Time Curve For Code
-- In **Discussion**:https://discord.com/channels/1151741790408429580/1251994932688719922
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC38.md
+## MRC 38: Staking MOR for Code Contributors
+- In **IN PROGRESS**:https://discord.com/channels/1151741790408429580/1251994932688719922
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC38.md
 
 ## MRC 37: Weight Time
 - Status: [**IN PROGRESS**](https://discord.com/channels/1151741790408429580/1249811266936111104) 
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC37.md
 
 ## MRC 36: Rewarding long-term committed contributors
-- Status: [**UNDER DISCUSSION**](https://discord.com/channels/1151741790408429580/1241081832808910878) 
-- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC36.md
+- Status: [**CLOSED**](https://discord.com/channels/1151741790408429580/1241081832808910878) 
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/CLOSED/MRC36.md
 
 ## MRC 35: Smart Function Callers as the Basis of Early Smart Agents
 - Status: **IN PROGRESS**

@@ -28,25 +28,25 @@ It is worth emphasizing that, none of these MOR Staking proposals increase the a
 ## List of Staking Types & Descriptions
 - MRC38 + MRC39: MOR Reward Staking (emissions in the future) Types (Code & Capital)
 - MRC40 & MRC41: MOR Staking of Existing MOR (Compute & Builders)
-- MRC
+- Whitepaper: Morpheus Users. Stake MOR for access to Compute.
 
-### [MRC 38: Code Providers](https://github.com/MorpheusAIs/MRC/blob/main/MRC38.md)
+### [MRC 38: Code Providers](/IN%20PROGRESS/MRC38.md)
 - A. Add Code Contributions to earn MOR.
 - B. Staking of MOR rewards into the future to increase proportionality.
 
-### [MRC 39: Contributing Capital](https://github.com/MorpheusAIs/MRC/blob/main/MRC39.md)
+### [MRC 39: Contributing Capital](/IN%20PROGRESS/MRC39.md)
 - A. Deposits of stETH and the resulting yield contributed to Morpheus earn MOR.
 - B. Staking of MOR rewards into the future to increase proportionality.
 
-### [MRC 40: Compute Providers](https://github.com/MorpheusAIs/MRC/blob/main/MRC40.md)
+### [MRC 40: Compute Providers](/IN%20PROGRESS/MRC40.md)
 - A. Existing MOR Staked to qualify to earn MOR. Stake 100 MOR  for 1 Year. Earn up to 100 MOR.
 - B. Staking of MOR rewards into the future to increase reputation ranking.
 
-### [MRC 41: App / Smart Agent Builders](https://github.com/MorpheusAIs/MRC/blob/main/MRC41.md)
+### [MRC 41: App / Smart Agent Builders](/PENDING/MRC41.md)
 - A. Existing MOR Staked to qualify to earn MOR rewards.
 - B. Staking of MOR rewards into the future to increase proportionality.
 
-### [Whtiepaper: Morpheus Users](https://github.com/MorpheusAIs/MRC/blob/main/MRC41.md)
+### [Whitepaper: Morpheus Users](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/WhitePaper.md)
 - A. “Inference Staking”. Stake MOR for access to Compute.
 - B. Nominating Smart Agents / Dapps. Stake 100 MOR  for 1 Year. Earn up to 100 MOR. 
 
@@ -89,10 +89,10 @@ Rather than pick a "magic" number for the "Power Factor" function, this number c
 These MRCs stand for how to implement Time as a function for each of the four core proofs of Morpheus. 
 Code, Capital, Compute and Builders. However the principle is the same across all four and should hold generally.
 
-- **Code MRC 38:** https://github.com/MorpheusAIs/MRC/blob/main/MRC38.md
-- **Capital MRC 39:** https://github.com/MorpheusAIs/MRC/blob/main/MRC39.md
-- **Compute MRC 40:** https://github.com/MorpheusAIs/MRC/blob/main/MRC40.md
-- **Builders MRC 41:** https://github.com/MorpheusAIs/MRC/blob/main/MRC41.md
+- **Code MRC 38:** https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC38.md
+- **Capital MRC 39:** https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC39.md
+- **Compute MRC 40:** https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC40.md
+- **Builders MRC 41:** https://github.com/MorpheusAIs/MRC/blob/main/PENDING/MRC41.md
 
 ## Conclusion: To quote Paul Graham:
 - "If your opponents are opportunists, one way to beat them is to outlast them. 

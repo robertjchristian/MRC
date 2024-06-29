@@ -9,8 +9,9 @@ Pending
 
 ### Authors / Discord Name: 
 Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Jeff (Jabo38), Luke (lukestokes)   
+
 ### Authors of Proposals On Similar Time Related Subjects: 
-- mechaverse specifically from MRC 36 https://github.com/MorpheusAIs/MRC/blob/main/MRC36.md
+- mechaverse specifically from [MRC 36](/CLOSED/MRC36.md)
 - With extensive feedback and alternative proposals from: kehndry
 - Builds on MRC22: [A Free Market Mechanism To Direct MOR Rewards Toward Smart Agent & End User Application Builders](https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC22.md)
 
@@ -55,8 +56,8 @@ https://docs.google.com/spreadsheets/d/1uEjozAcnEt-IWaSsu_BbYPRMUCkbwjwv/edit?us
 Presumes a July 25th 2024 start date
 
 ## Applying the Power Factor
-A power factor can be applied at deposit, if the user specifies MOR Staking period. Or with a separate function on the smart contract - StakingClaim(). 
-The MOR Staking period is specified in seconds, it can be any interval.
+A power factor can be applied at deposit, if the user specifies MOR Staking period. Or with a separate function on the smart contract - `StakingClaim()`.  
+The MOR Staking period is specified in seconds, it can be any interval. 
 When a power factor is applied, the user's "protion" of the stETH pool increases, depending on the power factor.
 
 ## Restrictions
