@@ -10,7 +10,7 @@ Pending
 ### Authors / Discord Name: 
 Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Jeff (Jabo38), Luke (lukestokes)   
 ### Authors of Proposals On Similar Time Related Subjects: 
-- mechaverse specifically from [MRC 36](/CLOSED/MRC36.md)
+- mechaverse specifically from MRC 36 https://github.com/MorpheusAIs/MRC/blob/main/MRC36.md
 - With extensive feedback and alternative proposals from: kehndry
 - Builds on MRC22: [A Free Market Mechanism To Direct MOR Rewards Toward Smart Agent & End User Application Builders](https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC22.md)
 
@@ -65,16 +65,20 @@ To implement such functionality, we need to carry a number of constraints and un
 - MOR Staking period can be set by the user or administrator (for non-automatic groups) at any time;
 - MOR Staking period cannot be decreased; 
 - MOR Staking period can be increased. At the time of the transaction, the new multiplier will be applied.
-- until the end of MOR Staking period, the user will not be able to withdraw their MOR rewards.
+- Until the end of MOR Staking period, the user will not be able to withdraw their MOR rewards.
 
-## Relation to Builder Rewards
-1. Staking of MOR toward a MOR20 Project will inform the reward rate of MOR distributed to that project.
-2. Staking MOR will be Staked until both: 
-A. After the Token Generation Event of a MOR20 Project or Launch o the MRC21 Project.
-B. After the MOR fees paid to the Morpheus Protocol Owned Liquidity exceed that of the MOR rewards paid out by the Protocol.
+## MOR Staking in Relation to Builder Rewards
+- A. Projects are listed on the decentralized registry with their MOR20 or MRC21 addresses.
+- B. Projects Staking of MOR rewards into the future to increase reputation ranking, the longer the higher the power factor.
+- C. MOR Staking toward Project get a proportion of the total emissions from the 24% rewards to Builders.
+- D. Projects added to front ends / user interfaces after passing a public audit.
+
+### Advanced Version of MOR Staking for Builders:
+- A. Staking MOR releases only after the MOR fees paid to the Morpheus Protocol Owned Liquidity exceed that of the MOR rewards paid out by the Protocol.
+- B. Projects activated into front end by enough Weight holders signalling as proven by on chain record of Code Contributions.
 
 ## Changes to Smart Contracts
 The Distribution contract and related interfaces will change. Updates to the smart contract on the network will need to be made.
 
 ## Timelines
-8 weeks from June 21st 2024.
+10 weeks from June 21st 2024.
