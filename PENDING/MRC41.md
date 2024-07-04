@@ -68,11 +68,18 @@ To implement such functionality, we need to carry a number of constraints and un
 - MOR Staking period can be increased. At the time of the transaction, the new multiplier will be applied.
 - Until the end of MOR Staking period, the user will not be able to withdraw their MOR rewards.
 
-## MOR Staking in Relation to Builder Rewards
-- A. Projects are listed on the decentralized registry with their MOR20 or MRC21 addresses.
-- B. Projects Staking of MOR rewards into the future to increase reputation ranking, the longer the higher the power factor.
-- C. MOR Staking toward Project get a proportion of the total emissions from the 24% rewards to Builders.
-- D. Projects added to front ends / user interfaces after passing a public audit.
+## MOR Staking in Relation to Builder Rewards - Rank & Reputation in "Morpheus Agent Router"
+Projects are listed on the decentralized registry with their MOR20 or MRC21 addresses.
+- A. Projects Staking of MOR rewards into the future.
+- B. Staking time length results in Power Factor applied to the Staked MOR. 
+- C. Weight from MOR Stake times Power equals Total Rank Weight or reputation in the system.
+- D. Total Rank Weight compared to all others determines rank in the Morpheus Agent Router (Corrdinator Agent / Front Ends).
+
+## MOR Emissions Staking in Relation to Builder Rewards - Calculation of MOR Emission Rewards
+- A. 0.35% Fees from MOR payments to Agent Builders.
+- B. Power Factor applied based on MOR Emissions Staking.
+- C. Fees paid to the Morpheus Protocol Owned Liquidity times Power Factor equals total Weight in Emissions.
+- D. Builders 24% of emissions are paid out in proportion to the total weight.
 
 ### Advanced Version of MOR Staking for Builders:
 - A. Staking MOR releases only after the MOR fees paid to the Morpheus Protocol Owned Liquidity exceed that of the MOR rewards paid out by the Protocol.
