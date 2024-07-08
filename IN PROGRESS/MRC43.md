@@ -15,12 +15,12 @@ But given there is now plenty of MOR tokens claimed & generally available for tr
 - 1. stETH is collected and swapped to wETH.
 - 2. 75% of the resulting wETH is used to swap for MOR from the Uniswap pool.
 - 3. The remaining 25% of wETH would be paired with the 25% MOR as a full range liquidity position on Uniswap.
-- 4. The 50% remaining MOR that were purchased are held in the POL and NOT deposited back into liquidity or burned. 
+- 4. The 50% remaining MOR that were purchased are held in the Multisignature account and NOT deposited back into liquidity. 
 
 ## Burning & Tail Emissions
-- This approach can be the basis for implementing the Burn Function described in the white paper.
-- The 50% of the MOR held in the PoL can be locked for 16 years. In order to function as the basis for [the #2 epochs Tail Emissions](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/WhitePaper.md#tail-emissions-of-mor).
-- The other 50% of the MOR held in the PoL can be sent to a permanent burn address and destroyed forever.
+- This approach is the basis for implementing the Burn Function described in the white paper.
+- The 50% of the MOR bought locked for 16 years. In order to function as the basis for [the #2 epochs Tail Emissions](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/WhitePaper.md#tail-emissions-of-mor).
+- The other 50% of the MOR held in the Multisignature account are sent to a permanent burn address and destroyed forever.
 
 ## Transitions In Phases Toward Ever More Scarcity Once Liquidity Is Established
 - Bootstrap phase swapped 50% to add liquidity depth when it started.
