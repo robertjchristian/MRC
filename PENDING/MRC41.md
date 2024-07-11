@@ -81,7 +81,7 @@ Example For MOR20 & MRC21 Projects
 ## Outcomes of This Design:
 - Open competition by Builders to get as many MOR Stakers toward their project as they can.
 - Open competition by Builders to Stake their future MOR emissions over time (get a higher power factor).
-- Leaves it up to Builders how to incentivize their users to Stake MOR (Venice Pro) accounts for example.
+- Leaves it up to Builders how to incentivize their users to Stake MOR (Venice Pro accounts MOR Stakers for example).
 - Permissionless. Anyone can register but Front End Maintainers decide what to highlight.
 - Self Stakers will get little rewards unless they Stake up their MOR for years, in which case its also for Morpheus.
 
