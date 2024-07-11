@@ -85,8 +85,9 @@ Example For MOR20 & MRC21 Projects
 - Permissionless. Anyone can register but Front End Maintainers decide what to highlight.
 - Self Stakers will get little rewards unless they Stake up their MOR for years, in which case its also for Morpheus.
 
-## The Builder Receives MOR as a Payment Example
+## The Builder Receives MOR as a Payment or Staking Example
 - A. 0.35% Fees from MOR payments to Builders goes to the Morpheus protocol owned liquidity.
+- B. 0.35% Fees on all Staked MOR withdrawn from a project goes to the Morpheus protocol owned liquidity.
 
 ## MOR Staking in Relation to Builder Rewards - Rank & Reputation in "Morpheus Agent Router"
 Projects are listed on the decentralized registry with their MOR20 or MRC21 addresses.
