@@ -68,22 +68,25 @@ To implement such functionality, we need to carry a number of constraints and un
 - MOR Staking period can be increased. At the time of the transaction, the new multiplier will be applied.
 - Until the end of MOR Staking period, the user will not be able to withdraw their MOR rewards.
 
+## MOR Rewards for Builders in Plain English
+Example For MOR20 & MRC21 Projects
+- 1. Builder projects add their address to the decentralized registry.
+- 2. Projects activated into front end by enough Weight holders signaling as proven by on chain record of Code Contributions.
+- 3. Users or the project itself can Stake existing MOR toward the project’s address, for 1 year for example.
+- 4. The Project picks the length of its Staking period of its MOR rewards (future emissions) setting its Power Factor.
+- 5. Rewards equal the weight of the project calculated by number of MOR Staked times the Power Factor.
+- 6. Builders get rewards out of the 24% of emissions are paid out in proportion to the total weight.
+- 7. Builders get rewards up to the amount of MOR Staked to their project over a 1 year period.
+
+## The Builder Receives MOR as a Payment Example
+- A. 0.35% Fees from MOR payments to Builders goes to the Morpheus protocol owned liquidity.
+
 ## MOR Staking in Relation to Builder Rewards - Rank & Reputation in "Morpheus Agent Router"
 Projects are listed on the decentralized registry with their MOR20 or MRC21 addresses.
 - A. Projects Staking of MOR rewards into the future.
 - B. Staking time length results in Power Factor applied to the Staked MOR. 
 - C. Weight from MOR Stake times Power equals Total Rank Weight or reputation in the system.
 - D. Total Rank Weight compared to all others determines rank in the Morpheus Agent Router (Corrdinator Agent / Front Ends).
-
-## MOR Emissions Staking in Relation to Builder Rewards - Calculation of MOR Emission Rewards
-- A. 0.35% Fees from MOR payments to Agent Builders.
-- B. Power Factor applied based on MOR Emissions Staking.
-- C. Fees paid to the Morpheus Protocol Owned Liquidity times Power Factor equals total Weight in Emissions.
-- D. Builders 24% of emissions are paid out in proportion to the total weight.
-
-### Advanced Version of MOR Staking for Builders:
-- A. Staking MOR releases only after the MOR fees paid to the Morpheus Protocol Owned Liquidity exceed that of the MOR rewards paid out by the Protocol.
-- B. Projects activated into front end by enough Weight holders signalling as proven by on chain record of Code Contributions.
 
 ## Changes to Smart Contracts
 The Distribution contract and related interfaces will change. Updates to the smart contract on the network will need to be made.
