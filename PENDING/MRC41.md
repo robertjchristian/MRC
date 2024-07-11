@@ -78,6 +78,13 @@ Example For MOR20 & MRC21 Projects
 - 6. Builders get rewards out of the 24% of emissions are paid out in proportion to the total weight.
 - 7. Builders get rewards up to the amount of MOR Staked to their project over a 1 year period.
 
+## Outcomes of This Design:
+- Open competition by Builders to get as many MOR Stakers toward their project as they can.
+- Open competition by Builders to Stake their future MOR emissions over time (get a higher power factor).
+- Leaves it up to Builders how to incentivize their users to Stake MOR (Venice Pro) accounts for example.
+- Permissionless. Anyone can register but Front End Maintainers decide what to highlight.
+- Self Stakers will get little rewards unless they Stake up their MOR for years, in which case its also for Morpheus.
+
 ## The Builder Receives MOR as a Payment Example
 - A. 0.35% Fees from MOR payments to Builders goes to the Morpheus protocol owned liquidity.
 
