@@ -10,17 +10,21 @@ Pending
 ### Authors / Discord Name: 
 Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Jeff (Jabo38), Luke (lukestokes)   
 
-## Diagrams
-![Diagram1MORStakingBuilders](https://github.com/user-attachments/assets/153048b5-7b61-4f62-8ebf-aa972f623be2)
-
-![MORBuilderStakingDiagram2](https://github.com/user-attachments/assets/21539a33-d96b-4390-9777-38ec6eb3f070)
-
-![MOREmissionsDiagram3](https://github.com/user-attachments/assets/cd2439f0-4952-4996-8eb7-765c8d1ccb6e)
-
 ### Authors of Proposals On Similar Time Related Subjects: 
 - mechaverse specifically from [MRC 36](/CLOSED/MRC36.md)
 - With extensive feedback and alternative proposals from: kehndry
 - Builds on MRC22: [A Free Market Mechanism To Direct MOR Rewards Toward Smart Agent & End User Application Builders](https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC22.md)
+
+## Diagrams
+
+### Diagram 1 Builders Register Address and Staking Duration
+![Diagram1MORStakingBuilders](https://github.com/user-attachments/assets/153048b5-7b61-4f62-8ebf-aa972f623be2)
+
+### Diagram 2 End Users Stake MOR Toward Projects
+![MORBuilderStakingDiagram2](https://github.com/user-attachments/assets/21539a33-d96b-4390-9777-38ec6eb3f070)
+
+### Diagram 3 MOR Emissions Go To Builders Based on MOR Staking times Power Factor
+![MOREmissionsDiagram3](https://github.com/user-attachments/assets/cd2439f0-4952-4996-8eb7-765c8d1ccb6e)
 
 ### Category: 
 MRI #1 Smart Contracts Reference Implementation
