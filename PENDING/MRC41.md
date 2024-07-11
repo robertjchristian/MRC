@@ -18,7 +18,7 @@ Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Chri
 ### Category: 
 MRI #1 Smart Contracts Reference Implementation
 
-## Rationale: Time Equals Aliegnment
+## Rationale: Time Equals Alignment
 To implement economic alignment of Builders, it is necessary to implement a functionality where users can specify for what period they want to Stake their MOR tokens. It is necessary to implement a functionality where users can specify for what period they want to Stake the MOR tokens, in return the user will receive an increased reputational signal to their project.
 
 ## Dependencies: 
