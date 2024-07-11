@@ -70,8 +70,8 @@ To implement such functionality, we need to carry a number of constraints and un
 
 ## MOR Rewards for Builders in Plain English
 Example For MOR20 & MRC21 Projects
-- 1. Builder projects add their address to the decentralized registry.
-- 2. Projects activated into front end by enough Weight holders signaling as proven by on chain record of Code Contributions.
+- 1. Builder projects add their address to the decentralized registry (permissionless back end).
+- 2. Projects listed (community run front ends) by decision of the Front end maintainer.
 - 3. Users or the project itself can Stake existing MOR toward the project’s address, for 1 year for example.
 - 4. The Project picks the length of its Staking period of its MOR rewards (future emissions) setting its Power Factor.
 - 5. Rewards equal the weight of the project calculated by number of MOR Staked times the Power Factor.
