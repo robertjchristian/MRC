@@ -10,6 +10,13 @@ Pending
 ### Authors / Discord Name: 
 Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Jeff (Jabo38), Luke (lukestokes)   
 
+## Diagrams
+![Diagram1MORStakingBuilders](https://github.com/user-attachments/assets/153048b5-7b61-4f62-8ebf-aa972f623be2)
+
+![MORBuilderStakingDiagram2](https://github.com/user-attachments/assets/21539a33-d96b-4390-9777-38ec6eb3f070)
+
+![MOREmissionsDiagram3](https://github.com/user-attachments/assets/cd2439f0-4952-4996-8eb7-765c8d1ccb6e)
+
 ### Authors of Proposals On Similar Time Related Subjects: 
 - mechaverse specifically from [MRC 36](/CLOSED/MRC36.md)
 - With extensive feedback and alternative proposals from: kehndry
