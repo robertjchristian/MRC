@@ -22,6 +22,7 @@ This Power Factor mirrors the the Delution rate the Contributor experiences whil
 
 > [!IMPORTANT]
 > - None of these MOR Staking proposals increase the amount of MOR token emissions that are created. Rather, it changes a Contributors proportional rights to the amount of tokens that are being emitted during a period they contribute their value. In a similar way that increasing a miner's hash rate increases the amount of the portion of Bitcoin they mine.  
+>
 > - **For Capital Providers:** nothing in this proposal changes the ability of a Contributor to withdraw their stETH (beyond the normal 7 days), only the claiming of MOR rewards is delayed. However when a Contributor withdraws their stETH their reward factor no longer applies after the UTC second time of their withdraw.
 
 ## List of Staking Types & Descriptions
