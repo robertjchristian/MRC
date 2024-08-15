@@ -2,7 +2,7 @@
 ## Sub Title: "The Time & Dilution Based Power Factor Method For Calculating Proportionality of Emissions"
 
 ### Authors / Discord Name: 
-Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Jeff (Jabo38), Luke (lukestokes), Erik Voorhees (erikvoorhees)
+Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Jeff (Jabo38), Luke (lukestokes), Erik Voorhees (erikvoorhees), Stan909 (chasingdreams)
    
 ### Authors of Proposals On Related Subjects / MRCs: 
 - Mechaverse with [MRC 36](https://github.com/MorpheusAIs/MRC/blob/main/MRC36.md) 
@@ -53,6 +53,15 @@ It is worth emphasizing that, none of these MOR Staking proposals increase the a
 ## Example Chart of Power Factors Over Time
 ![ExampleMORPowerFactor](https://github.com/MorpheusAIs/MRC/assets/1563345/be4492a8-e050-4deb-8270-2029e39386d9)
 **Charts shows example power factor if the Contributor Staked their MOR token claims the 25th of July 2024.**
+
+## Table of Power Factors
+On the following two tables, the left axis denotes when the claim lock begins and the top axis denotes when the claim lock ends. Please note that multipliers extend beyond the durations shown in the tables - they are shown as such to make them easier to read. 
+
+**Short Term Durations**
+![Short Term Power Factor Table](https://github.com/Stan909/Screenshots/blob/e88dffa05018d45adf8669e6259c233d151640cb/Multiplier_Short_Term.png)
+
+**Long Term Durations**
+![Long Term Power Factor Table](https://github.com/Stan909/Screenshots/blob/e88dffa05018d45adf8669e6259c233d151640cb/Multiplier_Long_Term.png)
 
 ## The Time Curve General Principles for MRCs 38, 39, 40, & 41.
 - The Power Factor principle mirroring Dilution rates can be used across Contributor types. 
