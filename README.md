@@ -11,8 +11,8 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 ## List of MRCs:
 
 ## MRC 44: Quarterly Withdraws of Protection Fund MOR
-- Status: **Under Discussion** 
-- Link:
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1275559742537994312
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC44.md
 
 ## MRC 43: Protocol Owned Liquidity Upgrade to 2.0 Post Bootstrapping
 - Status **IN PROGRESS**: https://discord.com/channels/1151741790408429580/1251996463127593141
