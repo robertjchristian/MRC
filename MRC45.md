@@ -3,9 +3,9 @@
 ### Authors / Discord Name: 
 Jeff McDonald (Jabo38), David Johnston (Smart Agents), Sergey Kozlov, Christopher (storm.father), Jon (jonisjon)
 
-### Link for Discord: TBD
+### Link for Discord: https://discord.com/channels/1151741790408429580/1283848717392154737
 
-### Status: In Progres
+### Status: In Discussion
 
 ### Summary: 
 Morpheus community members can create a referral address. Any other user can use the referral address when depositing stETH and earn a 1% bonus.
@@ -18,7 +18,6 @@ As a decentralised project with no centralised foundation, LLC, or core team ent
 Referral programs have traditionally been cost-effective marketing strategies. Businesses have often used them to successfully incentivize customers to refer new customers, thus aiding in word-of-mouth and peer-to-peer marketing.
 
 Considering these points, a referral program is a rational and logical fit for the Morpheus community to explore. With advances in smart contracts, this can be entirely on-chain in a trustless and transparent model.  
-
 
 ### Mechanics of a Referral System:
 
