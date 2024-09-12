@@ -18,3 +18,6 @@ Those only depositing stETH to immediately sell MOR are just preforming an arbit
 
 ## Implementation
 Can be coded up by the Smart Contract developers that worked on the Capital Smart Contracts.
+
+## Proposed Code
+https://github.com/MorpheusAIs/SmartContracts/pull/44
