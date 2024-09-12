@@ -27,6 +27,11 @@ But given there is now plenty of MOR tokens claimed & generally available for tr
 - Moving to 75% MOR buy now that depth is solid, to add more emphasis on demand driver and scarcity.
 - Eventually move to 100%  if it’s deemed that liquidity is sufficient (when adding more liquidity wouldn’t really do much) it’s time to move entirely to demand driver and scarcity. 
 
+## Decentralization of Chains/ 2nd Layers / DEXs
+- As volumes and liquidity have increased on Base (Ethereum 2nd Layer) this is a natural 2nd location for PoL.
+- It makes sense to provide 50% of the Protocol Owned Liquidity on Base in addition to Arbitrum. 
+- On the DEX front the Aerodrome DEX has been increasing in volume and a logical place for a 2nd DEX location.
+
 ## Conclusion
 This would seem to be most aligned with the spirit of the original design and white paper, as it would provide liquidity for MOR sellers. 
 Both short term with the immediate buy of MOR, and long term with the full range wETH liquidity position. 
