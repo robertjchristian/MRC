@@ -9,7 +9,8 @@
 - claimLockPeriodAfterStake = 90 Days
 - claimLockPeriodAfterClaim = 90 Days
 
-It will be set every time the user deposits, will be counted as current time + 90 days (or other value that can be changed on the contract).
+It will be set every time the user deposits stETH, will be counted as current time + 90 days (or other value that can be changed on the contract).
+It will be set every time the user claims MOR, will be counted as current time + 90 days (or other value that can be changed on the contract).
 
 ## Purpose
 To prevent farmers from depositing stETH and immediately claiming / dumping the MOR tokens earned as there is currently no MOR claim delay function.
