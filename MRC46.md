@@ -5,9 +5,9 @@
 **Discord Thread:** https://discord.com/channels/1151741790408429580/1283805259730255884
 
 ## Smart Contract Functions To Be Added
-- Add a new variable by updating the smart contract. 
-- claimLockPeriodAfterStake = 90 Days
-- claimLockPeriodAfterClaim = 90 Days
+- Add two new variables by updating the smart contract. 
+- #1. claimLockPeriodAfterStake = 90 Days
+- #2. claimLockPeriodAfterClaim = 90 Days
 
 It will be set every time the user deposits stETH, will be counted as current time + 90 days (or other value that can be changed on the contract).
 It will be set every time the user claims MOR, will be counted as current time + 90 days (or other value that can be changed on the contract).
