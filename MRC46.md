@@ -5,7 +5,7 @@
 **Discord Thread:** https://discord.com/channels/1151741790408429580/1283805259730255884
 
 ## Smart Contract Functions To Be Added
-- Add two new variables by updating the smart contract. 
+Add two new variables by updating the smart contract. 
 - #1. claimLockPeriodAfterStake = 90 Days
 - #2. claimLockPeriodAfterClaim = 90 Days
 
