@@ -17,7 +17,7 @@ To prevent farmers from depositing stETH and immediately claiming / dumping the 
 Those depositing stETH over a longer period of time are adding value to the Protocol Owned Liquidity.
 Those only depositing stETH to immediately sell MOR are just preforming an arbitrage and providing less to the community then they get in MOR rewards.
 
-Analysis of the onchain data indicates this change will not effect 90% of the Morpheus Capital Contributors. 
+[Analysis of the onchain data](https://docs.google.com/spreadsheets/d/1RrE3tnByYoy_oieJkq5CJ3tFWvENgo6RYT9sepWaeCY/edit?usp=sharing) indicates this change will not effect 90% of the Morpheus Capital Contributors. 
 - Only 10% of people Claim MOR more often than once every 90 days.
 - Only 3.4% of the Capital Contributors claim more than once a month.
 
