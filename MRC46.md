@@ -4,10 +4,10 @@
 
 **Discord Thread:** https://discord.com/channels/1151741790408429580/1283805259730255884
 
-## Smart Contract Function To Be Added
-Add a new variable by updating the smart contract. 
-claimLockPeriodAfterStake = 90 Days
-claimLockPeriodAfterClaim = 90 Days
+## Smart Contract Functions To Be Added
+- Add a new variable by updating the smart contract. 
+- claimLockPeriodAfterStake = 90 Days
+- claimLockPeriodAfterClaim = 90 Days
 
 It will be set every time the user deposits, will be counted as current time + 90 days (or other value that can be changed on the contract).
 
