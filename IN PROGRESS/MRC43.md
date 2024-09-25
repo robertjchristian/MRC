@@ -30,6 +30,7 @@ But given there is now plenty of MOR tokens claimed & generally available for tr
 ## Decentralization of Chains/ 2nd Layers / DEXs
 - As volumes and liquidity have increased on Base (Ethereum 2nd Layer) this is a natural 2nd location for PoL.
 - It makes sense to provide 50% of the Protocol Owned Liquidity on Base in addition to Arbitrum. 
+- This will start on Uniswap on Base as this will make for easy arbitrage between the two networks.
 - On the DEX front the Aerodrome DEX has been increasing in volume and a logical place for a 2nd DEX location.
 - This will be done with about 10% of the Protocol Owned Liquidity per week for 5 weeks to achieve the rebalance.
 
