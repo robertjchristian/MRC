@@ -100,7 +100,7 @@ Expanding on ownership of NFTs each Smart Agent is assigned an Agent Identificat
 NFAs exist to participate in any number of economic situations while remaining decentralized, even if all parties involved with a particular agent are centralized entities.  
 
 #### Mitigating Staking
-To mitigate against malicious usage, the agent creator stakes MOR as part of launching an MFA that is accessible to others.  The amount of MOR required a proportional amount to the cost of the Smart Agent’s scope and service costs.  This makes it ultimately unprofitable to create malicious agents.
+To mitigate against malicious usage, the agent creator stakes MOR as part of launching an NFA that is accessible to others.  The amount of MOR required a proportional amount to the cost of the Smart Agent’s scope and service costs.  This makes it ultimately unprofitable to create malicious agents.
 
 #### Ownership and Revenue
 NFAs generate revenue by performing data services.

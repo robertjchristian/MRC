@@ -5,6 +5,9 @@
 ## Status
 **April 1st 2024: CLOSED**
 
+**Comments:**  
+Thank you for the great discussion and MRC. Looks like the feature set is being addressed in the MRC21 and Lumerin Router architectures. This leaves the opportunity for a tool marketplace as a front end, meaning it can be cleanly moved from the code reward bucket. MRC and related discussion will be closed for now. Future, related MRCs can be considered as part of the community bucket as Morpheus gets closer to phase three.
+
 ---
 
 
