@@ -1,5 +1,5 @@
-# MRC47
-## Distribution of Historical Builder Reward MOR Tokens Stored in the Smart Contract
+# Title: MRC47 Distribution of Historical Builder Reward MOR Tokens Stored in the Smart Contract
+## Authors: Smart Agents
 
 ## Context
 - Since February 8th 2024 the MOR emissions for Builder Rewards have been building up in the Distribution Smart Contract. 
