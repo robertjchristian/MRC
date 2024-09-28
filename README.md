@@ -8,14 +8,26 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 - Similar to the function of the [ERC system](https://eips.ethereum.org/erc ) serves in Ethereum, the MRC process provides a common language to describe interactions between models, agents, compute, payments, funding and so forth.
 - There is a dedicated forum on Discord for the discussion of MRCs [here](https://discord.com/channels/1151741790408429580/1218593251079094383).
 
-## List of MRCs:
+## List of All MRCs:
+
+## MRC 47: Distribution of Historical Builder Reward MOR Tokens Stored in the Smart Contract
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1289653906640605338
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC47.md
+
+## MRC 46: 90 Day Delay on MOR Claims For Capital Contributors
+- Status: **IMPLEMENTED** https://discord.com/channels/1151741790408429580/1283805259730255884
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC46.md
+
+## MRC 45: Morpheus stETH Referral System
+- Status: **IN PROGRESS** https://discord.com/channels/1151741790408429580/1283848717392154737
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC45.md
 
 ## MRC 44: Quarterly Withdraws of Protection Fund MOR
-- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1275559742537994312
+- Status: **IN PROGRESS** https://discord.com/channels/1151741790408429580/1275559742537994312
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC44.md
 
 ## MRC 43: Protocol Owned Liquidity Upgrade to 2.0 Post Bootstrapping
-- Status **IN PROGRESS**: https://discord.com/channels/1151741790408429580/1251996463127593141
+- Status **IMPLEMENTED**: https://discord.com/channels/1151741790408429580/1251996463127593141
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC43.md
 
 ## MRC 42: MOR Staking Available To All Contributor Types
