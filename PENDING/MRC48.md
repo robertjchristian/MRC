@@ -1,4 +1,4 @@
-## Morpheus MRC-44: Compute Lending Protocol
+## Morpheus MRC-48: Compute Lending Protocol
 
 ---
 
@@ -13,7 +13,11 @@ As Smart Agents are developed within the Morpheus ecosystem, there will be a hig
 ---
 
 ## Rationale & Value Proposition
-Smart Agent developers must acquire compute through holding MOR tokens, or by purchasing compute directly [need to clarify this existing mechanism]. These developers may not be interested in a large monetary exposure to MOR tokens to access the compute required for their agent, and will attempt to find other mechanisms to access compute without large initial investment, at a low cost. MOR holders who are not utilizing compute will be interested in “lending” their compute to create a revenue stream. MOR Borrowers: Borrowing MOR to access the compute. MOR Lenders: Lending MOR to monetize their unused compute allocation. MOR Protocol: x basis points of reward amount will be paid to the Morpheus ecosystem
+Smart Agent developers must acquire compute through holding & staking MOR tokens, or by purchasing compute directly [need to clarify this existing mechanism]. These developers may not be interested in a large monetary exposure to MOR tokens to access the compute required for their agent, and will attempt to find other mechanisms to access compute without large initial investment, at a low cost. MOR holders who are not utilizing compute will be interested in “lending” their compute to create a revenue stream. 
+
+MOR Borrowers: Borrowing MOR to access the compute. (Paying fee to lenders)
+MOR Lenders: Lending MOR to monetize their unused compute allocation. (Receiving fee from borrowers)
+MOR Protocol: x basis points of reward amount will be paid to the Morpheus ecosystem (Receiving fee from borrowers)
 
 ---
 
@@ -23,7 +27,7 @@ A smart contract template will be developed, similar to the MOR20 form, that wil
 ---
 
 ## Dependencies
-The key dependencies to this are the ability to assign MOR compute from one address to another, and the development of the smart contract. 
+The key dependencies to this are the ability to assign MOR compute from one address to another, and the development of the smart contract. This assign function does not yet exist, and must be developed either through functionality within the compute proxy-router, or through a secondary assignment/access control smart contract (TBD). 
 
 
 ---
