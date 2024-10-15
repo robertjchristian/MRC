@@ -10,6 +10,10 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
+## MRC 49: MRI Decentralization Via Specific Multisigs and Simplified Weights Accounting
+- Status: https://discord.com/channels/1151741790408429580/1295791612206514328
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC49.md
+
 ## MRC 48: Compute Lending Protocol
 - Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1295778763979751454
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/PENDING/MRC48.md
