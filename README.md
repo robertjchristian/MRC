@@ -10,6 +10,10 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
+## MRC 48: Compute Lending Protocol
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1295778763979751454
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/PENDING/MRC48.md
+
 ## MRC 47: Distribution of Historical Builder Reward MOR Tokens Stored in the Smart Contract
 - Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1289653906640605338
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC47.md
