@@ -15,7 +15,7 @@ As with all Morpheus Contribution types the Morpheus Reference Implementations a
 
 ## 3 Key Challenges with Previous Weights Management System:
 
-### Racing Condition For Weights
+### Race Condition Created For Weights Assignment
 - The first game theory issue that emerged has been that the Coding Weights for each Maintainer effectively ALL have to be assigned every month.
 - As not assigning the weights would disproportionately disadvantage the Maintainer's MRI due to the dilution from other MRIs assigning weights that month.
 - This has lead to a race condition and added a lot of overhead as Maintainers have to try and perfectly balance requests for weights every month. 
