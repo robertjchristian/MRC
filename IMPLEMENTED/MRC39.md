@@ -4,7 +4,7 @@
 ### Link for Discord: 
 https://discord.com/channels/1151741790408429580/1251995170178596966
 
-### Status: In Progress
+### Status: IMPLEMENTED
 
 Confirmation from open source devs they can:
 - 1. Develop these functions based on the existing Smart Contracts.
