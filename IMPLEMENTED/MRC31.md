@@ -1,4 +1,5 @@
 # MRC 31 - The Evolution of Code Weights
+**Status: IMPLEMENTED**
 
 **Author(s)**: Nebuchadnezzar Crew
 Link to Discord Discussion: https://discord.com/channels/1151741790408429580/1228539984844165140
