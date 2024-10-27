@@ -3,7 +3,7 @@
 ---
 
 ## Status
-**July 10, 2024: Pending**
+**July 10, 2024: Under Discussion**
 
 ---
 
