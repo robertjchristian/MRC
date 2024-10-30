@@ -10,6 +10,10 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
+## MRC 50: Morpheus Accelerator
+- Status: **In Progress** https://discord.com/channels/1151741790408429580/1301212662272757852
+- Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC50.md
+
 ## MRC 49: MRI Decentralization Via Specific Multisigs and Simplified Weights Accounting
 - Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1295791612206514328
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC49.md
