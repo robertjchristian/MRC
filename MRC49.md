@@ -37,6 +37,11 @@ As with all Morpheus Contribution types, the Morpheus Reference Implementations 
 ## MRI Multisig Details
 - 10 Multisigs created, one for each of the 10 MRIs, and all require 2 of 3 signatures for approval to send MOR from their address.
 - This creates the basic structure that can be updated over time as MRI maintainers change and new signers assigned.
-- Community multisig still updates weights / addresses in the Smart Contract once per month based on Maintainer assignments.
-- Future versions of the Morpheus Smart Contracts will need to allow for individual MRI multisigs to direct MOR distribution (likely via 721 style Contract).
 
+- Community multisig still updates weights / addresses in the Smart Contract once per month based on Maintainer asssignments.
+- List of updated [MRI names and weight amounts can be found here.](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Code%20Providers/%20Weight%20Allocation%20by%20MRI.md
+
+
+## Future Upgrades
+- Future version of the Morpheus Smart Contracts will need to allow for individual MRI multisigs to direct MOR distribution (likely via 721 style Contract).
+- Future version of the Morpheus Smart Contracts should implement a way to dynamically set the weights for each MRI (potentially based on usage as defined as "onchain" activitiy.
