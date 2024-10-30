@@ -5,7 +5,7 @@ Jeff McDonald (Jabo38), David Johnston (Smart Agents), Sergey Kozlov, Christophe
 
 ### Link for Discord: https://discord.com/channels/1151741790408429580/1283848717392154737
 
-### Status: In Discussion
+### Status: IN PROGRESS
 
 ### Summary: 
 Morpheus community members can create a referral address. Any other user can use the referral address when depositing stETH and earn a 1% bonus.

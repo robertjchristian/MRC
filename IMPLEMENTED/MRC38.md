@@ -4,7 +4,7 @@
 ### Link for Discussion on Discord:
 https://discord.com/channels/1151741790408429580/1251994932688719922
 
-### Status: In Progress
+### Status: IMPLEMENTED
 Confirmation from open source devs they can:
 - 1. Develop these functions based on the existing Smart Contracts.
 - 2. Solidity / EVM supports the math functions required to calculate the Power factor.

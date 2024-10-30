@@ -11,7 +11,7 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 ## List of All MRCs:
 
 ## MRC 49: MRI Decentralization Via Specific Multisigs and Simplified Weights Accounting
-- Status: https://discord.com/channels/1151741790408429580/1295791612206514328
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1295791612206514328
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC49.md
 
 ## MRC 48: Compute Lending Protocol
@@ -43,7 +43,7 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC42.md
 
 ## MRC 41: MOR Staking For Builders
-- Status **PENDING**: https://discord.com/channels/1151741790408429580/1251995756332843189
+- Status **IN PROGRESS**: https://discord.com/channels/1151741790408429580/1251995756332843189
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/PENDING/MRC41.md
 
 ## MRC 40: Staking MOR For Compute Providers
@@ -51,15 +51,15 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC40.md
 
 ## MRC 39: Staking MOR for Capital Providers
-- Status **IN PROGRESS**: https://discord.com/channels/1151741790408429580/1251995170178596966
+- Status **IMPLEMENTED**: https://discord.com/channels/1151741790408429580/1251995170178596966
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC39.md
 
 ## MRC 38: Staking MOR for Code Contributors
-- In **IN PROGRESS**:https://discord.com/channels/1151741790408429580/1251994932688719922
+- In **IMPLEMENTED**:https://discord.com/channels/1151741790408429580/1251994932688719922
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC38.md
 
 ## MRC 37: Weight Time
-- Status: [**IN PROGRESS**](https://discord.com/channels/1151741790408429580/1249811266936111104) 
+- Status: [**IMPLEMENTED**](https://discord.com/channels/1151741790408429580/1249811266936111104) 
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC37.md
 
 ## MRC 36: Rewarding long-term committed contributors
@@ -83,7 +83,7 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC32.md
 
 ## MRC 31: The Evolution of Code Weights
-- Status: [**IN PROGRESS**](https://discord.com/channels/1151741790408429580/1228539984844165140) 
+- Status: [**IMPLEMENTED**](https://discord.com/channels/1151741790408429580/1228539984844165140) 
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC31.md
 
 ## MRC 30: PMAs: Portfolio Management Agents for Active and Passive Fund Management

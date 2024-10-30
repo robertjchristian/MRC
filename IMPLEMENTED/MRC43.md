@@ -1,6 +1,6 @@
 # Protocol Owned Liquidity Upgrade to 2.0 Post Bootstrapping
 
-### Status: IN PROGRESS 
+### Status: IMPLEMENTED 
 
 ### Discussion on Discord: https://discord.com/channels/1151741790408429580/1251996463127593141
 

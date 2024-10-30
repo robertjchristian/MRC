@@ -1,6 +1,6 @@
 # MRC46: 90 Day Delay on MOR Claims for Capital Contributors 
 
-**Status: In Discussion**
+**Status: IMPLEMENTED**
 
 **Discord Thread:** https://discord.com/channels/1151741790408429580/1283805259730255884
 

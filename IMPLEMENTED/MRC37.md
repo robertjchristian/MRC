@@ -1,5 +1,5 @@
 # MRC 37: Weight Time 
-### Status: In Progress
+### Status: Implemented
 
 ## Summary and Rationale
 
