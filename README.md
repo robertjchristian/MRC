@@ -10,6 +10,10 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
+## MRC 51: Layered Protocol Owned Liquidity
+- Status:
+- Link: 
+
 ## MRC 50: Morpheus Accelerator
 - Status: **In Progress** https://discord.com/channels/1151741790408429580/1301212662272757852
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC50.md
