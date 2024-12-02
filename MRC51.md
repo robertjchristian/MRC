@@ -1,4 +1,4 @@
-# MRC51: "Layered Liquidity" Protocol Owned Liqudity Update 2024 10 30
+# MRC51: "Layered Liquidity" Protocol Owned Liqudity Update
 
 ## Context: 
 Each time the PoL buys tokens from the Uniswap pool on Arbitrum it burns 1/3, locks 1/3 and sets a "full range" LP position in the pool with the last 1/3.
