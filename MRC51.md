@@ -1,4 +1,4 @@
-# MRC51: "Layered Liquidity" Protocol Owned Liqudity Update
+# MRC51: "Layered Liquidity" Protocol Owned Liquidity Update
 
 ## Context: 
 Each time the PoL buys tokens from the Uniswap pool on Arbitrum it burns 1/3, locks 1/3 and sets a "full range" LP position in the pool with the last 1/3.
@@ -8,19 +8,19 @@ The second part of this proposal is to move part of the existing lower range PoL
 ## Buy Side Change: Layering Deeper Liquidity Just Above The Spot Price
 This will have the effect of "layering" deeper liquidity closer to the current spot price of MOR and enable smoother buying of MOR. 
 
-Example: if the price of MOR is $20 at the time of the Protocol Owned Liquidiy LP deployment, the LP range will be set from $20 to $22.
+Example: if the price of MOR is $20 at the time of the Protocol Owned Liquidity LP deployment, the LP range will be set from $20 to $22.
  
 ## Benefits of Deeper Buy Side Liquidity: 
-- 1. Those wanting to buy MOR will have access to more concentrated liquidity closer to the market place.
+- 1. Those wanting to buy MOR will have access to more concentrated Liquidity closer to the market place.
 - 2. This approach will reduce the slippage for those buying MOR.
   
 ## Sell Side Change: Layering Deeper Liquidity Just Below The Spot Price
 Reset a portion of the lower LP positions say 30% to create deeper liquidity at the current spot price any 10% below the current spot price to enable smoother selling of MOR.
 
-Example: if the price of MOR is $20 at the time of the Protocol Owned Liquidiy LP deployment, the LP range will be set from $20 to $18.
+Example: if the price of MOR is $20 at the time of the Protocol Owned Liquidity LP deployment, the LP range will be set from $20 to $18.
 
 ## Benefits of Deeper Sell Side Liquidity: 
-- 1. The full range approach is leaving liquidty too spread out, this change makes liquidity more accessable near the spot price.
+- 1. The full range approach is leaving Liquidity too spread out, this change makes liquidity more accessable near the spot price.
 
 ## Clarifications & Trade Offs:
 - The change will happen gradulally with new value that flows each week into the Protocol Owned Liquidity.
