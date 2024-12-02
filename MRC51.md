@@ -10,7 +10,7 @@ This will have the effect of "layering" deeper liquidity closer to the current s
 
 Example: if the price of MOR is $20 at the time of the Protocol Owned Liquidiy LP deployment, the LP range will be set from $20 to $22.
  
-## Benefits: 
+## Benefits of Deeper Buy Side Liquidity: 
 - 1. Those wanting to buy MOR will have access to more concentrated liquidity closer to the market place.
 - 2. This approach will reduce the slippage for those buying MOR.
   
@@ -19,7 +19,7 @@ Reset a portion of the lower LP positions say 30% to create deeper liquidity at 
 
 Example: if the price of MOR is $20 at the time of the Protocol Owned Liquidiy LP deployment, the LP range will be set from $20 to $18.
 
-## Benefits: 
+## Benefits of Deeper Sell Side Liquidity: 
 - 1. The full range approach is leaving liquidty too spread out, this change makes liquidity more accessable near the spot price.
 
 ## Clarifications & Trade Offs:
