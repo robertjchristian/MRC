@@ -1,7 +1,7 @@
 # Title: MRC 45 - Morpheus stETH Referral System
 
 ### Authors / Discord Name: 
-Jeff McDonald (Jabo38), David Johnston (Smart Agents), Sergey Kozlov, Christopher (storm.father), Jon (jonisjon)
+Jeff McDonald (Jabo38), David Johnston (Smart Agents), Sergey Kozlov, Christopher (storm.father), Jon (jonisjon), Rene (rene9386)
 
 ### Link for Discord: https://discord.com/channels/1151741790408429580/1283848717392154737
 
@@ -32,14 +32,12 @@ Considering these points, a referral program is a rational and logical fit for t
 If the referral field in a staking transaction is empty, it means that no referral reward is applied.
 
 ### Rates for Referrals: 
-A community member can earn up to 5% as a bonus when community members using their address deposit stETH.  This will come in four tiers of 1%, 2.5%, 3.75%, and 5%:
+A community member can earn up to 5% as a bonus when community members using their address deposit stETH.  This will come in four tiers of 3%, 4%, 4.5%, and 5%:
 
-**Tier 0:** Community members with referrals that have less than 35 ETH deposited by addresses of all their referees will get a bonus of 1%.
+**Tier 0:** Community members with referrals that have less than 3.5 ETH deposited by addresses of all their referees will get a bonus of 3%.
 
-**Tier 1:** With a minimum of 35 stETH having been deposited across all the capital depositors totaled, a referrer maker can get a bonus of 2.5%.
+**Tier 1:** With a minimum of 3.5 stETH having been deposited across all the capital depositors totaled, a referrer maker can get a bonus of 4%.
 
-**Tier 2:** With a minimum of 350 stETH having been deposited across all the capital depositors totaled, a referrer maker can get a bonus of 3.75%.
+**Tier 2:** With a minimum of 35 stETH having been deposited across all the capital depositors totaled, a referrer maker can get a bonus of 4.5%.
 
-**Tier 3:** With a minimum of 3500 stETH having been deposited across all the capital depositors totaled, a referrer maker can get a bonus of 5%.
-
-
+**Tier 3:** With a minimum of 350 stETH having been deposited across all the capital depositors totaled, a referrer maker can get a bonus of 5%
