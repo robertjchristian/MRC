@@ -29,7 +29,7 @@ Stats from: https://mor-explorer-frontend.pages.dev/staking
 - Ranked by usage by users. For example Mor.org is the top ranked Morpheus related website when you search for Morpheus on Google.
 - Based on historical contributors to Community websites and applications before this MRC was created (to avoid gaming).
 - Review utility to the Morpheus community across Smart Agent Builders, Compute Providers, Capital Providers, and Code Providers.
-- Builder Contributions should be maintained during the 18 months of the distribution period to receive full distribution.
+- Builder Contributions should be maintained during the 12 months of the distribution period to receive full distribution.
 
 ## Tool for Distribution
 Well developed tool for distribution of tokens over a defined time period.
