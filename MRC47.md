@@ -13,12 +13,12 @@
 Develop system for the distribution of Builder Reward MOR token that has been stored in the Smart Contracts since launch.
 
 ## Proposal Details
-- Identify existing "Builders" who created Frontend / User Facing Applications, Smart Agents, and other projects that qualify for these historical MOR Builder tokens.
+- Identify existing "Builders" who created Frontend / User Facing Applications, Websites, Smart Agents, and other projects that qualify for these historical MOR Builder tokens.
 - When MOR Builder Rewards become claimable in December 2024, then begin distributing these MOR to identified Builders.
-- The distribution period should be weighted based on how long the Builder has been contributing, toward an average of 30 months.
-- 30 month period is reflective of the real world 36 month average that has emerged for Capital & Coding Staking minus the 6 month non Staking time period.
+- The distribution period should be weighted based on how long the Builder has been contributing, toward an average of 24 months.
+- 24 month period is reflective of the real world 36 month average that has emerged for Capital & Coding Staking minus the 12 month non Staking time period for Code Contributors from September 2023 to July 2024.
 - The contribution period should count time both before and after Builder Rewards go live.
-- For example contributor A was acting as a Builder for 16 months then their Distribution period equals 14 months. 
+- For example contributor A was acting as a Builder for 12 months pre Builder Rewards went live then their Distribution period equals 12 months after Builders goes live. 
 
 Stats from: https://mor-explorer-frontend.pages.dev/staking
 ![3YearAverage](https://github.com/user-attachments/assets/59c0a399-d63b-4044-bf08-c6b49e8b763d)
@@ -40,4 +40,3 @@ No new coding is required to implement this MRC.
 
 ## Timing
 The analysis should be complete before the Builder Rewards go live (which is anticipated to be at the same time as the Compute Rewards).
-
