@@ -36,7 +36,11 @@ Well developed tool for distribution of tokens over a defined time period.
 https://sablier.com/
 
 ## Coding
-No new coding is required to implement this MRC. 
+No new coding is required to implement this MRC.
 
-## Timing
-The analysis should be complete before the Builder Rewards go live (which is anticipated to be at the same time as the Compute Rewards).
+## Timing / Sizing of Builder Rewards
+- The proposal takes effect when the Builder Rewards go live in December 2024.
+- Distribtions occur as Builders are identied and provide addresses.
+- MOR Builder Rewards are calculated based on relative Builder Contribution compared to what Staking by MOR holders might have produced.
+- Proxies for MOR Staking include transactions via the Morpheus Smart Contracts, Web Traffic, Search Result Ranking, Builder events.  
+- Builders must have continuous record of contributions to qualify.
