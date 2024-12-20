@@ -27,7 +27,7 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/PENDING/MRC48.md
 
 ## MRC 47: Distribution of Historical Builder Reward MOR Tokens Stored in the Smart Contract
-- Status: [**UNDER DISCUSSION** ](https://discord.com/channels/1151741790408429580/1289653906640605338)
+- Status: [**Implemented** ](https://discord.com/channels/1151741790408429580/1289653906640605338)
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/MRC47.md
 
 ## MRC 46: 90 Day Delay on MOR Claims For Capital Contributors
