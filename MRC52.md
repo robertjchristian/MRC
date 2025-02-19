@@ -45,7 +45,7 @@ Rewards for a certain period (which depends on user transactions) are distribute
 For each new stake token, a smart contract will be deployed, like `Distribution Contract USDC` or `Distribution Contract WBTC` that will contain the yield calculation logic for the current token.
 All such contracts will use one `Reward Calculator Contract` that will distribute rewards among other smart contracts.
 
-![image.png](attachment:2d31bdb8-dbc2-4f91-8b01-c8a850b1c6e4:image.png)
+![RewardCalculatorContract](https://github.com/user-attachments/assets/03773a28-5a57-4c7c-a101-16650bafe372)
 
 The `Reward Calculator Contract` must, for correct calculations, contain `rate` that will be applied when calculating the share of the reward for each smart contract. The `rate` will be formed based on the exchange rate to one currency, for example USDC.
 
