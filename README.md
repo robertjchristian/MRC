@@ -10,6 +10,11 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
+## MRC 52: 
+- Status: **Add yields from tokens other than stETH**
+- Github Link: 
+- Design Link: https://desert-sphere-036.notion.site/Possibility-to-add-yields-from-tokens-other-than-stETH-198bfff15838805da726d6bdc38c721a
+
 ## MRC 51: Layered Protocol Owned Liquidity
 - Status: [**Implemented**](https://discord.com/channels/1151741790408429580/1313014040284368907)
 - Link: https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC51.md
