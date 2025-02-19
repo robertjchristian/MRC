@@ -10,8 +10,8 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
-## MRC 52: 
-- Status: **Add yields from tokens other than stETH**
+## MRC 52: Add yields from tokens other than stETH
+- Status: **Proposal**
 - Github Link: 
 - Design Link: https://desert-sphere-036.notion.site/Possibility-to-add-yields-from-tokens-other-than-stETH-198bfff15838805da726d6bdc38c721a
 
