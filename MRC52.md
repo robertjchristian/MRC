@@ -1,5 +1,7 @@
 # MRC52 - Possibility to add yields from tokens other than stETH
 
+## Link to Notion: https://desert-sphere-036.notion.site/Possibility-to-add-yields-from-tokens-other-than-stETH-198bfff15838805da726d6bdc38c721a
+
 The current protocol works for stETH staking, this documentation was created to consider adding other stake tokens to the Distribution contract such as USDC, USDT, BTC, SOL.
 
 ## The existing stake token - stETH
