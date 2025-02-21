@@ -31,7 +31,7 @@ The existing Builder Smart Contract has all the logic for users Staking toward S
 - Maximum Distribution: After staking equals aggregate amount emitted the total Compute pay out will be equal to the daily emissions of 3,254 to compute providers in proportion to their stake within the compute bucket. In other words when Staking of MOR exceeds 1,200,000 the daily emissions are capped at 3,254 MOR per day.
 - In this example the say Subnet XYZ is Staking 120,000 MOR out of 1,200,000 total Staked by ALL Subnets, then their able to earn up to 325 MOR per day.
 
-## Calculator Smart Contract 
+## Calculator Smart Contract: 
 This new Calculator Smart Contract will look at the MOR emissions earned by Subnets from Step #1 as the maximum MOR it can recieve and check the amount from Step #2.
 - If the amount of MOR Staked in Step #2 by Subnet XYZ are equal to or greater than the MOR available from Step #1 then ALL MOR credited in Step #1 are emitted to the Subnet by the Distribution Contract.
 - If the amount of MOR Staked is Step #2 by Subnet XYZ are less than the MOR available from Step #1, then only the amount of MOR credited in Step #2 are emitted to the Subnet by the Distribution Contract.
