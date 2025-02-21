@@ -8,6 +8,7 @@ Today MOR emissions to Compute Subnets are based 100% on usage of AI models / ag
 
 ## Emissions Model: 
 https://docs.google.com/spreadsheets/d/1gUV5r-ERVBLbF0dHLl66NXtKU6K2WxtUhoflT_o4mbM/edit?usp=sharing
+![ComputePoolMorlord](https://github.com/user-attachments/assets/61c5782f-d9df-49c2-a22f-d7b103cb2923)
 
 ## Step 1. Changes to Existing Compute Smart Contracts to start Compute usage competition:
 The existing Compute Smart Contract does most of the functions required for this updated version. The functions of Staking MOR or paying MOR to open sessions will all stay the same. The main aspect that will be updated is to compare the total sessions of all Subnets to generate a "weight" for each Subnet.
@@ -21,6 +22,8 @@ The existing Compute Smart Contract does most of the functions required for this
 Thus 10% of the block reward goes to Subnet XYZ.
 3,254 daily emissions go to Compute Subnets.
 10% of 3,254 equals 325 MOR rewarded for the daily period to Subnet XYZ.
+
+
 
 ## Step 2. Staking Alignment Check via Compute Smart Contract Modeled on Builder Type Staking
 The existing Builder Smart Contract has all the logic for users Staking toward Subnets and rewarding MOR emissions on this basis. The change for Compute will be to simply pull these emissions from the Compute pool instead of the Builder one.
