@@ -20,18 +20,16 @@ The existing Compute Smart Contract does most of the functions required for this
 
 - Example: 10,000 seconds of total session length provided by Subnet XYZ out of 100,000 seconds of total session length hosted by all Subnets on March 15th.
 Thus 10% of the block reward goes to Subnet XYZ.
-3,254 daily emissions go to Compute Subnets.
-10% of 3,254 equals 325 MOR rewarded for the daily period to Subnet XYZ.
-
-
+3,231 daily emissions go to Compute Subnets.
+10% of 3,254 equals 323 MOR rewarded for the daily period to Subnet XYZ.
 
 ## Step 2. Staking Alignment Check via Compute Smart Contract Modeled on Builder Type Staking
 The existing Builder Smart Contract has all the logic for users Staking toward Subnets and rewarding MOR emissions on this basis. The change for Compute will be to simply pull these emissions from the Compute pool instead of the Builder one.
 
 **Formula:** Amount Staked divided by total Compute MOR emitted since February 8th 2024.
-- Example: 120,000 MOR is Staked divided by the 1,200,000 total MOR emitted for Compute equals 10% of 3,254 MOR per day, which is 325 MOR per day.
-- Maximum Distribution: After staking equals aggregate amount emitted the total Compute pay out will be equal to the daily emissions of 3,254 to compute providers in proportion to their stake within the compute bucket. In other words when Staking of MOR exceeds 1,200,000 the daily emissions are capped at 3,254 MOR per day.
-- In this example the say Subnet XYZ is Staking 120,000 MOR out of 1,200,000 total Staked by ALL Subnets, then their able to earn up to 325 MOR per day.
+- Example: 120,000 MOR is Staked divided by the 1,200,000 total MOR emitted for Compute equals 10% of 3,231 MOR per day, which is 323 MOR per day.
+- Maximum Distribution: After staking equals aggregate amount emitted the total Compute pay out will be equal to the daily emissions of 3,231 to compute providers in proportion to their stake within the compute bucket. In other words when Staking of MOR exceeds 1,200,000 the daily emissions are capped at 3,231 MOR per day.
+- In this example the say Subnet XYZ is Staking 120,000 MOR out of 1,200,000 total Staked by ALL Subnets, then their able to earn up to 323 MOR per day.
 
 ## Calculator Smart Contract: 
 This new Calculator Smart Contract will look at the MOR emissions earned by Subnets from Step #1 as the maximum MOR it can recieve and check the amount from Step #2.
