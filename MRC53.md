@@ -1,9 +1,9 @@
 ## MRC 53: Add Block Reward Emitted to Compute Subnets To Bootstrap Usage
 
+### Status: **Proposal**
+
 **Summary:** 
 Today MOR emissions to Compute Subnets are based 100% on usage of AI models / agents as recorded in "sessions" between a Subnet and a user that opens the session. Without a block reward, their is a cold start problem where not enough Compute is being offered at a low price to attract Inference users to access the Morpheus Compute. This proposal is to introduce a "block reward" split between Compute Subnets based on the number / length of sessions they host, only limited by the amount of MOR Staked toward their Subnet. The intent is to increase the incentive for Compute Subnets to compete for these generous emissions of MOR and thus bootstrap the network into a robust number of Compute Subnets, Stakers, and users.
-
-### Status: **Proposal**
 
 ## Emissions Model: 
 https://docs.google.com/spreadsheets/d/1gUV5r-ERVBLbF0dHLl66NXtKU6K2WxtUhoflT_o4mbM/edit?usp=sharing
