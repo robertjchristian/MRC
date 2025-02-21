@@ -40,6 +40,12 @@ This new Calculator Smart Contract will look at the MOR emissions earned by Subn
 - If the amount of MOR Staked in Step #2 by Subnet XYZ are equal to or greater than the MOR available from Step #1 then ALL MOR credited in Step #1 are emitted to the Subnet by the Distribution Contract.
 - If the amount of MOR Staked is Step #2 by Subnet XYZ are less than the MOR available from Step #1, then only the amount of MOR credited in Step #2 are emitted to the Subnet by the Distribution Contract.
 
+## Addressing Self Hosted Sessions:
+There’s been much discussion about how to mitigate the self hosted sessions the last year however, at the end of the day, the best solution may be to address this with token economics. 
+- First there is a cost of hosting sessions carries with it on chain fees, and so there’s a drag to self hosted sessions. This will create a real on chain cost to self hosting sessions. Meaning it will be expensive to self host sessions, and over time real third party sessions will be more profitable and replace self hosted sessions over time. 
+- Second, even self hosted sessions, imply, "proof of capacity", which has some value as it proves XYZ models / agents are hosted and available for those that have large scale demand for inference of models / agents.
+- Third by checking the stake of MOR exceeds annual rewards at a minimum, the system creates an economic alignment and driving demand for the token by all compute subnets Staking more MOR.
+
 ## Conclusion:
 This model creates a robust competition between Compute Subnets to open lots of sessions with users, but caps their MOR emissions to the amount of MOR they have Staked to their Subnet. Thus anyone creating synthetic sessions will at a minimum be creating demand for MOR via Staking greater than their potential rewards over 1 year, as APY on Compute Staking will start at around 75% APY.
 
