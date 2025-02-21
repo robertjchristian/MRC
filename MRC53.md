@@ -4,7 +4,7 @@
 
 ## Version 2 of Compute Emissions Smart Contract with Block Reward modeled after Builders Style Staking System + Compute Sessions
 **Summary:** 
-Today MOR emissions to Compute Subnets are based 100% on usage of AI models / agents as recorded in "sessions" between a Subnet and a user that opens the session. Without a block reward, their is a cold start problem where not enough Compute is being offered at a low price to attract Inference users to access the Morpheus Compute. 
+Today MOR emissions to Compute Subnets are based 100% on usage of AI models / agents as recorded in "sessions" between a Subnet and a user that opens the session. Without a block reward, their is a cold start problem where not enough Compute is being offered at a low price to attract Inference users to access the Morpheus Compute. As a result the Compute contributors have earned by far the least of any Contributor type in Morpheus.
 
 ![ComputeColdStart](https://github.com/user-attachments/assets/e178beeb-c08b-4086-9e3b-ba7c16f000ac)
 
