@@ -14,7 +14,7 @@ The existing Compute Smart Contract does most of the functions required for this
 
 **Functions:**
 - The Smart Contract records the "total session time" (aggregate session legnth of all sessions by Subnet) for each Subnet during a fixed period (1 day) as a "weight".
-- The Smart Contract records the of total session time per day for ALL all Subnets and calculates their "total weight".
+- The Smart Contract records the of total session time per day for ALL Subnets and calculates their "total weight".
 - This Smart Contract calcualtes the percentage of weight for each Subnet based on their weight divided by the total weight. 
 
 - Example: 10,000 seconds of total session length provided by Subnet XYZ out of 100,000 seconds of total session length hosted by all Subnets on March 15th.
