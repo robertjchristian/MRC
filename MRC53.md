@@ -49,4 +49,4 @@ This means that there will be three ways to earn MOR as a Compute Subnet.
 1. Design allows for current Smart Contracts to stay the mostly same as deployed for payments of MOR based on usage and direct payments of MOR.
 2. The Compute Smart Contract for Staking based MOR emissions is very similar to Builders V2 Smart Contract. With the only change being the pool ID the MOR is emitted from.
 3. Thus only one new Smart Contract is required to do the calcuation of the usage weight & the Staked amount.
-4. This proposal will create release additional MOR into circulation than the current set of emissions to Capital, Code, & Builders. However this can be off set by the demand for MOR Staking and usage of Compute that this incentive will create. 
+4. This proposal will release more MOR tokens into circulation than the current set of emissions to Capital, Code, & Builders. However this can be off set by the demand for MOR Staking and usage of Compute that this incentive will create. See the Emissions Model above for detailed estimates.
