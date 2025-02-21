@@ -13,11 +13,11 @@ https://docs.google.com/spreadsheets/d/1gUV5r-ERVBLbF0dHLl66NXtKU6K2WxtUhoflT_o4
 The existing Compute Smart Contract does most of the functions required for this updated version. The functions of Staking MOR or paying MOR to open sessions will all stay the same. The main aspect that will be updated is to compare the total sessions of all Subnets to generate a "weight" for each Subnet.
 
 **Functions:**
-- The Smart Contract records the number of Compute sessions each Subnet provides during a fixed period (1 day) as a "weight".
-- The Smart Contract records the of sessions per day for ALL sessions provided by all Subnets and calculates their "total weight".
+- The Smart Contract records the "total session time" (aggregate session legnth of all sessions by Subnet) for each Subnet during a fixed period (1 day) as a "weight".
+- The Smart Contract records the of total session time per day for ALL all Subnets and calculates their "total weight".
 - This Smart Contract calcualtes the percentage of weight for each Subnet based on their weight divided by the total weight. 
 
-- Example: 100 sessions provided by Subnet XYZ out of 1,000 sessions hosted by all Subnets on March 15th.
+- Example: 10,000 seconds of total session length provided by Subnet XYZ out of 100,000 seconds of total session length hosted by all Subnets on March 15th.
 Thus 10% of the block reward goes to Subnet XYZ.
 3,254 daily emissions go to Compute Subnets.
 10% of 3,254 equals 325 MOR rewarded for the daily period to Subnet XYZ.
