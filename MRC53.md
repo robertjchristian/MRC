@@ -36,7 +36,7 @@ This new Calculator Smart Contract will look at the MOR emissions earned by Subn
 - If the amount of MOR Staked in Step #2 by Subnet XYZ are equal to or greater than the MOR available from Step #1 then ALL MOR credited in Step #1 are emitted to the Subnet by the Distribution Contract.
 - If the amount of MOR Staked is Step #2 by Subnet XYZ are less than the MOR available from Step #1, then only the amount of MOR credited in Step #2 are emitted to the Subnet by the Distribution Contract.
 
-**Conclusion:**
+## Conclusion:
 This model creates a robust competition between Compute Subnets to open lots of sessions with users, but caps their MOR emissions to the amount of MOR they have Staked to their Subnet. Thus anyone creating synthetic sessions will at a minimum be creating demand for MOR via Staking greater than their potential rewards over 1 year, as APY on Compute Staking will start at around 75% APY.
 
 ## Additional Notes:
