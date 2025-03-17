@@ -10,7 +10,7 @@ Today MOR emissions to Compute Subnets are based 100% on usage of AI models / ag
 
 This proposal is to introduce a "block reward" split between Compute Subnets based on the number / length of sessions they host, only limited by the amount of MOR Staked toward their Subnet. The intent is to increase the incentive for Compute Subnets to compete for these generous emissions of MOR and thus bootstrap the network into a robust number of Compute Subnets, Stakers, and users.
 
-![BaseComputeSessionsDiagram](https://github.com/user-attachments/assets/542d0f1b-b00a-4de2-b817-d1fadbab0181)
+![V2 Compute Diagram](https://github.com/user-attachments/assets/01a035f9-8baf-4bb1-8b05-81ecb13cae81)
 
 ## Emissions Model: 
 https://docs.google.com/spreadsheets/d/1gUV5r-ERVBLbF0dHLl66NXtKU6K2WxtUhoflT_o4mbM/edit?usp=sharing
