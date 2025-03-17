@@ -112,3 +112,15 @@ The Distribution contract and related interfaces will change. Updates to the sma
 
 ## Timelines
 10 weeks from June 21st 2024.
+
+## Implementation Version Logical as of March 17th 2025.
+
+### Calculation of Builder Rewards V1 & V2
+
+(Total Amount staked in the builder’s staked at time of snapshot/ cumulative amount of mor emitted to builder’s pool in distribution contract since inception of Distribution contract) multiplied by total issuance for the period you’re looking for
+
+Denominator chosen to roughly calculate 75% and decline in proportion to aggregate issuance and amount staked
+
+Thought process was to revisit issuance and curve after 60-90 days and gauge.
+            - Review every 30 days
+            - Structure contract for automation and daily accrual with 7 day cool down for withdrawal from the contract.
