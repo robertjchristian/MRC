@@ -11,8 +11,8 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 ## List of All MRCs:
 
 ## MRC 54: Morpheus Compute Units "MCUs"
-- Status:
-- Github: 
+- Status: **Proposal** https://discord.com/channels/1151741790408429580/1354110416615247892
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC54.md
 
 ## MRC 53: Add Block Reward to Compute Emissions "Minimum Daily Emissions"
 - Status: **Proposal** (https://discord.com/channels/1151741790408429580/1341913393543512144)
