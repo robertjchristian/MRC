@@ -1,5 +1,4 @@
-# Morpheus Request for Comment (MRC #54)
-## Title: Morpheus Compute Unit (MCU) Framework for Staking-Based Compute Allocation
+# MRC 54- Morpheus Compute Unit (MCU) Framework for Staking-Based Compute Allocation
 
 ## Abstract
 This MRC proposes the creation of a Morpheus Compute Unit (MCU), a standardized metric to track and display compute resources earned by users through staking MOR tokens. Modeled after Venice.AI’s Venice Compute Unit (VCU) system, the MCU framework will transparently quantify compute power allocated to users based on their MOR stake, enabling decentralized access to Morpheus Network resources (e.g., AI inference, data storage, or transaction prioritization).
