@@ -32,7 +32,7 @@ The Staking amount of MOR would need to be constantly changed based on USD / BTC
 It feels like the payment persona is far outside the current feature set.
 Instead Capital V2 with its support for aUSDC, wBTC, wETH, yield payment rail and can serve those users and we can determine the best tie in for the MOR token.
 
-### 2 The Builder as Inference User Persona. 
+### 2. The Builder as Inference User Persona. 
 This is an excited area of work, and the MRC to support Morpheus Compute Units will bring about the easier means of serving this persona.
 And having Builder rewards pay out without a massive time delay (Power Factor) will suppor this persona.
 
