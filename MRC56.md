@@ -17,7 +17,7 @@ However to achieve it the trade off is to only deploy to Base instead of multipl
 Until Ethereum has cross L2 support for transactions, I think that is the best set of trade offs.
 
 ## Design Options Details:
-![DesignIOptionsforBuilderV2](https://github.com/user-attachments/assets/90b2606e-d836-4aae-94af-cd300fe6bd44)
+![DesignSpaceV2](https://github.com/user-attachments/assets/31d3a03f-b4ee-4218-acdc-942fa2db622c)
 
 ## Real World Data on Chain Usage For Builders:
 - 1. Most of the Subnets are Building / bootstrapping an agent, app, website, service.
