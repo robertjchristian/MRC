@@ -9,7 +9,7 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 - There is a dedicated forum on Discord for the discussion of MRCs [here](https://discord.com/channels/1151741790408429580/1218593251079094383).
 
 ## List of All MRCs:
-## MRC 57:
+## MRC 57: Best Practice For Stages Of Deployment Of A New Morpheus Reference Implementation Version
 - Status: **Under Discussion:** https://discord.com/channels/1151741790408429580/1361368570482655412 
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC57.md
 
