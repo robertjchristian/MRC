@@ -10,6 +10,10 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
+## MRC 55: Morpheus User Personas Builders, Compute, Capital & There Effects on V2 Designs
+- Status:  
+- Github: 
+
 ## MRC 54: Morpheus Compute Units "MCUs"
 - Status: **Proposal** https://discord.com/channels/1151741790408429580/1354110416615247892
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC54.md
