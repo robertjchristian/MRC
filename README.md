@@ -9,6 +9,9 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 - There is a dedicated forum on Discord for the discussion of MRCs [here](https://discord.com/channels/1151741790408429580/1218593251079094383).
 
 ## List of All MRCs:
+## MRC 57:
+- Status: **Under Discussion:** https://discord.com/channels/1151741790408429580/1361368570482655412 
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC57.md
 
 ## MRC 56: Design Options For Builders V2 Migration
 - Status: Under Discussion: https://discord.com/channels/1151741790408429580/1361207928601841724
