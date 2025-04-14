@@ -21,7 +21,7 @@ Until Ethereum has cross L2 support for transactions, I think that is the best s
 
 ## Real World Data on Chain Usage For Builders:
 - 1. Most of the Subnets are Building / bootstrapping an agent, app, website, service.
-- 2. To my knowledge only Jon at Coincap is using the Builders for access to a product and Venice very belatedly and not at a meaningful scale.
-- 3. As for which chain the vast majority of Builders are on Base, again with the exception of Coincap.
+- 2. To my knowledge only Coincap is using the Builders for payment as access to a product and Venice however not at a meaningful scale.
+- 3. As for which chain the vast majority of Builders are on Base, again with the exception of Coincap & Venice.
 - 4. Of the Stakers 300,000 are to a Builder Subnet (mostly on Base), 600,000 are self Stakers (mostly on Arbitrum).
 - 5. If the goal is NEW people buying / using MOR to Stake to Builders most of that is on BASE. As is Venice. As are Coinbase's Agent tools and all the agent tools, as are the largest volumes.
