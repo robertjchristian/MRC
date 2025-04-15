@@ -3,7 +3,7 @@ The testing community has identified some fundamental trade offs with the versio
 These are important trade offs to consider as the introduction of a trusted third party goes against the values of Morpheus as a project.
 For these reasons Migration of the Subnets to V2 should be moved to after these issues have been addressed.
 
-## The 3 functions / features / trade offs of Builders V2 are:
+## The 4 functions / features / trade offs of Builders V2 are:
 - Multichain Support (Base + Arbitrum L2s on Ethereum)
 - Requirement for an Oracle (multisig proposed)
 - Requirement for an Escrow (multisig proposed)
