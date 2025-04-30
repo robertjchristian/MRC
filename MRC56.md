@@ -16,6 +16,10 @@ I've proposed a simplified scenario.
 However to achieve it the trade off is to only deploy to Base instead of multiple L2s and the Power Factor has to removed. 
 Until Ethereum has cross L2 support for transactions, I think that is the best set of trade offs.
 
+# Technical Options to be Revisited 
+Worth revisting the single chain approach when ERC 7683 is implemented in mainnet Ethereum and L2s.
+Details at this website: https://www.erc7683.org/
+
 ## Design Options Details:
 ![DesignSpaceV2](https://github.com/user-attachments/assets/31d3a03f-b4ee-4218-acdc-942fa2db622c)
 
