@@ -9,12 +9,16 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 - There is a dedicated forum on Discord for the discussion of MRCs [here](https://discord.com/channels/1151741790408429580/1218593251079094383).
 
 ## List of All MRCs:
+## MRC 58: Specification for Agent Registry Smart Contract
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1367209074638323732
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC58.md
+
 ## MRC 57: Best Practice For Stages Of Deployment Of A New Morpheus Reference Implementation Version
 - Status: **Under Discussion:** https://discord.com/channels/1151741790408429580/1361368570482655412 
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC57.md
 
 ## MRC 56: Design Options For Builders V2 Migration
-- Status: Under Discussion: https://discord.com/channels/1151741790408429580/1361207928601841724
+- Status: **Under Discussion:** https://discord.com/channels/1151741790408429580/1361207928601841724
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC56.md
 
 ## MRC 55: Morpheus User Personas Builders, Compute, Capital & There Effects on V2 Designs
