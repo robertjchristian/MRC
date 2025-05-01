@@ -9,6 +9,11 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 - There is a dedicated forum on Discord for the discussion of MRCs [here](https://discord.com/channels/1151741790408429580/1218593251079094383).
 
 ## List of All MRCs:
+
+## MRC 59: Specification for Subnet Namespace
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1367517829766709251
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC59.md
+
 ## MRC 58: Specification for Agent Registry Smart Contract
 - Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1367209074638323732
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC58.md
