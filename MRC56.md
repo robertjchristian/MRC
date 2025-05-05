@@ -33,6 +33,6 @@ Details at this website: https://www.erc7683.org/
 ## Conclusion on Question about Multichain Support
 
 ## Plan for Multi Chain Support:
-Stage 1: Support Arbitrum and Base (manual calculation) for May 15th (testing dependent).
-Stage 2: Coincap to help with Script and Hosting for June 15th / July 15th (testing depending).
-Stage 3: Switch to automated intents when available on Ethereum L2s (when ERC 7683 is implemented in mainnet Ethereum and L2s. Details at this website: https://www.erc7683.org/)
+- Stage 1: Support Arbitrum and Base (manual calculation) for May 15th (testing dependent).
+- Stage 2: Coincap to help with Script and Hosting for June 15th / July 15th (testing depending).
+- Stage 3: Switch to automated intents when available on Ethereum L2s (when ERC 7683 is implemented in mainnet Ethereum and L2s. Details at this website: https://www.erc7683.org/)
