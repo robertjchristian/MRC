@@ -29,3 +29,10 @@ Details at this website: https://www.erc7683.org/
 - 3. As for which chain the vast majority of Builders are on Base, again with the exception of Coincap & Venice.
 - 4. Of the Stakers 300,000 are to a Builder Subnet (mostly on Base), 600,000 are self Stakers (mostly on Arbitrum).
 - 5. If the goal is NEW people buying / using MOR to Stake to Builders most of that is on BASE. As is Venice. As are Coinbase's Agent tools and all the agent tools, as are the largest volumes.
+
+## Conclusion on Question about Multichain Support
+
+## Plan for Multi Chain Support:
+Stage 1: Support Arbitrum and Base (manual calculation) for May 15th (testing dependent).
+Stage 2: Coincap to help with Script and Hosting for June 15th / July 15th (testing depending).
+Stage 3: Switch to automated intents when available on Ethereum L2s (when ERC 7683 is implemented in mainnet Ethereum and L2s. Details at this website: https://www.erc7683.org/)
