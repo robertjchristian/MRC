@@ -1,4 +1,4 @@
-# MRC 85: 
+# MRC 85: MOR20 Fairlaunch Projects List
 
 Proposal to create a public list of projects using the MOR 20 Smart Contracts and those contributing back to the ecosystem.
 
