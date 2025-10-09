@@ -1,4 +1,4 @@
-# MRC 60
+# MRC 60 Agentic Tools Marketplace
 
 The Agentic Tools Marketplace part of the next Era of Morpheus.
 
