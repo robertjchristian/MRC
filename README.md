@@ -10,6 +10,18 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
+## MRC 90: List of Morpheus AI / Agent Integrations
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426221152711217293
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC90.md
+
+## MRC 89: Public list of chains the MOR Token Is On
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426220619305058334
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC89.md
+
+## MRC 88: Public list of tech Morpheus Integrations
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426220026905628682
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC88.md
+
 ## MRC 87:
 - Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426219646549229638
 - Github: Public list of Builders using the Inference Marketplace
