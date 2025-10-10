@@ -23,23 +23,23 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC88.md
 
 ## MRC 87: Public list of Morpheus Inference Providers
-- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426219646549229638
+- Status: **Place Holder** https://discord.com/channels/1151741790408429580/1426219646549229638
 - Github: Public list of Builders using the Inference Marketplace
 
 ## MRC 86: Public list of Builders using the Inference Marketplace
-- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426219001389908099
+- Status: **Place Holder** https://discord.com/channels/1151741790408429580/1426219001389908099
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC86.md
 
 ## MRC 85: MOR20 Fairlaunch Projects List
-- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426218700247404736
+- Status: **Place Holder** https://discord.com/channels/1151741790408429580/1426218700247404736
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC85.md
 
 ## MRC 84: Increase MOR Listings Via Staking
-- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426218364895891681
+- Status: **:Place Holder** https://discord.com/channels/1151741790408429580/1426218364895891681
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC84.md
 
 ## MRC 83: Public List of Morpheus Over The Counter Partners
-- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426218005968453662
+- Status: **Place Holder** https://discord.com/channels/1151741790408429580/1426218005968453662
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC83.md
 
 ## MRC 82: List of Morpheus Exchange Listings
@@ -47,11 +47,11 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC82.md
 
 ## MRC 81: Morpheus Market Making
-- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426216763409956864
+- Status: **Place Holder** https://discord.com/channels/1151741790408429580/1426216763409956864
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC81.md
 
 ## MRC 80: Redesign of Mor.org
-- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426216173221183508
+- Status: **Place Holder** https://discord.com/channels/1151741790408429580/1426216173221183508
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC80.md
 
 ## MRC 79: Listing of Maintainer Roles & Opportunities
@@ -59,7 +59,7 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC79.md
 
 ## MRC 78: User Requirements for MVM and Reference Implementation
-- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426215208791314593
+- Status: **Place Holder** https://discord.com/channels/1151741790408429580/1426215208791314593
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC78.md
 
 ## MRC 77: Development of MVM & Reference Implementation Agent User Personas
@@ -67,19 +67,19 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC77.md
 
 ## MRC 76: Bench Marking Agent Performance
-- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426214340062871620
+- Status: **Place Holder** https://discord.com/channels/1151741790408429580/1426214340062871620
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC76.md
 
 ## MRC 75: Defining Morpheus AGI as Artificially Generated Income
 - Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426213925082370121
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC75.md
 
-## MRC 74: Defining Morpheus AGI as Artificially Generated Income
+## MRC 74: Establishing USDC Reserves For MRIs
 - Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426213330711744573
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC74.md
 
 ## MRC 73: Increase of Referral Rewards For Capital
-- Status: https://discord.com/channels/1151741790408429580/1426212965337796699
+- Status: **Implemented** https://discord.com/channels/1151741790408429580/1426212965337796699
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC73.md
 
 ## MRC 72: Reduce Claim Lock Minimum Time
@@ -87,23 +87,23 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC72.md
 
 ## MRC 71: Morpheus Wrapped wMOR Token
-- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426212068406595585
+- Status: **Place Holder** https://discord.com/channels/1151741790408429580/1426212068406595585
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC71.md
 
 ## MRC 70: Morpheus Liquid Staked Token
-- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426211494038732962
+- Status: **Place Holder** https://discord.com/channels/1151741790408429580/1426211494038732962
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC70.md
 
 ## MRC 69: Morpheus As A Network Nation
-- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426211166853660712
+- Status: **Place Holder** https://discord.com/channels/1151741790408429580/1426211166853660712
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC69.md
 
 ## MRC 68: Morpheus Global Builder Community Expansion
-- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426210385975054407
+- Status: **Place Holder** https://discord.com/channels/1151741790408429580/1426210385975054407
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC68.md
 
 ## MRC 67: Morpheus Branding Kit Development
-- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426210005593620540
+- Status: **Place Holder** https://discord.com/channels/1151741790408429580/1426210005593620540
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC67.md
 
 ## MRC 66: Zion As The Next Morpheus Era
@@ -115,15 +115,15 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC65.md
 
 ## MRC 64: Morpheus Virtual Machine (MVM)
-- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426208466426400769
+- Status: **Place Holder** https://discord.com/channels/1151741790408429580/1426208466426400769
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC64.md
 
 ## MRC 63: Reference Implementation Agent
-- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426208057934872677
+- Status: **Place Holder** https://discord.com/channels/1151741790408429580/1426208057934872677
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC63.md
 
 ## MRC 62: Morpheus Data Storage Router and Marketplace
-- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426207682439807170
+- Status: **Place Holder** https://discord.com/channels/1151741790408429580/1426207682439807170
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC62.md
 
 ## MRC 61: Terminology Update From Compute To Inference
@@ -131,7 +131,7 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC61.md
 
 ## MRC 60: Agentic Tools Marketplace
-- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426206952639430869
+- Status: **Place Holder** https://discord.com/channels/1151741790408429580/1426206952639430869
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC60.md
 
 ## MRC 59: Specification for Subnet Namespace
