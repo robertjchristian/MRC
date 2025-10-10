@@ -10,6 +10,10 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
+## MRC 60: 
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426206952639430869
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC60.md
+
 ## MRC 59: Specification for Subnet Namespace
 - Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1367517829766709251
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC59.md
