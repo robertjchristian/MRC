@@ -10,6 +10,10 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
+## MRC 66: Zion As The Next Morpheus Era
+- Status: https://discord.com/channels/1151741790408429580/1426209505783447676
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC66.md
+
 ## MRC 65: Adoption of 8004 Trustless Agents Standard
 - Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426209272940724356
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC65.md
