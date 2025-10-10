@@ -10,6 +10,10 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
+## MRC 79: Listing of Maintainer Roles & Opportunities
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426215797662941234
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC79.md
+
 ## MRC 78: User Requirements for MVM and Reference Implementation
 - Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426215208791314593
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC78.md
