@@ -10,6 +10,10 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
+## MRC 64: Morpheus Virtual Machine (MVM)
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426208466426400769
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC64.md
+
 ## MRC 63: Reference Implementation Agent
 - Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426208057934872677
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC63.md
