@@ -10,7 +10,19 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
-## MRC 74:
+## MRC 77: Development of MVM & Reference Implementation Agent User Personas
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426214821279432827
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC77.md
+
+## MRC 76: Bench Marking Agent Performance
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426214340062871620
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC76.md
+
+## MRC 75: Defining Morpheus AGI as Artificially Generated Income
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426213925082370121
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC75.md
+
+## MRC 74: Defining Morpheus AGI as Artificially Generated Income
 - Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426213330711744573
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC74.md
 
