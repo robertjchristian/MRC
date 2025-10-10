@@ -10,7 +10,7 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
-## MRC 62: 
+## MRC 62: Morpheus Data Storage Router and Marketplace
 - Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426207682439807170
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC62.md
 
