@@ -1,4 +1,4 @@
-# MRC 77:
+# MRC 77: Development of MVM & Reference Implementation Agent User Personas
 Proposal to develop example user personas for the MVM and Reference Implementation Agent.
 
 ## MVM User Persona Examples:
