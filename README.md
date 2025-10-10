@@ -22,7 +22,7 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 - Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426220026905628682
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC88.md
 
-## MRC 87:
+## MRC 87: Public list of Morpheus Inference Providers
 - Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426219646549229638
 - Github: Public list of Builders using the Inference Marketplace
 
