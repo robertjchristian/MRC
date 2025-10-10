@@ -10,16 +10,24 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
+## MRC 70: Morpheus Liquid Staked Token
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426211494038732962
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC70.md
+
+## MRC 69: Morpheus As A Network Nation
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426211166853660712
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC69.md
+
 ## MRC 68: Morpheus Global Builder Community Expansion
-- Status: https://discord.com/channels/1151741790408429580/1426210385975054407
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426210385975054407
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC68.md
 
 ## MRC 67: Morpheus Branding Kit Development
-- Status: https://discord.com/channels/1151741790408429580/1426210005593620540
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426210005593620540
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC67.md
 
 ## MRC 66: Zion As The Next Morpheus Era
-- Status: https://discord.com/channels/1151741790408429580/1426209505783447676
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426209505783447676
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC66.md
 
 ## MRC 65: Adoption of 8004 Trustless Agents Standard
