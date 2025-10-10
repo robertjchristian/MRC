@@ -10,6 +10,10 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
+## MRC 65: Adoption of 8004 Trustless Agents Standard
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426209272940724356
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC65.md
+
 ## MRC 64: Morpheus Virtual Machine (MVM)
 - Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426208466426400769
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC64.md
