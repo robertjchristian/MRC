@@ -1,4 +1,4 @@
-# MRC 72:
+# MRC 72: Reduce Claim Lock Minimum Time
 
 Proposal to change the "Claim Lock Minimum Time" from 90 Days to 7.
 
