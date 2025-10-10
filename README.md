@@ -10,6 +10,10 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
+## MRC 74:
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426213330711744573
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC74.md
+
 ## MRC 73: Increase of Referral Rewards For Capital
 - Status: https://discord.com/channels/1151741790408429580/1426212965337796699
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC73.md
