@@ -10,6 +10,14 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
+## MRC 87:
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426219646549229638
+- Github: Public list of Builders using the Inference Marketplace
+
+## MRC 86: Public list of Builders using the Inference Marketplace
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426219001389908099
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC86.md
+
 ## MRC 85: MOR20 Fairlaunch Projects List
 - Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426218700247404736
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC85.md
