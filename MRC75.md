@@ -1,4 +1,4 @@
-# MRC 75: Defining Morpheus AGI as Artifically Generated Income
+# MRC 75: Defining Morpheus AGI as Artificially Generated Income
 
 This proposal recommends Morpheus adopt the definition of AGI as "Artificial Generated Income".
 
