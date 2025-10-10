@@ -10,6 +10,10 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
+## MRC 85: MOR20 Fairlaunch Projects List
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426218700247404736
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC85.md
+
 ## MRC 84: Increase MOR Listings Via Staking
 - Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426218364895891681
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC84.md
