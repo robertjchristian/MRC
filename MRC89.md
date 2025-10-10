@@ -1,4 +1,4 @@
-# MRC 89: Public list of chains the MOR token is on.
+# MRC 89: Public list of chains the MOR Token Is On
 
 ## List: Ethereum, Arbitrum, Base.
 
