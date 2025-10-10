@@ -10,6 +10,10 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
+## MRC 81: Morpheus Market Making
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426216763409956864
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC81.md
+
 ## MRC 80: Redesign of Mor.org
 - Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426216173221183508
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC80.md
