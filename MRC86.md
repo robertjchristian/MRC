@@ -1,4 +1,4 @@
-## MRC 86: Public list of Builders using the Inference Marketplace.
+## MRC 86: Public list of Builders using the Inference Marketplace
 
 Proposal to create a public list of Builders using the Morpheus Inference Marketplace / API Gateway.
 
