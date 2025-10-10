@@ -10,6 +10,10 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
+## MRC 84: Increase MOR Listings Via Staking
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426218364895891681
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC84.md
+
 ## MRC 83: Public List of Morpheus Over The Counter Partners
 - Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426218005968453662
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC83.md
