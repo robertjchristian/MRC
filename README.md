@@ -10,6 +10,10 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
+## MRC 78: User Requirements for MVM and Reference Implementation
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426215208791314593
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC78.md
+
 ## MRC 77: Development of MVM & Reference Implementation Agent User Personas
 - Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426214821279432827
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC77.md
