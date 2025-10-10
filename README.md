@@ -10,7 +10,7 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
-## MRC 60: 
+## MRC 60: Agentic Tools Marketplace
 - Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426206952639430869
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC60.md
 
