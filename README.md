@@ -10,6 +10,14 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
+## MRC 68: Morpheus Global Builder Community Expansion
+- Status: https://discord.com/channels/1151741790408429580/1426210385975054407
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC68.md
+
+## MRC 67: Morpheus Branding Kit Development
+- Status: https://discord.com/channels/1151741790408429580/1426210005593620540
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC67.md
+
 ## MRC 66: Zion As The Next Morpheus Era
 - Status: https://discord.com/channels/1151741790408429580/1426209505783447676
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC66.md
