@@ -10,6 +10,18 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 
 ## List of All MRCs:
 
+## MRC 73: Increase of Referral Rewards For Capital
+- Status: https://discord.com/channels/1151741790408429580/1426212965337796699
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC73.md
+
+## MRC 72: Reduce Claim Lock Minimum Time
+- Status: **Implemented** https://discord.com/channels/1151741790408429580/1426212554287349760
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC72.md
+
+## MRC 71: Morpheus Wrapped wMOR Token
+- Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426212068406595585
+- Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC71.md
+
 ## MRC 70: Morpheus Liquid Staked Token
 - Status: **Under Discussion** https://discord.com/channels/1151741790408429580/1426211494038732962
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC70.md
