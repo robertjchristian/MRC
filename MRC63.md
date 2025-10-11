@@ -8,7 +8,8 @@ This can serve as an exmaple for developers of how to integration the Morpheus t
 By having a user facing real world application consuming Morpheus inference, accessing agentic tools, and storinng data the whole community gains a valuable way to test their integrations.
 
 ## FreeAI As The Reference Agent
-The whole point of FreeAI is serve as a Reference Implementation of the Morpheus Infrastructure.
+The whole point of FreeAI is serve as a Morpheus Reference Agent to demo the MVM. Link: https://app.freeai.xyz/
+
 Its a great way to demonstrate the Morpheus Inference Marketplace via the API Gateway and how it can power different Agents starting with those that are already part of the Morpheus builder community.
 
 ## List of Integrations for the Reference Agent:
