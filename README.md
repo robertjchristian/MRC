@@ -118,7 +118,7 @@ See the details on all of the MRIs [here](https://github.com/MorpheusAIs/Docs/bl
 - Status: **Place Holder** https://discord.com/channels/1151741790408429580/1426208466426400769
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC64.md
 
-## MRC 63: Reference Implementation Agent
+## MRC 63: Morpheus Reference Agent
 - Status: **Place Holder** https://discord.com/channels/1151741790408429580/1426208057934872677
 - Github: https://github.com/MorpheusAIs/MRC/blob/main/MRC63.md
 
