@@ -1,4 +1,4 @@
-# MRC 63: Reference Agent 
+# MRC 63: Morpheus Reference Agent (MRA)
 
 ## Summary 
 Morpheus Smart Agents will benefit from the creation of a Reference Implementation of an Agent on Morpheus that utilizes the MVM for its Inference, Agentic Tools and Data Marketplaces.
