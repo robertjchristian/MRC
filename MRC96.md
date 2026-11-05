@@ -1,4 +1,4 @@
-# MRC 92: Subnet Service Registry
+# MRC 96: Subnet Service Registry
 
 - **Author:** Robert Christian (@robertjchristian)
 - **Category:** Service Registry / Router Integration
@@ -9,13 +9,13 @@
 
 ## Abstract
 
-This proposal defines a canonical on-chain registry for services hosted by Morpheus subnets. The registry provides standardized discovery, pricing, and access for APIs and runtimes hosted through the compute framework introduced in MRC 91. It establishes the bridge between subnet-deployed services and Morpheus Core (MCP, Router, Agents), enabling community-built APIs to integrate with consistent accounting, provenance, and governance.
+This proposal defines a canonical on-chain registry for services hosted by Morpheus subnets. The registry provides standardized discovery, pricing, and access for APIs and runtimes hosted through the compute framework introduced in MRC 95. It establishes the bridge between subnet-deployed services and Morpheus Core (MCP, Router, Agents), enabling community-built APIs to integrate with consistent accounting, provenance, and governance.
 
 ---
 
 ## Motivation
 
-Subnets can host workloads via MRC 91, but without a shared registry, integration into MCP tooling and Morpheus Core processes remains manual and fragmented. There is no standardized way to discover, price, monetize, or govern subnet-hosted services, limiting composability and network effects. A canonical registry transforms isolated services into composable network primitives.
+Subnets can host workloads via MRC 95, but without a shared registry, integration into MCP tooling and Morpheus Core processes remains manual and fragmented. There is no standardized way to discover, price, monetize, or govern subnet-hosted services, limiting composability and network effects. A canonical registry transforms isolated services into composable network primitives.
 
 ---
 
@@ -54,7 +54,7 @@ Subnets can host workloads via MRC 91, but without a shared registry, integratio
 
 ## Dependencies
 
-- **MRC 91:** Runtime execution layer (service hosting)
+- **MRC 95:** Runtime execution layer (service hosting)
 - **MRC 58:** Agent Registry (schema alignment for spec_type)
 - **MRC 59:** Subnet Namespace (naming and resolution)
 - **MRC 25:** Router (telemetry and settlement)
@@ -101,7 +101,7 @@ This transforms protocol needs into open market opportunities.
 
 ## Summary
 
-MRC 92 establishes the Subnet Service Registry, linking sovereign compute (MRC 91) to Core orchestration (MCP, Router, Agents). It provides a canonical structure for subnets to publish, price, and monetize services, transforming autonomy into composability. The RFP system enables the network to procure capabilities with verifiable SLAs, creating a two-way marketplace between Core and community.
+MRC 96 establishes the Subnet Service Registry, linking sovereign compute (MRC 95) to Core orchestration (MCP, Router, Agents). It provides a canonical structure for subnets to publish, price, and monetize services, transforming autonomy into composability. The RFP system enables the network to procure capabilities with verifiable SLAs, creating a two-way marketplace between Core and community.
 
 The registry transforms Morpheus from a compute protocol into an open service economy. Subnets don't just run workloads: they advertise, transact, and evolve under shared accounting. MOR becomes the coordination layer for a self-improving network, where every useful service becomes an on-chain primitive others can build on.
 
@@ -111,7 +111,7 @@ The registry transforms Morpheus from a compute protocol into an open service ec
 
 ## Compatibility
 
-MRC 92 composes with existing components without modification:
+MRC 96 composes with existing components without modification:
 - Router (MRC-25): consumes telemetry for reputation and settlement
 - Agent Registry (MRC-58): aligns spec_type enum (MCP/OpenAPI/A2A)
 - Subnet Namespace (MRC-59): binds services to `.mor` identities
@@ -128,7 +128,7 @@ No changes to MRC-25 contracts assumed; hooks delivered as additive modules.
 ## Metadata
 
 ```yaml
-id: MRC92
+id: MRC96
 title: Subnet Service Registry
 authors: ["Robert Christian (@robertjchristian)"]
 category: "Service Registry"
@@ -136,5 +136,5 @@ summary: "Canonical on-chain registry for subnet-hosted services with Router-ver
 status: "Discussion"
 discussion_url: "https://discord.gg/morpheusai"
 contact: "@robertjchristian"
-keywords: ["registry","service","router","namespace","mcp","subnet","mcu","meu","mrc25","mrc54","mrc58","mrc59","mrc91"]
+keywords: ["registry","service","router","namespace","mcp","subnet","mcu","meu","mrc25","mrc54","mrc58","mrc59","mrc95"]
 ```

@@ -1,4 +1,4 @@
-# MRC 91: Token Native Docker Compute
+# MRC 95: Token Native Docker Compute
 
 - **Author:** Robert Christian (@robertjchristian)
 - **Category:** Runtime Infrastructure / Router Extension
@@ -88,7 +88,7 @@ Subnets require a secure and accountable way to run general-purpose compute (API
 
 ## Summary
 
-MRC 91 converts staking entitlement into execution capacity, grounding general-purpose compute inside the Router. It extends MOR's economic model from inference to full application stacks, enabling subnets to run APIs, schedulers, and data jobs with unified on-chain accounting.
+MRC 95 converts staking entitlement into execution capacity, grounding general-purpose compute inside the Router. It extends MOR's economic model from inference to full application stacks, enabling subnets to run APIs, schedulers, and data jobs with unified on-chain accounting.
 
 **Autonomy through protocol.**
 
@@ -107,7 +107,7 @@ This proposal extends MRC-25 (Router) without replacing existing functionality. 
 ## Metadata
 
 ```yaml
-id: MRC91
+id: MRC95
 title: Token Native Docker Compute
 authors: ["Robert Christian (@robertjchristian)"]
 category: "Runtime Infrastructure"
